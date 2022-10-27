@@ -12,7 +12,8 @@ to_ignore = ['.DS_Store']
 papers_paths = os.listdir('papers')
 
 for file in to_ignore:
-    papers_paths.remove(file)
+    if file in papers_paths:
+        papers_paths.remove(file)
 
 citations = []
 
@@ -51,7 +52,11 @@ for path_to_paper in papers_paths:
         )
     time.sleep(60)
 
-with open('citations.csv', 'w', encoding='utf-8') as file:
-    writer = csv.DictWriter(file, fieldnames=citations[0].keys())
-    writer.writeheader()
-    writer.writerows(citations)
+for citation in citations:
+    pprint(citation)
+    input(':')
+
+# with open('citations-1.csv', 'w', encoding='utf-8') as file:
+    # writer = csv.DictWriter(file, fieldnames=citations[0].keys())
+    # writer.writeheader()
+    # writer.writerows(citations)

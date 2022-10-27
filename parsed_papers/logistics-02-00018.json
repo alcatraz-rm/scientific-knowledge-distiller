@@ -1,0 +1,607 @@
+{
+    "abstractText": "Despite the claim that blockchain will revolutionise business and redefine logistics, existing research so far is limited concerning frameworks that categorise blockchain application potentials and their implications. In particular, academic literature in transport and logistics to date has not sufficiently distinguished between blockchain adoption (\u2018what to adopt\u2019) and the identification of the right business opportunity (\u2018where to start\u2019). In response, this paper (1) uses Rogers\u2019 (2003) \u2018attributes of innovation framework\u2019 to identify potential blockchain applications and (2) presents a framework explicating four transformation phases to subsequently categorise the identified areas of application according to their effects on organisational structures and processes. Using academic and practitioner literature, we classify possible applications for adoption and provide a framework to identify blockchain opportunities in the logistics industry, thereby helping managers to systematically assess where to start building organisational capabilities in order to successfully adopt and deploy blockchain-based technology.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Mario Dobrovnik"
+        },
+        {
+            "affiliations": [],
+            "name": "David M. Herold"
+        },
+        {
+            "affiliations": [],
+            "name": "Elmar F\u00fcrst"
+        },
+        {
+            "affiliations": [],
+            "name": "Sebastian Kummer"
+        }
+    ],
+    "id": "SP:e8caadc7c52500cb400f315be5a9172d845d84ff",
+    "references": [
+        {
+            "authors": [
+                "M. Friedlmaier",
+                "A. Tumasjan",
+                "I.M. Welpe"
+            ],
+            "title": "Disrupting industries with blockchain: The industry, venture capital funding, and regional distribution of blockchain ventures",
+            "venue": "In Proceedings of the 51st Hawaii International Conference on System Sciences, Waikoloa Village, HI, USA,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "N. Hackius",
+                "M. Petersen"
+            ],
+            "title": "Blockchain in Logistics and Supply Chain: Trick or Treat",
+            "venue": "In Proceedings of the Hamburg International Conference of Logistics (HICL), Hamburg, Germany,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "O\u2019Marah",
+                "K. Blockchain for supply chain"
+            ],
+            "title": "Enormous potential down the road",
+            "venue": "Forbes. 9 March 2017. Available online: https://www.forbes.com/sites/kevinomarah/2017/03/09/blockchain-for-supply-chainenormous-potential-down-the-road/#6354f6623db5",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Dickson"
+            ],
+            "title": "Blockchain has the potential to revolutionize the supply chain",
+            "venue": "Tech Crunch",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Casey",
+                "P. Wong"
+            ],
+            "title": "Global supply chains are about to get better, thanks to blockchain",
+            "venue": "Harvard Business Review",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R. Beck",
+                "M. Avital",
+                "M. Rossi",
+                "J.B. Thatcher"
+            ],
+            "title": "Blockchain technology in business and information systems research",
+            "venue": "Bus. Inf. Syst. Eng",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Risius",
+                "K. Spohrer"
+            ],
+            "title": "A blockchain research framework",
+            "venue": "Bus. Inf. Syst. Eng",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "F. Glaser"
+            ],
+            "title": "Pervasive decentralisation of digital infrastructures: A framework for blockchain enabled system and use case analysis",
+            "venue": "In Proceedings of the 50th Hawaii International Conference on System Sciences, Waikoloa Village, HI, USA,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "W. Kersten",
+                "M. Seiter",
+                "B. von See",
+                "N. Hackius",
+                "T. Maurer"
+            ],
+            "title": "Trends and Strategies in Logistics and Supply Chain Management\u2014Digital Transformation Opportunities; BVL: Bremen, Germany, 2017",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "E.M. Rogers"
+            ],
+            "title": "Diffusion of Innovations, 5th ed.; Simon and Schuster",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Iansiti",
+                "K.R. Lakhani"
+            ],
+            "title": "The truth about blockchain",
+            "venue": "Harvard Business Review",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "K. Francisco",
+                "D. Swanson"
+            ],
+            "title": "The supply chain has no clothes: Technology adoption of blockchain for supply chain transparency",
+            "venue": "Logistics 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "K. Korpela",
+                "J. Hallikas",
+                "T. Dahlberg"
+            ],
+            "title": "Digital Supply Chain Transformation toward Blockchain Integration",
+            "venue": "In Proceedings of the 50th Hawaii International Conference on System Sciences, Waikoloa Village, HI, USA,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "D. Ellis"
+            ],
+            "title": "Blockchain\u2014The basis of a new paradigm for the supply chain",
+            "venue": "In Supply Chain Thought Leadership; Gattorna Alignment: Sydney,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "G. Par\u00e9",
+                "M.-C. Trudel",
+                "M. Jaana",
+                "S. Kitsiou"
+            ],
+            "title": "Synthesizing information systems knowledge: A typology of literature",
+            "venue": "reviews. Inf. Manag",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "E.M. Rogers"
+            ],
+            "title": "Diffusion of Innovations; Simon and Schuster",
+            "year": 1962
+        },
+        {
+            "authors": [
+                "A. Badzar"
+            ],
+            "title": "Blockchain for Securing Sustainable Transport Contracts and Supply Chain Transparency",
+            "venue": "Master\u2019s Thesis,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "H.M. Kim",
+                "M. Laskowski"
+            ],
+            "title": "Toward an ontology-driven blockchain design for supply-chain provenance",
+            "venue": "Intell. Syst. Account. Financ. Manag. 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Crosby",
+                "P. Pattanayak",
+                "S. Verma",
+                "V. Kalyanaraman"
+            ],
+            "title": "Blockchain technology: Beyond bitcoin",
+            "venue": "Appl. Innov. 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "H.R. Morley"
+            ],
+            "title": "Industry Skeptical of Pace of Logistics Tech Adoption; JOC",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "W. Lehmacher"
+            ],
+            "title": "Why Blockchain should be Global Trade\u2019s",
+            "venue": "Next Port of Call; World Economic Forum: Geneva,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "C.-S. Yang",
+                "T.-C. Lirn"
+            ],
+            "title": "Revisiting the resource-based view on logistics performance in the shipping industry",
+            "venue": "Int. J. Phys. Distrib. Logist. Manag. 2017,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "D.M. Herold",
+                "K.-H. Lee"
+            ],
+            "title": "Carbon management in the logistics and transportation sector: An overview and new research directions",
+            "venue": "Carbon Manag. 2017,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "D.M. Herold"
+            ],
+            "title": "Has Carbon Disclosure Become More Transparent in the Global Logistics Industry? An Investigation of Corporate Carbon Disclosure Strategies",
+            "venue": "Logistics 2018,",
+            "year": 2010
+        },
+        {
+            "authors": [
+                "D.M. Herold",
+                "K.-H. Lee"
+            ],
+            "title": "Carbon disclosure strategies in the global logistics industry: Similarities and differences in carbon measurement and reporting. In Pathways to a Sustainable Economy",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "D.M. Herold"
+            ],
+            "title": "The Influence of Institutional and Stakeholder Pressures on Carbon Disclosure Strategies: An Investigation in the Global Logistics Industry",
+            "venue": "Griffith University: Nathan,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Giancaspro"
+            ],
+            "title": "Is a \u2018smart contract\u2019really a smart idea? Insights from a legal perspective",
+            "venue": "Comput. Law Secur. Rev",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "D.E. O\u2019Leary"
+            ],
+            "title": "Configuring blockchain architectures for transaction information in blockchain consortiums: The case of accounting and supply chain systems",
+            "venue": "Intell. Syst. Account. Finance Manag",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "V. Shermin"
+            ],
+            "title": "Disrupting governance with blockchains and smart contracts",
+            "venue": "Strat. Chang",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "K. Foerstl",
+                "M.C. Schleper",
+                "M. Henke"
+            ],
+            "title": "Purchasing and supply management: From efficiency to effectiveness in an integrated supply chain",
+            "venue": "J. Purch. Supply Manag. 2017,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "H. Lee",
+                "S. Whang"
+            ],
+            "title": "Decentralized multi-echelon supply chains: Incentives and information",
+            "venue": "Manag. Sci",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "B. Fugate",
+                "F. Sahin",
+                "J.T. Mentzer"
+            ],
+            "title": "Supply chain management coordination mechanisms",
+            "venue": "J. Bus. Logist",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "G.P. Cachon"
+            ],
+            "title": "Supply chain coordination with contracts",
+            "venue": "Handb. Oper. Res. Manag. Sci. 2003,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "Nakamoto",
+                "S. Bitcoin"
+            ],
+            "title": "A Peer-to-Peer Electronic Cash System",
+            "venue": "Available online: http://www.Bitcoin.org/ bitcoin.pdf",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "J. Baker",
+                "J. Steiner"
+            ],
+            "title": "Blockchain: The Solution for Transparency in Product Supply Chains; Provenance",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "M. Hancock",
+                "E. Vaizey"
+            ],
+            "title": "Distributed Ledger Technology: Beyond Block Chain; Government Office for Science: London, UK, 2016",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "S. Apte",
+                "N. Petrovsky"
+            ],
+            "title": "Will blockchain technology revolutionize excipient supply chain management",
+            "venue": "J. Excip. Food Chem. 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "A. Chaudhuri",
+                "I. Dukovska-Popovska",
+                "N. Subramanian",
+                "H.K. Chan",
+                "R. Bai"
+            ],
+            "title": "Decision-making in cold chain logistics using data analytics: A literature review",
+            "venue": "Int. J. Logist. Manag",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Manuel",
+                "S. Andrews"
+            ],
+            "title": "Blockchain Technology: Is 2016 the Year of the Blockchain? Thomson Reuters",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "N. Kshetri"
+            ],
+            "title": "Blockchain\u2019s roles in meeting key supply chain management objectives",
+            "venue": "Int. J. Inf. Manag",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R. Di Gregorio",
+                "S.S. Nustad"
+            ],
+            "title": "Blockchain Adoption in the Shipping Industry",
+            "venue": "Master\u2019s Thesis, Copenhagen Business School, Copenhagen,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "S. Huckle",
+                "R. Bhattacharya",
+                "M. White",
+                "N. Beloff"
+            ],
+            "title": "Internet of things, blockchain and shared economy applications",
+            "venue": "Procedia Comput. Sci. 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "G.R. White"
+            ],
+            "title": "Future applications of blockchain in business and management: A delphi study",
+            "venue": "Strat. Chang",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Heutger",
+                "M. Kueckelhaus"
+            ],
+            "title": "Blockchain in Logistics; DHL: Bonn, Germany, 2018",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "N. Popper",
+                "S. Lohr"
+            ],
+            "title": "Blockchain: A better way to track pork chops, bonds, bad peanut butter",
+            "venue": "New York Times,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "T. Groenfeldt"
+            ],
+            "title": "Ibm and maersk apply blockchain to container shipping",
+            "venue": "Forbes. 2017. Available online: https://www.forbes.com/sites/tomgroenfeldt/2017/03/05/ibm-and-maersk-apply-blockchain-tocontainer-shipping/#52414eec3f05 (accessed on",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "I. Allison"
+            ],
+            "title": "Maersk and Ibm Want 10 Million Shipping Containers on the Global Supply Blockchain by Year-End; International Business Times",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "S. Underwood"
+            ],
+            "title": "Blockchain beyond bitcoin",
+            "venue": "Commun. ACM 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Gartner. Gartner"
+            ],
+            "title": "Says 6.4 Billion Connected \u201cThings\u201d will be in Use in 2016, up 30 Percent from 2015",
+            "venue": "Gartner Inc.: Stamford, CT,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "Eastwood",
+                "G. Why Blockchain Is the Future of Iot. Network World. 7 June 2017. Available online"
+            ],
+            "title": "https://www",
+            "venue": "networkworld.com/article/3200029/internet-of-things/why-blockchain-is-the-future-of-iot.html",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "K. Christidis",
+                "M. Devetsikiotis"
+            ],
+            "title": "Blockchains and smart contracts for the internet of things",
+            "venue": "IEEE Access 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Pilkington"
+            ],
+            "title": "Blockchain technology: Principles and applications",
+            "venue": "In Research Handbook on Digital Transformations; Olleros,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Z. Zheng",
+                "S. Xie",
+                "H. Dai",
+                "X. Chen",
+                "H. Wang"
+            ],
+            "title": "An overview of blockchain technology: Architecture, consensus, and future trends",
+            "venue": "In Proceedings of the 2017 IEEE International Congress on Big Data (BigData Congress), Honolulu, HI, USA,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R. Hackett"
+            ],
+            "title": "Walmart and ibm are partnering to put Chinese pork on a blockchain. Forbes",
+            "venue": "Available online: http://fortune.com/2016/10/19/walmart-ibm-blockchain-china-pork/ (accessed on",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "F. Tian"
+            ],
+            "title": "An agri-food supply chain traceability system for china based on rfid & blockchain technology",
+            "venue": "In Proceedings of the 13th International Conference on Service Systems and Service Management (ICSSSM), Kunming, China,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "L. Timothy"
+            ],
+            "title": "Blockchain for Transportation: Where the Future Starts; TMW Systems, Inc.: Cleveland, OH, USA, 2017",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J.S. Nelson",
+                "D. Henderson",
+                "G. Jones",
+                "M. Roon",
+                "M. Zargham",
+                "A. Bulkin",
+                "J. Brukhman",
+                "K. Rowe"
+            ],
+            "title": "A Blockchain-Based Protocol Stack for Global Commerce and Supply Chains. Sweetbrigde",
+            "year": 2017
+        }
+    ],
+    "sections": [
+        {
+            "text": "Keywords: blockchain; supply chain management; logistics; innovation; innovation framework; transformation"
+        },
+        {
+            "heading": "1. Introduction",
+            "text": "The application of blockchain technology in the transport and logistics industry is expected to have far-reaching implications [1,2], with some logistics experts considering blockchain to offer \u2018enormous potential\u2019 [3], to \u201ctransform the supply chain and disrupt the way we produce, market, purchase and consume our goods\u201d [4] and to be a \u201cmuch-needed platform for economic renewal\u201d [5]. At the same time, managers and scholars are drawing parallels between blockchain and a \u2018bubble\u2019 memory regarding the technology\u2019s potential revolutionary impact on industries, remembering that such \u2018bubbles\u2019 often do not live up to their expectations [6,7]. For example, Glaser [8] expresses concerns that blockchain technology can so far be seen as an innovative technology searching for use cases. Despite the great expectations, there is currently little information regarding where and how blockchain technology is effectively applicable and where it can provide significant improvements for business. The nexus between high expectations and the lack of expertise is particularly evident in the logistics industry, where it seems to be the case that many responsible managers have no or little knowledge about blockchain [9] and how blockchain-based applications may change or transform their industry. Apart from the limited (academic) knowledge about potential benefits of blockchain in this sector, managers have even less information about where to start regarding deployment,\nLogistics 2018, 2, 18; doi:10.3390/logistics2030018 www.mdpi.com/journal/logistics\ni.e., to identify the right opportunity. This study, therefore, tries to fill this gap by asking two specific research questions:\n\u2022 What are the potential applications for blockchain technology in logistics? \u2022 Where to start with blockchain technology in logistics?\nTo address the research questions, we draw on established frameworks that have previously helped to structure types of technological innovation and to create meaningful outcomes in the area of business transformation. We adapt these frameworks to the particularities of the blockchain technology in the context of logistics. In particular, we use two different frameworks to form an understanding of the possible blockchain usage scenarios in the logistics industry and their impact on organisational structures and processes. First, by employing Rogers\u2019 [10] \u2018attributes of innovation\u2019 framework, the study characterises the current state of blockchain applications in logistics. The explication of these potential blockchain use cases provides the foundation for the second step: the employment of a framework consisting of four transformation phases [11]. This instrument serves as a means for subsequently categorising the potential applications and thereby allows for revealing suitable business opportunities. The contribution of this study is two-fold: First, we identify potential blockchain benefits and application scenarios for and in the logistics industry based on an innovation framework, thereby not only providing a theoretical foundation for blockchain technology, but also synthesising and highlighting real-world deployment opportunities. Second, by categorising blockchain applications based on multiple transformation phases, the study presents a new approach to justify corresponding technology investments, thereby helping managers to figure out where to start building their organisational capabilities for blockchain today. The remainder of the article is structured as follows: Section 2 provides an overview about blockchain in logistics, followed by Section 3 where the two frameworks are presented. The first framework, Rogers\u2019 (2003) \u2018attributes of innovation\u2019, is used to identify potential areas of application for blockchain technology, while the second framework, distinguishing four transformation phases, has the purpose of categorising innovative solutions according to their implications on organisations. Section 4 applies the \u2018attributes of innovation\u2019 framework and identifies potential blockchain applications according to their innovation type. Next, in Section 5, the framework of the four transformation phases is used to categorise the explicated areas of application. Section 6 discusses the blockchain applications according to their implications on organisational structures and processes, which is followed by Section 7, where conclusions are drawn and potential future research is discussed."
+        },
+        {
+            "heading": "2. Blockchain for and in Logistics",
+            "text": "Apart from the hype about radical change through new blockchain-based sources of control and influence, as well as the promise to dramatically reduce the cost of transactions, blockchain technology realistically has the potential to become the record for a vast majority of transactions [11,12]. In logistics, keeping track of transactions is a core activity. Recording past actions and performance, as well as planned activities, is of utmost importance in this field. In today\u2019s business world, data of a company\u2019s transactions is predominantly privately stored and, in many cases, no master ledger of all activities is available. By contrast, this information is often distributed across internal functions and business units, which makes reconciling transactions a time-consuming and error-prone effort [13]. For example, a typical stock transaction can be executed within microseconds, however, the transfer of the stock can take much longer, simply because the parties involved in the supply chain have no access to each other\u2019s ledgers and cannot automatically verify that the assets are, in fact, owned and can be transferred. Instead, a series of intermediaries act as guarantors of assets as the record of the transaction traverses organisational boundaries and the ledgers are individually updated [11]. In a blockchain system (for an introduction and an overview about the blockchain technology, please see Table 1:\nBlockchain principles), there is no need to employ 3rd-party intermediaries in order to verify or transfer ownership. On the contrary, a blockchain-based system would settle transactions securely and verifiably within seconds as the ledger is replicated in a large number of identical databases.\nAs a consequence, blockchain can potentially help to overcome these frictions in logistics and enhance efficiency in supply chain processes [14]. In particular, employing the technology may facilitate achieving data transparency and access among relevant stakeholders along the value chain, thereby creating a \u2018single source of truth\u2019. Furthermore, blockchain can help to realize cost savings by enabling leaner, more automated, and error-free processes. As such, it does not only add visibility and predictability to logistics operations, but also accelerates the physical flow of goods [2,9]."
+        },
+        {
+            "heading": "3. Analytical Frameworks",
+            "text": "Potential blockchain applications were identified by conducting a scoping review [7,15], which represents a systematic approach towards selecting and analysing literature in this emerging research stream. In line with the protocol of a scoping review, we aimed for a comprehensive overview of prior work relevant to our research questions which included basic criteria for inclusion and exclusion of single papers. To reflect our goal of identifying potential blockchain application in logistics, we focused on scholarly, practitioner, and industry literature and, thus, included not only peer-reviewed studies, but also statements, ideas, and visions of blockchain advocates and opponents in public press and whitepaper collections. Considering this broad spectrum of literature was necessary in order to reflect the emerging and dynamic nature of the underlying research field. In this context, we were particularly interested in finding industry-related use cases, practitioner papers, and empirical analyses of blockchain applications, as well as their implications in logistics and the broader area of supply chain management. In a first step, the identified papers were examined by screening titles and abstracts for elements that either referred to the application, design, use, or implications of blockchain technology in logistics and the broader area of supply chain. All papers matching any of those criteria were included in the review. In order to address typical limitations of systematic literature reviews, we also analysed the citations of selected papers in order to determine whether any of them referenced related research that we had inadvertently overlooked during our initial selection process [7], resulting in 51 academic and non-academic papers to be\ninvestigated. In these papers, potential blockchain applications in logistics have been identified and were subsequently allocated to Rogers [10] \u2018attributes of innovation framework\u2019, as well as to the transformation framework from Iansiti and Lakhani [11]. Although both frameworks have their own characteristics and represent different approaches to studying innovation and technology, they complement each other in terms of identifying innovation types and subsequently categorising them according to their implications on organisations. This will be discussed in the next section."
+        },
+        {
+            "heading": "3.1. Identifying Potential Blockchain Applications: What to Adopt",
+            "text": "One of the most widely used theoretical frameworks in the area of technology adoption and diffusion is the \u2018attributes of innovation framework\u2019 by Rogers [16]. The potential adoption of the blockchain technology can be seen as an innovation as it represents \u201can idea, practice, or object perceived as new by an individual or other unit of adoption\u201d [10], and its diffusion as \u201cthe process by which an innovation is communicated through certain channels over time among the members of a social system\u201d [10]. A common model to explain technology adoption is the \u2018attributes of innovation model\u2019, consisting of five main factors that influence adoption of an innovation: relative advantage, compatibility, complexity, trialability, and observability (see Table 2). The higher the degree of these attributes, the greater the possibility of a high rate of adoption. The degree of complexity represents the only exception to this rule, since a lower level is facilitating adoption while higher complexity hinders a faster adoption of an innovation [1].\nEach part of these five factors represents a distinctive characteristic of an innovation [17]. In order to identify potential blockchain applications in the transportation and logistics industry, we use this framework as a checklist and link potential blockchain applications in logistics to the respective characteristics of innovation."
+        },
+        {
+            "heading": "3.2. Identifying the Opportunity: Where to Start",
+            "text": "While the adoption of potential blockchain application in the logistics industry can be categorised based on [10] attributes of innovation, this provides little insight into the short- and/or long-term implications of specific blockchain applications on companies\u2019 structures and processes. According to Iansiti and Lakhani [11]:\n\u201cBlockchain is not a disruptive technology, which can attack a traditional business model with a lower-cost solution and overtake incumbent firms quickly. Blockchain is a foundational technology: It has the potential to create new foundations for our economic and social systems. But while the impact will be enormous, it will take decades for blockchain to seep into our economic and\nLogistics 2018, 2, 18 5 of 14\nsocial infrastructure. The process of adoption will be gradual and steady, not sudden, as waves of technological and institutional change gain momentum.\u201d\nIn order to provide an understanding, which specific blockchain applications will first gain traction, we adopt the framework of Iansiti and Lakhani [11] to categorise the implications on companies based on two dimensions: novelty and coordination effort (see Figure 1). Novelty represents the degree to which an application is new to the world, i.e., the more novel it is, the more effort will be required to ensure that users understand what problems it solves. The second dimension is the coordination effort, representing the level of ecosystem coordination involved, i.e., the number and diversity of parties that need to work together to produce value with the technology.\nLogistics 2018, 2, x FOR PEER REVIEW 5 of 14 long-term implications of specific blockchain applications on companies\u2019 structures and processes. According to Iansiti and Lakhani [11]:\n\u201cBlockchain is not a disruptive technology, which can attack a traditional business model\nwith a lower-cost solution and overtake incumbent firms quickly. Blockchain is a\nfoundational technology: It has the potential to create new foundations for our economic\nand social systems. But while the impact will be enormous, it will take decades for\nblockchain to seep into our economic and social infrastructure. The process of adoption\nwill be g dual and steady, not sud en, as aves of technological and in titutional change\ngain m mentum.\u201d"
+        },
+        {
+            "heading": "In order to provide an understanding, hich specific blockchain applications ill first gain",
+            "text": "traction, e adopt the fra e ork of Iansiti and Lakhani [11] to categorise the i plications on\nco panies based on two dimensions: novelty and coordination effort (see Figure 1). Novelty\nrepresents the degree to which an application is new to the world, i.e., the more novel it is, the more\neffort will be required to ensure that users understand what problems it solves. The second\ndimension is the coordination effort, representing the level of ecosystem coordination involved, i.e.,\nthe number and diversity of parties that need to work together to produce value with the technology.\nThe framework maps innovations against the two contextual dimensions, dividing them into\nquadrants, where each quadrant represents a stage of technology development. Each category is\nbriefly described below (see [11]):\nSingle use: The first quadrant represents low-novelty and low-coordination applications that\ncreate better, less costly, highly focused solutions. A good example is Bitcoin, as it offers immediate\nvalue to the few people who use it as an alternative payment method.\nLocalisation: The second quadrant comprises innovations that are relatively high in novelty,\nbut that only need a limited number of users to create immediate value, making it relatively easy to\npromote the adoption. If blockchain follows the path network technologies took in business, we can\nexpect innovations to build on top of single-use applications in order to create local private networks\non which multiple organisations are connected through a distributed ledger.\nSubstitution: The third quadrant contains applications that are relatively low in novelty because\nthey build on existing single-use and localised applications, but are high in coordination needs\nbecause they involve broader and increasingly public use cases. These innovations aim at replacing\n. l i i . : i i i .\nThe framework maps innovations against the two contextual dimensions, dividing them into quadrants, where each quadrant represents a stage of technology development. Each category is briefly described below (see [11]): Single use: The first quadrant represents low-novelty and low-coordination applications that create better, less costly, highly focused solutions. A good example is Bitcoin, as it offers immediate value to the few people who use it as an alternative payment method. Localisation: The second quadrant comprises innovations that are relatively high in novelty, but that only need a limited number of users to create immediate value, making it relatively easy to promote the adoption. If blockchain follows the path network technologies took in business, we can expect innovations to build on top of single-use applications in order to create local private networks on which multiple organisations are connected through a distributed ledger. Substitution: The third quadrant contains applications that are relatively low in novelty because they build on existing single-use and localised applications, but are high in coordination needs because they involve broader and increasingly public use cases. These innovations aim at replacing entire ways of doing business. They face high barriers to adoption. Not only do they require more coordination, but the processes they hope to replace may be full-blown and deeply embedded within organizations and institutions. Transformation: Into the last quadrant fall completely novel applications which, if being successful, could change the very nature of economic, social, and political systems. They involve coordinating\nthe activities of many actors and gaining institutional agreement on standards and processes. Their adoption will require major social, legal, and political change. \u2018Smart contracts\u2019 may be the most transformative blockchain application at the moment. These automate payments and the transfer of currency or other assets as negotiated conditions are met. For example, a firm could signal via blockchain that a particular good has been received, or the product could have GPS functionality, which would automatically log a location update that, in turn, triggers a payment. Each quadrant represents a stage of technology development [11]. In order to link potential blockchain applications in the transportation and logistics industry to the different stages, we use this framework and provide an understanding which blockchain innovation falls into which quadrant, thereby helping managers to understand the types of challenges it presents, as well as the level of collaboration and consensus needed."
+        },
+        {
+            "heading": "4. Blockchain Applications in Logistics: What to Adopt",
+            "text": "The following section presents the identified potential blockchain application in logistics based on the diffusion of innovation theory and the associated attributes of innovation framework by Rogers [10], which comprises relative advantage, compatibility, complexity, trialability, and observability (see Table 3)."
+        },
+        {
+            "heading": "4.1. Relative Advantage",
+            "text": "Blockchain applications in logistics are expected to provide a relative advantage based on immutability, transparency, and decentralisation as inherent features of the technology. For instance, Kim and Laskowski [18] and Crosby et al. [19] highlight the access to crucial data since the information is stored across several computers, providing a secure, duplicated, and synchronised ledger, i.e., for digital bills of lading \u201cwhich cannot be secretly altered [ . . . ] because the original is always visible\u201d [20]. For example, digital bills of lading would facilitate to speed up current processes and to reduce cost, as they allow for the elimination or reduction of paperwork associated with today\u2019s business practices [2,21]. Moreover, the ability to trace the origins of goods or to gain more knowledge about them in current logistics system is rather limited [22]. The blockchain provides a secure platform for actors to share and exchange information concerning their goods and products. The ability to share information and to prove to consumers that their products originate from safe and sustainable producers could increase customer loyalty and, hence, profitability. Similarly, the awareness of environmental impact stemming from freight has increased [23\u201325] and logistics providers have introduced sustainable options. However, the various layers of subcontractors involved in typical transport processes make it difficult to verify environmentally friendly standards [26,27]. By having such information on the blockchain, customers would be able to trace the goods back to the first node in the chain of transport, providing insight to the chosen transport route and the carrier choice. More importantly, smart contracts can provide a relative advantage as an adoption might eliminate or at least substantially reduce transaction costs through the recording and auditing functions of the blockchain, as well as the possibility to execute payments automatically [28\u201330]."
+        },
+        {
+            "heading": "4.2. Compatibility",
+            "text": "In terms of compatibility, three blockchain-based innovations seem to promise the most benefits when adopted: verifying goods, reducing paperwork and end-to-end tracking. Global supply chains contain valuable goods and verifying documentation in the form of letters of credit or bills of lading that are moving across time and space, are involving multiple actors and, thus, face the risk of forgery, theft, and alteration [2,21]. Deploying blockchain solutions can, for example, significantly reduce the possibility to manipulate an item as information in the blockchain cannot be changed. Moreover, an adoption of the technology would improve the management of currently cumbersome administrative paperwork, as consignment validation and control currently are time-\nconsuming and include the prospect of human error affecting the process. Furthermore, current practices enable the ability to track the shipment of a package through the company\u2019s internal tracking system on their home page. However, at present, the information is often limited to timestamps of when the package enters the logistics service provider\u2019s handling system [31]. Registering a package on the blockchain would allow for following the movements throughout the supply chain and gain more accurate information regarding the time of delivery."
+        },
+        {
+            "heading": "4.3. Complexity",
+            "text": "The aspect that emerged most in the literature represents complexity related to the understanding of blockchain technology. At this stage, the technology is still considered relatively immature causing the creation of different definitions which are leading to misrepresentations and misunderstandings [42]. So far, it seems that blockchain is complex because \u201ceveryone has their own definition of it and it is a very abstract concept\u201d [43], characterising the lack of a common understanding deriving from blockchain\u2019s complexity. This lack of common understanding may encourage organisations to develop their own blockchain system without being designed for interoperability. In logistics this could, as an example, lead to the construction of platforms for tracking transports specifically designed to match the needs of only a limited number of actors [18]."
+        },
+        {
+            "heading": "4.4. Trialability and Observability",
+            "text": "Findings from current literature show that companies prefer to test blockchain solutions and that various proofs of concept are currently developed in order to showcase the technology\u2019s value propositions. Concerning the observability within blockchain innovation, the immaturity of the technology and the lack of scale make it difficult to assess empirical results, pointing to more research and practical implementation before presenting conclusions. However, based on several proofs of concept, IT vendors are already presenting estimated costs savings deriving from reduced labour and documentation costs [44,45]. According to Di Gregorio and Nustad [43], the cost savings stemming from potential blockchain solutions are relatively easy to hypothesize and quantify by comparing them to reference costs associated with current business processes, in particular cost savings from automation and efficiency gains."
+        },
+        {
+            "heading": "5. Implications of Blockchain Applications: Where to Start",
+            "text": "According to Iansiti and Lakhani [11], the use of blockchain applications will happen in different transformation stages and will require different levels of collaboration and consensus, as well as legislative and regulatory efforts. Moreover, organisational processes, capabilities, and infrastructure have to be established in order to facilitate the implementation of these blockchain applications. This leads to the question of which blockchain application offers the right opportunity to start with. The framework from Iansiti and Lakhani [11] can help to categorise usage scenarios according to their novelty and coordination effort, thereby helping managers to identify suitable business opportunities and corresponding starting points (see Table 4)."
+        },
+        {
+            "heading": "5.1. Single-Use Cases",
+            "text": "For most logistics companies, the best way to start is to pursue single-use cases, which minimise risk because such applications can be based on existing systems and, therefore, involve little coordination with third parties. Achieving proof of concept or building prototypes for single-use cases will help organisations to develop the skills they need for more advanced applications [11]. Another low-risk approach is to use the blockchain internally as a database for applications managing physical and digital assets, recording internal transactions, and verifying identities, where stakeholders learn all the nuances of using blockchain technology in a confined environment [46]. This may also be a useful approach for companies struggling to reconcile multiple internal databases [11] and could provide an opportunity for stakeholders to test the application on a small scale while conducting more detailed assessments when rolling out on a larger scale. At this stage it is imperative to include all relevant stakeholders in the pilot phase in order to ensure that this leads to a joint shift in perspective: from achieving success with an internal solution to onboarding multiple parties and testing the solution across a network, leading to the next step of localisation."
+        },
+        {
+            "heading": "5.2. Localisation",
+            "text": "Localised applications are a natural next step, where logistics companies can tackle specific problems in the area of transactions across boundaries. A good example for localisation is the domain of international container transports and the associated paperwork. For example, a shipment from East Africa to Europe requires stamps and approvals from around 30 people and involves interaction on more than 200 occasions, where bills of lading might also be subject to fraud [47]. The cost associated with this long trail of paperwork and the processing is estimated to make up between 15 and 50 percent of the costs of the physical transport [47,48]. Blockchain may present a solution to these process inefficiencies and has the potential to digitise paper records. In a project initiated by IBM and Maersk, a blockchain solution was developed for connecting the global network of shippers, carriers, ports, and customs authorities. First results of the established platform\u2014where every relevant document or approval is stored on the blockchain, with every partner having full visibility of the container status\u2014indicate success [49]."
+        },
+        {
+            "heading": "5.3. Substitution",
+            "text": "Developing substitute applications requires careful planning, since existing solutions may be difficult to replace. One path to follow could be to focus on replacements that do not require end users to significantly change their behaviour, but present alternatives to expensive or unattractive solutions. To gain traction, substitutes have to deliver functionality as good as, or better than, the traditional solutions, making it easier for the ecosystem to absorb and adopt them. An example for substitution can be found in the diamond industry, where blockchain can replace paper certificates which can get lost or tampered with [11], thus proving whether a diamond\u2019s certificate is genuine, fake, or if the diamond was stolen. A real-world example to track a diamond within the supply chain is presented by the start-up Everledger, which blockchain application records 40 data points that uniquely identify a diamond and makes this information publicly accessible, so that potential clients can make sure it is not a \u2018blood diamond\u2019 [50]."
+        },
+        {
+            "heading": "5.4. Transformation",
+            "text": "Transformative applications are most powerful when tied to a new business model in which the logic of value creation and capture departs from existing approaches [46]. However, these applications are \u201cmany years away\u201d [11], but have the potential to unlock future growth for companies. A transformative blockchain business model involves scaling the solution which, in turn, requires a transformation of business processes and their acceptance across internal parties and multiple stakeholders, including business partners and sometimes even competitors. The Internet of Things\n(IoT) may completely change entire industries, including the logistics sector. A Gartner report estimates there will be over 20 billion connected things by 2020 [51]. However, the current Internet architecture with its server infrastructure might not be able to handle such a number of devices and data, as single servers represent a single point of failure and raise data security concerns [52]. As blockchain is considered to be a solution for connecting and managing IoT devices reliably [53,54], logistics might be one of the most promising fields of application given the large amount of possible IoT objects in a logistics environment (such as vehicles, shipments, etc.) [55]. For example, Walmart aims at improving last mile deliveries through coordinating delivery drones using the blockchain [56]. Moreover, IoT devices connected to the blockchain could also make use of cryptocurrencies, enabling them to interact autonomously with other parties through smart contracts in order to pay fees and duties by themselves, e.g., for priority access to restricted air corridors [53]."
+        },
+        {
+            "heading": "6. Discussion",
+            "text": "Although blockchain has the potential to deliver substantial savings by improving operational efficiency and by significantly reducing transaction costs, considerable challenges must be overcome before the technology can achieve mainstream adoption in the logistics industry. According to Heutger and Kueckelhaus [46], gaining industry adoption is of utmost importance and will determine the success of blockchain technology in this field. In particular, in the logistics industry, which is characterised by a supply chain environment with multiple stakeholders, being able to accurately and safely exchange information is a key advantage. The technology itself, as well as using actors, benefit the most when their community contains many relevant members [12,13]. In fact, a powerful network effect is only triggered when stakeholder adoption reaches a critical mass, turning blockchain into an accepted industry practice. However, it will be difficult at first to obtain stakeholder commitment because of differing levels of digital readiness and the initial requirement to recognize the mutual benefits of blockchain-based collaboration [30]. In addition, the development of standards and governance models for blockchain in the logistics industry as well as the associated cost to migrate from legacy systems to new technological environments are additional challenges. The logistics domain will not be characterised by just a single blockchain-based system, but by multiple private blockchains due to the competitive nature of business. This underpins the requirement for standards and mutual agreements, particularly addressing the interoperability between blockchains [46]. We identified several potential blockchain applications that could increase efficiency or even have a transformative impact on the logistics and transportation sector. One potential application for a single-use case is the effective tracking of the performance of individual vehicles within the company\u2019s fleet [39]. Blockchain can help to authenticate information on the past performance of a vehicle and its maintenance history, thereby not only being responsible for warranty, but finding its way into the mainstream of truck parts supply chain transactions [53,57]. For localisation, an example is origin tracking for food items. Currently, if a retailer faces a foodborne disease outbreak, retailers have a difficult time figuring out where the bad ingredients came from and to which stores they were delivered [14,58], thus, it may take even weeks to track down the source of the contamination [47]. A trial project by IBM and Walmart enhanced the retailer\u2019s existing information system based on barcodes and auto ID technology with a transparent, superordinate ledger to track the movements of food items [2,56]. Similar to the efforts made by IBM and Maersk, the results demonstrate success, with Walmart being able to track domestic movements (e.g., pork from small Chinese farms to Chinese stores) and international movements (e.g., products from Latin America to stores in the United States) on the basis of data available to network members including information such as the farm origin, batch numbers, factory and processing data, expiration dates, and shipping details [47]. Moreover, blockchain could help to track freight effectively by providing authenticated secure data [59], as current systems recording the data, reliant on EDIs and APIs, may be subject to manipulation.\nWe also identified several applications which can act as substitutes for existing systems and processes. One example is \u2018vehicle to vehicle (V2V)\u2019 communication, which allows for multiple freight vehicles to form a platoon and communicate, thereby improving fuel efficiency and safety [39]. Blockchain may also help to make load boards more reliable as shippers could post timestamped loads that are recorded and verified, which not only helps to maintain data integrity, but may also eliminate the need for a middleman in the form of a broker [59]. The most powerful transformation, however, may happen through the joint application of the IoT, AI, and smart contracts in the logistics domain. A good example are sensitive pharmaceutical shipments, where around nine per cent experience temperature deviations during transport [39]. With the use of blockchain-enabled IoT sensors, SkyCell, a Swiss company, created air freight containers for refrigerated biopharmaceuticals that monitor temperature, humidity, and location, thereby reducing the temperature deviation to less than 0.1 per cent. Significant impact will likely stem from large-scale deployment of smart contracts, which could transform existing logistics systems and eliminate the need for paper-based administrative procedures, and might serve as a means for cutting costs and virtually removing the possibility for human error [53]. In particular, such smart contracts can facilitate to improve the efficiency of settlements between parties throughout the supply chain. A study by Nelson et al. [60] calculated that transport companies wait an average of 42 days for a payment, while the use of blockchain and smart contracts reduces borrowing costs by 75 per cent, increase liquidity by 25 per cent, thereby increasing the profit margin in the supply chain by 2 to 4 per cent. Apart from these benefits, it is also worth highlighting a potential risk of blockchain applications in the context of the logistics industry. The assumption behind all potential applications is a more or less perfect technological adaption, but logistics managers have often witnessed technological failures first hand. For example, Electronic Data Exchange (EDI) has been the standard system in the logistics industry for over 30 years, but the industry still lacks an overall EDI standard, instead, many different technologies are used [7]. However, the identification of these potential applications and the subsequent categorisation of usage scenarios according to their novelty and coordination effort can help managers to identify suitable business opportunities and corresponding starting points."
+        },
+        {
+            "heading": "7. Conclusions",
+            "text": "The aim of this study was to identify potential blockchain applications in logistics and to present and discuss real-world examples. This assessment was performed by employing a framework determining the implications of their deployment on organisational structures and processes. In a first step, the attributes of innovation framework was used to identify possible use cases according to five innovation characteristics: relative advantage, compatibility, complexity, trialability, and observability, thereby providing a theoretical foundation in order to classify relevant applications. The second step presented an additional framework that distinguished four different transformation phases and discussed real-world blockchain applications and their implications on structures and processes in logistics. The framework will help logistics managers to better understand the different dimensions of blockchain challenges, such as the desirable or even necessary levels of collaboration and consensus as well as legislative and regulatory obstacles. In conclusion, on the one hand, the combined use of the applied frameworks serves as a guideline for academics conducting research within innovation adoption and decision-making fields. Furthermore, linking the four transformation phases to real-world blockchain applications in logistics allowed for a valuable contribution to the blockchain literature in logistics, which currently lacks both theoretical and conceptual frameworks, as well as methodological work. The results of the study need to be carefully interpreted with respect to their limitations. Due to the emergent nature of the topic, the reviewed literature consisted of scholarly, practitioner, and industry papers. Therefore, parts of the literature are based on non-peer-reviewed articles. However, by taking\na more inclusive approach, our study not only contributes to the ongoing discussion about blockchain applications and their transformative power in logistics, but also acknowledges the bigger picture by referring to established frameworks that will allow future researchers to further examine blockchain technology investigations for, in, and beyond logistics.\nAuthor Contributions: M.D. and D.M.H. contributed to the manuscript by providing the initial concept development, data collection and analysis. M.D., D.M.H., E.F. and S.K. further developed the conceptual framework and the analysis approach. All authors participated in writing and editing the paper.\nFunding: This research received no external funding.\nConflicts of Interest: The authors declare no conflict of interest."
+        }
+    ],
+    "title": "Blockchain for and in Logistics: What to Adopt and Where to Start",
+    "year": 2018
+}

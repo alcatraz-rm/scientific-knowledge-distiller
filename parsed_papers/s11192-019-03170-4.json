@@ -1,0 +1,1152 @@
+{
+    "abstractText": "The blockchain is a technology which accumulates and compiles data into a chain of multiple blocks. Many blockchain researchers are adopting it in multiple areas. However, there are still lacks bibliometric reports exhibiting the exploration of an in-depth research pattern in blockchain. This paper aims to address that gap by analyzing the widespread of blockchain research activities conducted thus far. This study analyzed the Scopus database by using bibliometric analysis in a pool of more than 1000 articles that were published between 2013 and 2018. In particular, this paper discusses various aspects of blockchain research conducted by researchers globally. This study also focuses on the utilization of blockchain and its consensus algorithms. This bibliometric analysis discovered the following: (1) Blockchain able to solve security issues in internet of things (IoT) and would be an increasing trend in the future; (2) Researchers begin to adopt blockchain in healthcare area; (3) The most active country in blockchain publication is United States, followed by China and Germany; (4) Switzerland and Singapore are two small size countries that published few publications, however receives many citations. (5) Research collaborations between countries increased the research publications except for Canada, India, and Brazil. (6) Keyword analysis revealed that researchers are adopting blockchain to solve problems in multiple categories of the data research area (data privacy, digital storage, the security of data, big data, and distributed database). This study also highlighted the utilization and consensus of the algorithm in blockchain research.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Mohd Faizal Ab Razak"
+        }
+    ],
+    "id": "SP:059d91878ab77218967ec511187a0af975eebac8",
+    "references": [
+        {
+            "authors": [
+                "S.G. 511\u2013521. Alonso",
+                "J. Arambarri",
+                "M. L\u00f3pez-Coronado",
+                "I. de la Torre D\u00edez"
+            ],
+            "title": "Proposing new blockchain",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "Geneva",
+                "A. Switzerland. Arfaoui",
+                "K. Ibrahimi",
+                "F. Trabelsi"
+            ],
+            "title": "Biochar application to soil under arid conditions: A biblio",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. 7-018-4166-2. Aria",
+                "C. Cuccurullo"
+            ],
+            "title": "bibliometrix: An R-tool for comprehensive science mapping analysis",
+            "venue": "Journal of Informetrics,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "G.E. Authors"
+            ],
+            "title": "Go Ethereum\u201d (Online)",
+            "venue": "Available at https ://geth.ether eum.org. Accessed July 25, 2018.",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Bartoletti",
+                "B. Bellomy",
+                "L. Pompianu"
+            ],
+            "title": "A journey into bitcoin metadata",
+            "venue": "Journal of Grid Computing,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "Bitmain"
+            ],
+            "title": "Bitmain\u201d (Online)",
+            "venue": "Available at https ://shop.bitma in.com/?lang=en. Accessed May 06, 2019.",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J. Brito",
+                "G.P. Nassis",
+                "A.T. Seabra",
+                "P. Figueiredo"
+            ],
+            "title": "Top 50 most-cited articles in medicine and science in football",
+            "venue": "BMJ Open Sport and Exercise Medicine,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Cao",
+                "G. Zhang",
+                "P. Liu",
+                "X. Zhang",
+                "F. Neri"
+            ],
+            "title": "Cloud-assisted secure eHealth systems for tamper-proofing EHR via blockchain",
+            "venue": "Information Sciences,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "R. Casado-Vara",
+                "P. Chamoso",
+                "F. De la Prieta",
+                "J. Prieto",
+                "J.M. Corchado"
+            ],
+            "title": "Non-linear adaptive closed-loop control system for improved efficiency in IoT-blockchain management",
+            "venue": "Information Fusion,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Castro",
+                "B. Liskov"
+            ],
+            "title": "Practical byzantine fault tolerance. In Proceedings of the third symposium on operating systems design and implementation",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "H.C. Chen",
+                "B. Irawan",
+                "Z.Y. Shae"
+            ],
+            "title": "A cooperative evaluation approach based on blockchain technology for IoT application",
+            "venue": "Advances in Intelligent Systems and Computing,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "L. Chen",
+                "W.K. Lee",
+                "C.C. Chang",
+                "K.K.R. Choo",
+                "N. Zhang"
+            ],
+            "title": "Blockchain based searchable encryption for electronic health record sharing",
+            "venue": "Future Generation Computer Systems,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Cherian",
+                "M. Chatterjee"
+            ],
+            "title": "Survey of security threats in iot and emerging countermeasures",
+            "venue": "In 6th international symposium on security in computing and communications, (SSCC),",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "D. Christian"
+            ],
+            "title": "Decker Christian (Online)",
+            "venue": "Available at https ://disco .ethz.ch/alumn i/cdeck er. Accessed May 15, 2019.",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A. Cirillo",
+                "D. Mussolino",
+                "S. Saggese",
+                "F. Sarto"
+            ],
+            "title": "Looking at the IPO from the \u2018top floor\u2019: A literature review",
+            "venue": "Journal of Management and Governance,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A.C. da Silva Filho",
+                "N.D. Maganini",
+                "E.F. de Almeida"
+            ],
+            "title": "Multifractal analysis of bitcoin market",
+            "venue": "Physica A: Statistical Mechanics and its Applications,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. De Angelis",
+                "L. Aniello",
+                "R. Baldoni",
+                "F. Lombardi",
+                "A. Margheri",
+                "V. Sassone"
+            ],
+            "title": "PBFT vs proof-of-authority: Applying the CAP theorem to permissioned blockchain",
+            "venue": "In CEUR workshop proceedings (pp. 1\u201311)",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "T. Dehdarirad",
+                "A. Villarroya",
+                "M. Barrios"
+            ],
+            "title": "Research on women in science and higher education: A bibliometric analysis",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "R. Dennis",
+                "J.P. Disso"
+            ],
+            "title": "An analysis into the scalability of bitcoin and ethereum",
+            "venue": "Advances in Intelligent Systems and Computing,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "D. Docampo",
+                "L. Cram"
+            ],
+            "title": "Highly cited researchers: A moving",
+            "venue": "target. Scientometrics,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "G. Drosatos",
+                "E. Kaldoudi"
+            ],
+            "title": "Blockchain applications in the Biomedical Domain: A Scoping Review",
+            "venue": "Computational and Structural Biotechnology Journal,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A.D. Dwivedi",
+                "G. Srivastava",
+                "S. Dhar",
+                "R. Singh"
+            ],
+            "title": "A decentralized privacy-preserving healthcare blockchain for IoT",
+            "venue": "Sensors (Switzerland),",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "B. Elango",
+                "P. Rajendran"
+            ],
+            "title": "Authorship trends and collaboration pattern in the marine sciences literature : A scientometric study",
+            "venue": "International Journal of Information Dissemination and Technology,",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "M. Essaid",
+                "H.W. Kim",
+                "W. Guil Park",
+                "K.Y. Lee",
+                "S. Jin Park",
+                "H.T. Ju"
+            ],
+            "title": "Network usage of bitcoin full node. In 9th international conference on information and communication technology convergence: Ict convergence powered by smart intelligence (ICTC) (pp. 1286\u20131291)",
+            "venue": "Maison Glad JejuJeju Island, South Korea",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "V. Estrada-Galinanes",
+                "K. Wac"
+            ],
+            "title": "Visions and challenges in managing and preserving data to measure quality of life. In IEEE 3rd international workshops on foundations and applications of self systems (FASW) (pp. 92\u201399)",
+            "venue": "Torento, Italy",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "B. Fahimnia",
+                "J. Sarkis",
+                "H. Davarzani"
+            ],
+            "title": "Green supply chain management: A review and bibliometric analysis",
+            "venue": "International Journal of Production Economics,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A. Feizollah",
+                "N.B. Anuar",
+                "R. Salleh",
+                "A.W.A. Wahab"
+            ],
+            "title": "A review on feature selection in mobile malware detection",
+            "venue": "Digital Investigation,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A. Firdaus",
+                "N.B. Anuar"
+            ],
+            "title": "Root-exploit malware detection using static analysis and machine learning",
+            "venue": "In Proceedings of the fourth international conference on computer science & computational mathematics (ICCSCM",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A. Firdaus",
+                "N.B. Anuar",
+                "A. Karim",
+                "M.F.A. Razak"
+            ],
+            "title": "Discovering optimal features using static analysis and genetic search based method for android malware detection",
+            "venue": "Frontiers of Information Technology & Electronic Engineering,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "A. Firdaus",
+                "N.B. Anuar",
+                "M.F.A. Razak",
+                "I.A.T. Hashem",
+                "S. Bachok",
+                "A.K. Sangaiah"
+            ],
+            "title": "Root exploit detection and features optimization: Mobile device and blockchain based medical data management",
+            "venue": "Journal of Medical Systems",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Firdaus",
+                "N.B. Anuar",
+                "M.F.A. Razak",
+                "A.K. Sangaiah"
+            ],
+            "title": "Bio-inspired computational paradigm for feature investigation and malware detection: Interactive analytics",
+            "venue": "Multimedia Tools and Applications,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J. Garcia-Alfaro",
+                "G. Navarro-Arribas",
+                "H. Hartenstein",
+                "J. Herrera-Joancomart\u00ed"
+            ],
+            "title": "Data privacy management, cryptocurrencies and blockchain technology",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Ghosh",
+                "M. Richardson",
+                "B. Ford",
+                "R. Jansen"
+            ],
+            "title": "A TorPath to TorCoin: Proof-of-bandwidth altcoins for compensating relays. In 7th workshop on hot topics in privacy enhancing technologies (HotPETs",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "W. Gl\u00e4nzel",
+                "A. Schubert"
+            ],
+            "title": "Analyzing scientific networks through co-authorship",
+            "venue": "Handbook of Quantitative Science and Technology Research (pp",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "G. Governatori",
+                "F. Idelberger",
+                "Z. Milosevic",
+                "R. Riveret",
+                "G. Sartor",
+                "X. Xu"
+            ],
+            "title": "On legal contracts, imperative and declarative smart contracts, and blockchain systems",
+            "venue": "Artificial Intelligence and Law,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "V. Gramoli"
+            ],
+            "title": "From blockchain consensus back to byzantine consensus",
+            "venue": "Future Generation Computer Systems (pp. 1\u201310).",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "K.N. Griggs",
+                "O. Ossipova",
+                "C.P. Kohlios",
+                "A.N. Baccarini",
+                "E.A. Howson",
+                "T. Hayajneh"
+            ],
+            "title": "Healthcare blockchain system using smart contracts for secure automated remote patient monitoring",
+            "venue": "Journal of Medical Systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "C. Gusson"
+            ],
+            "title": "Venezuelan Cryptocurrency Petro receives the Satoshi Nakamoto Prize in Russia (Online)",
+            "venue": "Available at https",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R. Han",
+                "V. Gramoli",
+                "H. Xu"
+            ],
+            "title": "Evaluating blockchains for IoT",
+            "venue": "IFIP international conference on new technologies, mobility and security, NTMS (pp. 1\u20135)",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Hazim",
+                "N.B. Anuar",
+                "M.F. Ab Razak",
+                "N.A. Abdullah"
+            ],
+            "title": "Detecting opinion spams through supervised boosting approach",
+            "venue": "PLoS ONE,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "H. Hellani",
+                "A.E. Samhat",
+                "M. Chamoun",
+                "H. El Ghor",
+                "A. Serhrouchni"
+            ],
+            "title": "On blockchain technology: Overview of bitcoin and future insights",
+            "venue": "In IEEE international multidisciplinary conference on engineering technology (IMCET) (pp. 1\u20138)",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Hughes",
+                "A. Park",
+                "J. Kietzmann",
+                "C. Archer-Brown"
+            ],
+            "title": "Beyond bitcoin: What blockchain and distributed ledger technologies mean for firms",
+            "venue": "Business Horizons,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "Z. Husain",
+                "A. Suliman",
+                "K. Salah",
+                "M. Abououf",
+                "M. Alblooshi"
+            ],
+            "title": "Monetization of IoT data using smart contracts",
+            "venue": "IET Networks,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "O. Iefremova",
+                "K. Wais",
+                "M. Kozak"
+            ],
+            "title": "Biographical articles in scientific literature: Analysis of articles indexed in web of science",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "H.S. Jennath",
+                "S. Adarsh",
+                "V.S. Anoop"
+            ],
+            "title": "Distributed IoT and applications: A Survey",
+            "venue": "In Studies in computational intelligence (Vol",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "P.L. Juh\u00e1sz",
+                "J. St\u00e9ger",
+                "D. Kondor",
+                "G. Vattay"
+            ],
+            "title": "A Bayesian approach to identify bitcoin users",
+            "venue": "PLoS ONE,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "Kim",
+                "S.-K",
+                "U.-M",
+                "Huh",
+                "J.-H"
+            ],
+            "title": "A study on improvement of blockchain application to overcome vulnerability of IoT multiplatform",
+            "venue": "security. Energies,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J Koskinen"
+            ],
+            "title": "How to use bibliometric methods in evaluation of scientific research? An example from finnish schizophrenia research",
+            "venue": "Nordic Journal of Psychiatry,",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "N. Kshetri"
+            ],
+            "title": "Blockchain\u2019s roles in strengthening cybersecurity and protecting privacy",
+            "venue": "Telecommunications Policy, 41(10), 1027\u20131038.",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "S. Kumar"
+            ],
+            "title": "Collaboration in research productivity in oil seed research institutes of India",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "T.T. Kuo",
+                "H.E. Kim",
+                "L. Ohno-Machado"
+            ],
+            "title": "Blockchain distributed ledger technologies for biomedical and health care applications",
+            "venue": "Journal of the American Medical Informatics Association,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "A. Lamiri",
+                "K. Gueraoui",
+                "G. Zeggwagh"
+            ],
+            "title": "Bitcoin difficulty, a security feature. In 2nd international conference on Europe Middle East and North Africa information systems and technologies to support learning (EMENA-ISTL), (Vol",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "D.H. Lee"
+            ],
+            "title": "Predictive power of conference-related factors on citation rates of conference papers",
+            "venue": "Scientometrics, 118(1), 281\u2013304.",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "X. Li",
+                "P. Jiang",
+                "T. Chen",
+                "X. Luo",
+                "Q. Wen"
+            ],
+            "title": "A survey on the security of blockchain systems",
+            "venue": "Future Generation Computer Systems,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J. Li",
+                "Y. Shang"
+            ],
+            "title": "Research on a suitable blockchain for IoT platform. In Research on a suitable blockchain for IoT platform",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "Y. Liu",
+                "Q. Lu",
+                "X. Xu",
+                "L. Zhu",
+                "H. Yao"
+            ],
+            "title": "Applying design patterns in smart contracts a case study on a blockchain-based traceability. Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics",
+            "venue": "(Vol. 10974,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "J. Liu",
+                "J. Tian",
+                "X. Kong",
+                "I. Lee",
+                "F. Xia"
+            ],
+            "title": "Two decades of information systems: A bibliometric review",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Liu",
+                "X.L. Yu",
+                "S. Chen",
+                "X. Xu",
+                "L. Zhu"
+            ],
+            "title": "Blockchain based data integrity service framework for IoT data",
+            "venue": "In 24th IEEE international conference on web services,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "H. Liu",
+                "Y. Zhang",
+                "T. Yang"
+            ],
+            "title": "Blockchain-enabled security in electric vehicles cloud and edge computing",
+            "venue": "IEEE Network,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S.K. Lo",
+                "X. Xu",
+                "Y.K. Chiam",
+                "Q. Lu"
+            ],
+            "title": "Evaluating suitability of applying blockchain",
+            "venue": "In Proceedings of the IEEE international conference on engineering of complex computer systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "D.E. Loomes",
+                "S.V. Van Zanten"
+            ],
+            "title": "Bibliometrics of the top 100 clinical articles in digestive disease",
+            "venue": "Gastroenterology,",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "J. Lopes",
+                "J.L. Pereira"
+            ],
+            "title": "Blockchain technologies: Opportunities in Healthcare",
+            "venue": "In International conference on digital science (DSIC),",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "D.D.F. Maesa",
+                "A. Marino",
+                "L. Ricci"
+            ],
+            "title": "The graph structure of bitcoin. In 7th international conference on complex networks and their applications, (COMPLEX NETWORKS) (pp. 547\u2013558)",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "I. Makhdoom",
+                "M. Abolhasan",
+                "H. Abbas",
+                "W. Ni"
+            ],
+            "title": "Blockchain\u2019s adoption in IoT: The challenges, and a way forward",
+            "venue": "Journal of Network and Computer Applications,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "G. Mao",
+                "H. Zou",
+                "G. Chen",
+                "H. Du",
+                "J. Zuo"
+            ],
+            "title": "Past, current and future of biomass energy research: A bibliometric analysis",
+            "venue": "Renewable and Sustainable Energy Reviews,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A. Margheri"
+            ],
+            "title": "Differentially private data sharing in a cloud federation with blockchain",
+            "venue": "IEEE Cloud Computing, 5(December), 69\u201379.",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M.L. Marsal-Llacuna"
+            ],
+            "title": "Future living framework: Is blockchain the next enabling network",
+            "venue": "Technological Forecasting and Social Change,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "F. Memoria"
+            ],
+            "title": "No one knows what Venezuela\u2019s Petro Cryptocurrency is Actually Worth (Online)",
+            "venue": "Available at https",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J Mendling"
+            ],
+            "title": "Blockchains for business process management\u2014challenges and opportunities",
+            "venue": "ACM Transaction on Management Information Systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Miau",
+                "J.M. Yang"
+            ],
+            "title": "Bibliometrics-based evaluation of the Blockchain research trend: 2008\u2013 March 2017",
+            "venue": "Technology Analysis & Strategic Management,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "D. Mingxiao",
+                "M. Xiaofeng",
+                "Z. Zhe",
+                "W. Xiangwei",
+                "C. Qijun"
+            ],
+            "title": "A review on consensus algorithm of blockchain",
+            "venue": "In IEEE international conference on systems, man, and cybernetics (SMC) (pp. 2567\u20132572)",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "Z. Mustaffa",
+                "M.H. Sulaiman",
+                "M.N.M. Kahar"
+            ],
+            "title": "LS-SVM hyper-parameters optimization based on GWO algorithm for time series forecasting",
+            "venue": "In 4th international conference on software engineering and computer systems, ICSECS 2015 (pp",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "Z. Mustaffa",
+                "Y. Yusof"
+            ],
+            "title": "A hybridization of enhanced artificial bee colony-least squares support vector machines for price forecasting",
+            "venue": "Journal of Computer Science,",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "M. Oakleaf"
+            ],
+            "title": "Writing information literacy assessment plans: A guide to best practice",
+            "venue": "Communications in Information Literacy, 3(2), 80\u201390.",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "F. Parino",
+                "M.G. Beir\u00f3",
+                "L. Gauvin"
+            ],
+            "title": "Analysis of the bitcoin blockchain: Socio-economic factors behind the adoption",
+            "venue": "EPJ Data Science,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R.N. Pass"
+            ],
+            "title": "Rafael N",
+            "venue": "Pass (Online). Available at https",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "R. Pass",
+                "E. Shi"
+            ],
+            "title": "Thunderella: Blockchains with optimistic instant confirmation",
+            "venue": "Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics) (Vol. 10821, pp. 3\u201333).",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "D. Puthal",
+                "S.P. Mohanty"
+            ],
+            "title": "Proof of authentication: IoT-friendly blockchains",
+            "venue": "IEEE Potentials,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "K.H. Rahouma"
+            ],
+            "title": "Reviewing and applying security services with non-english letter coding to secure software applications in light of software trade-offs",
+            "venue": "International Journal of Software Engineering and Computer Systems (IJSECS), 3(February), 71\u201387.",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M.F.A. Razak",
+                "N.B. Anuar",
+                "F. Othman",
+                "A. Firdaus",
+                "F. Afifi",
+                "R. Salleh"
+            ],
+            "title": "Bio-inspired for features optimization and malware detection",
+            "venue": "Arabian Journal for Science and Engineering,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M.F.A. Razak",
+                "N.B. Anuar",
+                "R. Salleh",
+                "A. Firdaus"
+            ],
+            "title": "The rise of \u2018\u201cmalware\u201d\u2019: Bibliometric analysis of malware study",
+            "venue": "Journal of Network and Computer Applications,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M.F.A. Razak",
+                "N.B. Anuar",
+                "R. Salleh",
+                "A. Firdaus",
+                "M. Faiz",
+                "H.S. Alamri"
+            ],
+            "title": "Less give more\u2019: Evaluate and zoning android applications",
+            "venue": "Measurement: Journal of the International Measurement Confederation,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A. Reyna",
+                "C. Mart\u00edn",
+                "J. Chen",
+                "E. Soler",
+                "M. D\u00edaz"
+            ],
+            "title": "On blockchain and its integration with IoT. Challenges and opportunities",
+            "venue": "Future Generation Computer Systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "P. Rimba",
+                "A. Binh",
+                "T. Ingo",
+                "M. Staples",
+                "A. Ponomarev",
+                "X. Xu"
+            ],
+            "title": "Quantifying the cost of distrust : Comparing blockchain and cloud services for business process execution",
+            "venue": "Information Systems Frontiers,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "P. Rimba",
+                "A.B. Tran",
+                "I. Weber",
+                "M. Staples",
+                "A. Ponomarev",
+                "X. Xu"
+            ],
+            "title": "Comparing blockchain and cloud services for business process execution",
+            "venue": "In IEEE international conference on software architecture (ICSA) (pp. 257\u2013260). Sweden",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "V. Roman",
+                "J. Ordieres-Mere"
+            ],
+            "title": "IoT blockchain technologies for smart sensors based on raspberry pi",
+            "venue": "In IEEE 11th international conference on service-oriented computing and applications IoT (pp. 216\u2013220)",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J.H. Ryu",
+                "P.K. Sharma",
+                "J.H. Jo",
+                "J.H. Park"
+            ],
+            "title": "A blockchain-based decentralized efficient investigation framework for IoT digital forensics",
+            "venue": "The Journal of Supercomputing,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "S. Smith"
+            ],
+            "title": "IoT connections to grow 140% to hit 50 billion by 2022, as edge computing accelerates RoI (Online)",
+            "venue": "Available at https",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "H. Tahaei",
+                "R. Salleh",
+                "M.F.A. Razak",
+                "K. Ko",
+                "N.B. Anuar"
+            ],
+            "title": "Cost effective network flow measurement for software defined networks: A distributed controller scenario",
+            "venue": "IEEE Access,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Vazirani",
+                "O. O\u2019Donoghue",
+                "D. Brindley",
+                "E. Meinert"
+            ],
+            "title": "Implementing blockchains for efficient healthcare: A systematic review",
+            "venue": "Journal of Medical Internet Research,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Wang",
+                "S. Chen",
+                "L. Yao",
+                "B. Liu",
+                "X. Xu",
+                "L. Zhu"
+            ],
+            "title": "A simulation approach for studying behavior and quality of blockchain networks. Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics",
+            "venue": "(Vol. 10974,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "I. Weber",
+                "X. Xu",
+                "R. Riveret",
+                "G. Governatori",
+                "A. Ponomarev",
+                "J. Mendling"
+            ],
+            "title": "Untrusted business process monitoring and execution using blockchain. Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "X. Wu",
+                "X. Chen",
+                "F.B. Zhan",
+                "S. Hong"
+            ],
+            "title": "Global research trends in landslides during 1991\u20132014",
+            "venue": "A bibliometric analysis. Landslides,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "D. Wu",
+                "X.D. Liu",
+                "X.B. Yan",
+                "R. Peng",
+                "G. Li"
+            ],
+            "title": "Equilibrium analysis of bitcoin block withholding attack: A generalized model",
+            "venue": "Reliability Engineering and System Safety,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "X. Xu",
+                "C. Pautasso",
+                "V. Gramoli",
+                "A. Ponomarev",
+                "S. Chen"
+            ],
+            "title": "The blockchain as a software connector",
+            "venue": "In 13th working IEEE/IFIP conference on software architecture (WICSA) (pp. 182\u2013191)",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R. Yuan",
+                "Y. Bin Xia",
+                "H.B. Chen",
+                "B.Y. Zang",
+                "J. Xie"
+            ],
+            "title": "ShadowEth: Private smart contract on public blockchain",
+            "venue": "Journal of Computer Science and Technology,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Yuan",
+                "H. Jin",
+                "D. Zou",
+                "L.T. Yang",
+                "S. Yu"
+            ],
+            "title": "A practical byzantine based approach for faulty switch tolerance in software-defined networks",
+            "venue": "IEEE Transactions on Network and Service Management,",
+            "year": 2018
+        }
+    ],
+    "sections": [
+        {
+            "text": "Vol.:(0123456789)\n1 3\nKeywords Blockchain\u00a0\u00b7 Bibliometric\u00a0\u00b7 Consensus algorithm\u00a0\u00b7 Security\u00a0\u00b7 Review"
+        },
+        {
+            "heading": "Introduction",
+            "text": "Computer security is an important element in today\u2019s environment. It is used to impede and overcome an imminent threat which has the potential to cause serious damages to the computer system or mobile devices. Security practitioners, for instance, conduct various investigations to optimizing the best features (Feizollah et\u00a0al. 2015; Mustaffa et\u00a0al. 2015;\n* Mohd Faizal Ab Razak faizalrazak@ump.edu.my\nExtended author information available on the last page of the article\n1 3\nMustaffa and Yusof 2012; Rahouma 2017; Hazim et\u00a0al. 2018) for predictions in machine learning. Furthermore, they also conduct malware analysis as a measure to combat malware threats by using either static or dynamic analysis (Hazim et\u00a0al. 2018; Firdaus et\u00a0al. 2017a, b; Adewole et\u00a0al. 2017; Razak et\u00a0al. 2017, 2019; Firdaus and Anuar 2015; Ahmed and Zolkipli 2016). Other than malware, money in digital form or \u2018Bitcoin\u2019 also require higher demand for security, which demands a unique framework.\nThe \u2018Bitcoin\u2019 is a digital form of money (cryptocurrency) (Bartoletti et\u00a0 al. 2019; Wu et\u00a0 al. 2019; Hellani et\u00a0 al. 2018). It has similar functions as fiat money and is used as a medium to purchase materials, foods, and services (Hughes et\u00a0al. 2019; Lamiri et\u00a0al. 2019; Maesa et\u00a0al. 2019). It adopts a technology called blockchain which offers transparency and decentralization (Essaid et\u00a0al. 2018; Juh\u00e1sz et\u00a0al. 2018; Parino et\u00a0al. 2018; da Silva Filho et\u00a0 al. 2018; Dennis and Disso 2019). This technology excludes third-party involvement (reduce transaction costs), has faster transaction time and a distributed ledger. Various studies have utilized the blockchain technology in various fields of investigation such as security (Yuan et\u00a0al. 2018), vehicles (Liu et\u00a0al. 2018) and healthcare (Griggs et\u00a0al. 2018), (Firdaus et\u00a0al. 2018). These studies have exhibited the critical need to conduct exploration activities in this domain. Nevertheless, these studies gave lack of attention to the study of bibliometrics. A significant number of articles have focussed on this research area but they mainly report on blockchain research impacts and trends only.\nData science and the library domain utilize bibliometrics as a method to identify the author\u2019s activities, publication trends, and country relations. It is also used to acquire the information of progress, growth as well as the insight of specific knowledge. This method contributes to a better association of organization data assets, which are fundamental for its successful and effective utilization of data management (Dehdarirad et\u00a0 al. 2015; Wu et\u00a0al. 2015; Tahaei et\u00a0al. 2018). There are numerous advantages of using bibliometrics: (1) Authors are able to validate the centrality of their publication, exploration, and research; (2) Institutions are able to assess the publication and measure the quality and impact; (3) Scientists are able to foresee future research undertakings and the critical effect of research on specific domains; and (4) Analysts are able to assess the developing body of knowledge.\nIn demonstrating the evolution of the blockchain domain, this paper offers a comprehensive assessment of the blockchain research practices which have been published in the Scopus database, from 2013 to 2018. The methodology involves an appraisal of the blockchain studies, topics, publication patterns, and utilization. To fulfill the aim of this paper, the following research questions are articulated: (1) What is the trend of publication in blockchain study throughout the world? and (2) What information is uncovered from this trend and what are the future directions of blockchain study?\nThe scope of this bibliometric analysis of blockchain studies are as follows:\n(a) The bibliometric assessment of blockchain involves 1119 studies which were extracted from the Scopus database which comprises all types of papers including ISI-indexed. (b) The experiment assesses blockchain research efforts that are recorded in various types of documents. (c) This study adopts the dominance factor (DF) rankings to reveal author dominance in publication; it uses the keywords used by the authors in blockchain research and it also concentrates on the citations of the authors involved. (d) This study further investigates blockchain research among countries throughout the world by evaluating the total number of articles, publications, and citations made within each country.\n(e) This study emphasizes two useful network connections: (1) Country collaboration network; (2) Keyword co-occurrences network; and (3) Affiliation collaboration network. These networks are to explore the connection between the countries, keywords, and affiliations. (f) Finally, this study addresses the inclination of blockchain research by summarizing the blockchain research efforts conducted thus far and then using these to forecast possible future realizations.\nThe remainder of this paper is organized as follows: Sect.\u00a02 surveys the related bibliometric studies. Section\u00a03 provides the methodology used. Section\u00a04 displays the findings of this paper. Section\u00a05 provides the utilization of blockchain insights by addressing the advantages. Section\u00a06 highlights the consensus algorithms involved in blockchain technology and Sect.\u00a07 concludes the paper."
+        },
+        {
+            "heading": "Related works",
+            "text": "Bibliometrics is a current technique which is used to estimate, analyze and visualize the construction of scientific fields (Koskinen et\u00a0 al. 2008). It is engaged for the purpose of describing the expansion of the desired field in a particular area of knowledge (Liu et\u00a0al. 2018). It entails making an evaluation of publications such as the impact factor, citations, publishers, and countries of publication (Lee 2019; Docampo and Cram 2019; Iefremova et\u00a0al. 2018). Various studies have applied this method. Table\u00a01 tabulates the list of studies which adopted the bibliometric analysis as an approach which is similar to our paper. Nevertheless, there are some differences between previous studies and our paper.\nTable\u00a02 illustrates the differences that exist between this paper and previous studies. As shown in the table, (Miau and Yang 2018) engaged Lotka\u2019s law to measure author productivity. In contrast, the current paper applies to another method called the dominance factor (DF). In addition, this paper also uses two types of network connections\u2014country collaboration, keyword co-occurrences, and affiliation collaboration, which have been omitted by previous studies, as a measure to enhance our bibliometric analysis. To fortify the value of this paper, we further include a review of the consensus algorithm (Mingxiao et\u00a0al. 2017), presenting multiple types of algorithms such as proof of work (PoW), proof of stake (PoS), byzantine fault tolerance (BFT), proof of elapsed time (PoET), proof of bandwidth (PoB), and proof of authentication (PoAh). To augment the findings of this paper,\n1 3\nwe further include additional types of algorithms such as delegated proof of stake (DPoS), leased proof of stake (LPoS), practical byzantine fault tolerance (pBFT), delegated byzantine fault tolerance (DBFT), and proof of authority (PoA). The section below describes how the bibliometric method was applied."
+        },
+        {
+            "heading": "Methodology",
+            "text": "The methodology of this study comprises four phases:(1) Search, (2) Result, (3) Findings, and (4) Analysis. Figure\u00a01 visualizes the methodology and its stages.\nThe process of this study begins by using \u201cblockchain\u201d as the main keyword in the Scopus database. This is to discover the blockchain research direction and the interest of that database. This study preferred the Scopus database because it contains both the ISI and Scopus indexed rank papers (Oakleaf 2009). Following this, the result phase was able to retrieve a total number of 1119 articles that were published between 2013 and 2018. We concentrated our analysis from 2013 onwards because the blockchain was introduced during that year. In the subsequent phase of our study, we focused on uncovering the information. We focused on various aspects which include looking at various document\n1 3\ntypes, subject area, authors, and countries. The last phase of our study performed the bibliometric analysis and retrieved the results.\nThis paper adopted the open source statistical application called R to construct the blockchain bibliometric analysis. Specifically, we installed and used a package known as bibliometrix (Aria and Cuccurullo 2017) which is available in R desktop application. Multiple studies have used this bibliometrix tool for their specific research fields (Cirillo et\u00a0al. 2018; Brito et\u00a0al. 2018; Arfaoui et\u00a0al. 2019). In author\u2019s knowledge, this paper is the first study that adopt this tool to run bibliometric analysis in blockchain. The tool is able to provides many blockchain findings and based on it, we made visualizations and analyzed further in the section below."
+        },
+        {
+            "heading": "Bibliometric analysis",
+            "text": "The bibliometric analysis of our study is divided into four categories which also carry multiple sub-categories. The main categories are; (1) Types of documents, (2) Subject area, (3) Authors and (4) Countries. The sub-categories developed under Authors were: (a)\nAuthor\u2019s dominance, (b) Author\u2019s keywords, (c) Total citations, (d) Country\u2019s total number of articles, (e) Country\u2019s publications, (f) Country\u2019s total citations, and (g) Collaboration networks. These findings are important because they generate the bibliometric information which can be used to unravel high impact research that contributes to generating new knowledge for blockchain. Table\u00a0 3 tabulates the information extracted from the Scopus database, with 1119 articles published between 2013 and 2018 (May 2018).\nAs can be seen, these articles were written in 475 sources consisting of journals, books, conferences, and proceedings. The keywords noted in the articles were twice the number of the articles, totaling 2024. The number of authors identified from the articles totaled 2227, with 145 single authors in each article and the rest (2082) were articles with multiple authors in each article. From the year 2013 to May 2018, results showed the number of articles increasing rapidly. It is expected that by the end of 2018, this number would increase even more steadily. To display visually, Fig.\u00a02 depicts Table\u00a03 information in a graph form. The next section elaborates on the sources of the articles and their numbers."
+        },
+        {
+            "heading": "Type of\u00a0documents",
+            "text": "Figure\u00a03 provides information to analyze the different types of documents. It elaborates on the outcomes according to placements. Here, it can be seen that conference papers carried a total of 564 documents, noted to be the highest ranking among the others, followed by Journal Articles which carried a total of 315 documents and Conference Reviews, carrying a total of 101 documents."
+        },
+        {
+            "heading": "2017 663",
+            "text": ""
+        },
+        {
+            "heading": "2016 165",
+            "text": ""
+        },
+        {
+            "heading": "2015 37",
+            "text": ""
+        },
+        {
+            "heading": "2014 8",
+            "text": "1 3\nFigure\u00a03 envisages a trend that blockchain researchers were most interested in publishing conference papers which are in the form of proceedings, rather than an accumulation of papers that were published in websites or in book form. The reason is, these conference papers were submitted before the conference event, and in this manner, the papers become available to all the participants. This situation allows the readers to understand the idea behind the papers and where possible, to submit their feedback after the presentation of the papers when the conference ends. Based on this, the authors of the conference papers are then able to improve and revise their research ideas based\non significant feedback. Therefore, conference publications before the conference are much more useful as it allows the readers to read multiple times and to understand the research in detail. Following this, the blockchain authors are able to retrieve the audience feedbacks much better during the conference event. Table\u00a04 and Fig.\u00a04 show that lecture note is the first place chosen by blockchain researchers to publish their conference papers.\nLecture notes appear to be the platform where many of the authors submitted their conferences papers. The table tabulates that it received many publications in conferences when compared to journal articles. As such, (Garcia-Alfaro et\u00a0al. 2017) refers to the Lecture Notes in Computer Science that is contained in the proceedings of the First International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2017) held in Oslo, Norway, on September 14, 2017, in conjunction with the 22nd European Symposium on Research in Computer Security (ESORICS) 2017. This lecture notes contained many ideas and novel contributions that involved blockchain technologies.\nOther than lecture notes, we able to see the occurrences of all the sources (lecture notes, ACM and Ceur workshop) maintain except IEEE Access. The figure above depicts that IEEE Access would mark an increasing value of occurrences in blockchain publication in the future. On the other hand, the subsequent section highlights the subject area that attracted the researchers to adopt the blockchain technology.\n1 3\nFi g.\n4\nSo ur\nce g\nro w\nth\n1 3"
+        },
+        {
+            "heading": "Subject area",
+            "text": "Figure\u00a05 depicts the subject area that involved blockchain research. As expected, the subject area that received more attention from researchers was Computer Science, which marked 828 involvements in blockchain technology. Additionally, the combination of the two basic Computer Science subjects, Distributed Computing and Cryptography had also triggered the blockchain innovation.\nDistributed computing in computer science area is one of the advantages of the blockchain. Before blockchain existed, the torrent site had utilized this decentralization element which seemed to be functioning admirably well. The setback of the torrent site, however, was that participants were practicing unethical acts. They were posting useless information and uploading malicious applications, without being detected or punished. Moreover, participants in the torrent site who also acted as peers in the network received no incentives when volunteering their own computer in the torrent network. To overcome this disadvantage, the creator of Bitcoin (Satoshi Nakamoto) then developed his own application which was able to limit the power of the participants in the network, but at the same time providing them with incentives by validating the Bitcoin transaction. This led Cryptography to be one of the elements in the blockchain approach.\nCryptography is a practice which secures people\u2019s private messages\u2014only the sender and receiver are able to read the messages. To further strengthen the security, two validations are required: (1) Encryption and (2) Decryption. These two methods involve different techniques and encryption keys. A third party is unable to read the private messages transmitted between the sender and receiver without the proper key to decode the encryption. Modern cryptography was developed to incorporate numerous sub-fields in computer science, for instance, data integrity, user authentication, e-commerce, and banking (Kshetri 2017).\nThe subsequent subject areas of interest are engineering, mathematics, and business and finally, management and accounting. As Bitcoin and blockchain are closely related to economy and mathematics, it was inevitable that business, engineering, and mathematics\n1 3\nwould also become the subject areas most involved. This is because engineering and mathematics are subjects that are also included in computer science while business, management, and accounting are excluded. The normal economy would require monetary policies, taxation, voting, fiscal policies, and common security defense. Similarly, Bitcoin also involves inflation (monetary policy), fees (taxation), upgrades (voting), block size (fiscal policy) and network security (common security defense). Bitcoin provides transparency and freedom by employing the decentralization method and this coincides with the centralization that normal banks apply currently.\nIt is worth to mention that medical and healthcare subject areas are presently combined with blockchain and are receiving keen attention from researchers. The researchers give their trust and believe in the potential of blockchain in involving human lives. Six subject areas related to this include medicine, biochemistry, genetics, and molecular biology, pharmacology, toxicology and pharmaceutical, psychology, immunology and microbiology, health professions and nursing (Griggs et\u00a0al. 2018; Kuo et\u00a0al. 2017).\nIn viewing the healthcare area, one of the problems arise in healthcare is the regulation of the medical data. Currently, the clinical data of patients are digitized but the regulations and rules protecting the data from being shared with others have not been emphasized. Before the invention of the blockchain, the staff of healthcare provider keyed-in the clinical data manually and if regulations allow this such data to be shared, the system may offer inadequate information and there may be errors derived from various manual key-in information. This may derive serious outcomes. However, with the blockchain technology, it able to overcomes this disadvantage. The trusted and unalterable data noted in the distributed ledger provided by blockchain enables the accumulation of information encompassing payers, healthcare providers, and pharmaceutical manufacturers to be gathered together within a safe and trusted environment. The blockchain approach offers hospitals these advantages, thereby saving mankind in the near future. Meanwhile, the subsequent section discusses the author\u2019s information who contribute knowledge in blockchain research."
+        },
+        {
+            "heading": "Authors",
+            "text": "This section identifies the authors who were most active in blockchain research. To accomplish this, thi section employed the author\u2019s keywords, dominance ranking factor, and total citations. Table\u00a05 lists the authors with their published articles in the top 20 rankings.\nAs seen in the table, Xiwei Xu (Governatori et\u00a0al. 2018; Han et\u00a0al. 2018; Lo et\u00a0al. 2018; Liu et\u00a0al. 2017, 2018; Xu et\u00a0al. 2016; Weber et\u00a0al. 2016; Wang et\u00a0al. 2018) leads in publication followed by Ingo M. Weber (Rimba et\u00a0al. 2017, 2018; Mendling et\u00a0al. 2018a, b, Vladimiro Sassone (De Angelis et\u00a0 al. 2018; Aniello et\u00a0 al. 2017; Margheri 2018), and Shi Elaine (Pass and Shi 2018). These are the top four authors with eleven, nine and eight articles respectively. The remainder of the authors were observed to be publishing eight, seven or six articles in total. Table\u00a05 shows that these authors were involved in publications, either as the main or corresponding author. It is noted that some authors were published as the main author only while others were publishing as co-authors. Therefore, there is a need to measure the contribution power of each author. This is done by investigating the dominance ranking factor through a number of factors in the following section.\n1 3"
+        },
+        {
+            "heading": "Authors\u2019 dominance ranking",
+            "text": "The dominance factor (DF) is a ratio which measures the fraction of multi-authored articles in which an author acts as the first author (Kumar and Kumar 2008). There were many bibliometric studies which utilized the DF factor in their studies (Wu et\u00a0al. 2015; Elango and Rajendran 2012). The DF ranking calculates the author\u2019s dominance in producing articles. The DF factor is the proportion of a number of multi-authored papers where the author as first author (Nmf) is divided by the total number of multi-authored papers of the author (Nmt). In the single author case, this is omitted due to its constant value of \u201cone\u201d for single authored papers. The mathematical equation for the DF factor is shown as:\nTable\u00a06 tabulates the list of authors in the top 20 DF ranking and this is led by Pass and Shi (2017). who appeared as a first author in six articles and as one of the many authors in seven multi-authored articles. This ranking continues with Decker C. and Chen L. The result implies that Pass, Decker, and Chen dominate in their research team because they appeared as the first author in all their papers (seven for Pass, six for Decker and seven for Chen, respectively). The tables also indicate that Xu X was ranked 15. Although Xu X appeared to be the top among the eleven multi-authored articles, the DF calculates that Xu X appeared as the first author only in two articles. Figure\u00a06 depicts the outcome into a figure form.\nDF = Nmf\nNmt\n1 3\nFigure\u00a06 illustrates the dominance factor (DF) followed by the value of first authored, multi authored and rank by articles. As the figure above illustrates, Pass Rafael and Decker Christian are the top domination in DF ranking. A deeper search indicates that Pass Rafael is an Associate Professor in the Massachusetts Institute of Technology (MIT) that has research interests in cryptography and security (Pass 2019). This provides a clear significant proof because cryptography is a backbone of bitcoin digital currency which adopt blockchain mechanism. While Decker Christian is a researcher from ETH Zurich who supervises many students and published multiple publications in bitcoin area (Christian\n2019). This evidence shows that their similar interest in bitcoin able to contribute to publishing papers and boost the bitcoin advantages at the same time.\nThe subsequent section discusses the keywords that authors used in their research articles inclusive of the specific method used and the features or areas displayed in the keywords that are related to the blockchain."
+        },
+        {
+            "heading": "Author\u2019s keywords",
+            "text": "This section provides the information between keywords and blockchain. The researchers inserted multiple keywords and related it with blockchain in their research articles. This is an important part as we need to analyze the research trends, identify the research gaps in the blockchain area and identify the field of research whereas they have their interest to combined with blockchain.\nTable\u00a07 above tabulates the total number of the author\u2019s keywords in the top 20 rankings. The ranking is led by blockchain, followed by Bitcoin, privacy and smart contract. The smart contract is similar in purpose to a normal contract in the physical world. It differs in the sense that it is a digital form and is stored within the blockchain system. In particular, a smart contract is a contract that is coded in a software form which stores rules for arranging the terms of an understanding, consequently, confirming satisfaction followed by the execution of the concurred terms. The fundamental thought of the smart contract is to remove the third party while setting up business relations. This means that the involved parties construct the agreement and deal directly with each other.\n1 3\nAs an illustration, consider the case of a crowdfunding situation where the project team shares its products and the smart contract gathers money from the supporters. Once the project achieves the objective, the smart contract will distribute the money to the project team according to the agreement of the contract. Alternatively, other than the project development, the smart contract is also capable of another type of agreement such as the sharing of jobs/tasks, gathering of gifts, collecting of donation and setting of goals. In short, people are able to use the smart contract to receive funds until it reaches its goal. However, if the project gets fully funded before the deadline, the money that is raised will automatically go to the product team. If the project fails, the money will automatically go back to the supporters. Besides the smart contract, another area that attracts researchers to combine research with blockchain is the internet of things (IoT).\nIn Table\u00a0 7, the keywords that involved multiple small devices (comprising a smartphone, smartwatch, or sensor nodes) is the internet of things (IoT). There are two similar keywords in the IoT, both of which refer to the same subject. One tabulates the \u201cInternet of Things\u201d as 47 and the other tabulates the \u201cIoT\u201d as 32, which is 79 in total. This value of 79 is higher than the keywords of the privacy and smart contract. This outcome proves that the IoT receives more tremendous attention from researchers. Currently, the number of sensor nodes in the IoT keeps on increasing; it is continuously used in vehicles, factory, buildings and modern infrastructure. According to research drawn from the Juniper network, the total amount of IoT sensors and devices is expected to increase to 50 billion by 2022 (Smith 2018). Hence, researchers need to find an initiative to secure the IoT network while at the same time validate the transactional processes (Reyna et\u00a0al. 2018; Makhdoom et\u00a0al. 2019). These reasons attract blockchain researchers to conduct experiments and research efforts to combine IoT with blockchain technologies (Reyna et\u00a0al. 2018; Li et\u00a0al. 2017).\nOn the other hand, Fig.\u00a07 visualizes the word TreeMap of keywords that received blockchain interest from researchers. It shows that electronic money, bitcoin, cryptography are the blockchain common keywords. However, other parts of interesting keywords are the internet of things (IoT), information management, health care, and artificial intelligence. This proves that researchers are focused to combine with these fields with blockchain. This indication verifies that the blockchain has potential in securing the IoT sensors, manage well in information management, save lives in the health care field and predict categories or classes with artificial intelligence.\nMoreover, in the data point of view, the researchers are depending more faith in the data research area and adopted it with blockchain. The figure above visualizes multiple keywords that relate with data, for instances; (1) data privacy, (2) digital storage, (3) security of data, (4) big data, and (5) distributed the database. This visualization shows that blockchain analyst discover the enormous potential of blockchain in securing important data from privacy and big data.\n1 3\nOther than TreeMap, in order to relate these multiple combination keywords in-depth, following figures visualizes a topic dendrogram of keywords with blockchain.\nFigure\u00a08 shows a topic dendrogram to observe the hierarchical relationship between keywords that generates from hierarchical clustering. It is used to allocate the objects to clusters by measuring the height of the different objects that joined together in branches. Initially, human in the dendrogram diagram represent the researchers. Other than human, the remainder objects are the keywords in blockchain articles.\nThe diagram shows that IoT areas are the different branch with cryptocurrency areas (miners, electronic money, bitcoin and proof of work). It highlights that the researchers separate both areas in their research field and shows that they excluding digital moneyinterest with IoT fields. Instead, they combined IoT with big data, trusted third parties and security. Similar to artificial intelligence (AI), they divide AI from cryptocurrency area and combined it with economic and computer science instead.\nMeanwhile, in a security point of view, most of the branches are related to security. The branches that relate with security is IoT, identification systems, peer to peer, and supply chains. This verifies that researchers trust the blockchain and included it in their research to protect IoT data sensors, the identity of people and data of supply information from being attacked. In order to summarize overall keywords, the following figure provides wordcloud to identify the most keywords that attract researches globally.\nFigure\u00a0 9 depicts a wordcloud of keywords included in blockchain article research papers. The general terms in blockchain are highlighted in the figure, such as electronic money, bitcoin, cryptography, and peer to peer networks. However, apart from these general terms, some of the attracted keywords are the internet of things, data privacy, network security, and distributed computer systems. The cloud depicts that blockchain have high potential in these research fields and would mark an increment in amount of blockhain publication in the near future.\nFurthermore, the word cloud highlights three areas that involved security, such as; (1) network security, (2) security commerce, and (3) security of data. It highlights that security practitioners have trust in blockchain and adopted it in their respected research field. It also proves that blockchain has the important requirements to protect data from a malicious attempt by the attackers. The cloud also highlights the data area twice; (1) security of data and (2) big data. With the help of blockchain technology, security practitioners adopt blockchain with security research field to protect the data from being breach and access by hackers. Other than word cloud, in the interest to discover which countries have an interest in the keywords, the following section provides the multi-field plot between affiliations and keywords in the top 20 ranking.\nFigure\u00a0 10 depicts that certain universities only adopt blockchain on certain areas only, depends on their expertise. For instances, Zhejiang University is focused on digital currency and cryptocurrency. Meanwhile, the universities that have an interest in smart contract are the University of Edinburgh, University of Cagliari, University of College London, Beihang University and Peking University. While in IoT research, the universities that conducted it with blockchain are most from the Asia (Keio University, University of South Wales, Beijing University, Tsinghua University, and Nanyang Technological University), except the University of Houston and University of New South Wales. The two universities from the United States (Cornell University and the University of Houston) are focused on cryptography, network security, security of data, data privacy and smart contracts.\nThis plot indicates that universities from Asia have more interest to adopt blockchain in IoT research, compare to universities from the United States that have more concern in the\n1 3\nFi g.\n8\nTo pi\nc de\nnd ro\ngr am\n1 3\nsecurity field. On the other hand, articles related to blockchain that receive attention and were cited by other researchers are discussed below."
+        },
+        {
+            "heading": "Total citations",
+            "text": "Table\u00a08 tabulates the sources or journals that received a number of citation from other articles, placed within the top 20 rankings. This information noticed certain articles received many citations in certain years. This shows the trend that certain articles are worth referring to in specific years only. Many authors also combined blockchain technology with other areas, hence they only cited papers that were related to their research activities.\nFrom another perspective, it was noted that certain blockchain papers were cited steadily in each year, such as ranking number one and ten (both published in 2013 and received citations in similar number in each year). This indicates that the papers are competent and they also cover the main information of the blockchain and are suitable for other researchers in their references.\n1 3\nTa bl\ne 8\nA rti\ncl es\nth at\nre ce\niv e\nci ta\ntio ns\nR an\nki ng\nn o.\nA ut\nho rs\nw ith\nth e\nso ur\nce (t\nop 2\n0) To\nta l c\nita tio\nn (n\num be r of c ita tio n re ce iv ed\n) To\nta l c\nita tio n pe r y ea r\n1 D\nec ke\nr C ; W\nat te\nnh of\ner R\n, ( 20\n13 ),\nPe er\n-to -P\nee r C\nom pu\ntin g\n(P 2P\n), IE\nEE T\nhi rte\nen th\nIn te\nrn at\nio na\nl C on\nfe re\nnc e\n92 18 .4 2 Zy sk in d G ; N at ha n O ; P en tla nd A s, (2 01 5) , P ro ce ed in gs o f I EE E Se cu rit y an d Pr iv ac y W or ks ho ps 88 29\n.3 3\n3 C\nhr ist\nid is\nK ; D\nev et\nsi ki\not is\nM , (\n20 16\n), IE\nEE A\ncc es\ns 81\n40 .5\n4 Ey\nal I;\nS ire\nr E g,\n(2 01\n4) , L\nec tu\nre N\not es\nin C\nom pu\nte r S\nci en\nce 79\n19 .7 5 5 K os ba A ; M ill er A ; S hi E ; W en Z ; P ap am an th ou C ,(2 01 6) , P ro ce ed in gs : 2 01 2 IE EE S ym po si um o n Se cu rit y an d Pr iv ac y 60 30 6 Lu u L; C hu D -H ; O lic ke l H ; S ax en a P; H ob or A , ( 20 16 ), A C M C on fe re nc e\u00a0 on \u00a0C om pu te r\u00a0a nd C om m un ic at io ns Se cu rit y 43 21 .5 7 Y ua n Y; W an g FY, (2 01 6) , Z id on gh ua X ue ba o/ A ct a\u00a0 A ut om at ic a\u00a0 Si ni ca 43 21 .5 8 Ts ch or sc h F; S ch eu er m an n B ,(2 01 6) , I EE E C om m un ic at io ns S ur ve ys & T ut or ia ls 41 20 .5 9 G er va is A ; K ar am e G o; W \u00fcs t K ; G ly ka nt zi s V ; R itz do rf H ; C ap ku n S, (2 01 6) , A C M C on fe re nc e\u00a0 on \u00a0C om pu te r\u00a0a nd C om m un ic at io ns S ec ur ity 40 20 10 M os er M ; B oh m e R ; B re uk er D , ( 20 13 ), eC rim e Re se ar ch er s S um m it 40 8 11 Y liH uu m o J; K o D ;C ho i S ; P ar k S; S m ol an de r K , ( 20 16 ), Pl os O ne 32 16 12 Zh an g N ; W an g Y; K an g C ; C he ng J; H e D ,(2 01 6) , Z ho ng gu o D ia nj i G on gc he ng X ue ba o/ Pr oc ee di ng s o f t he C hi ne se S oc ie ty o f E le ct ric al E ng in ee rin g 29 14 .5 13 Sp ag nu ol o M ; M ag gi F ;Z an er o S, (2 01 4) , L ec tu re N ot es in C om pu te r S ci en ce 29 7. 25 14 A za ria A ; E kb la w A ; V ie ira T ; L ip pm an A ,(2 01 6) , P ro ce ed in gs o f I nt er na tio na l C on fe re nc e\u00a0 on \u00a0O pe n\u00a0 an d\u00a0 B ig D at a 28 14 15 X u X ; P au ta ss o C ; Z hu L ; G ra m ol i V ; P on om ar ev A ; T ra n A b; C he n S, (2 01 6) , T he W or ki ng IE EE /IF IP C on fe re nc e on S of tw ar e A rc hi te ct ur e (W IC SA ) 27 13 .5 16 V uk ol ic M ,(2 01 6) , L ec tu re N ot es in C om pu te r S ci en ce 26 13 17 C ro m an K ; D ec ke r C ; E ya l I ; G en ce r A e; Ju el s A ; K os ba A ; M ill er A ; S ax en a P; S hi E ; S ire r E g; S on g D ; W at te nh of er R ,(2 01 6) , L ec tu re N ot es in C om pu te r S ci en ce 23 11 .5 18 Ia ns iti M ; L ak ha ni K r,( 20 17 ), H ar va rd B us in es s R ev ie w 21 21 19 Pi lk in gt on M , ( 20 16 ), Re se ar ch H an db oo k on D ig ita l T ra ns fo rm at io ns 21 10 .5 20 D ec ke r C ; W at te nh of er R , ( 20 15 ), Le ct ur e N ot es in C om pu te r S ci en ce 21 7\n1 3\nIn noting the highest source from the table, it is obvious that lecture notes in computer science (LNCS) comprise five jotted papers. This proves that this source provides most of the blockchain information, therefore, many authors refer to lecture notes in their citations. This source chooses and publishes the latest research in multiple areas of computer science in distinguished conferences, proceedings, and series. The LNCS has two subseries: (1) Lecture notes in artificial intelligence (LNAI); and (2) Lecture notes in bioinformatics (LNBI). The LNCS is indexed in digital bibliography & library project (DBLP), ISI conference proceedings citation index, Scopus, engineering index (EI), and Google scholar.\nBesides the LNCS, there are more conference sources in the top 20 papers in the table. The top three were the IEEE Thirteenth International Conference, the IEEE Security and Privacy Workshops, and the IEEE Access. Most of these conferences require minimal time in their review process and they also require a low number of pages. In comparison, the journal review procedure of a worthy journal takes a longer time. This explains why many authors prefer to record their original ideas and research method in conferences before they continue to update their conference paper information to the journal level. By practicing this, they are able to preserve their novelty in their research, making other researchers unable to duplicate their ideas in blockchain technology. Besides conferences, there are also researchers who were interested in publishing blockchain studies in journals such as the Plos one and the IEEE access. The reason is that both are open access journals.\nAs seen in the table, the sources for articles that received citations encompass the IEEE Thirteenth international conference (row one), the IEEE security and privacy workshops (row two), the IEEE Access (row three), and the IEEE symposium on security and privacy (row five). These top five IEEE sources have outstanding citations of higher than 50 citations in total. This indicates that conferences attract more researchers to publish their blockchain research and the most highly cited conference source is the IEEE. Meanwhile, other than citation, the following section below discusses which country is involved in blockchain research."
+        },
+        {
+            "heading": "Country",
+            "text": "This section deliberates the countries that involved in blockchain research. It highlights the author\u2019s country that recorded in the publications. It comprises the country\u2019s total of articles, publications, total of citations, and collaboration network. The following sub-section begins with the country total of articles."
+        },
+        {
+            "heading": "Country total of\u00a0articles",
+            "text": "Figure\u00a011 visualizes the countries involved in blockchain research. The first ranking country is the United States with total articles of 103, China (71) and Germany (42). It is worth to mention that these three countries are located in different continents; (1) the United States represents North and south America; (2) China represents the best ranking country in Asia; and (3) Germany marks the highest publication among other countries in Europe. This information states that each continent has a leading country in blockchain research activities.\nThe figure also depicts that the blue color exists more in multiple countries in the Europe continent. This shows that the countries in Europe (United Kingdom, Germany, and Italy) adopted blockchain in their research paper more than other continents. Furthermore, more countries in Europe are attempt to involve in blockchain research as\n1 3\nmany small blue colors exist surrounding the continents. This evidence shows that the number of blockchain researchers are increasing in Europe and would expect more publications in the near future.\nCertain countries such as Kazakhstan, Mongolia, Algeria, and Venezuela were excluded. It is important to note that Venezuela is a country that currently faces an economic crisis and its money has less value. Therefore, they utilize cryptocurrency coin and currently practices blockchain in their daily lives. The digital cryptocurrency is referred to as petro (PTR) (Gusson 2018; Memoria 2019). The Venezuela government launched the PTR to overcome its economic crisis. As a result of this situation, universities in Venezuela were unable to join the blockchain research. Thus, Fig.\u00a011 is unable to mark any publication in Venezuela.\nBesides the Europe continent, Asia is also actively involved in blockchain research. As shown by the significant blue colors and a total number of articles; China, South Korea, Japan, and Australia are countries that lead in Asia continent. Compare to other countries on this continent, this figure indicates that these countries are able to discover the true potential of the blockchain and contributed their idea in publications."
+        },
+        {
+            "heading": "Country publications",
+            "text": "This section discusses the blockchain articles in terms of single and multiple publications for each country. It also aims to observe the collaboration network occurring in various countries in publishing blockchain articles. Table\u00a09 shows that only certain countries published in their own country without collaborating with others, for instances, Canada, India, and Brazil. Almost all other countries prefer to publish in single articles, with only a few articles that are shared between countries. The table displays that the top three leading countries are the United States, China, and Germany.\nFigure\u00a012 provides the information in the graph for more illustrious and easier observations. It offers an insight into the information which encompasses both single country publications (SCP) and multiple country publications (MCP).\n1 3\n1 3\nIn MCP and SCP points of view, Fig.\u00a012 shows that the United States marked the highest spot, which indicates that this country actively published in both single and multiple publications, followed by China and Germany.\nHowever, in the MCP perspective, the figure shows that several countries have less interest in publishing with other countries. These countries include Brazil and Canada which are marked with zero MCP. In contrast, they showed more interest in publishing in the SCP range as the publication values in the SCP were more than one. It is interesting to note that the highest values in the MCP were less than the SCP, which is 17 and 86 respectively. This trend proves that most countries are more interested in collaborating and publishing blockchain research in a single rather than multiple countries.\nHowever, there is one country which chose to collaborate with other researchers. Hong Kong was noted to be the lowest among all countries in SCP, which published only two papers. Nevertheless, Hong Kong showed interest in joining and collaborating with other countries since it published four papers in the MCP region. This value demonstrates that Hong Kong is more comfortable to collaborate with other countries in blockchain publications."
+        },
+        {
+            "heading": "Country collaboration map",
+            "text": "Figure\u00a013 depicts the country collaboration throughout the world with blue color indicates as there is collaboration exists in that country. The dark blue shows a higher frequency of collaboration with other countries. The countries that actively collaborate with other countries are United States, United Kingdom, German, Italy, France, China, and Australia. The map indicates that the United States is the country that collaborates most by engaging almost all active countries in publishing research in blockchain, followed by China and a few countries in Europe. It demonstrates that collaborations among countries will able to increase the amount of publications, compare to publications in a single country."
+        },
+        {
+            "heading": "Country total citations",
+            "text": "This section reveals the blockchain publications which received citations from other researchers in the top 20 rankings, globally. Table\u00a0 10 tabulates the total and average article citations values. It sorts by the total of citation from the highest to lowest. It lists the United States marked the top place followed by Germany and Switzerland.\nTable\u00a0 10 illustrates that certain countries received low total citations, but received high average article citations value. The involved countries are Finland (32\u20138), Singapore (71\u20135.9167), and Switzerland (149\u20134.8065). This evidence shows that these three countries published a low number of articles, however, received significant citations worldwide in each article. It also shows that these countries published a good research quality of blockchain articles rather than quantity.\nHowever, Fig.\u00a0 14 visualizes both total and average citations. It highlights the total citations with blue color and the average citations in circle form.\nIn comparison with the previous Sect.\u00a0 (4.4.2\u2014country publication), Switzerland only published 31 articles but it received an outstanding citation of 149. It surpasses China which published a higher total of articles but received a lower citation score than Switzerland. This is similar to Singapore, which only published 12 articles but had received citations higher than the United Kingdom.\nThe information revealed that Switzerland and Singapore had published in high quality journals, thereby attracting other researchers to cite and refer. In the interest to\n1 3\ndiscover the relationship between these countries, the following section provides network collaboration between countries, keywords, and affiliations."
+        },
+        {
+            "heading": "Network",
+            "text": "This section provides the bibliometric analysis of the blockchain in network form. It consists of country collaboration and keyword co-occurrences network. This network was constructed so as to be able to observe the movement of the different nodes that are connected to each other."
+        },
+        {
+            "heading": "Country collaboration network",
+            "text": "In the interest of detecting the countries that were actively collaborating with each other, Fig.\u00a015 provides a record of networking circles of collaboration. Collaboration is a network that will indicate how the authors are linked to the network as a result of their co-authorships (Gl\u00e4nzel and Schubert 2004).\nThe colored circle noted in each node of the network, as shown in the figure, represents the total number of articles. The figure depicts that the USA is a country that collaborates most in publishing blockchain articles followed by China, the United Kingdom, German, Italy, and Switzerland. The figure also revealed that many lines are connected to each other in the upper part of the collaboration network. This reveals that the countries in the upper part were actively collaborating with each other when compared to countries in the lower part. Most of the countries in the upper part were from the Asian region, such as Malaysia, Singapore, China, Indonesia, New Zealand, Australia, India, Hong Kong, New Zealand, Japan, and Korea. This implies that countries in the Asian region preferred to collaborate with others when publishing articles in blockchain research activities, rather than publishing in a single country.\n1 3"
+        },
+        {
+            "heading": "Keyword co\u2011occurrences network",
+            "text": "Noted in the publications, it is crucial for each published article to include keywords after the abstract. These keywords consist of the research fields that were involved in the respective articles. Figure\u00a016 provides the information to uncover which fields were related to blockchain research. It establishes the keyword co-occurrences of the network.\nAs shown in the figure, the authors include \u2018block-chain\u2019 as a keyword more than \u2018blockchain\u2019. The reason is that in previous years, blockchain is a new term, therefore it was excluded in the global dictionary. Hence, there are differences in the keyword. Nonetheless, both terms refer to the same word, which is blockchain. The figure depicts that the researchers combine blockchain with multiple keywords, indicates that they combine blockchain with multiple areas of research. The common areas that combined with blockchain are electronic money, bitcoin, cryptography, and bitcoin.\nAdditionally, the most involved keywords, after blockchain, are electronic money, cryptography, data privacy, digital storage and internet of things. This information reveals that researchers conduct blockchain for electronic money as their first attempt. Subsequently, they would relate blockchain to other fields such as cryptography, data, and the internet of things (Husain et\u00a0al. 2018; Cherian and Chatterjee 2019; Li and Shang 2019; Jennath et\u00a0al. 2019).\nThe keyword co-occurrences network further recorded three different words in different capitalizations. The words include; (1) Internet of things (IoT). (2) Internet of thing (IoT). (3) Internet of things. To be precise, the researchers were referring to the same field, which is IoT. Previous section in this paper (4.3.2\u2014Authors keywords) also witnesses a high demand of blockchain in the IoT field. This evidences provide information that the trend of combination between IoT and blockchain is outstanding and the amount of publication in these fields would be increase in the near future (Ryu et\u00a0al. 2019; Chen et\u00a0al. 2019; CasadoVara et\u00a0al. 2019; Roman and Ordieres-Mere 2019; Kim et\u00a0al. 2019).\nThe analysis further showed that researchers also have the interest to combine blockchain with healthcare fields. This proves that blockchain has a competent security\n1 3\nstructure and the security practitioners have confidence in using blockchain and able to improve and save human lives. Other than country and keyword network collaborations, the next section provides affiliation collaboration network to discover the collaboration between universities."
+        },
+        {
+            "heading": "Affiliation collaboration network",
+            "text": "The colored node in the network, as shown in Fig.\u00a017, represents the collaboration of network between universities and colleagues from different countries. The University College London from the United Kingdom collaborates with the London School of Economics. While, the purple color node represent five institutes that have collaboration between Air Force Research Laboratory, Tennessee State University, Old Dominion University from the United States of America, Institute of Information Engineering and University of Chinese Academy of Sciences from China. The red color node represents the collaboration between the National University of Defense Technology, Qingdao Academy of Intelligent Industries from China and Institute of Automation from Jerman.\nThis figure reveals that the universities in China preferred to collaborate with their own country, compare to others. The reason is when referring to Sect.\u00a04.3.2 (Author\u2019s keyword) and in addition with this figure, these demonstrate that they have the similar interest which is to explore the potential in IoT with blockchain research. In order to provide more information in a blockchain, the following section describes how it works and its utilization (Drosatos and Kaldoudi 2019; Estrada-Galinanes and Wac 2019; Lopes and Pereira 2019;\n1 3\nDwivedi et\u00a0al. 2019; Vazirani et\u00a0al. 2018; Al Omar et\u00a0al. 2019; Cao et\u00a0al. 2019; Chen et\u00a0al. 2019; Alonso et\u00a0al. 2019)."
+        },
+        {
+            "heading": "Utilization of\u00a0blockchain",
+            "text": "In general, the most common attraction of the blockchain is cryptocurrency (digital money). Nevertheless, research analysts from the government sector, corporate organizations, security institution as well as industrial segment are able to extend the potential of blockchain and its interests well beyond the domain of cryptocurrencies. These domains using blockchains encompass the record transactions, smart contracts, and data purposes. Figure\u00a018 illustrates these interests in chronological order.\nPhase 1\nAs shown in the Fig.\u00a0 18, phase one begins with a request to broadcast for peer-to-peer (P2P) network nodes in the blockchain network. This is the initial phase where the decentralization of authentication takes place. In cryptocurrency @ digital coin situation, when person A click the submit button to send bitcoin to person B, the request will start and proceed to phase two.\nPhase 2\nThe following phase is where the algorithm is done to validate the transaction. In cryptocurrency example, it is important to validate each transaction to avoid any person to spend the digital coin twice or double-spending. Examples of the algorithms used are SHA-256, Blake, Crypto Night, and Equihash. Table\u00a0 11 addresses Proof of work (PoW) algorithm for each digital coin. These validation algorithms also are known as a consensus algorithm. Section\u00a06 discusses this information in detail.\nOn the other hand, another situation in the blockchain network, such as property matters (land, car, and house), the blockchain developer may use other than validation algorithm. Instead, they would apply lawyer approval to validate each transaction either legal or illegal. If the lawyer disapproves it, this process will unable to proceed to the next phase. However, if the lawyer checks all the requirements and approve, the following phase (phase three) will initiates.\n1 3\nPhase 3\nPhase three is where the blockchain involves the interest elements (cryptocurrency, records, contracts, and data). Table\u00a0 12 tabulates the different situations with different interest elements that store in each block in the blockchain network. In cryptocurrency situation, each block may involve information such as the timestamp of the transaction and amount of coin spent, Meanwhile, in records example, each block may keep the information of the person that enter and leave the vault room. While the contract situation, each block saves the information between the private sector and government contract. While for the data example, each block will save the weather data that collected from the weather sensor. This situation will fall in the IoT area, which many researchers have many interest on this as explained in previous section (Sect.\u00a04.3.2). Once phase three is done, the following step is the phase four.\nPhase 4\nIn phase four, this is where the blockchain network store and begin to chain the data together with the previous block. Once it chained, any user is unable to tamper or change the data. If any situation needs to change the information on the block, therefore the user needs to create another block as usual process similar to phase one. Then, the new block needs to mention that there is a correction in the respective block and the update information is provided in this new block.\nAll the information in all the blocks are available in block explorer. It considers as public ledger for public reference and this record is permanent. The ledger is then distributed to all the participants in the blockchain network and all the computers (nodes) in this network have similar data. It is because the blockchain used P2P features which adopt decentralized databases. With these features, it is good for security because if one computer (server) is attacked, other computers have the backup data. For instance, in cryptocurrency data example, Table\u00a013 tabulates the transaction of the digital coin in different websites with different servers installed, but once it participated in the similar blockchain network, they provide the equivalent data information on-the-fly (live). Each website will provide the same current block, for example, block 712562. After another transaction is done, the block will increase one block, and the latest bock will turn to 712563. And all the website will provide the latest block which is 712563.\nPhase 5\nIn phase five, all the information in the blockchain continues to increase from time to time depends on the activities. If there is no activity, the number of the block will still remain\n1 3\nwithout addition. The data in it is constantly updated and all the computers have the latest copy of the data (Marsal-Llacuna 2017). Therefore, the history of the data is all available from the first block until the latest block. This is useful for audit and monitoring the activities. Hence, blockchain is useful in many areas such as IoT, property records and vote system."
+        },
+        {
+            "heading": "Consensus algorithm",
+            "text": "In order to update the ledger, the blockchain network needs to achieve a consensus by utilizing an algorithm. From the cryptocurrency point of view, all the participants in the distributed network need to agree to the consensus. This is to avoid any double-spending on the value. Agreeing with the consensus means that in the blockchain distributed network, it is indicated that every participant agrees on the latest status in the ledger (current money value in every account) and every one of them confirms that there is no double-spending happening.\nIn other words, the consensus is a favored word that signifies \u201cgeneral agreement\u201d which is an imperative part of blockchain innovation. Rather than having a specialist to keep accounts and bringing the things together in a single element, similar to a bank or concentrated online payment framework, the digital currency utilizes appropriated records or blockchain to record data. In this way, the blockchain system needs the general agreement to record data such as the balance accounts of each address, exchanges, and transaction activities. All the consensus algorithm mechanisms intend to secure the system by making it costly to assault the system and more gainful to help secure it (Li et\u00a0al. 2017). In Fig.\u00a019, there are five types of consensus algorithms (Mingxiao et\u00a0al. 2017): (1) proof of work (PoW), (2) proof of stake (PoS), (3) byzantine fault tolerance (BFT), (4) proof of elapsed time (PoET), (5) proof of bandwidth (PoB) and (6) proof of authentication (PoAh). Table\u00a014 summarizes and differentiate between all these algorithms."
+        },
+        {
+            "heading": "Proof of\u00a0work (PoW)",
+            "text": "Proof of work (PoW) is one of the consensus algorithms that solves the mathematical algorithms by guessing the answer. The computer that has high computational power will have faster guessing and high possibility to guess the right answer. Then, the person who owns that computer will receive an amount of money in digital currency as a reward.\n1 3\nSearching for an answer to the mathematical problem is similarly like a game, essentially an amusement. Whoever initially finds the answer derived from the consensus algorithm will be the first to be rewarded.\nIn PoW, the miners are unable to hack the system as they apply the real physical resources to solve the algorithm problems. The examples of the real physical system are graphical processing unit (GPU) and application-specific integrated circuit (ASIC) machine (Bitmain 2019). These machines consume a high amount of electricity and energy. From an ecological point of view, this is not ideal as it causes the miners to have high energy costs while also being harmful to the environment unless renewable sources are used. The fact is that it requires a considerable amount of computing power which is more than what the average person is able to afford. Hence, the researchers invented an alternative known as the green consensus algorithm, called the proof of stake (PoS), to overcome these problems."
+        },
+        {
+            "heading": "Proof of\u00a0stake (POS)",
+            "text": "Similar in objective to the PoW, the PoS is a method to validate the blockchain transactions. However, the difference is PoS use coins instead of computational power. PoS algorithm executes its method by allocating the miner coins on a block in order to validate the transaction. The algorithm chooses the miners according to the number of the miner\u2019s coin which they just allocated and for the duration they hold. The miners simply need to demonstrate that they have a specific level for every accessible digital coin. Then, they will receive rewards. This PoS method would be faster and more productive than the PoW framework. Due to the fact that anyone can become a miner, the PoS method also offers a straight scale with regards to the level of the block which a miner can affirm on the grounds that it depends on the digital coin owned. For instance, Ethereum decided to change from the PoW to the PoS framework to affirm transactions because of the PoS advantages. Other than the PoW and PoS, researchers have also constructed the practical byzantine fault tolerance (pBFT) as an another alternative method.\n1 3\nTa bl\ne 14\nD\niff er\nen ce\ns b et\nw ee\nn co\nns en\nsu s a\nlg or\nith m\nPo W\nPo S\nB FT\nPo ET\nPo B\nPo A\nh\nB as\ned o\nn M\nin in\ng st\nak in\ng co\nin Ex\nch an\nge m\nes sa\nge\nbe tw\nee n\nun tru\nste d\npa rti\nes\nLo tte\nry sy\nste m\nB an\ndw id\nth A\nut he\nnt ic\nat io\nn\nM or\ne in\nfo rm\nat io\nn Th\ne pe\nrs on\nth at\nso lv\nes\nth e\nm at\nhe m\nat ic\nal\neq ua\ntio n\nfir st\nw ill\ng et\nth\ne co\nin a\ns r ew\nar ds\nTh e\npe rs\non th\nat o\nw n\nbi g\nam ou\nnt o\nf c oi n w ill v al id at e th e tra ns ac tio n\nA ch\nie ve\nc on\nse ns\nus\nam on\ng m\nul tip\nle\npa rti\nes w\nith ou\nt t ru st ea ch o th er\nW he\nre e\nac h\nan d\nev er y no de is si m ila rly lik el y to b e a w in ne r\nC on\ntri bu\ntin g\nth e\nba nd - w id th c ap ac ity to ve rif y th e sy ste m\nA ch\nie ve\na ut\nhe nt\nic at\nio n\nfro m\nit s s\nou rc\ne an d w ho a ut he nt ic at e\nth e\nbl oc\nk fir st En er gy c on su m pt io n H ig h Lo w D ep en ds o n th e ac tiv itie s Lo w D ep en ds o n th e ac tiv itie s Lo w\n1 3"
+        },
+        {
+            "heading": "Delegated proof of\u00a0stake",
+            "text": "Designated proof-of-stake (DPoS) is much more advanced than the PoS system. The DPoS utilizes a notoriety framework and real-time voting to accomplish the agreement. The participants vote for super representatives to secure their system and the DPoS will reward the super representatives by validating exchanges for the following block. As such, in the tron (TRX) digital coin example, there will be a decision to pick 27 super representatives with a yearly reward pool of 1,009,152,000 TRX (Tron Live 2018). The primary difference between the DPoS and PoS is that the participants in the former network have more governance rights in the system.\nSince the vote in the DPoS is continuous and on-going, it is observed that if the super representatives act badly or perform an unscrupulous act, the community in the network will be able to expel their votes, basically terminating the bad representatives. The super representatives should attempt their best to comply with all obligations and to keep the system up as high as conceivable. Otherwise, the community or participants in the network may reject the super representatives. The advantages of the DPoS are its decentralized convention that is vote based, its self-governing participants in the network, the free elections, and its general legitimacy."
+        },
+        {
+            "heading": "Leased proof of\u00a0stake (LPoS)",
+            "text": "In the general viewpoint of the PoS, the participants in the network who keep and hold small balances are excluded from staking a block. This is because it would consume years to generate a block which also depends on luck situations. This implies that the holders with low balance were excluded from running a node; they are left to keep the system up to a higher balance as owned by bigger players. Therefore, this is where the LPoS advantage come in.\nSince network security is much better when there are more participants, the LPoS considers these little holders who join in running a node together with the bigger holders. The LPoS accomplishes its mechanism by enabling holders to rent or lease their balances in order to join the network in staking the nodes. The leased funds stay in the full control of the holders. They are able to move or invest any time according to their needs or until the lease point ends. Leased coins increase the \u2018weight\u2019 of the staking node, expanding its chances of being included and being allowed to add a block of the transaction. The LPoS will then reward the leasers by dividing the amount of the lease proportionally."
+        },
+        {
+            "heading": "Byzantine fault tolerance (BFT)",
+            "text": "The BFT is based on the Byzantine\u2019s generals case in a war. It gathers the respective generals who wish to achieve an agreement in attacking the country. Therefore, they need to choose either to commence an attack or to withdraw. Depending on the situation and experience of each general, some may prefer to assault, while others may prefer to withdraw. This is a crucial decision as the war could turn into a defeat and become more terrible than when it suffers an organized assault or through a planned withdrawal. Many researchers mentioned this algorithm in software-defined network research (Yuan et\u00a0al. 2018). Due to the advantages offered by these Byzantine war case, crypto researchers began adopting it\n1 3\nin blockchain research as another consensus algorithm, for example, practical byzantine fault tolerance (PBFT) and delegated byzantine fault tolerance (DBFT), to aid in validating transactions (Gramoli 2017).\nPractical byzantine fault tolerance (PBFT)\nIn 1999, Miguel Castro and Barbara Liskov introduced the practical byzantine fault tolerance (PBFT) as improvements in optimizing research (Castro and Liskov 1999). It was used to improve the original byzantine fault tolerance (BFT) mechanism. The algorithm works in asynchronous systems which are similar to the Internet mechanism which combines the imperative optimizations that enable it to perform proficiently. The algorithm adopts an efficient authentication scheme which is public-key cryptography, based on message authentication codes during the normal operation. This type of cryptography is able to avoid latency and throughput bottleneck.\nDelegated byzantine fault tolerance (DBFT)\nThe delegated byzantine fault tolerance (DBFT) consensus algorithm acknowledges two kinds of participants in the blockchain system: (1) Professional node operators (execute nodes as a source of income); and (2) Participants who are interested in accessing blockchain advantages. Consequently, this algorithm verifies the block transaction by running through a consensus game held with specialized bookkeeping nodes, which constructs the delegated voting process. In the first step of the verification, the algorithm pseudorandomly appoints the bookkeeping nodes. This is a kind of version that broadcasts to the rest of the network. If 2/3 of the remaining nodes agree with this kind of version, the DBFT will consider it as secure and the blockchain system will proceed to the next step. If less than 2/3 of the network agree, a different node is appointed to broadcast its version of the truth to the rest of the system, and so forth until the algorithm finishes establishing the consensus process.\nBy implementing this kind of consensus algorithm, it is impossible for any system to attack unless a majority of the network agree in committing financial suicide. The system is fork proof, and at every given moment, only one version of the truth exists. Without complicated cryptographic puzzles to solve, the nodes operate much faster and are able to compete with centralized transaction methods."
+        },
+        {
+            "heading": "Proof of\u00a0authority (PoA)",
+            "text": "The proof of authority (PoA) (De Angelis et\u00a0al. 2018) is another group of BFT consensus algorithm which has drawn the researcher\u2019s responsiveness due to its advantages of execution and toleration to faults. Parity (Authors 2018) and Geth (Authors 2018) are the two well-organized customers for permission setting of Ethereum that currently utilizes the PoA. In particular, the calculation of the algorithms works in rounds during which an elected party acts as the mining leader. The leader is responsible for proposing a new block to achieve a distributed consensus. Unlike the PBFT, the PoA requires fewer message trades hence, it gives better executions. Nevertheless, the real outcome of such execution change is quite hazy, as far as accessibility and consistency are concerned in ensuring a reasonable long-run synchronous system model.\n1 3"
+        },
+        {
+            "heading": "Proof of\u00a0elapsed time (PoET)",
+            "text": "The proof of elapsed time (PoET) is also one of the consensus algorithms that avoid high resource utilization and high energy consumption. This is done by implementing a fair lottery system. It completes the consensus of each potential validator node that demands a secure random, holding up time from a trusted execution condition which is already implemented into the computing platform, such as Intel\u2019s SGX.\nIntel, the renowned chip producing giant, developed the PoET idea in early 2016. It offers a readymade innovative instrument to solve the computing issue of \u201crandom leader election\u201d. Intel SGX is specific hardware equipment that is able to create a verification that was set up accurately in a secure area. For instance, if an outsider party uses the verification to verify or check whether the correct code is operating in the correct way, the system allows the network participants to demonstrate to different participants that it is operating the right trusted code for the network. Without this method, it will be difficult for the network to discover that the participant is truly operating the PoET\u2019s trusted code. Furthermore, the trusted code keeps on operating in a private environment which forbids any other application to investigate or inspect the memory space of the trusted code. This is to guarantees that any unscrupulous participant will be unable to cheat and control the PoET\u2019s trusted code after it has been set up.\nIn other words, the PoET is a permission type of blockchain. If this system wishes to join the network, any forthcoming networking participant must identify him/herself first. In view of the standard of a reasonable lottery system, where each and every node is similarly likely to be a winner, the POET system depends on spreading the odds of winning fairly, over the largest possible number of network participants.\nThis is achieved by considering the node of the network participant who waits randomly at a certain period of time. The first to finish the assigned waiting time wins the new block in the blockchain. Once the node in the network generates a random waiting time, it rests for that predetermined term. The node that wakes up first is the one with the shortest waiting time. It then commits a new block and it broadcasts the necessary information to the entire peer distributed network. The procedure is similarly repeated until the disclosure of the following block. The PoET needs to consider two important factors; (1) The network participant nodes which truly selects a random number and not a shorter length, picked intentionally by the participant in order to reach a goal to win and (2) The winner has truly finished the waiting time.\nBasically, the work process is similar to the PoW calculation, but it is without its power utilization. Rather than being resource intensive, it enables the miners\u2019 processors to rest and change to different tasks for a certain time thereby, increasing its effectiveness."
+        },
+        {
+            "heading": "Proof of\u00a0bandwidth (PoB)",
+            "text": "Unlike the Bitcoin PoW algorithm, the PoB confirms a verification by depending on the bandwidth instead of calculation. For instance, in the case of TorCoin (Ghosh et\u00a0al. 2014), to mine this coin, a relay transfers the bandwidth capacity over the Tor network. Since relays are able to sell TorCoin for any existing type of coin, the TorCoin can successfully remunerate them for contributing the bandwidth capacity to the system, and clients are not required to pay for the access.\n1 3\nThe TorCoin architecture comprises two types of protocol, the TorCoin, and TorPath. The TorCoin protocol is a Bitcoin variant that mines coins while the TorPath protocol assigns a circuit that consists of three passages: (1) Passage, (2) Center, and (3) Leave servers. The TorPath assigns these passages to every customer to approve the TorCoin minting through verifiable proofs of the bandwidth."
+        },
+        {
+            "heading": "Proof of\u00a0authentication (PoAh)",
+            "text": "Proof of authentication (PoAh), is a consensus algorithm that implements a lightweight process that PoW (Puthal and Mohanty 2019). In order to achieve that, it consists of two types of authentication; 1) authenticate the block including its source; and 2) increasing a special value called as trust value, by adding one value to those that authenticate the block first. They also claimed that, in comparison with PoS, PoW, and PoA, it has low energy consumption, low computing, low latency, and low search space. This algorithm is created to suit the main problem of IoT technologies that frequently need low requirements for long-lasting operation."
+        },
+        {
+            "heading": "Conclusion",
+            "text": "Blockchain is an invention in Bitcoin digital currency and has been received many attentions from blockchain researchers globally. They are able to bring blockchain to higher levels and adopt it to solve problems in multiple areas. However, there are still lacks bibliometric reports exhibiting the exploration of an in-depth research pattern in this area. This paper has conducted a bibliometric analysis of the blockchain which involves 1119 articles that were published between 2013 and 2018.\nThis bibliometric analysis discovers that blockchain researchers were most interested to publish in conference rather than journal or in book form. The reasons are; (1) They would like to publish their genuine idea that involves blockchain, (2) To get feedback from the audience, and (3) To upgrade their conference paper to journal form.\nApart from that, the top author who published most is Xiwei Xu with 11 articles, followed by Ingo. M Weber with nine articles. They are the research members in a similar place (Data61, CSIRO, Sydney, Australia) and therefore easier for them to collaborate and published articles together. Their interest areas are to combine blockchain in IoT and business field. However, they are more involved as multi author compare to main.\nMeanwhile, in dominance ranking, the top two rankings are Pass Rafael (main author\u2014 six articles) and Decker Christian (main author\u2014four articles). Pass Rafael is a researcher in Massachusetts Institute of Technology (MIT) that have an interest in cryptography, which is a backbone in the blockchain. While Decker Christian is an author from ETH Zurich, Switzerland that concentrates on bitcoin, which is a first cryptocurrency that adopts blockchain.\nOn the other hand, in blockchain keywords, blockchain analysts are more keen to adopt blockchain in the Internet of Things (IoT). Before blockchain have been introduced, IoT receives many security issues to secure data among sensors. Meanwhile, after the researchers realized the potential of blockchain, they begin to adopt blockchain in IoT to overcome it. This evidence shows that blockchain will bring IoT to a higher level and contribute to more papers published in the near future.\n1 3\nApart from IoT, they also apply blockchain in the healthcare research field, which involves human lives. Among all methods, blockchain receives outstanding attention from researchers to improve in medical and healthcare research interest. A topic dendrogram in Fig.\u00a0 8 shows that they combine healthcare with internet and commerce. It demonstrates that the researchers are using blockchain to store healthcare data online, and gain profit with it.\nIn addition, this paper also discovers that blockchain researchers were adopting blockchain in data research field such as (1) data privacy; (2) digital storage; (3) security of data; (4) big data; and (5) distributed database. This proves that blockchain is able to secure data digitally and make it available online without limitation of size. This is also a reason that blockchain practitioners adopt blockchain to secure data in IoT and healthcare.\nIn-country point of view, the top three countries that published more papers in blockchain research are the United States, China, and Germany. This study also revealed that the number of blockchain researchers are increasing in Europe and would expect more publications in the near future. This is because many countries surrounding this continent are actively participating in blockchain research. It also appears that countries in Asia expectedly would participate together in this research. Furthermore, blockchain practitioners in Asia are more interested to combine blockchain with IoT, while the United States is more interested in securing data with blockchain.\nThis study also highlighted the utilization and consensus of the algorithm in blockchain research. It reviewed the potentials of blockchain which could be expanded to other areas other than digital currency only.\nAcknowledgements This work was funded by Universiti Malaysia Pahang, under the Grant Faculty of Computer Systems and Software Engineering (FSK1000), RDU180361.\nCompliance with ethical standards\nConflict of interest The authors declare that they have no conflict of interest."
+        }
+    ],
+    "title": "The rise of \u201cblockchain\u201d: bibliometric analysis of blockchain study",
+    "year": 2019
+}

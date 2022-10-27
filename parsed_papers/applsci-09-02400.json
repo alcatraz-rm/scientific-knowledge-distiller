@@ -1,0 +1,612 @@
+{
+    "abstractText": "Recently, blockchain technology has gained considerable attention from researchers and practitioners. This is mainly due to its unique features including decentralization, security, reliability, and data integrity. Despite this growing interest, little is known about the current state of knowledge and practice regarding the use of blockchain technology in education. This article is a systematic review of research investigating blockchain-based educational applications. It focuses on three main themes: (1) educational applications that have been developed with blockchain technology, (2) benefits that blockchain technology could bring to education, and (3) challenges of adopting blockchain technology in education. A detailed results analysis of each theme was conducted as well as an intensive discussion based on the findings. This review also offers insight into other educational areas that could benefit from blockchain technology.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Ali Alammary"
+        },
+        {
+            "affiliations": [],
+            "name": "Samah Alhazmi"
+        },
+        {
+            "affiliations": [],
+            "name": "Marwah Almasri"
+        },
+        {
+            "affiliations": [],
+            "name": "Saira Gillani"
+        }
+    ],
+    "id": "SP:3c7daa751b692584c50ccf2416c3b1dc1474f3eb",
+    "references": [
+        {
+            "authors": [
+                "Nakamoto",
+                "S. Bitcoin"
+            ],
+            "title": "A Peer-to-Peer Electronic Cash System",
+            "venue": "2008. Available online: https://bitcoin.org/ bitcoin.pdf",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A. Grech",
+                "A.F. Camilleri"
+            ],
+            "title": "Blockchain in Education; Publications Office of the European Union: Luxembourg, 2017",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R. Collins"
+            ],
+            "title": "Blockchain: A new architecture for digital content",
+            "venue": "EContent 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Memon",
+                "U.A. Bajwa",
+                "A. Ikhlas",
+                "Y. Memon",
+                "S. Memon",
+                "M. Malani"
+            ],
+            "title": "Blockchain Beyond Bitcoin: Block Maturity Level Consensus Protocol",
+            "venue": "In Proceedings of the 2018 IEEE 5th International Conference on Engineering Technologies and Applied Sciences (ICETAS), Bangkok, Thailand,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "V. Gatteschi",
+                "F. Lamberti",
+                "C. Demartini",
+                "C. Pranteda",
+                "V. Santamar\u00eda"
+            ],
+            "title": "Blockchain and smart contracts for insurance: Is the technology mature enough",
+            "venue": "Future Internet 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "G. Chen",
+                "B. Xu",
+                "M. Lu",
+                "N.-S. Chen"
+            ],
+            "title": "Exploring blockchain technology and its potential applications for education",
+            "venue": "Smart Learn. Environ. 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "J. Nespor"
+            ],
+            "title": "Cyber schooling and the accumulation of school time",
+            "venue": "Pedag. Cult. Soc",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "C. Okoli",
+                "K. A Guide to Conducting a Systematic Literature Review of Information Systems Research. Sprouts Schabram"
+            ],
+            "title": "Working Papers on Information Systems",
+            "venue": "2010, 10, pp. 1\u201351. Available online: http: //sprouts.aisnet.org/10-26",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Han",
+                "Z. Li",
+                "J.S. He",
+                "D. Wu",
+                "Y. Xie",
+                "A. Baba"
+            ],
+            "title": "A Novel Blockchain-based Education Records Verification Solution",
+            "venue": "In Proceedings of the 19th Annual SIG Conference on Information Technology Education,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R. Arenas",
+                "P. Fernandez"
+            ],
+            "title": "CredenceLedger: A Permissioned Blockchain for Verifiable Academic Credentials",
+            "venue": "In Proceedings of the 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC), Stuttgart, Germany,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "Y. Xu",
+                "S. Zhao",
+                "L. Kong",
+                "Y. Zheng",
+                "S. Zhang",
+                "Q. Li"
+            ],
+            "title": "ECBC: A high performance educational certificate blockchain with efficient query",
+            "venue": "In Proceedings of the International Colloquium on Theoretical Aspects of Computing, Hanoi, Vietnam,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Sharples",
+                "J. Domingue"
+            ],
+            "title": "The blockchain and kudos: A distributed system for educational record, reputation and reward",
+            "venue": "In Proceedings of the European Conference on Technology Enhanced Learning,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "I.B. Bandara",
+                "F. Ioras",
+                "M.P. Arraiza"
+            ],
+            "title": "The emerging trend of blockchain for validating degree apprenticeship certification in cybersecurity education",
+            "venue": "In Proceedings of the 12th Annual International Technology, Education and Development Conference,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Srivastava",
+                "P. Bhattacharya",
+                "A. Singh",
+                "A. Mathur",
+                "O. Prakash",
+                "R. Pradhan"
+            ],
+            "title": "A Distributed Credit Transfer Educational Framework based on Blockchain",
+            "venue": "In Proceedings of the 2018 Second International Conference on Advances in Computing, Control and Communication Technology (IAC3T),",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "J.-C. Cheng",
+                "N.-Y. Lee",
+                "C. Chi",
+                "Y.-H. Chen"
+            ],
+            "title": "Blockchain and smart contract for digital certificate",
+            "venue": "In Proceedings of the 2018 IEEE international conference on applied system invention (ICASI), Chiba, Japan,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "L.M. Palma",
+                "M.A. Vigil",
+                "F.L. Pereira",
+                "J.E. Martina"
+            ],
+            "title": "Blockchain and smart contracts for higher education registry in Brazil",
+            "venue": "Int. J. Netw. Manag. 2019,",
+            "year": 2061
+        },
+        {
+            "authors": [
+                "J. Gresch",
+                "B. Rodrigues",
+                "E. Scheid",
+                "S.S. Kanhere",
+                "B. Stiller"
+            ],
+            "title": "The Proposal of a Blockchain-Based Architecture for Transparent Certificate Handling",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "E. Funk",
+                "J. Riddell",
+                "F. Ankel",
+                "D. Cabrera"
+            ],
+            "title": "Blockchain technology: A data framework to improve validity, trust, and accountability of information exchange in health professions education",
+            "venue": "Acad. Med",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "D. Lizcano",
+                "J.A. Lara",
+                "B. White",
+                "S. Aljawarneh"
+            ],
+            "title": "Blockchain-based approach to create a model of trust in open and ubiquitous higher education",
+            "venue": "J. Comput. High. Educ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Hori",
+                "M. Ohashi"
+            ],
+            "title": "Adaptive Identity authentication of blockchain system-the collaborative cloud educational system",
+            "venue": "Proc. EdMedia Innov. Learn. 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "J.C. Farah",
+                "A. Vozniuk",
+                "M.J. Rodr\u00edguez-Triana",
+                "D. Gillet"
+            ],
+            "title": "A Blueprint for a Blockchain-Based Architecture to Power a Distributed Network of Tamper-Evident Learning Trace Repositories",
+            "venue": "In Proceedings of the 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT),",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "P. Williams"
+            ],
+            "title": "Does competency-based education with blockchain signal a new mission for universities",
+            "venue": "J. High. Educ. Policy Manag. 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Duan",
+                "Y. Zhong",
+                "D. Liu"
+            ],
+            "title": "Education application of blockchain technology: Learning outcome and meta-diploma",
+            "venue": "In Proceedings of the 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS), Shenzhen,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "W. Zhao",
+                "K. Liu",
+                "K. Ma"
+            ],
+            "title": "Design of Student Capability Evaluation System Merging Blockchain Technology",
+            "venue": "Proc. J. Phys. Conf. Ser",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "Q. Liu",
+                "Q. Guan",
+                "X. Yang",
+                "H. Zhu",
+                "G. Green",
+                "S. Yin"
+            ],
+            "title": "Education-Industry Cooperative System Based on Blockchain",
+            "venue": "In Proceedings of the 2018 1st IEEE International Conference on Hot Information-Centric Networking (HotICN), Shenzhen,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "H. Shen",
+                "Y. Xiao"
+            ],
+            "title": "Research on Online Quiz Scheme Based on Double-Layer Consortium Blockchain",
+            "venue": "In Proceedings of the 2018 9th International Conference on Information Technology in Medicine and Education (ITME), Hangzhou, China,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Mikroyannidis",
+                "J. Domingue",
+                "M. Bachler",
+                "K. Quick"
+            ],
+            "title": "Smart Blockchain Badges for Data Science Education",
+            "venue": "In Proceedings of the 2018 IEEE Frontiers in Education Conference (FIE), San Jose, CA, USA,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B. Wu",
+                "Y. Li"
+            ],
+            "title": "Design of Evaluation System for Digital Education Operational Skill Competition Based on Blockchain",
+            "venue": "In Proceedings of the 2018 IEEE 15th International Conference on e-Business Engineering (ICEBE), Xi\u2019an, China,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R. Bdiwi",
+                "C. De Runz",
+                "S. Faiz",
+                "A.A. Cherif"
+            ],
+            "title": "A Blockchain Based Decentralized Platform for Ubiquitous Learning Environment",
+            "venue": "In Proceedings of the 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), Mumbai, India,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "N. Bore",
+                "S. Karumba",
+                "J. Mutahi",
+                "S.S. Darnell",
+                "C. Wayua",
+                "K. Weldemariam"
+            ],
+            "title": "Towards blockchain-enabled school information hub",
+            "venue": "In Proceedings of the 9th International Conference on Information and Communication Technologies and Development, Lahore, Pakistan,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J. Zhong",
+                "H. Xie",
+                "D. Zou",
+                "D.K. Chui"
+            ],
+            "title": "A Blockchain Model for Word-Learning Systems",
+            "venue": "In Proceedings of the 2018 5th International Conference on Behavioral, Economic, and Socio-Cultural Computing (BESC), Kaohsiung, Taiwan,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Sychov",
+                "A. Chirtsov"
+            ],
+            "title": "Towards Developing the Unified Bank of Learning Objects for Electronic Educational Environment and Its Protection",
+            "venue": "In Proceedings of the 2018 Workshop on PhD Software Engineering Education: Challenges, Trends, and Programs, St. Petersburg, Russia,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. H\u00f6lbl",
+                "A. Kamisali\u0107",
+                "M. Turkanovi\u0107",
+                "M. Kompara",
+                "B. Podgorelec",
+                "M. Heri\u0107ko"
+            ],
+            "title": "EduCTX: An Ecosystem for Managing Digital Micro-Credentials",
+            "venue": "In Proceedings of the 2018 28th EAEEIE Annual Conference (EAEEIE), Hafnarfjordur, Iceland,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Turkanovi\u0107",
+                "M. H\u00f6lbl",
+                "K. Ko\u0161i\u010d",
+                "M. Heri\u010dko",
+                "A. Kami\u0161ali\u0107"
+            ],
+            "title": "EduCTX: A blockchain-based higher education credit platform",
+            "venue": "IEEE Access 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Gilda",
+                "M. Mehrotra"
+            ],
+            "title": "Blockchain for Student Data Privacy and Consent",
+            "venue": "In Proceedings of the 2018 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Hori",
+                "S. Ono",
+                "K. Miyashita",
+                "S. Kobayashi",
+                "H. Miyahara",
+                "T. Kita",
+                "T. Yamada",
+                "K. Yamaji"
+            ],
+            "title": "Learning System based on Decentralized Learning Model using Blockchain and SNS",
+            "venue": "In Proceedings of the 2018 10th International Conference on Computer Supported Education,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "I. Mitchell",
+                "S. Hara",
+                "M. Sheriff"
+            ],
+            "title": "dAppER: Decentralised Application for Examination Review",
+            "venue": "In Proceedings of the 2019 IEEE 12th International Conference on Global Security, Safety and Sustainability (ICGS3),",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A. Mikroyannidis",
+                "J. Domingue",
+                "M. Bachler",
+                "K. Quick"
+            ],
+            "title": "A Learner-Centred Approach for Lifelong Learning Powered by the Blockchain",
+            "venue": "Proc. EdMedia Innov. Learn. 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "Z. Zheng",
+                "S. Xie",
+                "H. Dai",
+                "X. Chen",
+                "H. Wang"
+            ],
+            "title": "An overview of blockchain technology: Architecture, consensus, and future trends",
+            "venue": "In Proceedings of the 2017 IEEE International Congress on Big Data (BigData Congress),",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R. Bdiwi",
+                "C. De Runz",
+                "S. Faiz",
+                "A.A. Cherif"
+            ],
+            "title": "Towards a new ubiquitous learning environment based on Blockchain technology",
+            "venue": "In Proceedings of the 2017 IEEE 17th International Conference on Advanced Learning Technologies (ICALT), Timisoara, Romania,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "Z. Zheng",
+                "S. Xie",
+                "H.-N. Dai",
+                "X. Chen",
+                "H. Wang"
+            ],
+            "title": "Blockchain challenges and opportunities: A survey",
+            "venue": "Int. J. Web Grid Serv",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "I. Purdon",
+                "E. Erturk"
+            ],
+            "title": "Perspectives of Blockchain Technology, its Relation to the Cloud and its Potential Role in Computer Science Education",
+            "venue": "Eng. Technol. Appl. Sci. Res. 2017,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "B.A. Kitchenham",
+                "S. Charters"
+            ],
+            "title": "Guidelines for Performing Systematic Literature Reviews in Software Engineering: Technical Report; Version 2.3",
+            "venue": "EBSE Technical Report: Durham, UK,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "T.W. Gyorkos",
+                "T.N. Tannenbaum",
+                "M. Abrahamowicz",
+                "A.D. Oxman",
+                "E.A. Scott",
+                "M.E. Millson",
+                "I. Rasooly",
+                "J.W. Frank",
+                "P.D. Riben",
+                "R.G Mathias"
+            ],
+            "title": "An approach to the development of practice guidelines for community health",
+            "venue": "interventions. Can. J. Public Health 1994,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "J. Yli-Huumo",
+                "D. Ko",
+                "S. Choi",
+                "S. Park",
+                "K. Smolander"
+            ],
+            "title": "Where is current research on blockchain technology?\u2014A systematic review",
+            "venue": "PLoS ONE 2016,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "F. Greyling",
+                "M. Kara",
+                "A. Makka",
+                "S. Van Niekerk"
+            ],
+            "title": "IT worked for us: Online strategies to facilitate learning in large (undergraduate) classes",
+            "venue": "Electron. J. e-Learn. 2008,",
+            "year": 2019
+        }
+    ],
+    "sections": [
+        {
+            "text": "Keywords: blockchain in education; blockchain applications; educational technology; decentralized systems"
+        },
+        {
+            "heading": "1. Introduction",
+            "text": "Blockchain is an emerging technology introduced in 2008. It was first used as a peer-to-peer ledger for registering the transactions of Bitcoin cryptocurrency [1]. The aim was to eliminate any third-party intermediary and allow users to make their transactions directly. To achieve that, blockchain was designed as a decentralized network of peer nodes. Each node in the network: (1) holds a replica of the transactions ledger, (2) writes an entry to its own ledger when it receives consensus from the other nodes in the network, (3) broadcasts any transaction made by its user to the other nodes in the network, and (4) checks, on a regular basis, that the ledger it holds is identical to the ones across the network [2]. As Bitcoin continues to grow in popularity, researchers and practitioners realize the enormous potential of its underlying technology [3]. Blockchain\u2019s unique capabilities including immutability, transparency, and trustworthiness was found to be useful not only in cryptocurrencies but also in many other fields. Therefore, an increasing number of blockchain-based applications have been developed in various fields [4]. According to Gatteschi, et al. [5], the development of blockchain-based applications could be divided into three main stages: Blockchain 1.0, 2.0, and 3.0. Blockchain 1.0 was used for cryptocurrencies and its focus was to facilitate simple cash transactions. Subsequently, Blockchain 2.0 was introduced for properties and smart contracts. These smart contracts impose specific conditions and criteria to be met before registering them in the blockchain. Registration takes place without the intervention of a third party. In Blockchain 3.0, many applications were developed in various sectors such as government, education, health, and science. The application of blockchain to education is still in its early stages. Only a small number of educational institutions have started to utilize blockchain technology. Most of these institutions are\nAppl. Sci. 2019, 9, 2400; doi:10.3390/app9122400 www.mdpi.com/journal/applsci\nAppl. Sci. 2019, 9, 2400 2 of 18\nusing it for the purpose of validating and sharing academic certificates and/or learning outcomes that their students have achieved [6]. However, researchers in the field believe that blockchain technology has much more to offer and can actually revolutionize the field. According to Nespor [7], blockchain could undercut the educational institutions\u2019 central role as certification agents and provide students with more learning opportunities. Although the volume of literature on the application of blockchain to education has been increasing in the last few years, it is still fragmented, and no systematic review has yet been conducted on the topic. Such a review is of great importance to provide a state-of-the-art overview of the topic and inform evidence-based practice. Thus, this paper makes an original and timely contribution to the literature of educational technology by investigating how blockchain technology is being utilized in education. Its primary target audience are managers, policy-makers, academics, and researchers with an interest in securing knowledge of this emerging technology and how it could have a profound impact on the education field. The remainder of the paper is structured as follows. Section 2 introduces the systematic review procedure that has been adopted in this study. Section 3 demonstrates the results of the review. Section 4 provides an in-depth analysis and discussion of the results. Section 5 highlights areas for future research. Section 6 discusses the limitations of this review. Lastly, Section 7 concludes the paper."
+        },
+        {
+            "heading": "2. Methodology",
+            "text": "This review was performed following the guidelines provided by Okoli and Schabram [8]. The guideline identifies eight steps.\n1. Identifying the purpose and the research questions of the review. This step is necessary for the systematic review to be explicit to the readers. In addition, well-formulated research questions can increase the efficiency of the systematic review and limit the time and cost of obtaining relevant articles.\n2. Writing a detailed protocol for the review and training all reviewers on how to execute it. A protocol is a plan that details the specific steps and procedures to be followed in the review. This step is important to ensure that the reviewers are completely clear about the detailed procedure to be followed.\n3. Searching for relevant articles. Currently, electronic resources are the predominant source of literature search. Electronic databases such as IEEE Xplore and ProQuest offer access to most published literature. However, it is crucial for reviewers to understand the correct use of Boolean operators to effectively search these databases.\n4. Screening articles for inclusion. In this step, the reviewers decide what articles should be considered for review, and which ones should be eliminated. They also need to state what the practical reasons are for excluding each article.\n5. Appraising the quality of the articles. In this step, the reviewers need to determine which articles are of sufficient quality to be included in the systematic review. This step serves two purposes. First, in systematic reviews where there is a minimum quality standard for inclusion, the quality appraisal is employed to exclude articles that do not meet the reviewers\u2019 standard. Second, in all systematic reviews, there needs to be some sort of quality appraisal since the quality of the review depends to a large extent on the quality of the included articles.\n6. Extracting data from articles. After identifying all the articles that will be included in the review, the reviewers need to systematically extract the appropriate data from each article. This data should serve as the raw material for the synthesis stage. The type of data to be extracted is determined based on the research questions established during the early stage of the review.\n7. Analyzing the extracted data. Also known as data synthesis, this step involves aggregating, organizing, comparing, and discussing the facts extracted from the articles. The procedure involved in this step depends on whether the included articles are qualitative, quantitative,\nAppl. Sci. 2019, 9, 2400 3 of 18\nor mixed. Qualitative, quantitative, and mixed studies can be analyzed qualitatively, whereas only quantitative studies can be analyzed quantitatively.\n8. Writing the systematic review. In this step, the standard principles of writing research articles should be followed. The review should be reported in sufficient detail so that its result can be independently reproduced.\nThe following subsections describe how these eight steps were performed within this systematic review."
+        },
+        {
+            "heading": "2.1. Defining the Research Questions",
+            "text": "Based on the purpose of this study, the following research questions were formulated.\n1. What applications have been developed with blockchain technology for educational purposes? 2. What benefits could blockchain technology bring to education? 3. What are the challenges of adopting blockchain technology in education?"
+        },
+        {
+            "heading": "2.2. Searching for Relevant Articles",
+            "text": "To gather relevant articles for our systematic review, we searched nine large scientific databases: the ACM digital library, IEEE Xplore, Sciencedirect, Taylor & Francis online, SAGE Journals, ProQuest, Springer, and Web of Science. These databases were chosen based on recommendations obtained from the website of Monash University Library [9]. This website belongs to a leading world university recognized for its excellence in teaching and research. The website suggests databases based on the subject under investigation. The nine databases are known for indexing high impact, high quality articles in the fields of educational and information technology. The date of the last search was the end of April 2019. The following terms were used in the search: \u201cBlockchain AND Education,\u201d \u201cBlockchain AND Learning,\u201d and \u201cBlockchain AND Teaching.\u201d However, since each database uses its own search syntax, different query strings were defined for each of them (see Table 1).\nDuring the subsequent execution of the study, we searched Google Scholar for more papers. The aim was to find other quality articles that might not have been found during the initial databases search. However, because Google Scholar includes sources that are not peer-reviewed, the search was limited to articles published by well-known educational technology publishers i.e., Association for the Advancement of Computing in Education (AACE), Australasian Society for Computers in Learning in Tertiary Education, Canadian Network for Innovation in Education, Consortia Academia Publishing, Distance Education Association of New Zealand, IGI Global, and Society for Information Technology & Teacher Education. To limit the search to these publishers, the Advanced Search page of Google\nAppl. Sci. 2019, 9, 2400 4 of 18\nScholar was used. Publishers\u2019 names were entered in the field \u201cReturn articles published in,\u201d while the query stings were entered in the field \u201cwith all of the words.\u201d The following query strings were used for this search: blockchain + education, blockchain + learning, and blockchain + teaching."
+        },
+        {
+            "heading": "2.3. Inclusion and Exclusion of Articles",
+            "text": "After finishing the search, the researchers screened the titles and abstracts of the retrieved articles using pre-defined inclusion and exclusion criteria. An article was excluded if: (1) it is not in English, (2) the full text is not available online, (3) it does not present an application of blockchain technology in education, and (4) the presented application is not a practical one, i.e., viewpoint or opinion. The remaining articles were added to EndNote and duplicates were removed. Lastly, the full text of each article was read to make sure that it contains all the data required for this systematic review. No quality appraisal was conducted. The quality of this review was ensured by using scientific databases as a main source for finding relevant articles. Then, for the Google Scholar search, only peer reviewed articles, published by major publishers, were considered for inclusion in this review. Therefore, we were able to include articles that were probably of high quality."
+        },
+        {
+            "heading": "2.4. Data Extraction",
+            "text": "A data extraction form was used to extract data from the included studies. The form was designed specifically for this review and was piloted on a sample of four papers. The form contained the eleven items shown in Table 2."
+        },
+        {
+            "heading": "2.5. Data Analysis",
+            "text": "After extracting the data from papers, data analysis was performed. The extracted data was analyzed using four pre-determined main themes that emerged from the research questions. The themes included: application, benefits, challenges, and future area of application. For each one of these main themes, several sub-themes emerged through the data analysis."
+        },
+        {
+            "heading": "3. Results",
+            "text": "A total of 2321 articles were retrieved from the nine scientific databases. Then another 215 additional articles were found through the Google Scholar search. The initial screening of these articles, which was based on title and abstract, has resulted on the exclusion of 2489 articles. The vast majority of these articles (2293) were excluded because of their scope, i.e., they did not present an application of blockchain technology in education. An additional 175 articles were excluded because the applications they presented were not practical ones (i.e., viewpoints or opinions). The remaining 68 articles were checked for duplicates, of which there were 21, which left 47 articles for full-text reading. During the full-text reading, it became clear that 16 articles should be removed since they did not provide complete data for the review. Eventually, 31 articles were deemed suitable for inclusion in this\nAppl. Sci. 2019, 9, 2400 5 of 18\nsystematic review and were included in the data extraction process. See Figure 1 for the full results of the review process.\nAppl. Sci. 2019, 9, x FOR PEER REVIEW 5 of 19 2.5. Data Analysis After extracting the data from papers, data analysis was performed. The extracted data was analyzed using four pre-determined main themes that emerged from the research questions. The themes included: application, benefits, challenges, and future area of application. For each one of these main themes, several sub-themes emerged through the data analysis. 3. Results\nA total of 2321 articles were retrieved from the nine scientific databases. Then another 215 additional articles were found through the Google Scholar search. The initial screening of these articles, which was based on title and abstract, has resulted on the exclusion of 2489 articles. The vast majority of these articles (2293) were excluded because of their scope, i.e., they did not present an application of blockchain technology in education. An additional 175 articles were excluded because the applications they presented were not practical ones (i.e., viewpoints or opinions). The remaining 68 articles were checked for duplicates, of which there were 21, which left 47 articles for full-text reading.\nDuring the full-text reading, it became clear that 16 articles should be removed since they did not provide complete data for the review. Eventually, 31 articles were deemed suitable for inclusion in this systematic review and were included in the data extraction process. See Figure 1 for the full results of the review process.\nFigure 1. Flowchart of the systematic review process.\n3.1. Publication Year and Geographic Distribution\nThe distribution of articles by publication year is presented in Figure 2. As can be seen, all the included articles were published in the last four years. Overall, a sharp increase in the number of\nFigure 1. Flowchart of the systematic review process."
+        },
+        {
+            "heading": "3.1. Publication Year a d Geographic Distribution",
+            "text": "The distribution of articles by publication year is presented in Figure 2. As can be seen, all the included articles were published in the last four years. Overall, a sharp increase in the number of publications was noticed. While there was only one article published in 2016, this number tripled in 2017. Then, it reached 23 articles in 2018.\nAppl. Sci. 2019, 9, x FOR PEER REVIEW 6 of 19\npublications was noticed. While there was only one article published in 2016, this number tripled in 2017. Then, it reached 23 articles in 2018.\nIt is important to note that four articles published in the first four months of 2019, when data collection ended, are included in this review but was not reported in Figure 2. This is because it does not represent an accurate picture of the whole year of 2019.\nFigure 2. Publication year of the included articles.\nFigure 3 shows the geographical distribution of the included articles. Publications came from Asia (n = 13, 42%), Europe (n = 13, 42%), North America (n = 3, 10%), South America (n = 1, 3%), and Africa (n = 1, 3%). China and UK contributed the greatest number of articles with six articles each, followed by USA with three articles. India, Japan, Slovenia, and Switzerland contributed two articles each, while the remaining countries had one article each.\nFigure 3. Geographic distribution of the included studies.\n3.2. Publication Venues\nThe distribution of articles by the publication venues is shown in Figure 4. The large majority of these articles (68%) were published in conference proceedings. Seven articles (23%) were published\nFigure 2. Publication year of the included articles.\nIt is important to note that four articles published in the first four months of 2019, when data collection ended, are included in this review but was not reported in Figure 2. This is because it does not represent an accurate picture of the whol year of 2019. Figure 3 shows the geogr phical distribution of the included a ticles. Pu lications cam from Asia (n = 13, 42%), Europe (n = 13, 42%), North America (n = 3, 10%), South America (n = 1, 3%),\nAppl. Sci. 2019, 9, 2400 6 of 18\nand Africa (n = 1, 3%). China and UK contributed the greatest number of articles with six articles each, followed by USA with three articles. India, Japan, Slovenia, and Switzerland contributed two articles each, while the remaining countries had one article each.\nAppl. Sci. 2019, 9, x FOR PEER REVIEW 6 of 19 publications was noticed. While there was only one article published in 2016, this number tripled in 2017. Then, it reached 23 articles in 2018. It is important to note that four articles published in the first four months of 2019, when data collection ended, are included in this review but was not reported in Figure 2. This is because it does not represent an accurate picture of the whole year of 2019.\nFigure 2. Publication year of the included articles.\nFigure 3 shows the geographical distribution of the included articles. Publications came from Asia (n = 13, 42%), Europe (n = 13, 42%), North America (n = 3, 10%), South America (n = 1, 3%), and Africa (n = 1, 3%). China and UK contributed the greatest number of articles with six articles each, followed by USA with three articles. India, Japan, Slovenia, and Switzerland contributed two articles each, while the remaining countries had one article each.\nThe distribution of articles by the publication venues is shown in Figure 4. The large majority of these articles (68%) were published in conference proceedings. Seven articles (23%) were published"
+        },
+        {
+            "heading": "3.2. Publication Venues",
+            "text": "The distribution of articles by the publication venues is sho n in Figure 4. The large majority of these articles (68%) were published in conference proce s. Seven articles (23%) were published in journals and only three articles (7%) were published in colloquium and workshop proceedings. The Institute of Electrical and Electronics Engineers (IEEE) is the most common publication venue (nine articles). About 55% of the venues are technical venues (i.e., covering issues related to engineering, technology, or telecommunication), while 45% are educational venues (i.e., covering issues related to learning technologies or education in general). Appl. Sci. 2019, 9, x FOR PEER REVIEW 7 of 19 in journals and only three articles (7%) were published in colloquium and workshop proceedings. The Institute of Electrical and Electronics Engineers (IEEE) is the most common publication venue (nine articles). About 55% of the venues are technical venues (i.e., covering issues related to engineering, technology, or telecommunication), while 45% are educational venues (i.e., covering issues related to learning technologies or education in general).\nFigure 4. Distribution of articles by publication venues.\n3.3. Applications of Blockchain in Education\nAs shown in Table 3, a variety of blockchain applications have been developed for educational purposes. These applications can be classified into twelve categories: certificates management, competencies and learning outcomes management, evaluating students\u2019 professional ability, protecting learning objects, securing collaborative learning environment, fees and credits transfer, obtaining digital guardianship consent, competitions management, copyrights management, enhancing students\u2019 interactions in e-learning, examination review, and supporting lifelong learning.\nEvaluating students\u2019 professional ability Wu and Li [29] 2, Zhao, Liu and Ma [25] 3, Liu, Guan, Yang, Zhu, Green and Yin [26] 2, Shen and Xiao [27] 3, Mikroyannidis, Domingue, Bachler and Quick [28] 2, Lizcano, Lara, White and Aljawarneh [20] 1\nSecuring collaborative learning environment Bdiwi, et al. [30] 2, Bore, et al. [31] 2, Zhong, et al. [32] 2\nProtecting learning objects Riddell [19] 1, Sychov and Chirtsov [33] 3\nFigure 4. Distr bution of a les by publicatio venues."
+        },
+        {
+            "heading": "3.3. Applications of Blockchain in Education",
+            "text": "As shown in Table 3, a variety of blockchain applications have been developed for educational purposes. These applications can be classified into twelve categories: certificates management, competencies and lear i utcomes management, evaluating students\u2019 professional ability, protecting\nAppl. Sci. 2019, 9, 2400 7 of 18\nlearning objects, securing collaborative learning environment, fees and credits transfer, obtaining digital guardianship consent, competitions management, copyrights management, enhancing students\u2019 interactions in e-learning, examination review, and supporting lifelong learning.\nTable 3. Applications identified in the reviewed articles.\nApplication Category * Articles\nCertificates management\nNespor [7] 3, Han, et al. [10] 2, Arenas and Fernandez [11] 3, Xu, et al. [12] 3, Sharples and Domingue [13]2, Bandara, et al. [14] 3, Srivastava, et al. [15] 1, Cheng, et al. [16] 3, Palma, et al. [17] 2, Gresch, et al. [18] 2, Funk, et al. [19] 1, Lizcano, et al. [20] 1, Hori and Ohashi [21] 3\nCompetencies and learning outcomes management\nFarah, et al. [22] 2, Williams [23] 1, Duan, et al. [24] 2, Zhao, et al. [25] 3, Liu, et al. [26] 2, Shen and Xiao [27] 3, Mikroyannidis, et al. [28] 2, Srivastava, Bhattacharya, Singh, Mathur, Prakash and Pradhan [15] 1, Lizcano, Lara, White and Aljawarneh [20]1\nEvaluating students\u2019 professional ability Wu and Li [29] 2, Zhao, Liu and Ma [25] 3, Liu, Guan, Yang, Zhu, Green and Yin [26] 2, Shen and Xiao [27] 3, Mikroyannidis, Domingue, Bachler and Quick [28] 2, Lizcano, Lara, White and Aljawarneh [20] 1\nSecuring collaborative learning environment Bdiwi, et al. [30] 2, Bore, et al. [31] 2, Zhong, et al. [32] 2\nProtecting learning objects Riddell [19] 1, Sychov and Chirtsov [33] 3\nFees and credits transfer H\u00f6lbl, et al. [34] 3, Wu and Li [29] 2, Turkanovic\u0301, et al. [35] 2\nObtaining digital guardianship consent Gilda and Mehrotra [36] 2\nCompetitions management Wu and Li [29] 2\nCopyrights management Hori, et al. [37] 2\nEnhancing students\u2019 interactions in e-learning Zhong, Xie, Zou and Chui [32] 2\nExamination review Mitchell, et al. [38] 2\nSupporting lifelong learning Mikroyannidis, et al. [39] 2\n* Some articles fall under more than one category. 1 Application has been developed and is now being used. 2 A prototype of the application is developed and evaluated but not yet used by real users. 3 The application is proposed. Its features are described but no implementation has been made.\nThe majority of applications were focused on certificates management. Thirteen out of the 31 articles included in this review (41%) presented applications to manage the process of issuing, storing, and sharing students\u2019 academic certificates. However, nine articles (29%) discussed blockchain applications to store and share competencies and learning outcomes that students have attained. The third category of applications focuses on evaluating students\u2019 professional ability. Six articles (19%) introduced applications that could be used by enterprises to evaluate the professional skills of students based on their academic achievements. The fourth category is concerned with protecting learning objects from destruction and unauthorized change, and it includes two articles (6%). A fifth category of applications found in the reviewed articles is related to the collaborative learning environment. Two out of the 31 articles (6%) presented blockchain applications to provide more privacy and security to the collaborative learning systems. The sixth category of applications is related to fees and credits transfer, and it also includes two articles (6%). These applications benefit from the high security and integrity of blockchain technology to facilitate easier and more secure fees/credit transfer. The last six categories were presented in single articles. The seventh one focuses on obtaining data consent from legal guardians. The eighth one is concerned with managing academic competitions and enhancing the efficiency and transparency of these competitions. The ninth one is related to copyrights management and preserving the ownership rights of learning materials. The tenth one focuses on enhancing students\u2019 interactions in the e-learning process by rewarding them virtual currencies. The eleventh one is concerned with securing the auditing and sharing of exam papers. The last one focuses on supporting lifelong learning by helping the learners to be at the center of the learning process and its associated data. Of the 31 articles included in this review, four articles (13%) described applications that have been already developed and are now being used. In 16 articles (51%), a prototype of the proposed application is developed and evaluated but not yet used by real users. In 11 articles (36%), the application is proposed and its features are described, but no implementation has been made yet.\nAppl. Sci. 2019, 9, 2400 8 of 18"
+        },
+        {
+            "heading": "3.4. Benefits that Blockchain could Bring to Education",
+            "text": "The reviewed articles highlighted 10 different types of benefits that blockchain could bring to education (see Figure 5). The first benefit is security. Seventeen articles (55%) identified security as an important benefit of integrating blockchain technology in education. Security includes data protection, privacy, and integrity. A second crucial benefit of utilizing blockchain in education is providing better control on how students\u2019 data are accessed and by whom. This benefit was emphasized by 12 articles (39%). A third benefit highlighted by 11 articles (36%) is enhancing accountability and transparency. A fourth benefit that blockchain technology could bring to education is enhancing trust. According to 10 articles (32%), blockchain can establish trust between all included parties and ease the communication between them. A fifth benefit of utilizing blockchain in education is lowering the cost. This benefit was reported in nine articles (29%). According to these articles, the nature of blockchain technology can help reduce the unnecessary cost associated with the transactions and storage of data. The sixth benefit is related to authentication. Nine articles (29%) reported that blockchain technology can be very useful in authenticating students\u2019 identities as well as their digital certificates.\nAppl. Sci. 2019, 9, x FOR PEER REVIEW 9 of 19\nin education is lowering the cost. This benefit was reported in nine articles (29%). According to these articles, the nature of blockchain technology can help reduce the unnecessary cost associated with the transactions and storage of data. The sixth benefit is related to authentication. Nine articles (29%) reported that blockchain technology can be very useful in authenticating students\u2019 identities as well as their digital certificates. The seventh benefit is related to students\u2019 assessments. Eight articles (26%) reported that blockchain technology could enhance the way that learning outcomes and students\u2019 performance are assessed. An eighth benefit reported by the seven articles (23%) is improving the efficiency of data exchange and the management of students\u2019 records. The ninth benefit, which was described by two articles (6%), is enhancing learners\u2019 interactivity and system interoperability. The last benefit is related to the future career of learners. One article emphasized that blockchain technology can be very helpful in supporting learners\u2019 career decisions.\nFigure 5. Benefits and challenges of adopting blockchain technology in education."
+        },
+        {
+            "heading": "3.5. Challenges of Adopting Blockchain Technology in Education",
+            "text": "Nine different types of challenges were highlighted in the reviewed articles (see Figure 5). The first challenge is related to blockchain scalability. Ten articles (32%) noted that the increase in the number of transactions in the blockchain network leads to an increase in block sizes. This will eventually increase the transactions latency. The second challenge is related to the privacy and security of blockchain. Nine articles (29%) discussed different types of security and privacy concerns that could be experienced when utilizing blockchain technology such as malicious attacks and data leakage. The third major challenge of utilizing blockchain in education is the cost of adopting this technology. Nine articles (29%) discussed this challenge from different aspects such as: computing power cost, cost of changing the current infrastructure, time cost due to slow transactions, and cost to manage big size data. The fourth challenge is related to trust. Seven articles (23%) pointed out that educational institutions are still reluctant to share their data on a blockchain network. A fifth challenge that was highlighted by four articles (13%) is setting the boundaries of blockchain\nFigure 5. Benefits and challenges of adopting blockchain technology in education.\nThe seventh benefit is related to students\u2019 assessments. Eight articles (26%) reported that blockchain technology could enhance the way that learning outcomes and students\u2019 performance are assessed. An ighth benefit reported by the seven articles (23%) is improving the efficiency of data exchange a d the m nagement of students\u2019 records. The n nth benefit, which was described by two articles (6%), is enhancing learners\u2019 interactivity and system interoperability. The last ben fit is related to the future ca er of learners. One articl emphasized that blockchain technology can be very helpful in s pporting learners\u2019 career de isions."
+        },
+        {
+            "heading": "3.5. Challenges of Adopting Blockchain Technology in Education",
+            "text": "Nine different types of challenges were highlighted i the reviewed articles (see Figure 5). The first challenge is relat d to blockchain scalability. Ten articles (32%) noted that the increase in the number of\nAppl. Sci. 2019, 9, 2400 9 of 18\ntransactions in the blockchain network leads to an increase in block sizes. This will eventually increase the transactions latency. The second challenge is related to the privacy and security of blockchain. Nine articles (29%) discussed different types of security and privacy concerns that could be experienced when utilizing blockchain technology such as malicious attacks and data leakage. The third major challenge of utilizing blockchain in education is the cost of adopting this technology. Nine articles (29%) discussed this challenge from different aspects such as: computing power cost, cost of changing the current infrastructure, time cost due to slow transactions, and cost to manage big size data. The fourth challenge is related to trust. Seven articles (23%) pointed out that educational institutions are still reluctant to share their data on a blockchain network. A fifth challenge that was highlighted by four articles (13%) is setting the boundaries of blockchain technology adoption. According to these four articles, educational institutions might find it challenging to decide which data and services should be offered through the blockchain network. Furthermore, two articles (6%) indicated that immutability, which is a main feature of blockchain, could pose a challenge for the adoption of blockchain technology in the education field. These articles explained that immutability could make it difficult for educational institutions to apply new information storage laws or correct inaccurate data. The seventh challenge is related to the immaturity of blockchain technology. One article (3%) reported that blockchain still suffers from some immaturity issues such as poor usability and complex settings. Another challenge that has been reported by one article (3%) is data unavailability. According to this article, placing data management in the hands of users themselves could make this data unavailable and that could affect applications that are depending on this data. A final challenge highlighted in one of the reviewed articles (3%) is weakening the value of the traditional school credential. According to this article, blockchain could allow students to act as their own lifelong registrar of education achievements and that could undercut the educational institutions\u2019 central role as certification agents."
+        },
+        {
+            "heading": "4. Discussion",
+            "text": "The publication trend indicates that there is a worldwide increasing interest in using blockchain technology in education. However, given this relatively small number of studies that have been found, more research is needed in this area. Overall, this systematic review of the 31 studies was helpful in answering our three research questions."
+        },
+        {
+            "heading": "4.1. What Applications Have Been Developed with Blockchain Technology for Educational Purposes?",
+            "text": "Although an increasing number of blockchain-based applications have been developed for educational purposes, only a few of them were launched to the public. These applications, which have been discussed in the previous section, can be classified into 12 main categories. Each category addresses an issue related to trust, privacy, or security within the education environment. The first category focused on some applications that were related to certificates management. This category concerns handling all forms of academic credentials, transcripts, students\u2019 certificates, or any other forms of accomplishment records. In the education field, many applications used blockchain to issue digital certificates. Most of these certificates\u2019 applications benefited from the high level of trust and the privacy provided by using blockchain technology. To illustrate, Nespor [7] proposed a blockchain certification platform, which compensated for using the school as a certification agent. This application would authorize the higher education providers or employers to supply official certificates for students with a high level of privacy of their information. Thus, students could share it directly with anyone requesting their official documents. Similarly, authors in Reference [10] utilized the decentralized nature of blockchain technology to provide novel blockchain-based education records for verifying and issuing official transcripts or certificates. The individuals could have access to their data records. However, only certified organizations are permitted to access and modify the stored data in the system under some restricted conditions and rules.\nAppl. Sci. 2019, 9, 2400 10 of 18\nThe second category was concentrated on competencies and learning outcomes management. Greater attention was paid toward building some blockchain applications to improve the learning objectives and enhance the attainment of competencies within the educational scope. This would help enhance the learning process and enrich the education domain in a wide spectrum. Due to the high efficiency of blockchain, several applications could measure and evaluate the students\u2019 performance based on qualitative and quantitative parameters. For instance, Farah, Vozniuk, Rodr\u00edguez-Triana and Gillet [22] built a system to trace the performance of students for their multi-learning activities. It adds up independently with all traces for each given activity into a block. Thus, this learning block can be considered as self-describing since it includes all metadata about many activities. Such an application leads to achieving a high level of self-efficiencies. Another application by Williams [23] proposed a learning environment for students. The system provides a prompt/direct support and meaningful feedback. It was intended to enhance the learning process by applying a wide set of skills, encourage critical thinking and problem solving with better collaboration and communications. The third category covers applications related to securing a collaborative learning environment. This category focuses on the significance of using blockchain to support the learning environment. Since the blockchain provides a decentralized network that could be accessible easily with high security and integrity, it builds a collaborative atmosphere for all parties including students, faculty members, and authorities. Authors in Reference [30] introduced the Ubiquitous learning (U-learning) system, which uses the blockchain technology to provide students with anytime/anywhere collaborative learning environment with a high level of security. Thus, U-learning has an interactive multimedia system in order to encourage an efficient communication system among teachers and students. In a similar manner, authors in Reference [31], emphasized the importance of improving the schools\u2019 learning environment by employing blockchain as a School Information Hub (SIH). Such a system can be used to gather, analyze, and report data regarding school systems, which can help and support the decision-making process. The fifth category is related to fees and credits transfer. It includes some applications with similar features for transferring credential records or fees among institutions, organizations, or even universities due to the high security and trust of blockchain. Usually, educational institutions rely on a third party/intermediary to handle and approve the transfer of credits or fees. Fortunately, the blockchain can be used as an efficient manner to exchange information and eliminate the need of such third or intermediary parties based on its high security level. To illustrate, the EduCTX system [34] enabled the transfer process using tokens. These tokens can be in terms of any digital form for learning units such as certificates, courses, and diplomas. Each educational institution has its own EduCTX address to handle the secured transfer process. The sixth category discussed some applications related to obtaining digital guardianship consent. Blockchain helped enhance the traditional way of gathering parents\u2019 consents to be collected electronically instead. This was highly reflected due to the trust that blockchain technology can provide. The decentralized nature of blockchain assists in accelerating the process of collecting consent without compromising its privacy. This has a great impact to ease the collecting and commutation process among a large number of students, parents, and educational institutions. Gilda and Mehrotra [36] proposed a framework to permit public schools to give authorization rights to any third-party institutions who would like to meet their students without obtaining parents\u2019 consents for every single time. Blockchain helped establish a nested authorization process that speeds up the whole process and, thus, guarantees the privacy and access control of consent. Another category concerns competition management, which utilizes blockchain technology to facilitate managing competition operations and to enhance its efficiency and transparency. Wu and Li [29] introduced a competition model based on the e-commerce operation sandbox, which is a decision-making system for examining students\u2019 professional knowledge and expertise. They developed this system to build up an evaluation system, which measures and manages students\u2019 operational proficiencies.\nAppl. Sci. 2019, 9, 2400 11 of 18\nFurthermore, evaluating students\u2019 professional ability is another category that links students\u2019 professionalism with specific industries for the purpose of employment recommendations. One example for this category was a study by Liu, Guan, Yang, Zhu, Green and Yin [26], which applied the blockchain technology to link between educational institutions and employment enterprises for sharing all necessary information regarding recruitment and industry requirements. Similarly, another example was illustrated by Zhao, Liu and Ma [25], where an application program was developed using blockchain in order to evaluate students\u2019 professional skills based on their academic achievements and performances, which then could be provided to any interested industry. This evaluation system has been designed to assess and analyze students\u2019 abilities based on the clustering algorithm within the blockchain. Another category classified as copyrights management preserves the ownership rights when using the blockchain. Hori, Ono, Miyashita, Kobayashi, Miyahara, Kita, Yamada and Yamaji [37] discussed the implementation of a decentralized learning system \u201cCHiLO\u201d for protecting e-books\u2019 copyrights and ownerships. Moreover, protecting learning objects is another category that emphasizes the importance of utilizing the blockchain application in order to protect any new knowledge or learning objects acquired from students or faculty members. For instance, Sychov and Chirtsov [33] developed a unified-bank of learning objects, which consists of the Electronic Educational Environment (EEE). Due to the numerous resources available, a protection technique for these resources was needed. Therefore, they used a permitted blockchain algorithm in order to save the fundamental scientific resources. Enhancing students\u2019 interactions in the e-learning systems is classified as another application category that adopted blockchain technology to solve some issues related to students\u2019 interactivity in the e-learning environment. Zhong, Xie, Zou and Chui [32] proposed a potential application based on the blockchain technique. This application was designed in order to improve learning engagement. It gives rewards in the form of virtual currencies to the top ranked learners based on predefined policies deployed on the blockchain network. Examination review is another application category that was identified in this review. By implementing a permissioned blockchain technique, the security of auditing exam papers can be enhanced tremendously by using trusted ledgers. Mitchell, Hara and Sheriff [38] developed a decentralized application for an examination review called \u201cdAppER.\u201d This system was designed by taking into account the quality assurance standards when disturbing exam papers among external examiners. Based on their findings, dAppER was helpful in managing the quality assurance systems. Lastly, supporting lifelong learning is the last application category. Blockchain technology has played an important role in enhancing the lifelong learning aspects such as improving skills, knowledge, and efficiency. For instance, Mikroyannidis, Domingue, Bachler and Quick [39] discussed how blockchain technology has affected real-life learning and they presented an ecosystem that puts the learner at the middle of the learning process and its related data. More precisely, authors identified how accreditation, tutoring, and ePortfolios can be developed within this lifelong learning ecosystem using the blockchain technology. The proposed model can enable learners to outline an efficient plan for their educational journey, which relayed on their desirable profession trajectory, by offering them complete dominance and ownership during their learning processes."
+        },
+        {
+            "heading": "4.2. What Benefits Could Blockchain Technology Bring to Education?",
+            "text": "Blockchain technology could bring significant benefits to education, including high security, low cost, enhancing students\u2019 assessments, better control of data access, enhancing accountability and transparency, identity authentication, enhancing trust, improving efficiency of students\u2019 records management, supporting learners\u2019 career decisions, and enhancing learners\u2019 interactivity. Using blockchain assures the security and privacy of data/transactions exchanged between the intended parties. The nature of peer-to-peer topology in the blockchain helps reduce the security risks in education field. In Reference [30], the consensus protocol was used to maintain the order of\nAppl. Sci. 2019, 9, 2400 12 of 18\ntransactions and reduce the risk of unsecured ones, whereas the intended parties can verify the ledger content. Using the cryptographic hashes and signatures assured the reliability of the transactions as well. The beauty of blockchain relies on securing the data itself and verifying that it has not been tampered with. To illustrate, the blockchain was used to sign and validate learning traces and records [22]. Each learning block is composed of various types of data related to a learning activity. To protect these data, an encryption algorithm was performed before sending it to other participants. Furthermore, the education field can greatly benefit from using the blockchain to reduce the costs. The cost includes storage cost, associated transaction costs, and the cost of managing and maintaining the educational records. Using a public/private distributed network that can be accessed from anywhere, dramatically diminishes the cost of the traditional cloud-based storage [10]. Generally, verifying and processing academic certificates requires additional costs whereas the blockchain helps reduce such costs [34]. In addition, applying the blockchain technology can enhance students\u2019 assessment. In Reference [24], the blockchain was implemented to measure the learning performance based on the achieved learning outcomes. Each block contains quantitative and qualitative information such as grades, course name, learning outcome name, course weight, and the graduation requirement indicator. After assessing the learning outcome achievements, other universities or institutions can freely and inclusively access this information and communicate accordingly. One of the great features and benefits of blockchain is restricting/controlling the access of the stored records. Educational records include transcripts, diploma, or personal students/teachers records. One good example was presented in Reference [11], where a permissioned blockchain platform was used to restrict access to academic credentials and limit it to the intended participants only. The blockchain platform allows only certified institutions under specific rules to access and modify the stored data [10]. Moreover, enhancing accountability and transparency are two advantages achieved when using blockchain technology. Storing all educational or school records in one place, where it can be easily accessible, will increase the accountability and transparency of using such records. In Reference [31], the School Information Hub (SIH) system, which is based on blockchain, was implemented to collect and store school reports and records. This system helped improve the transparency of the shared data as well as the flexibility of analyzing, correlating, or distributing such data. Additionally, the blockchain assures the authenticity of the digital certificates as well as the identity of users. In Reference [14], a digital syllabus was stored in a blockchain. Once blocks have been created, the authorized university will sign it using a private key. After that, a cryptographic hash of the course syllabus will be issued to ensure that no one can tamper with the content. In order to validate the authenticity of these data, the university verifies it by the hash and the key that belongs to the original institution. Trust is another advantage that comes with using the blockchain technology. Only trusted parties can be engaged in adding blocks to the network and only trusted parties can gain access. Trust is a big concern when dealing with different authorities from different regions. Universities or any educational institutions can build a trustworthy community by implementing secure and reliable blockchain-based systems. EduCTX, which is a credit and grading blockchain-based platform, was introduced in Reference [35]. It transfers tokens to trusted parties. These tokens depend on the completed credits gained in students\u2019 records. Therefore, it led to create a globally, trusted, and unified system for the higher education organization. In addition, improving the efficiency of managing students\u2019 records is a great benefit of blockchain technology. Using blockchain in education can potentially reduce the risks of trading mistakes between the intended parties. Instead, it uses one ledger for a faster and more efficient method to exchange data. With the help of blockchain, digital records and certificates can be managed more effectively due to its flexibility and transparency. Gresch, Rodrigues, Scheid, Kanhere and Stiller [18] introduced \u201cUZHBC,\u201d which is a blockchain system at the University of Zurich that manages diplomas by considering several stakeholder requirements. Moreover, efficiency and transparency can be achieved among educational\nAppl. Sci. 2019, 9, 2400 13 of 18\ninstitutions, students, and employment agencies by exchanging students\u2019 records using the blockchain system for advisory recommendations [26]. Supporting learners\u2019 career decisions is another advantage of utilizing the blockchain technology. Mikroyannidis, Domingue, Bachler and Quick [28] proposed smart blockchain badges for data science students. It was designed in order to provide personalized career recommendations to students based on their learning achievements. The last benefit identified in this review is enhancing user interactivity and system interoperability. Zhong, Xie, Zou and Chui [32] introduced a conceptual model for e-learning systems based on blockchain technology. They used a learning reward system for participating in learning activities. The learning resources can be shared through all nodes in the peer-to-peer network. All learning records are merged into a block and can be easily checked to track the learners\u2019 progress of interactivity and interoperability."
+        },
+        {
+            "heading": "4.3. What Are the Challenges of Adopting Blockchain Technology in Education?",
+            "text": "Despite the fact that blockchain has shown its potential in an education context, there are multiple challenges that need to be considered when employing blockchain technology in the education field. In this review article, we have summarized these challenges into some basic categories. While security is the main feature of the blockchain technology, the risk of malicious attacks cannot be removed [40]. It is very difficult to provide security and keep privacy at the same time [10,11], and this issue becomes more crucial when a person\u2019s career is at risk (online authorization of educational credentials and certificates). To ensure privacy, many blockchain frameworks use public and private keys. However, blockchain cannot guarantee transactional privacy because data of each public key are publicly visible [22] and, in this way, user\u2019s transactions can be linked to reveal user\u2019s information. Adequate storage and protection of private keys of all members is also a security issue that should be amicably handled [35]. Data leakage is a security concern and can occur due to frequent updates of data that should be considered [36]. The slow speed blockchain transactions, known as the blockchain\u2019s scalability problem, is one of the issues that can be faced in education systems when using blockchain. This issue has been discussed in most publications. This is about slow transaction speed of big size blocks in blockchain technology as transactions continue and the record grows. The block size increases as a result of a substantial increase in users [10,12,14,24,41]. Educational systems also have plenty of data to keep track of students who are constantly moving from school to school. This can increase the block size. Every transaction requires peer-to-peer verification that can become time consuming as the number of blocks increase. This is a big challenge of blockchain technology that Bitcoin technology can handle with only three to seven transactions per second [42]. Studies show that this issue can hinder blockchain development in education. Many studies are being held to solve this issue and many researchers proposed some ideas, such as Zilliqa [13], which is a new blockchain platform that is based on sharing technique to breakdown the big blockchain network into multi-shards that validate transactions in parallel. However, scalability concerns must be effectively addressed before the blockchain can be adopted on a wide scale. Blockchain is an emerging technology that needs to integrate with the legacy system. However, the costs of this adoption and implementation can be very high. Besides this implementation cost, transaction or computational cost of many techniques of blockchain is also high [22]. As mentioned above, to manage and store such big student data, as block size increases with the rise of users, the cost will grow as well [10,23]. Without managing this development and operational cost, it will be difficult to use this technique in traditional education systems [31,43]. For certificate verifications, there is a need that all institutes should come to agree to share their data. However, the question is how will all institutes become ready to share their data? It is unclear in some cases whether a DLT/Blockchain solution is an improvement over a more traditional, centralized ledger. Moreover, there is insufficient evidence on business gains for educational institutes, which, in turn,\nAppl. Sci. 2019, 9, 2400 14 of 18\nmakes blockchain adoption more difficult. There can be plenty of risk to change the existing educational practices that affect the existing systems as well as economy. How can authorized organizations be ready to take on the risk to provide their students\u2019 credentials? If authorized organizations will not agree to provide such data, then it can create more complications in the authorization process [10,13,35]. Higher education policymakers or other policymakers have to consider what the blockchain can be trusted to do, and for how long. There is also a lack of clarity to define the boundaries of all legal entities. There is the possibility that some organizations do not want to adopt blockchain technology for all their business processes. A key challenge will be established without defining the potential benefits of blockchain in traditional systems [13]. It is also important to answer who will define boundaries that, to this extent, this institution actually needs technology transfer and how many processes of blockchain technology that institute should adopt [35]. Early collaboration between the government or higher education with the private sector on regulatory compliance can set the pace of blockchain adoption in the education sector. Another key issue with blockchain technology currently is the poor usability of its products especially the early ones. There is also a lack of clarity on the terminology and perceived immaturity of the technology. Furthermore, there are many complex settings that the user may have to store for security reasons such as primary key, public key, and recovery seeds. Blockchain has entirely new terminology, which is difficult to understand for education field users. There is a need to improve the usability by making easy interfaces of blockchain products, so that individuals without technical expertise can easily understand and use the system [36]. Thus, further work in usability testing in the field will be necessary. Good designs and easy terminology can help blockchain adaptation in the education sector. By applying more security checks on data, the data becomes unavailable for those sites that are dependent on users\u2019 data [22]. There is a trade-off between privacy and data availability. Therefore, when users are managing their own data in blockchain technology, it becomes harder to access such data. The immutability nature of blockchain makes it more difficult to edit the data unless everyone agrees to change the content of the ledger. This immutability can create a problem for government agencies that require their citizens\u2019 data for law and order purposes. Moreover, if governments want to make changes in already defined policies of any system, the immutability feature of blockchain will not allow it [22]. The immutability nature of blockchain can also be a major issue when an unauthorized delete is made by an ex-employee or an ex-external examiner. Such an alteration of data is immutable and irreversible [38]. The centralized nature of the process of any educational system can be affected due to decentralized blockchain technology. As in blockchain, the availability of a continuously aggregating ledger can affect the value of the traditional school credential [7]. Blockchain technology is one of the greatest innovations of recent times. It is likely that it will take a substantial amount of time before the technology is adopted widely. This is because there are several challenges associated with blockchain adoption that must first be handled before using this technology in the education sector."
+        },
+        {
+            "heading": "5. Areas for Future Research",
+            "text": "This synthesis presented a range of possible solutions that blockchain technology has brought to bear on teaching and learning. However, blockchain has much more to offer and can provide significant benefits to other educational areas. A main area where blockchain can be of a great benefit is collaboration and partnership between educational institutions. As has been discussed, blockchain is being trialed by different educational institutions as a secure and reliable ledger to record their students\u2019 academic achievements. This includes not only recording students\u2019 certificates, but also the different learning outcomes that they achieved and the skills that they acquired. A future study in this direction would investigate how blockchain\nAppl. Sci. 2019, 9, 2400 15 of 18\ncould be used to facilitate collaboration and partnership between educational institutions. The use of smart contracts would allow educational institutions to record and share their students\u2019 academic information such as an academic transcript, a program description, major/minor requirements, and academic probation. Students can then take courses at any of the participating institutions. Educational institutions can also offer joint academic programs. Utilizing such technology would increase students\u2019 flexibility by granting them access to the full breadth of academic programming at every other institution. It will also help educational institutions to reduce operating costs by using shared infrastructure, services, and academic programs. Job-driven education is another area where blockchain technology could be used. The main focus of job-driven education is to provide education and training programs that meet current and future hiring needs and can result in employment for participating students. Blockchain can play an important role in facilitating this type of education. Businesses can use blockchain to share skills and competencies that they require. Educational institutions can check this information regularly and use it to design training programs that are responsive to businesses\u2019 needs. Students can also use blockchain as an aggregating ledger to store their skills and competencies. Recruiting agencies could examine the blockchain and evaluate students on the basis of their skills and could recommend certain training programs. Another important area for future research is the application of blockchain technology in accrediting and improving the quality of online education. While online education has numerous advantages such as lower cost, accessibility, and flexibility, it also suffers from many drawbacks. At the top of these drawbacks is the accreditation and low quality. A large number of educational institutions claim to be accredited and they offer high quality online courses. Blockchain has the potential to address this issue. It can be used as a decentralized platform where students, educational institutions, and accrediting agencies can securely and reliably share information. Educational institutions can store information about their online courses, online programs, instructors, and accreditations. Students can share their ratings of both the course and their instructors after completing a course. These ratings can help other students judge the quality of the courses and the academic programs. Accrediting agencies can verify the accreditations information provided by the educational institutions. Students can use this information to find accredited online programs that will give them the certification they need."
+        },
+        {
+            "heading": "6. Limitations",
+            "text": "Despite the numerous advantages of conducting a systematic review, there are some limitations that need to be considered: selection bias, publication bias, inaccuracy in data extraction, and misclassification [44]. With regard to selection bias, researchers are likely to choose studies that support their claims [45]. Yli-Huumo, et al. [46] proposed a few techniques to deal with such a bias. A robust searching protocol for scientific databases was implemented and was followed by a pilot search using all alternative keywords in order to include the maximum number of papers possible. In addition, solid inclusion and exclusion criteria were designed to assure that included papers targeted the research questions that are well correlated with the research objective. Publication bias can be defined as the process of selecting positive studies over the negative ones [46]. In order to handle this risk, well-known scientific databases were used when conducting the research to increase the amount of papers included in the review. Inaccuracy in data extraction and misclassification refer to the probability of extracting data in different ways by different reviewers [47]. To tackle this issue, four authors were involved in the articles\u2019 retrieval process. The four authors carefully observed all abstracts of the extracted articles. Opinions were derived to include/exclude each article. If they encountered different opinions, a discussion was conducted to reach an agreement.\nAppl. Sci. 2019, 9, 2400 16 of 18"
+        },
+        {
+            "heading": "7. Conclusions",
+            "text": "The application of blockchain technology to the education field is in its infancy. Therefore, an analysis of the state-of-the-art blockchain research in the field of education was conducted. To the authors\u2019 knowledge, this is the first review on this topic. The review included 31 articles and was framed around three major themes: applications, benefits, and challenges. It yields several findings. First, it indicated that blockchain technology is mostly used to: issue and verify academic certificates, share students\u2019 competencies and learning achievements, and evaluate their professional ability. However, a wide range of other applications are emerging rapidly. Second, it shows that blockchain could bring significant benefits to education including providing a secure platform to share students\u2019 data, lowering cost, and enhancing trust and transparency. Third, it illustrates that the use of blockchain technology is not without challenges. Managers and policymakers should consider challenges related to security, privacy, cost, scalability, and availability before adopting the technology. Lastly, it shows that the educational areas in which blockchain technology was applied are still limited. Therefore, the potential for blockchain is still unexploited.\nAuthor Contributions: Conceptualization, A.A. Methodology, A.A. Formal analysis, A.A., S.A., M.A. and S.G. Data curation, A.A., S.A., M.A. and S.G. Writing\u2014original draft preparation, A.A., S.A. and M.A. Writing\u2014review and editing, A.A., S.A., M.A. and S.G. Supervision, A.A.\nFunding: This research received no external funding.\nConflicts of Interest: The authors declared no conflict of interest."
+        }
+    ],
+    "title": "Blockchain-Based Applications in Education: A Systematic Review",
+    "year": 2019
+}

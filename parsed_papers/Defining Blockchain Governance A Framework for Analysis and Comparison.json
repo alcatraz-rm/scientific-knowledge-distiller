@@ -1,0 +1,689 @@
+{
+    "abstractText": "In this article, we introduce a blockchain governance framework that defines the governance of a blockchain as a combination of six dimensions and three layers. An evaluation through eight expert interviews confirms the perceived usefulness and operational feasibility of the presented framework. Furthermore, the framework, is demonstrated by an application in two case studies. The introduced blockchain governance framework establishes a shared understanding and discussion surrounding the topic of blockchain governance.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Rowan van Pelt"
+        },
+        {
+            "affiliations": [],
+            "name": "Slinger Jansen"
+        },
+        {
+            "affiliations": [],
+            "name": "Djuri Baars"
+        },
+        {
+            "affiliations": [],
+            "name": "Sietse Overbeek"
+        }
+    ],
+    "id": "SP:461ca38c08619d9e796d6a9a8ee8868ae79b6848",
+    "references": [
+        {
+            "authors": [
+                "J. Al-Jaroodi",
+                "N. Mohamed"
+            ],
+            "title": "Blockchain in industries: A survey",
+            "venue": "IEEE Access,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Atzori"
+            ],
+            "title": "Blockchain technology and decentralized governance: Is the state still necessary? University College of London",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R. Baskerville",
+                "Venable",
+                "May"
+            ],
+            "title": "Soft design science methodology",
+            "venue": "Proceedings of the 4th international conference on design science research in information systems and technology (pp. 1\u201311)",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "R. Beck",
+                "C. M\u00fcller-Bloch",
+                "J. Leslie King"
+            ],
+            "title": "Governance in the blockchain economy: A framework and research agenda",
+            "venue": "Journal of the Association for Information Systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Bevir"
+            ],
+            "title": "Governance: A very short introduction",
+            "year": 2012
+        },
+        {
+            "authors": [],
+            "title": "Financial incentives for open source",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "June"
+            ],
+            "title": "An overview of governance",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "Ehrsam",
+                "November"
+            ],
+            "title": "Blockchain governance: programming our future [Blog post",
+            "venue": "Retrieved from https:// medium.com/@FEhrsam/blockchain-governance-program ming -our-future-c3bfe30f2d74",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "I. Etikan",
+                "S.A. Musa",
+                "R. Sunusi"
+            ],
+            "title": "Comparison of convenience sampling and purposive sampling",
+            "venue": "American Journal of Theoretical and Applied Statistics,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "P.D. Filippi",
+                "B. Loveluck"
+            ],
+            "title": "The invisible politics of Bitcoin: Governance crisis of a decentralised infrastructure",
+            "venue": "Internet Policy Review,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Finck"
+            ],
+            "title": "Blockchain governance. In Blockchain regulation and governance in Europe (pp. 182\u2013209)",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "E. Franck",
+                "C. Jungwirth"
+            ],
+            "title": "Reconciling rent-seekers and donators \u2013 The governance structure of open source",
+            "venue": "Journal of Management and Governance,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "D. Garagol",
+                "O. Nilsson"
+            ],
+            "title": "Public blockchain communities (Master\u2019s thesis). University of Gothenburg",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "Gartner"
+            ],
+            "title": "hype cycle shows most blockchain technologies are still five to 10 years away from transformational impact [Press release",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "U. Gasser",
+                "R. Budish",
+                "S.M. West"
+            ],
+            "title": "2015).Multistakeholder as governance groups: Observations from case studies",
+            "venue": "Berkman Center Research Publication. Retrieved from https://papers",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "R.W. Gregory"
+            ],
+            "title": "Design science research and the grounded theory method: Characteristics, differences, and complementary uses",
+            "year": 2011
+        },
+        {
+            "authors": [
+                "J.T. Gustafsson"
+            ],
+            "title": "Single case studies vs. multiple case studies: A comparative study (Unpublished manuscript)",
+            "venue": "Academy of Business,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "P. Hacker"
+            ],
+            "title": "Corporate governance for complex cryptocurrencies? A framework for stability and decision making in blockchain-based organizations",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Harrell",
+                "M. Bradley"
+            ],
+            "title": "Data collection methods: Semi-structured interviews and focus groups (Tech",
+            "venue": "Rep. No. ADA512853). RAND National Defense Research Institute. Retrieved from https://apps.dtic.mil/docs/cita",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "G. Hertel",
+                "S. Niedner",
+                "S. Herrmann"
+            ],
+            "title": "Motivation of software developers in Open Source projects: An Internet-based survey of contributors to the Linux kernel",
+            "venue": "Research Policy,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "A. Hevner",
+                "S. Chatterjee"
+            ],
+            "title": "Design science research in information systems",
+            "year": 2010
+        },
+        {
+            "authors": [
+                "O\u2019Dwyer",
+                "June"
+            ],
+            "title": "Bitcoin mining and its",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "S. fnins.2014.00280 March",
+                "G. Smith"
+            ],
+            "title": "Design and natural science",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "L. Markus"
+            ],
+            "title": "The governance of free/open source",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "V. Midha",
+                "A. Bhattacherjee"
+            ],
+            "title": "Governance practices and software maintenance: A study of open source projects",
+            "venue": "Decision Support Systems,",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "Nakamoto",
+                "October"
+            ],
+            "title": "Bitcoin: A peer-to-peer electronic cash system [White paper",
+            "venue": "Retrieved from:https//naka motoinstitute.org/bitcoin/",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "A. Narayanan",
+                "J. Bonneau",
+                "E. Felten",
+                "A. Miller",
+                "S. Goldfeder"
+            ],
+            "title": "Bitcoin and cryptocurrency technologies: A comprehensive introduction",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "L. Nyman",
+                "J. Lindman"
+            ],
+            "title": "code forking, governance, and sustainability in open source software",
+            "venue": "Technology Innovation Management Review,",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "S. O\u2019Mahony",
+                "F. Ferraro"
+            ],
+            "title": "the emergence of governance in an open source community.Academy",
+            "venue": "ofManagement Journal,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "S. \u00d8lnes",
+                "J. Ubacht",
+                "M. Janssen"
+            ],
+            "title": "Blockchain in government: Benefits and implications of distributed ledger technology for information sharing",
+            "venue": "Journal of Government Information Quarterly,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J. Osterrieder",
+                "J. Lorenz",
+                "M. Strika"
+            ],
+            "title": "Bitcoin and cryptocurrencies - Not for the faint-hearted (Unpublished manuscript)",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "K. Peffers",
+                "T. Tuunanen",
+                "M.A. Rothenberger",
+                "S. Chatterjee"
+            ],
+            "title": "A design science research methodology for information systems research",
+            "venue": "Journal of Management Information Systems,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "S. Porru",
+                "A. Pinna",
+                "M. Marchesi",
+                "Tonelli",
+                "May"
+            ],
+            "title": "Blockchain-oriented software engineering: Challenges and new directions",
+            "venue": "In R. Bilof (Ed.), ICSE-C 2017. Proceedings of the IEEE/ACM 39th international conference on software engineering companion (pp. 169\u2013171)",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "N. Prat",
+                "I. Comyn-Wattiau",
+                "J. Akoka"
+            ],
+            "title": "A taxonomy of evaluation methods for information systems artifacts",
+            "venue": "Journal of Management Information Systems,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "J. Pries-Heje",
+                "R. Baskerville",
+                "Venable",
+                "J. R",
+                "June"
+            ],
+            "title": "Strategies for design science research evaluation",
+            "venue": "In ECIS 2008. Proceedings of the 16th European conference on information systems (pp. 255\u2013266)",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "A. Ramdhani",
+                "M.A. Ramdhani",
+                "A.S. Amin"
+            ],
+            "title": "Writing a literature review research paper: A step-by-step approach",
+            "venue": "International Journal of Basics and Applied Sciences,",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "W. Reijers",
+                "I. Wuisman",
+                "M. Mannan",
+                "P. De Filippi",
+                "C. Wray",
+                "V. Rae-Looi",
+                "L. ... Orgad"
+            ],
+            "title": "Now the code runs itself: On-chain and off-chain governance of blockchain technologies",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Rennock",
+                "A. Cohn",
+                "J. Butcher"
+            ],
+            "title": "Blockchain technology and regulatory investigations (Tech",
+            "venue": "Rep.). Steptoe Johnson LLP. Retrieved from https://www.step",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Schief",
+                "Buxmann",
+                "Jan"
+            ],
+            "title": "Business models in the software industry",
+            "venue": "In L. O\u2019Conner (Ed.),",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "T. Scholz",
+                "Stein",
+                "December"
+            ],
+            "title": "The architecture of blockchain organization",
+            "venue": "ICIS 2018. Proceedings of the 39th international conference on information systems,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "S. Shah"
+            ],
+            "title": "Motivation, governance, and the viability of hybrid forms in open source software development",
+            "venue": "Management Science,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "A. Shrestha",
+                "A. Cater-Steel",
+                "M. Toleman"
+            ],
+            "title": "December). How to communicate evaluation work in design science research? An Exemplar case study",
+            "venue": "ACIS",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "M. Swan"
+            ],
+            "title": "Blockchain: Blueprint for a new economy. Sebastopol, CA: O\u2019Reilly",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "P. Tasca",
+                "C. Tessone"
+            ],
+            "title": "Taxonomy of blockchain technologies. Principles of identification and classification (Unpublished manuscript)",
+            "venue": "Retrieved from https://papers. ssrn .com/abstract=2977811",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "F. Tschorsch",
+                "B. Scheuermann"
+            ],
+            "title": "Bitcoin and beyond: A technical survey on decentralized digital currencies",
+            "venue": "IEEE Communications Surveys & Tutorials,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "O. van Deventer",
+                "F. Berkers",
+                "M. Vos",
+                "A. Zandee",
+                "T. Vreuls",
+                "L. Piggelen",
+                "... others",
+                "May"
+            ],
+            "title": "Techruption Consortium Blockchain \u2013 What it takes to run a blockchain together",
+            "venue": "In Proceedings of 1st ERCIM blockchain workshop 2018,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "O. van Deventer",
+                "C. Brewster",
+                "M. Everts"
+            ],
+            "title": "Governance and business models of blockchain technologies and networks",
+            "venue": "(Tech. Rep. No. 776936)",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R.L. van Pelt"
+            ],
+            "title": "Blockchain governance: A framework for analysis and comparison (Master\u2019s thesis)",
+            "venue": "Utrecht University. Retrieved from https://dspace.library.uu.nl/han",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J. Venable",
+                "J. Pries-Heje",
+                "R. Baskerville"
+            ],
+            "title": "A comprehensive framework for evaluation in design science research",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "N. Webb"
+            ],
+            "title": "A fork in the blockchain: income tax and the bitcoin/bitcoin cash hard fork",
+            "venue": "North Carolina Journal of Law & Technology,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "T.G. Weiss"
+            ],
+            "title": "Governance, good governance and global governance: Conceptual and actual challenges",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "R. Wieringa"
+            ],
+            "title": "Empirical research methods for technology validation: Scaling up to practice",
+            "venue": "Journal of Systems and Software,",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "A. Wright",
+                "P. De Filippi"
+            ],
+            "title": "Decentralized blockchain technology and the rise of lex cryptographia (Unpublished manuscript)",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "D. Yermack"
+            ],
+            "title": "Corporate governance and blockchains",
+            "venue": "Review of Finance,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "R.K. Yin"
+            ],
+            "title": "Case study research: Design and methods",
+            "venue": "Thousand Oaks, CA: SAGE Publications Inc",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "R.K. Yin"
+            ],
+            "title": "Validity and generalization in future case study evaluations",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "J. Yli-Huumo",
+                "D. Ko",
+                "S. Choi",
+                "S. Park",
+                "K. Smolander"
+            ],
+            "title": "Where iscurrent researchonblockchain technology?\u2014Asystematic review",
+            "venue": "PLoS ONE,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Zamfir",
+                "March"
+            ],
+            "title": "Blockchain governance [Video file",
+            "venue": "Presentation at EthCC 2019,",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "L. Zhao",
+                "S. Fan",
+                "J. Yan"
+            ],
+            "title": "Overview of business innovations and research opportunities in blockchain and introduction to the special issue",
+            "venue": "Financial Innovation,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Z. Zheng",
+                "S. Xie",
+                "Dai",
+                "H.-N",
+                "X. Chen",
+                "H. Wang"
+            ],
+            "title": "Blockchain challenges and opportunities: A survey",
+            "venue": "International Journal of Web and Grid Services,",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "R. Ziolkowski",
+                "G. Parangi",
+                "G. Miscione",
+                "G. Schwabe"
+            ],
+            "title": "Januari). Examining gentle rivalry: Decisionmaking in blockchain systems",
+            "venue": "HICSS 2019. Proceedings of the 52nd Annual Hawaii international conference on system science (pp. 1\u201310)",
+            "year": 2019
+        }
+    ],
+    "sections": [
+        {
+            "text": "KEYWORDS Blockchain governance; open-source software governance; on-chain governance; off-chain governance"
+        },
+        {
+            "heading": "Introduction",
+            "text": "Blockchain technology enables a network of participants that do not know or trust each other to agree on the state of a shared administration, without relying on human intervention, a central point of control, or regulatory supervision (Atzori, 2016; Tasca & Tessone, 2018). Industries and sectors around theworld are exploring themerits of blockchain technology by identifying use cases and developing proofs of concept (Zhao, Fan, & Yan, 2016; Ziolkowski, Parangi, Miscione, & Schwabe, 2019). Following its growth, regulators, policy-makers, and financial service providers have also started to pick up on the topic (Hacker, 2017; Rennock, Cohn,&Butcher, 2018). One reason for this sparked interest is the promise for an increase in efficiency due to the cutting out of middlemen. The fields of application for blockchain technology are potentially countless (Swan, 2015). However, while the benefits of blockchain technology look promising, adoption and deployment of blockchain in industries is still facing many technical and non-technical challenges (AlJaroodi & Mohamed, 2019). In 2019, Gartner positioned blockchain in the category \u2018trough of disillusionment\u2019 in their hype cycle for emerging technologies, highlighting technologies where interest has decreased as experiments and implementations fail to deliver (Gartner, 2019).\nBesides movement in the industry, blockchain technology has also received increased levels of attention from scholars and academics (Beck, M\u00fcller-Bloch, & Leslie King, 2018; Garagol & Nilsson, 2018; Zheng, Xie, Dai, Chen, & Wang, 2018), with the number of publications growing almost exponentially every year (YliHuumo, Ko, Choi, Park, & Smolander, 2016; Zhao et al., 2016). There is an absence of established theory,\nfew recognized experts, and studies that have mostly focused on the technical features and legal considerations of blockchains (Atzori, 2016; Garagol & Nilsson, 2018). Additionally, eighty per cent of the research focused solely on the Bitcoin blockchain (Yli-Huumo et al., 2016). Other researchers state that there is especially a scarcity on the topic of blockchain governance (Beck et al., 2018).\nAt its core, every blockchain has a software repository that holds the source code that specifies the implementation of the protocol (Maddrey, 2018). Currently, thousands of different blockchains are under development, with most being forks of the source code from well-established Opensource blockchains such as Bitcoin and Ethereum (Tasca & Tessone, 2018). The software protocol of a blockchain includes specification on how transactions are executed, at what speed new blocks of data are added to the chain, and what the size of these blocks of data can be (Hacker, 2017). People involved in a blockchain project need to determine how updates to the software protocol are made. These updates must be coordinated, and this is where governance comes in (van Deventer, Brewster, & Everts, 2017). In this paper, blockchain governance is defined as \u201dthe means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to which they jointly contribute\u201d. This definition is further highlighted in Section 3.3. Due to the decentralized aspect of blockchains, its governance differs from existing governance structures, such asmarkets and hierarchies (Ziolkowski et al., 2019). In a blockchain project, the presence of a headquarter or CEO is not required, instead, progress can rely on a globally distributed network of developers\nCONTACT Rowan van Pelt rowanlvanpelt@gmail.com Utrecht University, Utrecht, The Netherlands\n\u00a9 2020 The Author(s). Published with license by Taylor & Francis Group, LLC. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-ncnd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.\nwho write the software protocol (Hsieh, Vergne, & Wang, 2017). This introduces an interesting challenge: the developers of a blockchain implement the code that distributes power amongst the blockchain stakeholders.\nThe governance of a blockchain project is crucial for its sustainability as it enables stakeholders to discuss and make decisions on how the blockchain should evolve (Filippi & Loveluck, 2016; Garagol & Nilsson, 2018). Effective blockchain governance is also essential in the successful implementation of blockchains and for their ability to adapt, change and interact (Tasca & Tessone, 2018). Due to the large size of blockchain projects, governance is especially relevant in order to manage and coordinate an entire community toward the same goal (Garagol & Nilsson, 2018). Companies that are looking to utilize an existing blockchain have many reasons to care about the governance of the blockchain itself. As an example, for a company who lists their shares on a blockchain, the underlying software protocol has a similar importance as the rules and regulations of a traditional stock exchange (Yermack, 2017). Organizations or consortia exploring to adopt a particular blockchain, have to complete a make-or-buy decision that also factors in governance (van Deventer et al., 2017). An organization should only use or develop upon a blockchain if its governance processes sufficiently match their own expectations of needs. Moreover, understanding how blockchains are governed is crucial in order to come up with recommendations for policymakers (Wright & De Filippi, 2015).\nThe importance of blockchain governance is further highlighted in the governance problems that public blockchains have recently experienced. In 2016, The Ethereum blockchain suffered a governance crisis, when an exploited vulnerability in the source code of \u2018the DAO\u2019, an application built on top of the Ethereum blockchain, led to a theft of Ether equivalent to 50 million dollars (Finck, 2019; Hacker, 2017). In the midst of this controversy, core developers of Ethereum eventually decided to proceed with a controversial solution of returning the stolen Ether via a hard fork. Not everyone agreed with this decision, forking the Ethereum blockchain in two different versions. \u2018The DAO\u2019 is what other researchers conceptualize as a blockchain organization, according to them, problems with the optimization of blockchain technology contributes to governance in such blockchain organizations remaining vague (Scholz & Stein, 2018). In Bitcoin, unresolved disputes over proposed changes in the protocol have also led to multiple permanent splits of the blockchain, putting the survival of the project at stake (Biais, Bisiere, Bouvard, & Casamatta, 2018; Clifford, 2018; Webb, 2018). Evidence also exists of governance being an obstacle when running a blockchain in a permissioned environment with other organizations (van Deventer et al., 2018). Together these reports\ndemonstrate why blockchain governance is a key aspect for stakeholders in the blockchain domain.\nAs highlighted by Beck et al. (2018), there is a lack of research on the topic of blockchain governance. Hsieh et al. (2017) note that we need a better understanding on how the governance of blockchains works, while other researchers state that: \u201dlittle is known about what and how key decisions are made and enforced in blockchain systems\u201d (Ziolkowski et al., 2019). Finck (2019) further argues that despite its importance, \u201dblockchain governance remains a largely uncharted field.\u201dMoreover, claims in gray literature indicate that blockchain governance is little researched and poorly understood (Ehrsam, 2017). According to Zamfir (2019), it is not only difficult for stakeholders to understand how blockchain governance works, he also claims that some people are not even aware about the fact that they are stakeholders themselves in the decisions made during blockchain governance."
+        },
+        {
+            "heading": "Aims and objectives",
+            "text": "Tied to the aforementioned lack of research we have identified an absence of available artifacts and tools that can be used to better understand blockchain governance. This gap exists, while it is beneficial for stakeholders in the ecosystem to have a thorough understanding of the governance of a blockchain. Where businesses and individual end-users should take into account the aspect of governance in their choice for a particular blockchain application or platform, it is also a requisite for regulators and developers to apprehend. These thoughts are shared in a report by the EU BlockchainObservatory and Forum, inwhich it is described that for anyone relying on a blockchain project or platform, its ongoing development and sustainability are a necessity (Lyons, Courcelas, & Timsit, 2019). Motivated by these concerns, we design a conceptual framework of blockchain governance that captures its relevant concepts and establishes a shared understanding surrounding the topic of blockchain governance.\nFollowing the template of Wieringa (2014) we unravel the artifact and problem context of our design problem. This research aims to improve the lack of understanding and tools available on the topic of blockchain governance by designing a conceptual framework that captures the dimensions and layers of blockchain governance in order to guide businesses, regulators, users, and other relevant stakeholders to analyze the governance of blockchains in a structured way. The research is structured with the following research question:How can governance structures of blockchains be defined and compared? To answer this question, we have followed a research approach which is described in Section 2.\nSection 3 highlights related theory of Open-source Software (OSS) governance and blockchain governance. In Section 4 the blockchain governance (BG) framework is presented, combining 3 layers and 6 dimensions. Next, Section 5 reports the results of an evaluation of the framework by eight expert interviews. Subsequently, the framework is further evaluated by application in a holistic multiple-case study in Section 6. The findings and contributions are further analyzed in Section 7. Finally, the article is concluded in Section 8."
+        },
+        {
+            "heading": "Research approach",
+            "text": "In this study, we use the Design Science Research approach (Gregory, 2011) which concerns the creation of meaningful artifacts which aim to solve identified problems (Hevner & Chatterjee, 2010). The artifact produced as part of Design Science Research can have various different sorts of outputs. March and Smith (1995) identified four types: representational constructs, methods, models, and instantiations. Design Science Research is considered to be a suitable approach because this study addresses the identified problem of a lack of understanding and tools available on the topic of blockchain governance by designing ameaningful artifact in the form of a conceptual framework that captures the dimensions and layers of blockchain governance. This research goal is in line with the criteria of design science by Hevner and Chatterjee (2010) because a viable artifact is envisioned to be created in the form of a framework to solve a relevant problem."
+        },
+        {
+            "heading": "Framework design",
+            "text": "After completing the literature reviews into OSS governance and blockchain governance, we have built a knowledge base regarding these topics. In the second part of the study, the knowledge base is used as a theoretical foundation to design the BG framework. InDSR, the artifact design can be viewed as an inherently creative process (Hevner & Chatterjee, 2010; March & Smith, 1995).\nFirst, we start by identifying the relevant governance concepts discussed in the literature reviews. Then, two synthesis matrices are created to organize the identified blockchain governance concepts. A synthesis matrix is a table that can help organize theory and support in the analysis and synthesis of key sources (Ramdhani, Ramdhani, & Amin, 2014). The first synthesis matrix aims at capturing the governance layers that are mentioned in the literature review. The second synthesis matrix lists the identified governance dimensions; these are overarching key topics of governance that are important in the context of OSS and blockchains. The listed governance dimensions can contain smaller\nconcepts in the form of governance mechanisms. During the construction of the governance matrices, overlapping and related concepts are grouped together. After this iterative process, the tables group the most reoccurring governance dimensions and layers. These are then used as a basis to guide the design of the framework. Further details on the design process, including a rationale behind design decisions, is reported in Section 4.1, including the final version of both synthesis matrixes in Tables 2 and 3."
+        },
+        {
+            "heading": "Framework evaluation",
+            "text": "An evaluation of the artifact is key in order to answer the question \u201dhow well the artifact performs\u201d (March & Smith, 1995). While the DSR Framework by Hevner and Chatterjee (2010) provides useful guidelines that describe how DSR should be conducted and presented as a whole, it lacks depth on how to choose among available evaluation strategies, and how to report on the outcomes. Therefore, to accurately report the artifact evaluation, we follow the DSR evaluation reporting structure proposed by Shrestha, Cater-Steel, and Toleman (2014). Furthermore, the evaluation of the BG framework was organized based on the strategic DSR evaluation framework by Venable, Pries-Heje, and Baskerville (2012). Besides this, we used the work by Prat, Comyn-Wattiau, and Akoka (2015) as a source for the selection of artifact evaluation criteria. The evaluation strategy makes a distinction between the evaluation of the design product and the design process. In this study, the design product is the BG framework and the design process by the DSR methodology (Hevner & Chatterjee, 2010). Furthermore, two aspects that are considered in the evaluation strategy are the timing of the evaluation (ex-ante or ex-post) and the setting of the evaluation (natural or artificial) (PriesHeje, Baskerville, & Venable, 2008)."
+        },
+        {
+            "heading": "Expert interviews",
+            "text": "First, we conduct an ex-ante, artificial design product evaluation through a series of expert interviews. According to Wieringa (2014), eliciting expert opinions using interviews is a useful research method in the conceptual stage of artifact evaluation. Interviews can be used as a primary data gathering method to collect information from experts about their own practices, beliefs, experiences or opinions (Harrell & Bradley, 2009). In this study, the goal of conducting expert interviews is to get early information about the completeness, simplicity, understandability, operational feasibility and usefulness of the draft BG framework.\nSemi-structured interviews are conducted in order to collect detailed information in a conversational style\nand this also enables the researchers to ask follow-up questions (Harrell & Bradley, 2009). A diverse group of potential users of the designed BG framework is interviewed. These include: (i) businesses looking to utilize an existing blockchain, (ii) blockchain developers, and (iii) researchers with a focus on blockchain technology.\nPrior to conducting the interviews, an interview protocol was created, which is documented in (van Pelt, 2019). In order to strengthen the reliability of the interview protocol and thereby improve the quality of the obtained data, the Interview Protocol Refinement Framework (Castillo-Montoya, 2016) was followed. By using a research information sheet, the interviewees were briefly informed about the purpose of the research, the structure of the interview, the confidentiality of the information discussed and the request of recording the interview.\nThe first part of the interview focused on the background information of the interviewee and their own perception and considerations on the topic of blockchain governance. In the second part of the interview, the draft BG framework was introduced and the interviewees were invited to provide feedback. Responses to the questions were used to identify concepts that are possible candidates for removal or change. Furthermore, questions were formulated in order to identify possible extensions to the framework. Interviews lasted between 45 and 75 minutes. The recorded interviews were transcribed within 24 hours and the program Nvivo was used to analyze the transcripts. The transcripts were analyzed following thematic analysis (Braun & Clarke, 2014), combining an inductive and deductive reasoning approach."
+        },
+        {
+            "heading": "Case studies",
+            "text": "A case study is an observational evaluation method which is used to study the designed artifact in depth in its intended business environment (Hevner & Chatterjee, 2010). This study employs what Yin (1994) considers a holistic multiple case study, referring to a design with more than one case but only one unit of analysis. The holistic multiple-case study is conducted to demonstrate application of the BG framework and to evaluate the effectiveness when applied in the analysis of two blockchains their governance. Following the DSR evaluation framework, case studies are especially suitable to evaluate the effectiveness of a designed artifact (Venable et al., 2012).We decide to conduct amultiple case study because it creates a better understanding of the differences and similarities between the cases (Gustafsson, 2017). The layers and dimensions of the BG framework are used to directly compare both blockchains.\nThe number of cases is limited to two because it enables the researchers to increase the time and and depth of\nanalysis spent per single case (Gustafsson, 2017). As reported in (Yin, 2013), a case study design can havemultiple validity concerns. In this multiple case study, data source triangulation is used to strengthen validity.\nEthereum and EOS.IO were selected as cases (Table 1). Initially, attention was drawn toward the two largest public permissionless blockchains in terms of market capitalization (Coinmarketcap, 2019), namely Bitcoin andEthereum. Itwas decided to select Ethereumas a case over Bitcoin. The rationale behind this decision is twofold. First, out of the available blockchains, Bitcoin has already been the most researched (Yli-Huumo et al., 2016). Secondly, Bitcoin is primarily developed as a decentralized payment system, while Ethereum describes itself as a decentralized application platform supporting smart contract functionality, thereby supporting more use cases. We expect Ethereum to be of higher interest to businesses, which is one of the primary envisioned end-users of the framework.\nEOS.IO (EOS.IO, 2018) is selected as the second case. It is a public permissioned blockchain and, similar to Ethereum, it is possible to create and deploy decentralized applications upon EOS.IO because of its smart contract functionality. The EOS.IO blockchain is often viewed as a direct competitor of Ethereum and it is therefore useful to analyze the differences and similarities in blockchain governance between the two cases. Furthermore, EOS.IO is chosen because of its significance in market capitalization derived from (Coinmarketcap, 2019) and their attention toward governance. In the EOS.IO white paper (EOS. IO, 2018), it is stated that prior blockchains rely on \u201dad hoc, informal, and often controversial governance processes that result in unpredictable outcomes\u201d. This is an aspect that EOS.IO claims to have countered by the inclusion of both off-chain and on-chain governance processes."
+        },
+        {
+            "heading": "Theory on blockchain governance",
+            "text": ""
+        },
+        {
+            "heading": "Blockchain technology",
+            "text": "In late 2008, an individual or group of individuals by the name of Satoshi Nakamoto published a whitepaper introducing Bitcoin, a decentralized digital payment system designed to operate without the need of a trusted third party (Nakamoto, 2008). In the original\npaper of Nakamoto, there was no mention of the term blockchain. However, the way in which Bitcoin uses a series of time-stamped data blocks which are chained together is perceived as the source to the phenomenon nowadays known as a blockchain (Mattila, 2016).\nSimply put, a blockchain consists of blocks of data, where every block includes a pointer to the previous block of data (Tschorsch & Scheuermann, 2016). Instead of a normal pointer locating the previous block it uses a hash pointer (Narayanan, Bonneau, Felten, Miller, & Goldfeder, 2016). Utilizing the properties of a cryptographic hash function, this pointer enables one to know not only where the data is stored, but also to verify that it has not changed (Narayanan et al., 2016). If any data in a previous block is changed, it will result in a different hash. Because this hash is referenced in the subsequent blocks, these will in turn also be invalid. In this paper, we adopt a definition of blockchain by Yaga, Mell, Roby, and Scarfone (2018), who define it as:\nA distributed digital ledger of cryptographically signed transactions that are grouped into blocks. Each block is cryptographically linked to the previous one after validation and undergoing a consensus decision. As new blocks are added, older blocks become more difficult to modify. New blocks are replicated across copies of the ledger within the network, and any conflicts are resolved automatically using established rules.\nThe concurrency problem occurs when multiple parties together maintain a single shared database (Mattila, 2016). Instead of having to rely on a trusted third party to decide upon the current version of the database, a blockchain incorporates a consensus mechanism into its protocol to solve this issue in a distributed manner (Mattila, 2016). One strategy to achieve consensus among nodes in a blockchain network is by using the Proof of Work (PoW) protocol (Tschorsch & Scheuermann, 2016). It is used in many blockchains but is primarily known for being the consensus mechanism used in Bitcoin (Nakamoto, 2008). In PoW, the nodes participating in the network are constantly trying to calculate a target hash of a new block. Due to its reliance on computing power, PoW has often received negative feedback about its extensive energy consumption (Malone & O\u2019Dwyer, 2014; Zheng et al., 2018). Proof of Stake (PoS) is a consensus mechanism proposed as an energy-saving alternative to PoW (King & Nadal, 2012). The key idea of PoS is that the node allowed to propose the next block is selected based on the proportion of staked coins (Tschorsch & Scheuermann, 2016). The underlying assumption here is that stakeholders with a larger\nproportion of stake are less likely to sabotage the consensus process (Zheng et al., 2018).\nOne term that is often used when talking about blockchains is cryptocurrencies. Osterrieder, Lorenz, and Strika (2016) define cryptocurrencies as \u201ddigital assets designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency\u201d. Essentially, cryptocurrencies are just one of themany use cases of a blockchain enabling tomanage ownership and the creation of digital payments (Drescher, 2017). Since Bitcoin\u2019s launch in 2009, many other cryptocurrencies emerged, often referred to as altcoins (Tschorsch & Scheuermann, 2016). Due to the open nature of Bitcoin, including the code being open source, many of the early altcoins forked the entire code base of Bitcoin, most only making minor adjustments to the underlying software protocol (Narayanan et al., 2016). In this paper, the focus does not solely lay on the digital asset use case of blockchains. Therefore, we use the term blockchain to refer to a single blockchain platform, its underlying ecosystem of stakeholders, technological features, and protocol.\nOne way in which blockchains can be classified is based on the rights users or nodes are given to read the blockchain data or to process transactions (Bitfury, 2015; Drescher, 2017). In a public blockchain, there are no restrictions with respect to the reading of the blockchain data or the submission of transactions (Bitfury, 2015). The opposite of a public blockchain is a private blockchain which does restrict the reading of the blockchain data and the submission of transactions to a limited set of users (Bitfury, 2015). Furthermore, a distinction between permissionless blockchains and permissioned blockchains indicates whether any restrictions are imposed on the processing of transactions (e.g. writing access by block creation). In a permissionless blockchain, any node is allowed to process transactions while in a permissioned blockchain this right is limited to a chosen set of known nodes (Drescher, 2017)."
+        },
+        {
+            "heading": "Open-source software governance",
+            "text": "Blockchain development projects share multiple similarities with traditional Open-source Software (OSS) projects. Many of the large public blockchains are developed and released as OSS (Porru, Pinna, Marchesi, & Tonelli, 2017). For instance, the earlier examples of Bitcoin and Ethereum were both released as OSS projects (Lindman, 2017). Bian, Mu, and Zhao (2018) state that OSS development has become the dominant method for doing blockchain technology development.\nAnother similarity can be observed in regard to the involvement of external parties within these projects. In traditional OSS projects, external parties such as organizations, entrepreneurs and industries became increasingly commercially involved. In the case of blockchain projects, this external involvement also arose, if not, a lot quicker than in the case of traditional OSS projects (Lindman, 2017). Furthermore, a similarity lies within the political motivations that stimulated both types of OSS projects. In the case of traditional OSS software, there was a strong debate between free software vs. commercial software, while in blockchain projects contributors are similarly motivated by the aspect of decentralization vs. centralization (Lindman, 2017). Due to the highlighted similarities, OSS literature provides useful starting points to discuss blockchain governance (Lindman, 2017).\nTypical characteristics of OSS include that the software can be downloaded and spread free of charge (Franck & Jungwirth, 2003) and that the source code is open to being viewed and modified by its users (Lattemann & Stieglitz, 2005). OSS distinguishes itself from traditional software because its development usually relies on the contributions of a community of users and developers who participate on a voluntary basis (Franck & Jungwirth, 2003; Shah, 2006). They usually participate either during their regular working hours or purely as a hobby (Hertel, Niedner, & Herrmann, 2003). This distinct organizational model for product development and innovation is sometimes referred to as collective action, community-based innovation or private collective invention (Shah, 2006). A considerable amount of literature has been published describing the role of governance in OSS. Many different views exist on what the concept exactly involves (Markus, 2007).\nMarkus (2007) himself defines OSS governance as: \u201dthe means of achieving the direction, control and coordination of wholly or partially autonomous individuals and organizations on behalf of an OSS development project to which they jointly contribute.\u201d\nVarious conceptual frameworks to look at OSS governance exist in literature. Some authors frame their analysis by identifying different phases of governance in OSS projects. Examples include de Laat (2007) who distinguishes between three phases of governance: (i) spontaneous governance referring to innovation and productivity happening within OSS communities spontaneously, (ii) internal governance characterized by the increasing size of open source communities and (iii) governance toward outside parties highlighting the institutionalization within OSS communities. Similarly, other authors make a distinction between the phases\nde facto, designing, implementing and stabilizing of OSS governance (O\u2019Mahony & Ferraro, 2007).\nMultiple authors focus on a discussion of the motivational factors \u2013 also referred to as incentives \u2013 of the individual participants in OSS (Franck & Jungwirth, 2003; Lattemann & Stieglitz, 2005; Lerner & Tirole, 2003; Shah, 2006). Because a large part of the work in OSS takes place on a voluntary basis, the incentives in place for contributors seem to be a meaningful aspect of their underlying governance. Furthermore, multiple authors are using a three-layered approach to describe the governance of OSS. Jensen and Scacchi (2010) distinguish between a micro, meso and macro analytical level of OSS governance, where each of the levels takes a wider scope of looking at the agents involved. A different study by Nyman and Lindman (2013) emphasizes the element of code forking and its effect on the sustainability of OSS. They also introduce three levels, the software level, community level and ecosystem level. According to them, the right to fork the source code of an OSS project is embedded in the nature of being an OSS program, and forking provides sustainability of a project on the previous three levels (Nyman & Lindman, 2013). Izquierdo and Cabot (2015) divide their nine-dimensional governance rules framework into three viewpoints, the organizational, development and governance rule definition viewpoint, each capturing dimensions of governance such as communication, task review, release decision and roles.\nThe authors de Noni, Ganzaroli, and Orsi (2011) propose a dimensional matrix which captures four identified configurations of OSS governance. The construction of the matrix is based on seven dimensions of OSS governance, including the presence of a foundation, type of license, membership, changes to source code, sub-projects, release authority, leadership and decision-making and access to the code and bug reporting. Another list of OSS governance dimensions is defined by Markus (2007) who grouped elements of OSS governance in ownership of assets, chartering the project, community management, software development processes, conflict resolution and rule changing and use of information and tools. Finally, other researchers studied the governance practices of OSS projects in the process of software maintenance. Midha and Bhattacherjee (2012) use this term to refer to \u201dthe correction of errors, and the implementation of modifications needed to allow an existing system to perform new tasks, and to perform old ones under new conditions\u201d. In their study, the authors propose a twodimensional taxonomy of OSS project governance consisting of participation and responsibility management."
+        },
+        {
+            "heading": "Blockchain governance",
+            "text": "The term governance has been omnipresent since the 1980's (Bevir, 2012). Usage of the term has grown rapidly and so are the different contexts in which it is used. According to Bevir (2012), governance refers to:\nAll processes of governing, whether undertaken by a government, market, or network, whether over a family, tribe, formal or informal organization, or territory, and whether through laws, norms, power or language.\nBefore continuing to define blockchain governance, two different roles are highlighted that governance can play in the context of blockchain. The authors \u00d8lnes, Ubacht, and Janssen (2017) highlight a distinction between governance of the blockchain, and governance by the blockchain. Firstly, governance by the blockchain refers to the use of blockchain technology to more efficiently govern and coordinate existing actions and behavior. In this context, the technology itself provides a supporting role to improve existing governance processes. An example is when a blockchain is used to implement and automate existing governmental processes. Secondly, governance of the blockchain describes the development, adaptation and maintenance of the blockchain technology itself. The latter role of governance is the topic of interest in this study. Throughout this paper, the term blockchain governance is thus used to refer to the governance of the blockchain.\nContinuing with the definition of the concept, Ziolkowski et al. (2019) simply describe blockchain governance as the placement and enactment of decision rights. Carter (2018) defines it as the way in which public blockchain communities and key stakeholders arrive at collective action, specifically with respect to protocol change, while Finck (2019) states that in a blockchain context, governance refers to the processes, rules and procedures relied on to maintain the protocol.\nIn this article, the definition of OSS governance by Markus (2007) is adapted to define blockchain governance as:\nThe means of achieving the direction, control and coordination of stakeholders within the context of a given blockchain project to which they jointly contribute.\nBeck et al. (2018) propose an extended IT governance framework applied to what they describe as the \u2018blockchain economy\u2019. Drawing from IT governance literature, they derive three key dimensions of governance: (i) decision rights concerned with the rights that enable one to govern control, (ii) accountability capturing to which degree actors are and can be held accountable for their actions and (iii) incentives highlighting what motivates actors to take actions. They describe the\ngovernance of a blockchain as a combination between the extent of incentive alignment, the degree of centralization in decision rights, and the level to which accountability is either technically or institutionally enacted (Beck et al., 2018). Using the block size debate of Bitcoin as a case study, Filippi and Loveluck (2016) investigated the social and technical governance of Bitcoin. The authors make a distinction between two coordination mechanisms: (i) governance by the infrastructure (via the protocol) and (ii) governance of the infrastructure (by the community of developers and other stakeholders). The same authors identify the following three dimensions to further analyze Bitcoin\u2019s governance: (i) definition and protection of community borders, (ii) establishment of incentives for participation and acknowledgment of the status of contributors and (iii) mechanisms of conflict resolution (Filippi & Loveluck, 2016). They state that the Bitcoin project consists of two different types of communities, namely (i) the community of nodes within the network, which can be subdivided into passive users and active users (miners) and (ii) the community of developers.\nBuilding upon the previous work by Filippi and Loveluck (2016), Carter (2017) conducted an empirical study that attempts to classify and highlight the differences in organizational structures of fifty cryptocurrency projects. Of interest here are the various variables defined by the author to analyze the governance structures of these blockchain projects. These variables include: a blockchain\u2019s (i) consensus mechanism, (ii) the launch style of a project (e.g. Initial Coin Offering (ICO) or hardfork), (iii) the number of coins generated at launch, (iv) the founder reserve, (v) whether a project has support from corporates, (vi) how developers are funded, (vii) whether a foundation is present, and (viii) whether the project is open source.\nThe authors Hsieh et al. (2017) draw from theory on organizational and corporate governance to examine the governance of public blockchains. They make a distinction between internal and external governance. Here, external governance refers to the influence of external stakeholders such as the community, media, and general public over the organization, in this case, a blockchain. Considering internal governance, the authors identify three levels: (i) owner control on the blockchain level, (ii) formal voting on the protocol level, and (iii) centralized funding at the organizational level (Hsieh et al., 2017). Also drawing from corporate governance literature, Hacker (2017) distinguishes between external governance (exit) and internal governance (voice). Regarding external governance, the author adds that as of now there is no formal way for a takeover, or in other words, to overthrow the core\ndevelopment team of a blockchain. Available exit strategies highlighted include users selling off their tokens simultaneously to put pressure on developers, and the option to fork off a project at any time. The authors Gasser, Budish, and West (2015) used Bitcoin in a twelve-part case study to examine the real-world governance structures of multistakeholder governance groups. To do so, they used an analytical framework that distinguished between four dimensions: (i) the purpose and context looking at the motivations that drove the formation of the governance group, (ii) formation considering the architectural composition of the multi-stakeholder group, (iii) operation describing \u201dthe operational systems and tools that they use in order to reach the agreement necessary to create its outputs and address the issue at hand\u201d (Gasser et al., 2015) and (iv) outcomes highlighting the outputs of multistakeholder initiatives.\nZiolkowski et al. (2019) explored the governance decisions made in fifteen existing blockchains from four different application domains. Their work outlines six core decisions that have to be made in the governance of a blockchain. These six core decisions include: (i) demand management implying who makes decisions when new business requirements emerge, (ii) data authenticity dealing with who can write data to the blockchain, how transactions are validated and how data is preserved, (iii) system architecture development capturing who decides upon the requirements and functionalities of the initial and future blockchain, (iv) membership describing how decisions are made upon granting new actors reading or writing access in the network, ownership disputes highlighting how conflicts are resolved when multiple users claim the same property and finally (vi) transaction reversal focusing on decisions that have to be made about whether an unintended transaction can be reversed or corrected. In another report, researchers provide an analysis of existing blockchain technologies from the perspective of their business model and governance (van Deventer et al., 2017). The latter is of interest to this study. The authors make a distinction between technology governance and network governance. Technology governance refers to the governance of the blockchain technology, i.e. the actual source code development of a blockchain project. A few examples given include: (i) a blockchain\u2019s licensing model, (ii) development roles, (iii) presence of a foundation and (iii) how to contribute code. On the other hand, network governance implies the governance of the associated blockchain networks. Derived examples include (i) a blockchain\u2019s consensus mechanism, (ii) the roles and type of participants in the network and (iii) the\nprocess to allow new members or roles to join the network.\nFinally, Tasca and Tessone (2018) conducted a comparative study across popular blockchains in order to create a taxonomy of blockchain technologies. Using a reverse engineering approach, the authors deconstructed existing blockchains into several building blocks. The fourth component extensibility, and more specifically, its sub-component governance is of interest here. They identified two types of governance rules: (i) technical rules of self-governance defined by the participants and (ii) regulatory rules defined by external regulatory bodies. According to them, the technical rules of selfgovernance include software, procedures, protocols, algorithms, supporting facilities and other technical elements (Tasca & Tessone, 2018). On the other hand, the regulatory rules refer to regulatory frameworks, provisions, industry policies, among others."
+        },
+        {
+            "heading": "Blockchain governance framework",
+            "text": "In Section 2 we described the design science research approach of this study. According to Baskerville and Venable (2009): \u201dthe search for the design solution and the evaluation of the design solution are activities that take place in the abstract world of design thinking\u201d. Design thinking is the process which besides analysis also involves creativity. In DSR, the artifact design can be viewed as an inherently creative process (Hevner & Chatterjee, 2010; March & Smith, 1995). This section briefly describes the process that led to the creation of the blockchain governance (BG) framework."
+        },
+        {
+            "heading": "Blockchain governance dimensions",
+            "text": "Multiple authors subdivided the complex phenomena of governance into distinct dimensions. In the remainder of this study, blockchain governance dimensions are defined as overarching key themes of governance that are relevant in the context of blockchains. The first step during the design of the framework is the creation of a synthesis matrix. As described in Section 2.1, a synthesis matrix is a table that can help organize theory and support the analysis and synthesis of key sources (Ramdhani et al., 2014). In order to identify the dimensions needed to create the BG framework, we create a synthesis matrix including individual governance concepts identified during the literature reviews. In this stage, no attention is paid to the granularity of the concepts. For example, both the concept software release decision and decision making processes could be identified as governance concepts during this process, with the latter being a larger concept.\nAfter a first iteration of identifying governance concepts, the dimensions synthesis matrix contain approximately 122 governance concepts. Some examples of listed concepts in the synthesis matrix include: rule changing, demand management, division of roles and licensing policy making. Next, several iterations of clustering are performed in order to group similar and related concepts. Because the goal is to identify dimensions that comprise multiple governance concepts, individual concepts that can not be grouped to other concepts or which were not mentioned in more than one literature source are dropped from the list. The result of this iterative process is a list of 15 clusters of governance concepts. The next step is concerned with the definition of each cluster using one label. Labeled clusters are then used as input for the selection of governance dimensions. A few examples of labeled clusters include incentives, forking, conflict resolution, roles, voting mechanism, forking andmodularization.\nThe next step deals with selecting the relevant clusters which could form the dimensions in the BG framework. For each cluster of governance concepts, questions such as the following are asked: (i) is this an overarching key theme of governance? (ii) could this be a subconcept of one of the other dimensions? (iii) does it overlap with one of the\ngovernance layers (4.2)? After asking these questions, several clusters are not considered candidates for having their own separate governance dimension. For example, voting mechanism is viewed as a subconcept of decisionmaking. It is amechanism to support decisionmaking and is therefore not considered as a candidate dimension.\nThe remaining six dimensions include formation and context, roles, incentives, membership, communication and decision making. A full description per dimension including the sources from which they are inspired is listed below in Table 2."
+        },
+        {
+            "heading": "Blockchain governance layers",
+            "text": "The second building block needed during the design of the BG framework consists of a series of blockchain governance layers. The results from the literature review highlighted multiple authors who used a threelayered approach to describe either the governance of OSS or blockchain. Distinguishing between analytical levels or layers is viewed as a way to subdivide governance into more comprehensible sub-components. In order to distinguish between governance layers in our framework, we draw from a layered structure described\nby Carter (2018). This author distinguishes between governance on the off-chain community, off-chain implementational, and on-chain level. Further inspired by more sources, we adapt these levels and identify them as the (i) off-chain community layer (ii) offchain development layer and (iii) on-chain protocol layer. Descriptions of the layers and an overview of the sources in which they are grounded can be found in Table 3.\nCombining governance dimensions and layers\nThe next step deals with combining the governance dimensions and layers into one framework. It is discovered that the dimensions can be laid on top of the layers. Two exceptions are found during this approach. First, the formation and context dimension is considered to be placed at the edge of the framework. The reasoning behind this decision is that the context of how a blockchain was formed over time is applicable to all the three layers. Having an understanding of the formation and context of a blockchain should be the logical first step of a stakeholder wishing to retrieve insights in the governance of a blockchain, therefore this dimension is placed on top of the framework.\nAs a result of this approach, smaller governance concepts relevant to the cells where a dimension and layer crossed can now be listed in the framework. The list of governance concepts identified during the identification of the governance dimensions is used as input for the selection of the smaller governance mechanisms. Based on the blockchain governance concepts from literature, questions are identified for each respective cell in the framework. The resulting BG framework is illustrated in Figure 1.\nEvaluation through expert interviews\nBy conducting an ex-ante evaluation through expert interviews we aim to evaluate five criteria of the draft BG\nframework. The draft framework was designed with the intention to \u201dcapture the dimensions and layers of blockchain governance in a comprehensible manner in order to guide blockchain stakeholders to analyze the governance of blockchains in a structured way\u201d (Section 1.1). From this goal, three envisioned qualities of the framework were derived: (i) it should at least include the main dimensions and layers of blockchain governance, (ii) it should do so in a comprehensible manner for its users and (iii) it should positively impact the users during the analysis of a blockchain\u2019s governance. With three qualities in mind and drawing from the evaluation criteria hierarchy (Prat et al., 2015), we consider five criteria relevant during the exante BG framework evaluation: completeness, simplicity, understandability, operational feasibility and usefulness."
+        },
+        {
+            "heading": "Interviewees",
+            "text": "In this study, we used a purposive sampling approach. Purposive sampling has been described as: the deliberate choice of a participant due to the qualities the participant possesses (Etikan, Musa, & Sunusi, 2015). To be more specific we combine expert sampling and maximum variation sampling. We use these techniques to select information-rich cases of individuals who are well-informed and experienced on the topic of blockchain (governance) but as a group represent different viewpoints of stakeholders for whom the framework can be relevant. Another benefit of purposive sampling includes the willingness of individuals to participate and the ability to communicate experiences and opinions in an articulate, expressive, and reflective manner (Etikan et al., 2015). Furthermore, the goal of the expert interviews is not to get results that enable generalizations to an entire population. Instead, the intention is to receive insightful feedback from experts early in the design process in order to improve the BG framework. Criteria used for selection were as follows. First, the candidate should have a minimum three years of working experience related to\nTable 3. Three layers of blockchain governance.\nGovernance layer Description Inspired by\nOff-chain community\nAs the highest of the three layers, the off-chain community layer encompasses the governance matters taking place in the real world with a focus on the wider community of a project. It highlights how a project is defined more generally and captures the ties of the community to the governance layers below. Off-chain community level (Carter, 2018), Organizational level (Hsieh et al., 2017), Off-chain (Finck, 2019; Reijers et al., 2018)\nOff-chain development The off-chain development layer encompasses the governance matters taking place in the real world with an explicit focus on the software development process. For example, it looks at how roles related to development interact and decisions are made in the maintenance of the protocol. Off-chain implementational level (Carter, 2018), Individual participants and project teams (Jensen & Scacchi, 2010), Off-chain (Finck, 2019; Reijers et al., 2018) On-chain protocol\nThe on-chain protocol layer comprises all the governance matters taking place on the blockchain through its underlying protocol. Examples include the decision making processes, voting mechanisms and rules of interaction encoded directly into the infrastructure of the blockchain. On-chain (Carter, 2018; Finck, 2019; Reijers et al., 2018), Blockchain and protocol levels (Hsieh et al., 2017)\nblockchain technology. Secondly, the interviewee fulfills a role as one of the potential stakeholders for whom the framework is considered to be relevant. As previously mentioned these include developers, researchers, business stakeholders, and legal professionals in the blockchain ecosystem. In total, eight blockchain experts were inter-\nviewed. Semi-structured interviews were conducted with eight experts from different types of backgrounds which can be viewed in Table 4.\nTo maintain the privacy of the individuals, the participants have been coded according to their interview number from Table 4. The identifiers will be\nFigure 1. The blockchain governance (BG) framework, defining the governance structure of a blockchain as a combination between six governance dimensions, and three governance layers.\nused in the remainder of this section to refer to the corresponding experts and their opinions. In the next section we report the results of the expert interviews."
+        },
+        {
+            "heading": "Considerations of blockchain governance",
+            "text": "The experts mentioned various reasons why the governance of a blockchain needs to be understood by stakeholders in the blockchain ecosystem. As an organization looking to build a blockchain application you must decide on which blockchain you are going to build. In those cases, it is necessary to have trust in the continuity of that blockchain (IE-8). In line with this reasoning, another expert stated that: \u201dwhile a developer will probably mostly care about features, a description of governance is important when you need to convince other stakeholders within your organization to decide for a particular blockchain\u201d (IE-3). Once you are building on a blockchain infrastructure a dependency exists on its underlying governance. Because you are storing or building value on top of it you should know who has possible influence over it (IE-2). Similarly, IE-6 described that the blockchain infrastructure you chose to build your application on top is a fundamental choice in which governance is an important factor. He made an analogy with companies deciding whether to build an application specifically for Apple, Microsoft or Linux: \u201dthis choice heavily influences factors such as the available programming languages and how deployment is arranged. In the case of a blockchain in an even heavier form\u201d (IE-6).\nThe same expert described how he experiences that companies and startups are not paying enough attention to the environment in which they are deploying. Governance, risk, and compliance are factors when choosing to develop on top of a specific blockchain. The expert explained that it is better to make an informed decision right at the start of a project: \u201dwhen you are already developing on top of a blockchain for two years, switching blockchains can have quite a lot of impact\u201d (IE6). A different expert explained that as soon as he starts\ndeveloping on top of a blockchain, he is influenced by what happens with the underlying infrastructure (IE-1). Therefore, he wants to remain up to date with how that blockchain is further developing. He indicated that for him to keep faith in the underlying infrastructure, he needs to perceive that the governance works well (IE-1). One expert noted that the relevance of blockchain governance is not going away anytime soon: \u201dI think that governance is going to become a unique selling point. when I have to decide between platform A or B, then I will pick the one with the better governance\u201d (IE-4). Finally, two experts mentioned that because of the immutable and unstoppable nature of blockchains, governance is especially relevant when something goes wrong (IE-3, IE-6). For example, when you deploy a smart contract that includes a mistake, it is crucial to know what possibilities exist to deal with the issue."
+        },
+        {
+            "heading": "Interview results",
+            "text": "The results of the five qualitative evaluation characteristics are presented according to the DSR evaluation reporting structure (Shrestha et al., 2014). The authors of this study highlight that the use of a matrix is a useful way to analyze qualitative evaluation criteria. The opinions gathered during the semi-structured interviews are reported as either positive for strong evidence of support on one of the evaluation criteria or negative if there is evidence of a strong negative comment on the evaluation criteria. A summary of the evaluation results of the BG framework is presented in Table 5.\nIn terms of completeness and simplicity, there were slightly more negative than positive comments. Multiple experts noted aspects that they felt were currently missing in the framework. In particular, accountability was reported multiple times to be missing. Regarding simplicity, there were three reoccurring comments by the experts. First, there seemed to be a wide agreement that the dimension foundation should be incorporated into the roles dimension as a single question. Secondly, multiple experts expressed that the dimensions conflict resolution and decision making were tightly coupled. Thirdly, experts indicated that the dimensions membership and roles seemed to overlap. However, they did understand that the distinction was made: \u201dYou could merge roles and membership but if you have defined membership from the standpoint of accessibility I would not do it because then it certainly is something different\u201d (IE-6). Overall, the experts understood the structure of the framework well: \u201dI think it is a nice set-up to place all the dimensions over the three different layers\u201d (IE-1), \u201dit is clear to use\nthe structure of a model\u201d (IE-5), \u201dYour explanation was helpful but I think if I looked at it myself I would also quickly have understood it\u201d (IE-8). Still, certain parts of the framework were not understood immediately. Two experts were confused by the labels indicating that the columns are the layers and the rows are the dimensions.\nThere was one particularly interesting comment about not being able to draw conclusions when using the BG framework: \u201dI do think that drawing conclusions is left to the interpretation of the person using this framework. Somebody could fill this in for a blockchain \u2026 but then the next question is whether the governance is actually good?\u201d (IE-8) Related to this comment another expert stated: \u201dwhen the goal is to help people ask the right questions \u2026 to get a better understanding [of the governance of a blockchain], then this [framework] is quite smart. Attaching values to these questions would be a nice follow-up study\u201d (IE-6).\nIn terms of operational feasibility and usefulness, there was wide support from the experts. In respect to both characteristics around 80% of the comments were positive. The experts widely perceived an added value of the framework for stakeholders dealing with blockchain governance: \u201dpersonally I have it globally in my head where I should look when the topic is blockchain governance. However, at the same time I think that when you look at a new project, and you have everything textually written down, categorized, that it is really of added value for everyone involved\u201d (IE1), \u201dIt definitely gives a grip on the different aspects of governance (IE-3), the fact that you let them think about\nthe relevant questions is an important step\u2026 so I definitely think there is an added value\u201d (IE-6).\nThe experts indicated to see themselves coming back to the framework when they deal with blockchain governance in the future. They described three situations in which they saw themselves using the framework:\n(1) As a starting point for discussion in new blockchain projects. For example, when they have to think about how to set up the governance of a project. (2) As a testing framework to analyze the governance of an already set up blockchain. For example, to compare the governance of Bitcoin to that of Ethereum. (3) As a checklist at the end of a situation in which they are dealing with something blockchain governance-related. For example, to check whether an aspect of governance has not been forgotten.\nConsidering the feedback of the experts, we make several adjustments to the framework. A note is that these changes were already incorporated in the framework presented in Section 2.1. Examples of adjustments made were: (i) including accountability in the roles dimension. Including foundation in off-chain community roles, this was previously a separate dimension. Combining decision making and conflict resolution, with the latter also being a seperate dimension in the draft BG framework and finally, a switch of labels indicating the dimensions and layers.\nTable 5. Summary of the BG framework evaluation results.\nEvaluation characteristic Case evidence (No. comments) Prominent comments\nCompleteness \u00d7 5 IE-6: \u201dI believe it [the framework] is rather complete, there are some details but the question is whether you can fit all of those in this model \u2026 \u201d \u00d77 IE-5: \u201dAccountability currently misses \u2026 I would definitely add it [to the framework]. \u201d Simplicity \u00d7 6 IE-6: \u201dI would merge these two [conflict resolution and decision making], because conflict resolution is about\nmaking a decision.\u201d \u00d7 9 IE-8: \u201dMembership and roles I find duplicates. I do understand you make the distinction but maybe you can\ncombine them in some way.\u201d Understandability \u00d7 8 IE-2: \u201dI would like to see some examples but the framework itself looks reasonably logical.\u201d\n\u00d7 7 IE-1: \u201d \u2026 it [the framework] is not simple enough to be understood by somebody who knows nothing about software development in the domain of blockchain \u2026 it would only work if somebody explains the difference between off-chain and on-chain.\u201d\nOperational feasibility\n\u00d7 7 IE-3: \u201dWhen you share this framework I would definitely look back at it in future situations. This is a great starting point for when people ask me questions about governance and to help them think about it.\u201d \u00d7 1 IE-8: \u201dWhen I deal with blockchain governance [in the future] I would definitely check whether I have not forgotten something.\u201d\nUsefulness \u00d7 11 IE-1: \u201dI think it [the framework] is of added value for stakeholders who are looking at the governance of projects \u2026 many aspects exist to look at and this [the framework] offers a thread on many levels because it asks questions you might not thought about.\u201d\n\u00d7 3 IE-6: \u201dI do think it really helps people think of things like \u2026 what are the roles in our community? who has a saying in what? Even if you have already made a choice for a particular blockchain, this [framework] can be very useful.\u201d\nindicates the evaluation characteristic was strongly supported in a comment indicates the evaluation characteristic was strongly opposed in a comment\nEvaluation through case studies\nHere, we present the outcomes of the ex-post design product evaluation, structured around the application of the BG framework in a holistic multiple case study. The process of evaluation can be divided into two activities, namely demonstration and evaluation (Peffers, Tuunanen, Rothenberger, & Chatterjee, 2007). A demonstration is a light version of evaluation that demonstrates the use of the artifact to solve an instance of the problem. The evaluation activity is more formal and evaluates how well the artifact performs. The researcher takes the role of a user of the framework and therefore it is executed in an artificial setting. However, we applied the artifact to real cases to closely resemble a natural setting."
+        },
+        {
+            "heading": "Data collection and analysis",
+            "text": "The BG framework outlined presented in Section 4 was used as a basis for the relevant questions and criteria\nfor data collection. The data collected is mainly of qualitative nature and from different type of sources. Data was derived from publicly available sources related to the case of interest. The collected data has been analyzed following thematic analysis (Braun & Clarke, 2014). Using a deductive reasoning approach, the themes for data analyzes emerged from the BG framework. The designed artifact was thus used as a thread to conduct and report on the analysis, demonstrating its practical use.\nCase 1: Ethereum"
+        },
+        {
+            "heading": "Formation and context",
+            "text": "Ethereum is a public permission-less blockchain that went live in 2015. The idea for Ethereum originated with Vitalik Buterin who was inspired by the shortcomings he experienced while doing Bitcoin related development. He believed blockchain applications were not only limited to financial applications and therefore envisioned a fully Turing-complete programming language\nTable 6. Summary of Ethereum\u2019s governance.\nOff-chain community Off-chain development On-chain protocol\nRoles \u25cf Token-holders \u25cf Contributors \u25cf Miners \u25cf Ethereum Foundation \u25cf Maintainers \u25cf Full nodes \u25cf Industry organizations \u25cf EIP editors \u25cf Lightweight nodes \u25cf Fellowships \u25cf Community figureheads \u25cf Online moderators Incentives Most of the community is incentivized by speculating on the increase of value of Ether, the EF received 12 million Ether from the ICO, industry organizations are seeking the benefits of Ethereum\u2019s applications in the long term, support from the community toward development by fellowships. Developers are incentivized by a potential value increase of Ether from their contributions, contributors usually work on a voluntary basis for fun and social recognition, maintainers are paid through and sometimes hired by the EF. Miners have a monetary incentive in block rewards (3ETH) including transaction fees. Full nodes can be necessary to run for a business\u2019 activities. Other incentives to run full nodes include network support and security reasons. Lightweight nodes are ran to interact with the blockchain on light devices. Membership Overall an open community. Anybody can become a token-holder. Joining industry organization groups such as the EEA requires an application process and license fee. No visible process exists to become a community figurehead or online moderator, this requires recognized contributions and trust from other community members. Anybody can start contributing to the development of Ethereum. No formal processes are in place to become a maintainer. It is likely an informal process through recognition for contributor efforts. The same reasoning applies for becoming an EIP editor. Anybody is allowed to run a mining node, a full node or lightweight node. Running a full node requires a consumer-grade laptop. However, becoming a miner who actively proposes new blocks has a high barrier of entry due to the expensive set up costs of hardware. Communication Communication takes place via Reddit, Twitter, Slack, Discord, Gitter, The Ethereum Community Forum, the Ether Forum, local meetups, podcasts and events (e.g. the Ethereum Community Conference). Large width of channels. Developers mostly communicate via the comment system in Github and scheduled developer calls. Core developer calls are recorded, summarized in notes and publicly available. Informal communication occurs during meetups and events. Nodes communicate using a universal data difussion model. Data is shared between every node in the network. Lightweight nodes need a connection to a full node to retrieve information about the blockchain. Decision making Signaling systems for the community exist in the form of Carbon votes (Figure 2) and twitter polls. Furthermore, they can voice their opinion through posting in the communication channels, selling their Ether and supporting potential hard forks of developers. The two formal mechanisms through which developers in Ethereum make decisions are the EIP process on Github and core developer calls every other week. Community signaling systems serve as input during the calls. The consensus mechanism in Ethereum is Proofof-Work. Miners can signal their preference on contentious development decisions using an optional data field in blocks. Network capacity can be automatically adjusted by a miner gas vote.\nsupporting the launch of smart contracts on a blockchain. At the start of Ethereum, slightly more than 72 million coins of the native currency Ether (ETH) were pre-mined. The current total supply is about 106 million Ether. The percentage of pre-mined coins therefore represents 67% of the current total supply. Out of the 72 million coins, 60 million coins were part of the crowdsale held by the Ethereum Foundation (EF). This was done via a crowdsale in which investors could exchange bitcoin in change for Ether. The other 12 million coins were put into the EF to support marketing and development efforts. A summary of Ethereum\u2019s governance, through application of the BG framework, is presented in Table 6.\nCase 2: EOS.IO"
+        },
+        {
+            "heading": "Formation and context",
+            "text": "EOS.IO is a public permissioned blockchain that went live in January 2018. Similar to Ethereum, it operates as a smart contract platform and decentralized operating system that enables the deployment of dApps by other developers. However, the EOS.IO platform was designed\nwith the aim to address some of the scalability and governance issues experienced by Ethereum. The realized EOS.IO blockchain is based on a White Paper published in 2017 by Daniel Larimer. He is a software programmer and blockchain entrepreneur who prior to the creation of EOS.IO founded BitShares (a decentralized exchange) and co-founded Steem (a decentralized social media platform). Currently, he is the CTO of the software startup block.one. This startup, registered in the Cayman Islands, was responsible for the initial development of EOS.IO. They released it as OSS in June 2018.\nTo fund the development of EOS.IO, block.one held a year-long ICO without a maximum limit of raised funding. When the ICO of EOS.IO ended, block.one had raised over 4 billion dollars worth of Ether. To date, this is the highest funded crowdfunding project of all time. One billion tokens of the platform\u2019s native currency EOS were minted and distributed during the ICO to promote initial engagement and activity. Ninety per cent of the one billion tokens were sold for Ether during the ICO. The other ten per cent were held by block.one to fund the development of the platform. A summary of EOS.IO\u2019s\ngovernance, through application of the BG framework, is presented in Table 7."
+        },
+        {
+            "heading": "Discussion",
+            "text": "This research has resulted in the development of a framework that supports blockchain stakeholders with understanding and analyzing the governance of blockchains. The BG framework is a conceptual framework describing three layers and six dimensions of blockchain governance. The BG framework is a response to the call for new research on the topic of blockchain governance (Bodo et al., 2018). To evaluate the framework, we created an evaluation strategy based on the work by Venable et al. (2012). The evaluation of the artifact consisted of an ex-ante evaluation with blockchain experts via semi-structured interviews and a demonstration of the application of the framework in an ex-postmultiple case study.\nWe hypothesize a similar role of the framework to the work of Markus (2007) who defined six dimensions of OSS governance which served a reference in many later studies investigating the governance of OSS. His results were used in new case study research and comparisons of OSS governance. It would be equally interesting to apply the BG framework in future single and multiple, in-depth case studies (Yin, 1994). These case studies could be constructed based on the BG framework as it was the case with the work of Markus (2007). The BG framework is a reference framework in the establishment of a shared understanding and discussion surrounding the topic of blockchain governance. Two other examples of frameworks which played a similar role in their own domain include the SPM framework (de Weerd, Brinkkemper, Nieuwenhuis, Versendaal, & Bijlsma, 2006) as a reference framework for software product management and the business model framework (Schief & Buxmann, 2012) for the software industry.\nVarious validity threats were identified for the design evaluation. Interaction of selection and treatment is a possible threat to the expert interviews as the subject population was not representative of the population that we wanted to generalize to. The framework was evaluated by experts with extensive knowledge about blockchain technology and in some cases also governance. The envisioned users of the framework also include blockchain stakeholders who are less informed about the topic. We tried to mitigate this threat by interviewing experts from different types of stakeholder groups (developers, researchers, business) and indicating during the interviews who the envisioned end users of the framework are. The threats of evaluation apprehension and selection could also have influenced the results. Due to the experts participating voluntary, and knowing that their answers are used as input for analysis, it could be possible that they generally responded\nmore positive due to politeness or because they were more motivated by the subject. We tried to mitigate the threat of experimenter expectancies by following the Interview Protocol Refinement Framework (Castillo-Montoya, 2016).\nMoreover, it is applicable to point out that although OSS governance shares multiple similarities with how blockchain projects are governed, several differences can also be indicated. In comparison with traditional OSS projects, the communities of blockchain projects often consist of a more diverse group of stakeholders (Hsieh et al., 2017). Another difference is the so-called token-incentive mechanism which usually exists in blockchain projects due to its connected cryptocurrency (Liu, 2019). Where traditional OSS projects mostly relied on the internal motivation of developers, the contributors in public blockchain projects can potentially achieve considerable economic rewards. Owning tokens of a blockchain project strengthens a developer\u2019s incentive to exert effort and invest in the development of the protocol, intending to increase the value of the project and its respective cryptocurrency (Canidio, 2018).\nFinally, it is relevant to highlight that the level of analysis in this research is set on governance within the context of a given blockchain project (e.g. the governance within Ethereum or EOS.IO). While other levels of analysis such as the effect of laws and regulation on blockchain governance are also relevant areas of research. These were considered too broad to fit within the scope of this research and framework. Furthermore, most available literature on blockchain technology and blockchain governance is focused on public permissionless blockchains. As discussed in Section 3.1, private permissioned blockchains differ from public permissionless blockchains in that the reading, processing and submission rights of transactions are usually restricted to a selected group of participants. Due to this imbalance of focus in literature, the framework is more tailored to public blockchains. However, we believe the framework is still applicable to both types of blockchains, as sources on private permissioned blockchain governance were also included. For example, the membership dimension of the framework directly addresses the distinction between public and private blockchains (open vs. closed), while the other dimensions and layers are equally applicable in the case of a public or private (e.g. industry consortium) blockchain."
+        },
+        {
+            "heading": "Conclusions and future work",
+            "text": ""
+        },
+        {
+            "heading": "Contributions for research and practice",
+            "text": "The outcomes of this research have both scientific as well as societal contributions. The scientific contributions include\n(i) the definition of a conceptual framework providing an overview of three governance layers and six governance dimensions related to blockchain governance based on foundations in literature (ii) the ability for researchers to categorize and identify areas of research related to blockchain governance using the BG framework (iii) a definition of the term blockchain governance and overview of related literature (iv) contributions to the domain of OSS research by providing an overview of artifacts used to discuss OSS governance and (v) documentation of the design process for creating the conceptual framework which can be useful for other researchers interested in the design of conceptual frameworks and artifacts.\nFurthermore, the societal contributions include (i) confirmations that the introduced BG framework provides added value for stakeholders in the blockchain ecosystem who want to obtain a better understanding of blockchain governance. Outcomes of the expert interviews highlighted a strong perceived usefulness of the framework and the experts indicated positive reactions toward them returning to the framework in future situations. Finally, (ii) this study serves as a direct response to the request of Bodo et al. (2018) for new research on the topic of blockchain governance.\nTo define and compare the governance structures of blockchains this study proposes the BG framework. Building on OSS governance and blockchain governance foundations in literature and insights from blockchain experts, the BG framework defines the governance structure of a blockchain as a combination between 6 governance dimensions, the formation and context, roles, incentives, membership, communication and decision making dimension and 3 governance layers, the offchain community, off-chain development and on-chain protocol layer. The BG framework is presented in Figure 1. While further validation studies are recommended, the BG framework is a solid basis upon which future research can be carried out. The strength of the framework is that it combines insights from literature into OSS governance, blockchain governance and opinions from blockchain experts into a framework that can be of added value for various stakeholders in different situations. For example, the framework can be used to describe, analyze, categorize and compare the governance of blockchains. However, it is highlighted that the BG framework does not produce a value judgment and leaves interpretation in the hands of the user. We hypothesize that the BG framework can act as a reference framework in the establishment of a shared understanding and discussion surrounding the topic of blockchain governance."
+        },
+        {
+            "heading": "Future work",
+            "text": "This research has opened interesting new areas for further research. First, further empirical validation is recommended to strengthen our findings, ideas for validation research include technical action research, surveys, interviews and focus groups. Preferably, these techniques are triangulated to form a complete picture of the validity and applicability of the BG framework. Resulting feedback can be used as input to incrementally refine the BG framework. Another interesting area of research to pursue would be to define what \u2018good\u2019 governance entails for a blockchain. Defining good blockchain governance could be context specific and highlight different quality properties such as the degree of transparency, efficiency and balance of power. Prior literature discussing what constitutes good governance in other domains (Weiss, 2000) could be used as a starting point. Next, it would be interesting to explore whether the BG framework presented in this study could be linked to a measure of good governance. An extended version of the framework connecting to a direct value judgment that can be used for performance analysis would be a promising next step. Finally, the BG framework can be applied to many more cases with the aim of identifying configurations of governance. By using the BG framework as a thread, patterns of governance could be identified among different cases. A promising step would be to replace the current questions inside the dimensions and layers of the BG framework with actual examples of configurations. For example, if all on-chain protocol roles are identified among a large set of blockchains, these could potentially be categorized into several reoccurring configurations. In turn, the BG framework can be extended by offering pre-defined choices per dimension and layer. Additionally, if the BG framework is applied to cases of both public and private blockchains, the results could be compared and used to retrieve valuable insights in the main differences of governance between both types of blockchains."
+        },
+        {
+            "heading": "Acknowledgments",
+            "text": "We would like to express our gratitude towards all experts that were willing to participate in the evaluation of the framework."
+        },
+        {
+            "heading": "Notes on contributors",
+            "text": "Rowan van Pelt obtained his M.Sc. in Business Informatics from the Department of Information and Computer Science,\nUtrecht University in 2019. He received his Bachelor\u2019s degree in Information Science from Utrecht University in 2017. His research interests include blockchain governance and software product management. After completing his studies, he started working as an IT-trainee for the Dutch Railways in 2019.\nDr Slinger Jansen is an Assistant Professor at the Department of Information and Computer Science at Utrecht University. He is one of the leading researchers in the domain of software ecosystems and co-founders of the International Conference on Software Business and International Workshop on Software Ecosystems. He is lead editor of the book \u201dSoftware Ecosystems: Analyzing and Managing Business Networks in the Software Industry\u201d and of several others. Besides his academic endeavors he actively supports new enterprises and sits on the boards of advisors of several start-ups.\nDjuri Baars is the lead of the blockchain team at Rabobank, one of the largest Dutch banks. He wrote his master thesis at the University of Twente about the applicability of blockchain technology for the realization of Self-Sovereign Identity (SSI). His work is used as the basis for several blockchain and identity projects both inside and outside Rabobank. Recently, his team released open-source tooling to help accelerate adoption of SSI in a blockchain-agnostic way. Furthermore, his team is involved in two blockchain platforms already in production, both being developed within consortia with members spread over multiple countries.\nDr. Sietse Overbeek is an Assistant Professor in Information Science at the Department of Information and Computing Sciences, Faculty of Science, Utrecht University, the Netherlands. His main research interests include conceptual modeling of information systems, method engineering, and ICT for Development (ICT4D). He is the program coordinator of the Master in Business Informatics program. Sietse received his Ph.D. from the Radboud University Nijmegen, the Netherlands in April 2009. The subject of his Ph.D. thesis was the bridging of supply and demand for knowledge intensive tasks based on knowledge, cognition, and quality."
+        }
+    ],
+    "title": "Defining Blockchain Governance: A Framework for Analysis and Comparison",
+    "year": 2020
+}

@@ -1,0 +1,859 @@
+{
+    "abstractText": "Objectives: To introduce blockchain technologies, including their benefits, pitfalls, and the latest applications, to the biomedical and health care domains. Target Audience: Biomedical and health care informatics researchers who would like to learn about blockchain technologies and their applications in the biomedical/health care domains. Scope: The covered topics include: (1) introduction to the famous Bitcoin crypto-currency and the underlying blockchain technology; (2) features of blockchain; (3) review of alternative blockchain technologies; (4) emerging nonfinancial distributed ledger technologies and applications; (5) benefits of blockchain for biomedical/ health care applications when compared to traditional distributed databases; (6) overview of the latest biomedical/health care applications of blockchain technologies; and (7) discussion of the potential challenges and proposed solutions of adopting blockchain technologies in biomedical/health care domains.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Tsung-Ting Kuo"
+        },
+        {
+            "affiliations": [],
+            "name": "Hyeon-Eui Kim"
+        },
+        {
+            "affiliations": [],
+            "name": "Lucila Ohno-Machado"
+        }
+    ],
+    "id": "SP:e89e86925a698ca3b251c4a58fce28901406869b",
+    "references": [
+        {
+            "authors": [
+                "S. Nakamoto"
+            ],
+            "title": "Bitcoin: A peer-to-peer electronic cash system",
+            "venue": "https:// bitcoin.org/bitcoin.pdf",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "J. Davis"
+            ],
+            "title": "The Crypto-currency: Bitcoin and Its Mysterious Inventor",
+            "venue": "The New Yorker. http://www.newyorker.com/magazine/2011/10/10/ the-crypto-currency. Accessed January",
+            "year": 2011
+        },
+        {
+            "authors": [
+                "Calvery JS"
+            ],
+            "title": "Statement of Jennifer Shasky Calvery, Director Financial Crimes Enforcement Network United States Department of the Treasury",
+            "venue": "Vienna, Virginia, United States: Financial Crimes Enforcement Network;",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "R. Dillet"
+            ],
+            "title": "Bitcoin Ticker Available On Bloomberg Terminal For Employees",
+            "venue": "TechCrunch. https://techcrunch.com/2013/08/09/bitcoin-tickeravailable-on-bloomberg-terminal/. Accessed December",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "XE.COM INC. Currency Encyclopedi"
+            ],
+            "title": " XBT Bitcoin",
+            "venue": "http://www.xe. com/currency/xbt-bitcoin. Accessed February 15,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Draupnir"
+            ],
+            "title": "What Can You Buy with Bitcoin",
+            "venue": "WeUseCoins. https:// www.weusecoins.com/what-can-you-buy-with-bitcoin/. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Hughes"
+            ],
+            "title": "What Are Bitcoins Actually Used For Now in 2016",
+            "venue": "MakeUseOf. http://www.makeuseof.com/tag/bitcoins-actually-used-now-2016/. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "C Fromknecht",
+                "D Velicanu",
+                "S. Yakoubov"
+            ],
+            "title": "A decentralized public key infrastructure with identity retention",
+            "venue": "IACR Cryptology ePrint Archive",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "Kuo T-T",
+                "Hsu C-N",
+                "Ohno-Machado L"
+            ],
+            "title": "ModelChain: Decentralized PrivacyPreserving Healthcare Predictive Modeling Framework on Private Blockchain Networks. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "L. Lamport"
+            ],
+            "title": "Password authentication with insecure communication",
+            "venue": "Commun ACM",
+            "year": 1981
+        },
+        {
+            "authors": [
+                "J. Kelsey"
+            ],
+            "title": "Introduction to Blockchains. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "J Garay",
+                "A Kiayias",
+                "N. Leonardos"
+            ],
+            "title": "The bitcoin backbone protocol: Analysis and applications",
+            "venue": "Annual International Conference on the Theory and Applications of Cryptographic Techniques. Berlin,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "R Pass",
+                "C Tech",
+                "L. Seeman"
+            ],
+            "title": "Analysis of the Blockchain Protocol in Asynchronous Networks",
+            "venue": "Annual International Conference on the Theory and Applications of Cryptographic Techniques. Cham,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "Y Sompolinsky",
+                "A. Zohar"
+            ],
+            "title": "Secure high-rate transaction processing in Bitcoin",
+            "venue": "International Conference on Financial Cryptography and Data Security",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "I. Eyal"
+            ],
+            "title": "The miner\u2019s dilemma",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "Eyal I",
+                "Sirer EG"
+            ],
+            "title": "Majority is not enough: Bitcoin mining is vulnerable",
+            "venue": "International Conference on Financial Cryptography and Data Security",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "V. Buterin"
+            ],
+            "title": "A Next-generation Smart Contract and Decentralized Application Platform. https://github.com/ethereum/wiki/wiki/White-Paper",
+            "venue": "Accessed July",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "G. Wood"
+            ],
+            "title": "Ethereum: A Secure Decentralised Generalised Transaction Ledger. http://www.cryptopapers.net/papers/ethereum-yellowpaper.pdf",
+            "venue": "Accessed October",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "P Moreno-Sanchez",
+                "MB Zafar",
+                "A. Kate"
+            ],
+            "title": "Listening to whispers of ripple: Linking wallets and deanonymizing transactions in the ripple network",
+            "venue": "Proc Privacy Enhancing Technol",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Duffield E",
+                "Diaz D. Dash"
+            ],
+            "title": "A Privacy-Centric Crypto-Currency",
+            "venue": "https://github.com/dashpay/dash/wiki/Whitepaper. Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "J. Stevenson"
+            ],
+            "title": "Getting started with Litecoins (after Bitcoin)",
+            "venue": "John Stevenson;",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "M Tarasiewicz",
+                "A. Newman"
+            ],
+            "title": "Cryptocurrencies as distributed community experiments",
+            "venue": "Handbook of Digital Currency. Elsevier Inc;",
+            "year": 2022
+        },
+        {
+            "authors": [
+                "M. Rosenfeld"
+            ],
+            "title": "Overview of colored coins. https://bitcoil.co.il/BitcoinX",
+            "venue": "pdf. Accessed July",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "A Back",
+                "M Corallo",
+                "L Dashjr"
+            ],
+            "title": "Enabling Blockchain Innovations with Pegged Sidechains",
+            "venue": "https://blockstream.com/sidechains.pdf. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Swan"
+            ],
+            "title": "Blockchain: Blueprint for a New Economy",
+            "venue": "Unitited States: O\u2019Reilly Media,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "I Bentov",
+                "C Lee",
+                "A Mizrahi",
+                "M. Rosenfeld"
+            ],
+            "title": "Proof of Activity: extending Bitcoin\u2019s Proof of Work via Proof of Stake [Extended Abstract",
+            "venue": "y. ACM SIGMETRICS. Perform Eval Rev",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "S King",
+                "S. Nadal"
+            ],
+            "title": "Ppcoin: Peer-to-peer Crypto-currency with Proof-ofstake",
+            "venue": "http://peerco.in/assets/paper/peercoin-paper.pdf",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "I Bentov",
+                "A Gabizon",
+                "A. Mizrahi"
+            ],
+            "title": "Cryptocurrencies without proof of work",
+            "venue": "International Conference on Financial Cryptography and Data Security. Berlin Heidelberg:",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "J Bonneau",
+                "A Miller",
+                "J Clark",
+                "A Narayanan",
+                "JA Kroll",
+                "EW. Felten"
+            ],
+            "title": "Sok: Research perspectives and challenges for bitcoin and cryptocurrencies",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A Gervais",
+                "GO Karame",
+                "K Wu\u00fcst",
+                "V Glykantzis",
+                "H Ritzdorf",
+                "S. Capkun"
+            ],
+            "title": "On the Security and Performance of Proof of Work Blockchains",
+            "venue": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security. Vienna,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "T McConaghy",
+                "R Marques",
+                "A M\u00fcller"
+            ],
+            "title": "BigchainDB: A Scalable Blockchain Database. https://www.bigchaindb.com/whitepaper",
+            "venue": "Accessed July",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "G. Greenspan"
+            ],
+            "title": "MultiChain Private Blockchain. http://www.multichain.com/ download/MultiChain-White-Paper.pdf",
+            "venue": "Accessed July",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Vukoli c"
+            ],
+            "title": "The quest for scalable blockchain fabric: Proof-of-work vs. BFT replication",
+            "venue": "International Workshop on Open Problems in Network Security. Zurich,",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "M Mainelli",
+                "M. Smith"
+            ],
+            "title": "Sharing ledgers for sharing economies: an exploration of mutual distributed ledgers (aka blockchain technology)",
+            "venue": "J Financial Perspect",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A Kosba",
+                "A Miller",
+                "E Shi",
+                "Z Wen",
+                "C. Papamanthou"
+            ],
+            "title": "Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts",
+            "venue": "IEEE Symposium on Security and Privacy (SP). San Jose,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "S. Omohundro"
+            ],
+            "title": "Cryptocurrencies, smart contracts, and artificial intelligence",
+            "venue": "AI Matters",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "M. Swan"
+            ],
+            "title": "Blockchain thinking: The brain as a dac (decentralized autonomous organization)",
+            "venue": "Texas Bitcoin Conference",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "M. Swan"
+            ],
+            "title": "Blockchain Temporality: Smart Contract Time Specifiability with Blocktime",
+            "venue": "International Symposium on Rules and Rule Markup Languages for the Semantic Web. Stony Brook,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "N. Szabo"
+            ],
+            "title": "The idea of smart contracts. http://www.fon.hum.uva.nl/rob/ Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html",
+            "venue": "Accessed October",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "H Watanabe",
+                "S Fujimura",
+                "A Nakadaira",
+                "Y Miyazaki",
+                "A Akutsu",
+                "J. Kishigami"
+            ],
+            "title": "Blockchain contract: Securing a blockchain applied to smart contracts",
+            "venue": "IEEE International Conference on Consumer Electronics (ICCE)",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Del Castillo"
+            ],
+            "title": "Microsoft Doubles Down on Ethereum With New Blockchain Product",
+            "venue": "CoinDesk. http://www.coindesk.com/microsoft-launchingnew-ethereum-blockchain-product/. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "H Kalodner",
+                "M Carlsten",
+                "P Ellenbogen",
+                "J Bonneau",
+                "A. Narayanan"
+            ],
+            "title": "An empirical study of Namecoin and lessons for decentralized namespace design",
+            "venue": "Workshop on the Economics of Information Security. Delft University",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "S Bartling",
+                "B. Fecher"
+            ],
+            "title": "Could Blockchain provide the technical fix to solve science\u2019s reproducibility crisis",
+            "venue": "LSE Impact of Social Sciences blog. http://blogs.lse.ac.uk/impactofsocialsciences/2016/07/21/could-blockchain-provide-the-technical-fix-to-solve-sciences-reproducibility-crisis/. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R. Winton"
+            ],
+            "title": "Hollywood hospital pays $17,000 in bitcoin to hackers. FBI Investigating",
+            "venue": "Los Angeles Times. http://www.latimes.com/business/tech nology/la-me-ln-hollywood-hospital-bitcoin-20160217-story.html Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "J. McCarthy"
+            ],
+            "title": "MedStar Attack Found to Be Ransomware, Hackers Demand Bitcoin",
+            "venue": "Healthcare IT News. http://www.healthcareitnews.com/ news/medstar-attack-found-be-ransomware-hackers-demand-bitcoin Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "S. Meunier"
+            ],
+            "title": "Blockchain Technology \u2014 a Very Special Kind of Distributed Database. Medium",
+            "venue": "https://medium.com/@sbmeunier/blockchain-tech nology-a-very-special-kind-of-distributed-database-e63d00781118. Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "L. Martin"
+            ],
+            "title": "Blockchain vs. Relational Database: Which is right for your Application? TechBeacon. https://techbeacon.com/Blockchain-rela tional-database-which-right-for-your-application",
+            "venue": "Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "Elmasri R",
+                "Navathe SB"
+            ],
+            "title": "Fundamentals of Database Systems",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "MT \u20ac Ozsu",
+                "P. Valduriez"
+            ],
+            "title": "Principles of Distributed Database Systems",
+            "year": 2011
+        },
+        {
+            "authors": [
+                "J-T Lorenz",
+                "B M\u00fcnstermann",
+                "M Higginson",
+                "PB Olesen",
+                "N Bohlken",
+                "V. Ricciardi"
+            ],
+            "title": "Blockchain in Insurance \u2013 Opportunity or Threat? McKinsey & Company. http://www.mckinsey.com/ /media/McKinsey/Industries/ Financial Services/Our Insights/Blockchain in insurance opportunity or threat/Blockchain-in-insurance-opportunity-or-threat.ashx",
+            "venue": "Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "PU FIPS"
+            ],
+            "title": "180-4 Secure Hash Standard (SHS)",
+            "venue": "http://nvlpubs.nist.gov/ nistpubs/FIPS/NIST.FIPS.180-4.pdf. Accessed April 6,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "PU FIPS"
+            ],
+            "title": "186-4 Digital Signature Standard (DSS)",
+            "venue": "http://nvlpubs.nist. gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf. Accessed April 6,",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "G. Baxendale"
+            ],
+            "title": "Can Blockchain Revolutionise EPRs? ITNOW",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Mettler"
+            ],
+            "title": "Blockchain technology in healthcare: The revolution starts here. 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom)",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "X Yue",
+                "H Wang",
+                "D Jin",
+                "M Li",
+                "W. Jiang"
+            ],
+            "title": "Healthcare data gateways: found healthcare intelligence on blockchain with novel privacy risk control",
+            "venue": "J Med Syst",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "D Blough",
+                "M Ahamad",
+                "L Liu",
+                "P. Chopra"
+            ],
+            "title": "MedVault: Ensuring security and privacy for electronic medical records",
+            "venue": "NSF CyberTrust Principal Journal of the American Medical Informatics Association, 2017,",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "P Snow",
+                "B Deery",
+                "P Kirby",
+                "D. Johnston"
+            ],
+            "title": "Factom Ledger by Consensus: Retrieved from Factom",
+            "venue": "http://www.factom.org. Accessed December",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "B Yuan",
+                "W Lin",
+                "C. McDonnell"
+            ],
+            "title": "Blockchains and Electronic Health Records. http://mcdonnell.mit.edu/blockchain_ehr.pdf",
+            "venue": "Accessed October",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Witchey NJ"
+            ],
+            "title": "Healthcare Transaction Validation Via Blockchain Proofof-work, Systems and Methods. United States patent application US",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A. Gropper"
+            ],
+            "title": "Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "D. Ivan"
+            ],
+            "title": "Moving Toward a Blockchain-based Method for the Secure Storage of Patient Records. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Linn LA",
+                "Koo MB"
+            ],
+            "title": "Blockchain for health data and its potential use in health IT and health care related research. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R. Prakash"
+            ],
+            "title": "Adoption of blockchain to enable the scalability and adoption of accountable care. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R Krawiec",
+                "D Barr",
+                "J Killmeyer"
+            ],
+            "title": "Blockchain: opportunities for health care. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "B C",
+                "B Kalis",
+                "E Mitchell",
+                "E Pupo",
+                "A. Truscott"
+            ],
+            "title": "Blockchain: securing a new health interoperability experience. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "O. Williams-Grut"
+            ],
+            "title": "Estonia is Using the Technology Behind Bitcoin to Secure 1 Million Health Records",
+            "venue": "Business Insider Inc. http://www.busines sinsider.com/guardtime-estonian-health-records-industrial-blockchainbitcoin-2016-3. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "S Attili",
+                "SK Ladwa",
+                "U Sharma",
+                "AF. Trenkle"
+            ],
+            "title": "Blockchain: the chain of trust and its potential to transform healthcare \u2013 our point of view. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "K. Yip"
+            ],
+            "title": "Blockchain & alternate payment models. ONC/NIST Use of Blockchain for Healthcare and Research Workshop. Gaithersburg, Maryland, United States: ONC/NIST; 2016",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "K. Culver"
+            ],
+            "title": "Blockchain Technologies: A whitepaper discussing how the claims process can be improved. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "K Vian",
+                "A Voto",
+                "K. Haynes-Sanstead"
+            ],
+            "title": "A blockchain profile for medicaid applicants and recipients. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "A Ekblaw",
+                "A Azaria",
+                "JD Halamka",
+                "A. Lippman"
+            ],
+            "title": "A Case Study for Blockchain in Healthcare:\u201cMedRec\u201d Prototype for Electronic Health Records and Medical Research Data",
+            "venue": "Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "A Azaria",
+                "A Ekblaw",
+                "T Vieira",
+                "A. Lippman"
+            ],
+            "title": "MedRec: using blockchain for medical data access and permission management",
+            "venue": "International Conference on Open and Big Data (OBD). Vienna,",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "K Peterson",
+                "R Deeduvanu",
+                "P Kanjamala",
+                "K. Boles"
+            ],
+            "title": "A blockchain-based approach to health information exchange networks. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "AA Shrier",
+                "A Chang",
+                "N Diakun-thibault"
+            ],
+            "title": "Blockchain and Health IT: Algorithms, Privacy, and Data. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "J. Goldwater"
+            ],
+            "title": "The use of a blockchain to foster the development of patient-reported outcome measures. ONC/NIST Use of Blockchain for Healthcare and Research Workshop",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "T Nugent",
+                "D Upton",
+                "M. Cimpoesu"
+            ],
+            "title": "Improving data transparency in clinical trials using blockchain smart contracts",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "Topol EJ"
+            ],
+            "title": "Money back guarantees for non-reproducible results? BMJ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "P. Taylor"
+            ],
+            "title": "Applying blockchain technology to medicine traceability. SecuringIndustry.com. https://www.securingindustry.com/pharmaceuti cals/applying-blockchain-technology-to-medicine-traceability/s40/ a2766/ -.WFnPQ7GZNzg",
+            "venue": "Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "J Jenkins",
+                "J Kopf",
+                "BQ Tran",
+                "C Frenchi",
+                "H. Szu"
+            ],
+            "title": "Bio-mining for biomarkers with a multi-resolution block chain. SPIE Sensing Technology\u00fe Applications: International Society for Optics and Photonics",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "M. Del Castillo"
+            ],
+            "title": "SWIFT: Blockchain Won\u2019t Remove All Third Parties in Securities Trade",
+            "venue": "CoinDesk. http://www.coindesk.com/swift-researchblockchain-third-parties/. Accessed December",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "P. De Filippi"
+            ],
+            "title": "The Interplay Between Decentralization and Privacy: the Case of Blockchain Technologies",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M. Moser"
+            ],
+            "title": "Anonymity of Bitcoin Transactions. M\u00fcnster Bitcoin Conference. M\u00fcnster, Germany: MBC; 2013:17\u201318",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "A Biryukov",
+                "D Khovratovich",
+                "I. Pustogarov"
+            ],
+            "title": "Deanonymisation of clients in Bitcoin P2P network",
+            "venue": "ACM SIGSAC Conference on Computer and Communications Security",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "A. Ludwin"
+            ],
+            "title": "How Anonymous is Bitcoin? Coin Center. https://coincenter",
+            "venue": "org/entry/how-anonymous-is-bitcoin. Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "A. Abbas"
+            ],
+            "title": "Understanding Privacy: How Anonymous can Bitcoin Payments be? Bitcoinist.net. http://bitcoinist.com/understanding-privacy-an onymous-bitcoin",
+            "venue": "Accessed April",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "S Meiklejohn",
+                "M Pomarole",
+                "G Jordan",
+                "K Levchenko",
+                "D McCoy",
+                "GM Voelker",
+                "S. Savage"
+            ],
+            "title": "A fistful of bitcoins: characterizing payments among men with no names",
+            "venue": "Internet Measurement Conference",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "Kish LJ",
+                "Topol EJ"
+            ],
+            "title": "Unpatients [mdash] why patients should own their medical data",
+            "venue": "Nat Biotechnol",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A Kiayias",
+                "G. Panagiotakos"
+            ],
+            "title": "Speed-security tradeoffs in blockchain protocols",
+            "venue": "IACR Cryptology ePrint Archive",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "L Ohno-Machado",
+                "V Bafna",
+                "AA Boxwala"
+            ],
+            "title": "iDASH. Integrating data for analysis, anonymization, and sharing",
+            "venue": "J Am Med Inform Assoc",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "L. Ohno-Machado"
+            ],
+            "title": "share: that is not the question",
+            "venue": "Sci Transl Med",
+            "year": 2012
+        }
+    ],
+    "sections": [
+        {
+            "text": "Objectives: To introduce blockchain technologies, including their benefits, pitfalls, and the latest applications, to the biomedical and health care domains. Target Audience: Biomedical and health care informatics researchers who would like to learn about blockchain technologies and their applications in the biomedical/health care domains. Scope: The covered topics include: (1) introduction to the famous Bitcoin crypto-currency and the underlying blockchain technology; (2) features of blockchain; (3) review of alternative blockchain technologies; (4) emerging nonfinancial distributed ledger technologies and applications; (5) benefits of blockchain for biomedical/ health care applications when compared to traditional distributed databases; (6) overview of the latest biomedical/health care applications of blockchain technologies; and (7) discussion of the potential challenges and proposed solutions of adopting blockchain technologies in biomedical/health care domains.\nKey words: blockchain, distributed ledger technology, health information exchange, security, interoperability"
+        },
+        {
+            "heading": "THE BITCOIN BLOCKCHAIN",
+            "text": "The Bitcoin crypto-currency One of the best-known applications of blockchain is the cryptocurrency Bitcoin (in this article, we use \u201cBitcoin\u201d to indicate the currency and \u201cbitcoin\u201d to denote the actual digital coins).1,2 Bitcoin was proposed by the unidentified person or persons \u201cSatoshi Nakamoto\u201d (which is speculated to be a fake name) through a famous white paper1 published in October 2008. In the following year, the open-source Bitcoin implementation was released.2 As a peer-topeer digital currency without a central administrator, Bitcoin is categorized as a decentralized virtual currency by the US Treasury.3 Bitcoin has the unofficial ISO-4217 currency code XBT, which is used by organizations and companies such as Bloomberg4 and XE.5 The unit of Bitcoin is BTC, and 1 BTC is equivalent to about 1200 US dollars as of April 2017.6 Currently, Bitcoin has the highest total market value (19 billion US dollars or 16 million BTC, as of April 2017) among >100 various crypto-currencies currently being used.7\nBitcoins (BTCs) can now be used online at electronic commerce websites to purchase a wide range of commodities and services (see Supplementary Appendix Section A.1 for more details).8\u201311\nKnown challenges for crypto-currencies:\ndouble-spending and single-point-of-failure The underlying distributed ledger technology of Bitcoin is also indi-\ncated as the Bitcoin blockchain, to distinguish it from other block-\nchain technologies. The original motivation of the Bitcoin blockchain\ntechnology was to solve the peer-to-peer double-spending problem (Figure 1)1: How can we prevent electronic coins (defined as \u201ca chain of digital signatures\u201d1) such as bitcoins from being spent twice with-\nout having a central intermediary (eg, bank or mint)?\nIt should be noted that the central intermediary is not desired because it creates a single-point-of-failure, as shown in Figure 2A.12\nThat is, if the central intermediary is down for any reason, including\nscheduled maintenance, the entire network system stops. Also, if the\nVC The Author 2017. Published by Oxford University Press on behalf of the American Medical Informatics Association. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com 1211\nic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\ncentral intermediary is intruded upon (eg, the administrator account is compromised), the whole network faces the invasion risk.13 There-\nfore, a decentralized network topology, as shown in Figure 2B, would\nbe more desirable to avoid such a single-point-of-breach.\nThe Bitcoin blockchain solution: hash-chain\ntimestamping and proof-of-work algorithm To solve the double-spending problem, each computation node in\nthe blockchain network not only needs to store every transaction to\nenable the distributed verification of the transactions, but also to fol-\nlow a distributed timestamp mechanism to determine which transac-\ntions should be accepted and which should be rejected, as shown in Figure 2C. The Bitcoin blockchain exploits hash-chain14 as a distrib-\nuted timestamp mechanism, and every node maintains a copy of the\nchain to store every transaction (Figure 3).\nAdditionally, the \u201cmining\u201d process (ie, creating a block with\nenclosed transactions) should be relatively difficult to do, but relatively easy to check.15 The process should be difficult (ie, time-\nconsuming and costly) in order to make attempts to create invalid\nblocks prohibitively expensive (at the cost of increasing the time\navailable to create valid blocks). To implement such a design, Bitcoin blockchain adopts a proof-of-work protocol1 that each block\ncreator has to follow. Figure 4 illustrates how a chain of blocks is created with this protocol.16,17\nAn additional benefit of the proof-of-work consensus protocol\nused in blockchain is the ability to resolve disagreement of the chains, and thus let blockchains be immutable audit trails.1,15 That\nis, when an attacker modifies a block, all the blocks after that block\nare recomputed, because each block contains the hash value of the previous block\u2019s header,16 and the computational cost of such modi-\nfication should be high enough to prohibit attacks (Figure 4).\nOn the other hand, when an attacker creates a malicious chain\nto compete with an honest chain and tries to replace the honest one,\nthe proof-of-work majority voting mechanism can also significantly\nreduce the probability of such an attack to succeed (Figure 5).\nDetailed analyses of the attack-resisting ability of the blockchain\nproof-of-work consensus protocol are proposed in several recent studies.1,18\u201322 The Bitcoin mechanism also provides rewards to the\nnodes, as an incentive to compensate the high cost associated with\n\u201cmining\u201d a new block and verifying transactions (see Supplemen-\ntary Appendix Section A.2 for more details)."
+        },
+        {
+            "heading": "ALTERNATIVE BLOCKCHAIN TECHNOLOGIES AND BLOCKCHAIN APPLICATIONS BEYOND THE FINANCIAL DOMAIN",
+            "text": "Alternative crypto-currencies and blockchains After Bitcoin, many other crypto-currencies, such as Ethereum (4 billion USD market cap),23\u201325 Ripple (1 billion USD market cap),26,27 Dash (534 million USD market cap),28,29 Litecoin (512 million USD market cap),30,31 and Monero (311 million USD market cap) were developed.32,33 (These market caps are as of April 2017.7) Addition-\nally, several alternative blockchains (or \u201caltchains\u201d) have been proposed (such as Colored Coins34,35 and Sidechains36) and are considered to be blockchain 1.0 technologies.37 Several alternative\nprotocols to the proof-of-work (see the example shown in Figure 4)\nA B C\nFigure 2. Comparison of the distributed network topologies. (A) Centralized network topology, which creates a single-point-of-failure (the central intermediary). If the central intermediary is down or attacked, the entire network stops working. (B) Decentralized network topology, which does not contain single-point-of-failure. If one of the nodes, such as Node 1, is down or attacked, the rest of the network can still operate normally. (C) Blockchain. If \u201ceveryone can see everything\u201d and there exists a distributed timestamp mechanism, the double-spending problem can be solved on such a decentralized network. In the example illustrated in Figure 1, if everyone (ie, Alice, Bob, Charlie, and all other people in the same network) knows that Alice (Node 1 in this example) sent 10 coins to Charlie yesterday, the transaction to send the same 10 coins to Bob today can thus be rejected through a verification process without consulting a bank.\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\nhave also been proposed, such as proof-of-stake, where the node with oldest coins can create a new block38\u201340; proof-of-burn, where the\nnode willing to \u201cburn\u201d or destroy the largest number of coins, by sending it to a \u201cNULL\u201d address, can create a new block41,42; and proof-of-\nelapsed-time, where the node with the shortest wait time verified by the trusted execution environment can create a new block.43,44\nBlockchains as distributed ledgers Although blockchain was originally designed as a crypto-currency,\nit is also regarded as a new form of the distributed database or\nledger, as arbitrary data can be stored in the metadata of the transactions. Bitcoin blockchain supports metadata since 2014.45\u201348 The\noriginal Bitcoin blockchain only supports 80 bytes of metadata, but\nother blockchain implementations support larger sizes. For example, MultiChain46,49 supports metadata with adjustable size, and BigchainDB45,50 has no hard limit on metadata size.\nA blockchain-based distributed ledger is also known as blockchain 2.0,37 including the new technologies of \u201csmart properties\u201d and \u201csmart contracts.\u201d23,24,34,36,37,51\u201356 The former refers to the\ndigital properties with ownership controlled by blockchain, and the\nlatter refers to the computer programs designed to manage smart\nproperties. One of the most well-known smart property/contract systems is Ethereum,23\u201325 which is a decentralized platform for smart contracts.23,24 Ethereum as a crypto-currency itself also has the second-largest market cap as of April 2017.7 Microsoft adopted\nEthereum as the core of its new Blockchain-as-a-Service on the Azure cloud computing environment.57 Additional distributed ledger block-\nchains are described in Supplementary Appendix Section A.3.\nNonfinancial applications for the original and\nalternative blockchain technologies Recently, the idea of blockchain 3.0 has been proposed to denote nonfinancial applications of the distributed ledger technology.37 For\nexample, Namecoin applies Bitcoin technology to Domain Name Server and identity management.58,59 Another example is to apply\nblockchain in the scientific research cycle (eg, funding, experiment,\nanalysis, publication, etc.), as blockchain is decentralized, distributed, immutable, and transparent.60 These applications are imple-\nmented either as permission-less (ie, any user can participate) or\npermissioned (ie, only authorized institutions or researchers can par-\nticipate) blockchain networks.\nFigure 4. An example of the nonce mechanism for the proof-of-work protocol. Each block contains an additional \u201cnonce\u201d (32-bit or 8-hex-digits in this example), which is a counter that serves as one of the inputs of the hashing function. To \u201cproof\u201d the hashing work, the nonce is incremented by one bit each time for the hash computation (ie, the \u201cwork\u201d), until the hashed value (256-bit or 64-hex-digits in this example) contains a predefined number of leading zero bits (ie, \u201cproof\u201d of the work, 16-bit or 4-hex-digits in this example). Meanwhile, the newly generated unconfirmed transactions are collected in a memory pool on each node. The first node that successfully completes the proof-of-work (Node 1 at 10:14:30 in this example) has the privilege to create a new block (B2 in this example), verify the transactions, move the confirmed transactions from the memory pool to a newly created block, and add the block to the end of the longest chain (if there are competing chains). It also gets paid (eg, 12.5 bitcoins) for this work. Also, the remaining nodes (Nodes 2 and 3 in this example) stop the proof-of-work mining for B2 when Node 1 completes the proof-of-work. This way, the mining process becomes difficult (ie, one needs to compute the difficult hashing problem by trying different \u201cnonce\u201d values), while the checking process remains easy (ie, just one hash to see if the predefined leading bits are all zeroes). In our example, Alice cannot easily create an invalid block for her double-spend transaction, while Bob and Charlie can easily check that the block Alice created is invalid. It should be noted that the system clocks on the nodes may not be synchronized, therefore we use a global time for demonstration purposes in this example. Also note that, if an attacker modifies any of the transactions in block B1, the value of \u201chash of block B1\u2019s header\u201d and thus block B2 need to be recalculated, and consequently all blocks after B1 (ie, B2 B3, B4, B5,. . .) also need to be recomputed. Therefore, the computational cost of attacking becomes prohibitively high.\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\nAlthough blockchain technologies such as Bitcoin blockchain are\nwidely recognized and have been used for several purposes, in health\ncare they became known as a means to pay ransom for institutions\nthat had their data \u201ckidnapped\u201d (ie, encrypted by malicious users who request payment to unencrypt the data).61,62 Ransomware has\naffected several health care systems, resulting in thousands of dollars\nin known ransom payments so far. Bitcoin currency is used because\nit is reliable, while it is very difficult to track its recipient. The tech-\nnology behind Bitcoin, however, can be used to help instead of harm\nhealth systems and biomedical research.\nKEY BENEFITS OF BLOCKCHAIN WHEN COMPARED TO TRADITIONAL DISTRIBUTED DATABASES FOR BIOMEDICAL/HEALTH CARE APPLICATIONS\nTo better understand why blockchain distributed ledger technology\nmay be feasible for biomedical and health care applications, we de-\nscribe the key benefits or comparative advantages of blockchain45,46,63\u201365 by comparing it with the traditional distributed database management system (DDBMS),66,67 such as Structured Query Language (SQL)-based systems like Oracle68 and NoSQLbased systems like Apache Cassandra.69\nThe first key benefit of blockchain is decentralized management.\nDDBMSs are logically centralized-managed (ie, users logically feel\nthey are operating a centralized database, but the underlying\nmachines can be physically distributed), while blockchain is a peer-\nto-peer, decentralized database management system (ie, each node runs independently while following the protocols).45,63,64 Therefore,\nblockchain is suitable for applications where independently man-\naged biomedical/health care stakeholders (eg, hospitals, providers,\npatients, and payers) wish to collaborate with one another without ceding control to a central management intermediary.13,45,65\nThe second key benefit is the immutable audit trail. DDBMSs\nsupport create, read, update, and delete functions like all database\nsystems, while blockchain only supports create and read functions\n(ie, it is very difficult to change the data or records).45 Thus, block-\nchain is suitable as an unchangeable ledger to record critical infor-\nmation (eg, insurance claim records).\nThe third is data provenance. On DDBMS, the ownership of\ndigital assets can be modified by the system administrator, while on\nblockchain, the ownership can only be changed by the owner, following the cryptographic protocols.45 Also, the origins of the assets\nare traceable (ie, the sources or the data and records can be confirmed),45 increasing the reusability of verified data (eg, for insurance transactions).70 Therefore, blockchain is suitable for use in\nmanaging critical digital assets (eg, patient consent records).\nThe fourth benefit is both robustness and availability. Although\nDDBMS and blockchain are based on distributed technology and thus\ndo not suffer from single-point-of-failure, it would be costly for DDBMS\nto achieve the high level of data redundancy blockchain does (ie, each node has a whole copy of whole historical data records).64 Thus, block-\nchain is suitable when the preservation and continuous availability of\nrecords (eg, the electronic health records of patients) are important.\nThe final key benefit of blockchain is related to the improved security and privacy using cryptographic algorithms. For example,\nBitcoin blockchain utilizes the 256-bit Secure Hash Algorithm (SHA-\n256), a cryptographic hash function defined in the US Federal Infor-\nmation Processing Standards 186-4, published by the National Institute of Standards and Technology,71 as the cryptographic hash\nfunction in the hash-chain that the proof-of-work algorithm runs on.72 SHA-256 is also used to generate user addresses for privacy/ano-\nnymity improvement (ie, each user is represented by a hash value instead of a real identity, such as an IP address).72 Furthermore, Bitcoin\nblockchain exploits the 256-bit Elliptic Curve Digital Signature Algo-\nrithm, an asymmetric cryptography algorithm defined in the US Federal Information Processing Standards 180-4,73 to generate and verify\nhigh-security-level public and private keys as digital signatures, and thus ensures ownership of the digital assets, as with patient records.74\nTo summarize, the key benefits for adopting blockchain technol-\nogy in biomedical and health care applications include: (1) decen-\ntralized management, (2) immutable audit trail, (3) data\nprovenance, (4) robustness/availability, and (5) security/privacy.\nFigure 5. An example of how Bitcoin blockchain deals with branching chains. In this scenario, attackers create malicious blocks (M1 and M2) to compete with an honest block (H2), in an attempt to take over the honest chain (H1 and all blocks before). Assuming the computational power of honest nodes is larger than that of malicious nodes, an honest block H3 is created right after H2, before the attackers create new malicious blocks after M1 and M2. Based on the blockchain mechanism, each node first identifies a valid block based on the length of the chain, and creates a new block (N) only at the end of the longest chain (H1!H2!H3 in this example) while ignoring shorter chains (H1!M1 and H1!M2 in this example). In other words, the blockchain that has been worked on most wins the competition (ie, majority voting of \u201cone CPU, one vote,\u201d[1] since the longest blockchain represents the majority decision of block creators). Given that the mining process is expensive and the honest nodes have higher computational power (ie, have more CPU \u201cvoters\u201d) than the malicious nodes, the probability for the attacker to successfully modify a block and all blocks thereafter (ie, create a malicious competing chain) is very small.\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022"
+        },
+        {
+            "heading": "BLOCKCHAIN TECHNOLOGIES FOR BIOMEDICAL/HEALTH CARE APPLICATIONS",
+            "text": "As the benefits of blockchain described above are crucial for bio-\nmedical and health care applications, health care has become one of\nthe most important emerging application areas of the blockchain distributed ledger technology.65 In general, blockchain is treated as\na distributed ledger to store health care\u2013related data for sharing,\nexchanging, analyzing, recording, and validating purposes among stakeholders.13,65,75\u2013106\nAmong the biomedical/health care applications, the one most\ndiscussed is related to the adoption of blockchains as an underlying\ninfrastructure for Health Information Exchange (HIE), or health\ntransactions between patients, providers, payers, and other relevant parties.13,75\u201398 These applications can further be categorized based\non their main goals to exploit the blockchain-stored data, and are\ndescribed in the Improved medical record management, Enhanced in-\nsurance claim process, and Accelerated clinical/biomedical research\nsections. The applications beyond HIE are depicted in the Advanced\nbiomedical/health care data ledger section. For each category of appli-\ncation, we further discuss the use cases and key benefits of adopting\nblockchain technology.\nImproved medical record management Many studies or ongoing projects focus on exchanging patient care data using blockchains to improve medical record management,75,76\nincluding Healthcare Data Gateways,77 MedVault,78 Fatcom,79 BitHealth,80 Gem Health Network,81 and others.82\u201387,96,97 Several wellknown companies, such as Deloitte88 and Accenture,89 are also involved\nin applying blockchain technology to store health care data and manage medical records. Another famous example is Guardtime,90 a company\nproviding a blockchain-based system in Estonia to secure 1 million health records.91 The benefits and use cases of adopting blockchain to\nimprove medical record management are summarized in Table 1.\nEnhanced insurance claim process Another important goal is to verify the claim transactions to support\nhealth care financing tasks (ie, health plan claims), such as preauthorization payment,92 alternative payment models,93 automatic claims using Fast Healthcare Interoperability Resources107 and smart contract,94 and Smart Health Profile to help manage the constant exit and reentry of Medicaid beneficiaries due to eligibility changes.95\nThe benefits and use cases of adopting blockchain to enhance insur-\nance claim process are summarized in Table 2.\nAccelerated clinical/biomedical research Several researchers also propose accelerating secondary use of clin-\nical data (ie, clinical and biomedical studies and research) using blockchain technology, including MedRec,96,97 Data Lake,86 Healthbank,76,102 and blockchain-based data sharing networks.98\nAlso, ModelChain adopted blockchain to increase the security and\nTable 1. Blockchain benefits and uses cases to improve medical record management\nBlockchain: Key Benefit Biomedical/Health Care Use Case: Improved Medical Record Management\nDecentralized Management Patient-managed health care records: \u201c[Patient] becomes the platform, owning and controlling access to\ntheir healthcare data. This removes all obstacles to patients acquiring copies of their healthcare records or transferring them to another healthcare provider.\u201d85\nImmutable Audit Trail Unalterable patient records: \u201cThe data are stored in the private blockchain cloud. Blockchain may guar-\nantee medical data cannot be changed by anybody including physicians and patients himself/herself internally and natively.\u201d77\nData Provenance Source-verifiable medical records: \u201cRecords are signed by source, allows legitimacy of records to be veri-\nfied (and false records to be plausibly denied).\u201d78\nRobustness/Availability Reduced risk of patient recordkeeping: \u201cBecause data is stored on a decentralized network, there is no\nsingle institution that can be robbed or hacked to obtain a large number of patient records.\u201d85\nSecurity/Privacy Increased safety of medical records: \u201cData is encrypted in the blockchain and can only be decrypted\nwith the patient\u2019s private key. Even if the network is infiltrated by a malicious party, there is no practical way to read patient data.\u201d85\nDecentralized Management Real-time claim processing: \u201cThe ability to remove intermediaries from a process is the capability that\nsets Blockchain apart from other technologies. This capability will allow the solution to facilitate realtime claims adjudication by replacing the health plan intermediation with transparent Blockchain technologies.\u201d94\nImmutable Audit Trail Improved claim auditing and fraud detection: \u201cPayer, private and government insurers, and individual\npayers have the benefits of] audits facilitation and better fraud detection [based on Blockchain immutability].\u201d92\nData Provenance Verifiable records for claim qualification: \u201c[The chief obstacle of the claim qualification process] is the\ndistributed nature of the many records that feed the decisions of patients, providers, and Medicaid administrators. . . The requirements for verification. . . are precisely the obstacles that a distributed blockchain solution. . . can address.\u201d95\nRobustness/Availability Enhanced accessibility of patient data: \u201c[Provider, health-related services and medical goods have the\nbenefits of] patient data accessible from multiple silos [based on Blockchain virtual ledger].\u201d92\nSecurity/Privacy Increased security of patient medical insurance information: \u201c[Member/patient have the benefits of] less\nlikelihood of hacking of. . . financial information [based on Blockchain mechanism].\u201d92\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\nrobustness of the distributed privacy-preserving health care predictive modeling across multiple institutions.13 The benefits and\nuse cases of adopting blockchain to accelerate clinical/biomedical re-\nsearch are summarized in Table 3.\nAdvanced biomedical/health care data ledger Besides exploiting blockchains as ledgers of patient care data (ie,\nHIE), many studies and projects have also proposed using them to\nstore various types of health care\u2013related data, such as genomic and precision medicine data,99,100 patient-centered or patient-related outcomes data,101 provider/patient directories and care plans data,93 clinical trial data,92,103,104 patient consent data,89 pharmaceutical\nsupply chain data,92,105 and biomarker data.106 The benefits and use\ncases of adopting blockchain to advance biomedical/health care data\nledger are summarized in Table 4.\nPOTENTIAL CHALLENGES AND PROPOSED SOLUTIONS FOR ADOPTING BLOCKCHAIN TECHNOLOGY FOR BIOMEDICAL/HEALTH CARE APPLICATIONS\nPotential problems and challenges There are several potential challenges to be considered when adopt-\ning blockchain technology in the biomedical/health care domain.\nTable 3. Blockchain benefits and use cases to accelerate clinical/biomedical research\nBlockchain: Key Benefit Biomedical/Health Care Use Case: Accelerated Clinical/Biomedical Research\nDecentralized Management Improved care data sharing and analysis without ceding control: \u201cBlockchain is by design a decentral-\nized (ie, a peer-to-peer, non-intermediated) architecture. . . Each institution can keep full control of their own computational resources [while collaborating with other institutions for data sharing and analysis].\u201d13\nImmutable Audit Trail Trackable and timestamped patient-generated data: \u201cUsing Blockchain, this model could be even further\nindividualized in a way that personal patient-generated health data which is available to researchers can be tracked in the research process with a timestamp.\u201d76,102\nData Provenance Evidenced provenance for medical research data: \u201cThe MedRec [Blockchain-based prototype for elec-\ntronic health records and medical research data is]. . . enabled with crucial properties of provenance.\u201d96,97\nRobustness/Availability Superior health care data availability: \u201cBlockchain would ensure continuous availability and access to\nreal-time data. Real-time access to data would improve clinical care coordination and improve clinical care in emergency medical situations. Real-time data would also allow researchers and public health resources to rapidly detect, isolate and drive change for environmental conditions that impact public health. For example, epidemics could be detected earlier and contained.\u201d86\nSecurity/Privacy Secured and privacy-preserving health care data sharing: \u201cUtilization of the. . . health blockchain. . . has\nthe potential to engage millions of individuals, health care providers, health care entities and medical researchers to share vast amounts of genetic, diet, lifestyle, environmental and health data with guaranteed security and privacy protection.\u201d86\nDecentralized Management Decentralized health data backbone: \u201cThe blockchain then becomes the backbone for digital health,\nincorporating data from patient-based technologies and the EMR to provide a. . . pool from which authorized users, such as providers and patients, has access. All of the data is stored in a decentralized manner, with no single entity storing or having singular authority to access.\u201d101\nImmutable Audit Trail Unchangeable log of clinical research protocols: \u201cUse of blockchain technology has recently been shown\nto provide an immutable ledger of every step in a clinical research protocol, and this could easily be adapted to basic and experimental model science. All participants in the peer-to-peer research network have access to all of the time stamped, continuously updated data. It is essentially tamper proof since any change, such as to the prespecified data analysis, would have to be made in every computer (typically thousands) within the distributed network.\u201d104\nData Provenance Ensure original manufacturer and ownership transferring in pharmaceutical supply chain: \u201cUsing Block-\nchain, the origin of the [medicine] product and its components are detected, and any transfer of ownership in each case is made clear and available to everyone. Forged, poor quality or stolen goods can be tracked and identified.\u201d76,105\nRobustness/Availability Improved robustness for counterfeit drug prevention/detection systems in pharmaceutical supply chain:\n\u201cIn the existing solutions, there is still a central authority that can be compromised and documents that can be faked. . . If [the current solutions] can be modified with blockchain-enabled anti-tampering capabilities during manufacturing, the supply and dispensation system could make drug counterfeiting a non-issue.\u201d92\nSecurity/Privacy Higher patient confidence in consent recording systems: \u201cPatients are able to add consent statements at\nany point in their care journey \u2013 confident that the blockchain will hold them securely.\u201d89\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\nThe first challenge is related to transparency and confidentiality. As \u201ceveryone can see everything\u201d on a blockchain network,46,110,109\nheightened transparency and decreased confidentiality, such as open\ntransparency of information during transfer, is usually considered a\nlimitation of blockchain. Also, even if a user is \u201canonymized\u201d by\nusing hash values as addresses, the user may still be reidentified\nthrough inspection and analysis of the publicly available transaction\ninformation on the blockchain network, and therefore the blockchain network only provides \u201cpseudonymity.\u201d110\u2013113 This issue is\ncritical for biomedical/health care applications, because patient-\nrelated data (protected health information, or PHI, and personal\nidentifiable information) are highly sensitive.\nThe second challenge is related to speed and scalability. The\ntransaction time of blockchain can be long, depending on the proto-\ncol, and such a speed constraint may limit the scalability of\nblockchain-based applications. For example, with the proof-of-\nwork protocol, there are about 288 000 transactions per day (or\nabout 3.3 transactions per second) on average for Bitcoin due to the\nrequired computation workload, while there are 150 million trans-\nactions per day (or about 2000 transactions per second) on average for a credit card like Visa.114,115 The theoretical maximum transac-\ntion speed for Bitcoin is 7 transactions per second due to the 1 mega-\nbyte block size limitation in the current protocol, while the\ntheoretical maximum number of transactions is 4000 per second for Visa.114,115 This issue is important when constructing real-time and scalable blockchain-based health care/biomedical applications.89\nThe last challenge is the threat of a 51% attack. A blockchain network may suffer from the \u201c51% attack,\u201d23,46,116 which happens\nwhen there are fewer honest nodes than malicious ones in the whole\nnetwork, and thus the whole network is taken over by the malicious\nattackers (Figure 6). This issue is also critical for security-\ndemanding health care/biomedical applications.\nProposed solutions and implementations The above challenges can be mitigated by careful design and imple-\nmentation of the biomedical/health care application systems. We take ModelChain13 as an example. ModelChain adopts blockchain to se-\ncurely and robustly disseminate privacy-preserving predictive models\n(ie, a set of machine learning parameters or aggregated values) be-\ntween health care institutions. Because it only disseminates predictive\nmodels but not PHI, transparency is not a critical issue. Also, it con-\ntains a machine learning process that can take a long time to run\n(minutes, or even hours), thus the transaction speed of blockchain\nbecomes relatively negligible. Finally, since it adopts permissioned\nblockchain networks, malicious nodes could not arbitrarily participate\nin the network, and therefore the risk of a 51% attack is minimal.\nOther implementation techniques to mitigate the transparency/ confidentiality issue include encrypting sensitive data (eg, PHI or\npersonal identifiable information) on the blockchain network,87,97,118 storing sensitive data off-blockchain and only dissemi-\nnating \u201cpointers\u201d (eg, encrypted links) or permission information on-blockchain,88,96,97,117 and automating data management protocols using smart contracts.96\u201398\nTo deal with the speed/scalability issue, plausible solutions in-\nclude exploiting blockchain as an index of health data instead of the repository of all records,86 and storing only ongoing verified transactions rather than the complete history on blockchain.92 Also, several new blockchain implementations, such as BigchainDB,45,50 provide\nsignificantly higher transaction speed than the Bitcoin blockchain, which could also solve the speed and scalability problem.18,119\nThe threat of a 51% attack on the biomedical/health care block-\nchain network can be drastically reduced by using a virtual private\nnetwork to disseminate the data and deploying some components of\nthe system on private Health Insurance Portability and Accountability\nAct\u2013compliant cloud computing environments such as iDASH (integrating Data for Analysis, Anonymization, and Sharing).120,121"
+        },
+        {
+            "heading": "CONCLUSION",
+            "text": "We introduced Bitcoin and the underlying blockchain technology,\nwhich provides decentralized management, an immutable audit trail,\ndata provenance, robustness/availability, and security/privacy. We con-\ntrasted blockchain technologies (ie, blockchain 1.0, 2.0, and 3.0), iden-\ntified benefits of blockchain compared to traditional distributed\ndatabases for biomedical/health care applications, and provided an\noverview of the latest biomedical/health care applications of blockchain\nFigure 6. An example of 51% attack. In this scenario, attackers create malicious blocks (M1 and M2) to compete with an honest block (H2), trying to take over the honest chain (H1 and all blocks before). However, this time the computational power of host nodes is smaller than that of malicious nodes (ie, malicious nodes control more than 51% of the computing power on the network), thus a malicious block M3 is created right after M2. Based on the blockchain mechanism, the new block (N) will be created only at the end of the longest chain (H1!M2!M3 in this example). Therefore, the attacker has successfully modified the blockchain record (from H2 to M2) and takes over the chain by winning the majority vote.\nD ow nloaded from https://academ ic.oup.com /jam ia/article/24/6/1211/4108087 by guest on 15 O ctober 2022\ntechnology (ie, improved medical record management, enhanced insur-\nance claim process, accelerated clinical/biomedical research, and\nadvanced biomedical/health care data ledger). There are several known\npotential challenges to adopting blockchain technologies (eg, transpar-\nency/confidentiality, speed/scalability, and the threat of a 51% attack).\nHowever, these challenges can be addressed through careful applica-\ntion design and implementation, therefore health care applications of\nblockchain continue to increase. Blockchain distributed ledger technol-\nogy can advance the biomedical and health care domains in various\nnovel ways, and we expect many new applications to emerge soon."
+        },
+        {
+            "heading": "FUNDING",
+            "text": "The authors are funded by the National Institutes of Health (U24AI117966) and the Patient-Centered Outcomes Research Institute (CDRN-1306-04819). The statements in this article are solely the responsibility of the authors and do not necessarily represent the views of PCORI, its Board of Governors or Methodology Committee. LO-M is funded by the National Institutes of Health (U54HL108460) and VA (IIR12-068). Research reported in this publication was supported by the National Human Genome Research Institute of the National Institutes of Health under Award Number K99HG009680. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.\nCOMPETING INTERESTS\nThe authors have no competing interests to declare."
+        },
+        {
+            "heading": "CONTRIBUTORS",
+            "text": "T-TK conducted the literature review and drafted the manuscript.\nHK added critical discussion points and edited the manuscript. LO-\nM was principal investigator of this study; she provided the original\nidea, overall supervision of this study, and critical editing of the\nmanuscript."
+        },
+        {
+            "heading": "SUPPLEMENTARY MATERIAL",
+            "text": "Supplementary material is available at Journal of the American Medical Informatics Association online."
+        }
+    ],
+    "title": "OP-JAMI170203 1211..1220",
+    "year": 2017
+}
