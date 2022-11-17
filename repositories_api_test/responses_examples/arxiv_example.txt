@@ -1,0 +1,121 @@
+{'_raw': {'arxiv_primary_category': {'scheme': 'http://arxiv.org/schemas/atom',
+                                     'term': 'cs.CR'},
+          'author': 'Stefan Schulte',
+          'author_detail': {'name': 'Stefan Schulte'},
+          'authors': [{'name': 'Philipp Frauenthaler'},
+                      {'name': 'Michael Borkowski'},
+                      {'name': 'Stefan Schulte'}],
+          'guidislink': True,
+          'id': 'http://arxiv.org/abs/1905.07014v1',
+          'link': 'http://arxiv.org/abs/1905.07014v1',
+          'links': [{'href': 'http://arxiv.org/abs/1905.07014v1',
+                     'rel': 'alternate',
+                     'type': 'text/html'},
+                    {'href': 'http://arxiv.org/pdf/1905.07014v1',
+                     'rel': 'related',
+                     'title': 'pdf',
+                     'type': 'application/pdf'}],
+          'published': '2019-05-15T13:42:46Z',
+          'published_parsed': 'time.struct_time(tm_year=2019, tm_mon=5, '
+                              'tm_mday=15, tm_hour=13, tm_min=42, tm_sec=46, '
+                              'tm_wday=2, tm_yday=135, tm_isdst=0)',
+          'summary': 'The suitability of a particular blockchain for a given '
+                     'use case depends\n'
+                     "mainly on the blockchain's functional and non-functional "
+                     'properties. Such\n'
+                     'properties may vary over time, and thus, a selected '
+                     'blockchain may become\n'
+                     'unsuitable for a given use case. This uncertainty may '
+                     'hinder the widespread\n'
+                     'adoption of blockchain technologies in general. To '
+                     'mitigate the impact of\n'
+                     'volatile blockchain properties, we propose a framework '
+                     'that monitors several\n'
+                     'blockchains, allows the user to define functional and '
+                     'non-functional\n'
+                     'requirements, determines the most appropriate '
+                     'blockchain, and enables the\n'
+                     'switchover to that chain at runtime. Our evaluation '
+                     'using a reference\n'
+                     'implementation shows that switching to another '
+                     'blockchain can save cost and\n'
+                     'enable users to benefit from better performance and a '
+                     'higher level of trust.',
+          'summary_detail': {'base': 'http://export.arxiv.org/api/query?search_query=blockchain&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=1',
+                             'language': None,
+                             'type': 'text/plain',
+                             'value': 'The suitability of a particular '
+                                      'blockchain for a given use case '
+                                      'depends\n'
+                                      "mainly on the blockchain's functional "
+                                      'and non-functional properties. Such\n'
+                                      'properties may vary over time, and '
+                                      'thus, a selected blockchain may become\n'
+                                      'unsuitable for a given use case. This '
+                                      'uncertainty may hinder the widespread\n'
+                                      'adoption of blockchain technologies in '
+                                      'general. To mitigate the impact of\n'
+                                      'volatile blockchain properties, we '
+                                      'propose a framework that monitors '
+                                      'several\n'
+                                      'blockchains, allows the user to define '
+                                      'functional and non-functional\n'
+                                      'requirements, determines the most '
+                                      'appropriate blockchain, and enables '
+                                      'the\n'
+                                      'switchover to that chain at runtime. '
+                                      'Our evaluation using a reference\n'
+                                      'implementation shows that switching to '
+                                      'another blockchain can save cost and\n'
+                                      'enable users to benefit from better '
+                                      'performance and a higher level of '
+                                      'trust.'},
+          'tags': [{'label': None,
+                    'scheme': 'http://arxiv.org/schemas/atom',
+                    'term': 'cs.CR'}],
+          'title': 'A Framework for Blockchain Interoperability and Runtime '
+                   'Selection',
+          'title_detail': {'base': 'http://export.arxiv.org/api/query?search_query=blockchain&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=1',
+                           'language': None,
+                           'type': 'text/plain',
+                           'value': 'A Framework for Blockchain '
+                                    'Interoperability and Runtime Selection'},
+          'updated': '2019-05-15T13:42:46Z',
+          'updated_parsed': time.struct_time(tm_year=2019, tm_mon=5, tm_mday=15, tm_hour=13, tm_min=42, tm_sec=46, tm_wday=2, tm_yday=135, tm_isdst=0)},
+ 'authors': [arxiv.Result.Author('Philipp Frauenthaler'),
+             arxiv.Result.Author('Michael Borkowski'),
+             arxiv.Result.Author('Stefan Schulte')],
+ 'categories': ['cs.CR'],
+ 'comment': None,
+ 'doi': None,
+ 'entry_id': 'http://arxiv.org/abs/1905.07014v1',
+ 'journal_ref': None,
+ 'links': [arxiv.Result.Link('http://arxiv.org/abs/1905.07014v1', title=None, rel='alternate', content_type=None),
+           arxiv.Result.Link('http://arxiv.org/pdf/1905.07014v1', title='pdf', rel='related', content_type=None)],
+ 'pdf_url': 'http://arxiv.org/pdf/1905.07014v1',
+ 'primary_category': 'cs.CR',
+ 'published': '2019-05-15 13:42:46+00:00',
+ 'summary': 'The suitability of a particular blockchain for a given use case '
+            'depends\n'
+            "mainly on the blockchain's functional and non-functional "
+            'properties. Such\n'
+            'properties may vary over time, and thus, a selected blockchain '
+            'may become\n'
+            'unsuitable for a given use case. This uncertainty may hinder the '
+            'widespread\n'
+            'adoption of blockchain technologies in general. To mitigate the '
+            'impact of\n'
+            'volatile blockchain properties, we propose a framework that '
+            'monitors several\n'
+            'blockchains, allows the user to define functional and '
+            'non-functional\n'
+            'requirements, determines the most appropriate blockchain, and '
+            'enables the\n'
+            'switchover to that chain at runtime. Our evaluation using a '
+            'reference\n'
+            'implementation shows that switching to another blockchain can '
+            'save cost and\n'
+            'enable users to benefit from better performance and a higher '
+            'level of trust.',
+ 'title': 'A Framework for Blockchain Interoperability and Runtime Selection',
+ 'updated': '2019-05-15 13:42:46+00:00'}
