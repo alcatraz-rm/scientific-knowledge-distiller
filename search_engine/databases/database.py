@@ -31,6 +31,9 @@ class SearchResult:
         self._authors = []
         self._source = ''
         self._raw_data = {}
+        self._journal = ''
+        self._volume = ''
+        self._doi = ''
 
         if len(source) != 0:
             self._raw_data = raw_data
@@ -41,6 +44,9 @@ class SearchResult:
 
     def abstract(self) -> str:
         return self._abstract
+
+    def year(self) -> int:
+        return self._publication_date.year
 
     def publication_date(self) -> datetime:
         return self._publication_date
@@ -53,10 +59,20 @@ class SearchResult:
 
     def _load_from_semantic_scholar(self, raw_data: dict):
         self._source = 'semantic_scholar'
-        self._title = raw_data.get('title')
-        self._abstract = raw_data.get('abstract')
+        self._title = raw_data.get('title', '')
+        self._abstract = raw_data.get('abstract', '')
 
-        raw_pub_date = raw_data.get('publicationDate')
+        raw_journal = raw_data.get('journal')
+
+        if raw_journal and 'name' in raw_journal and 'volume' in raw_journal:
+            self._journal = raw_journal.get('name')
+            self._volume = raw_journal.get('volume')
+
+        raw_ids = raw_data.get('externalIds')
+        if raw_ids:
+            self._doi = raw_ids.get('DOI', '')
+
+        raw_pub_date = raw_data.get('publicationDate', '')
         if raw_pub_date:
             self._publication_date = datetime.strptime(raw_pub_date, "%Y-%m-%d")
 
@@ -65,15 +81,22 @@ class SearchResult:
 
     def _load_from_core(self, raw_data: dict):
         self._source = 'core'
-        self._title = raw_data.get('title')
+        self._title = raw_data.get('title', '')
+        self._abstract = raw_data.get('abstract', '')
+        self._doi = raw_data.get('doi', '')
 
-        raw_pub_date = raw_data.get('publishedDate')
+        raw_pub_date = raw_data.get('publishedDate', '')
         if raw_pub_date:
             raw_pub_date = raw_pub_date.split('T')[0]
             self._publication_date = datetime.strptime(raw_pub_date, "%Y-%m-%d")
 
         for raw_author in raw_data['authors']:
             self._authors.append(Author(raw_author['name']))
+
+        raw_journal = raw_data.get('journals')
+
+        if raw_journal and 'title' in raw_journal[0]:
+            self._journal = raw_journal[0].get('title')
 
     def __str__(self):
         return self._title

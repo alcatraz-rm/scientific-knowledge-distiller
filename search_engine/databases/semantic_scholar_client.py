@@ -12,7 +12,7 @@ class SematicScholarClient(DatabaseClient):
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
         results = self._sch.search_paper(query.strip(), limit=limit)
-        print(len(results))
+        pprint(dict(results[0]))
         for n, result in enumerate(results):
             if n == limit:
                 break

@@ -16,10 +16,12 @@ class CoreClient(DatabaseClient):
         super().__init__()
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        results = self.__query_api(query, limit=limit)['results']
+        results = self.__query_api(query, limit=limit).get('results')
+        if not results:
+            return
 
         # pprint(results)
-        print(len(results))
+        # pprint(results[0])
 
         for result in results:
             yield SearchResult(raw_data=dict(result), source='core')
