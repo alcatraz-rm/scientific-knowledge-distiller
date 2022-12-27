@@ -11,8 +11,10 @@ class SematicScholarClient(DatabaseClient):
         super().__init__()
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        results = self._sch.search_paper(query.strip(), limit=limit)
+        limit_ = min(limit, 100)
+        results = self._sch.search_paper(query.strip(), limit=limit_)
         for n, result in enumerate(results):
-            if n == limit:
+            print(n)
+            if n + 1 == limit:
                 break
             yield SearchResult(raw_data=dict(result), source='semantic_scholar')

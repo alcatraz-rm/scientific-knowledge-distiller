@@ -1,5 +1,7 @@
 import csv
 import os.path
+import random
+import string
 from datetime import datetime
 from typing import Iterator, Iterable
 
@@ -42,6 +44,28 @@ class SearchResult:
             self._raw_data = raw_data
             self._load_from(raw_data, source)
 
+        self.__salt = ''.join(random.choices(string.ascii_uppercase + string.digits, k=64))
+        self._id = f'id{hash((self.__salt, self._title, self._doi, self._abstract, self._source))}'
+
+    @property
+    def empty_fields(self) -> int:
+        counter = 0
+        fields = (
+            self._title,
+            self._abstract,
+            self._publication_date,
+            self._authors,
+            self._journal,
+            self._volume,
+            self._doi
+        )
+
+        for field in fields:
+            if not field:
+                counter += 1
+
+        return counter
+
     @property
     def title(self) -> str:
         return self._title
@@ -55,6 +79,10 @@ class SearchResult:
         if self._publication_date:
             return self._publication_date.year
         return 0
+
+    @property
+    def id(self) -> str:
+        return self._id
 
     @property
     def publication_date(self) -> datetime:
@@ -72,10 +100,10 @@ class SearchResult:
             volume=self._volume if self._volume else '',
             number=0,  # TODO
             abstract=self._abstract.replace('\n', ' ') if self._abstract else '',
-            record_id=hash((self._title, self._doi, self._abstract)),
+            record_id=self._id,
             isbn='',
             label='',
-            source=''
+            source=self._source
         )
 
     @staticmethod

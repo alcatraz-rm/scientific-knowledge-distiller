@@ -19,5 +19,6 @@ core_client = databases.CoreClient()
 
 path_to_csv = os.path.join(os.getcwd(), 'csv_result.csv')
 d = Deduplicator()
-d.deduplicate(ss_client.search_publications('topology', limit=100),
-              core_client.search_publications('topology', limit=100))
+deduped_pubs = list(d.deduplicate(ss_client.search_publications('topology', limit=10000),
+                                  core_client.search_publications('topology', limit=10000)))
+print(len(deduped_pubs))

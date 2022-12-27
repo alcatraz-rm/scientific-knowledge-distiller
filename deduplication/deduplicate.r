@@ -10,5 +10,5 @@ dedup_citations_result <- dedup_citations(citation_data)
 unique_citations <- dedup_citations_result$unique
 manual_dedup <- dedup_citations_result$manual_dedup
 
-write.csv(unique_citations, "unique_citations.csv", row.names=FALSE)
-write.csv(manual_dedup, "manual_dedup.csv", row.names=FALSE)
+write.csv(unique_citations, "_unique_citations.csv", row.names=FALSE)
+write.csv(manual_dedup, "_manual_dedup.csv", row.names=FALSE)
