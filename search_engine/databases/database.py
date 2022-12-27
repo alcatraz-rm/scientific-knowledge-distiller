@@ -1,11 +1,14 @@
+import csv
+import os.path
 from datetime import datetime
-from typing import Iterator
+from typing import Iterator, Iterable
 
 
 class Author:
     def __init__(self, name: str):
         self._name = name
 
+    @property
     def name(self) -> str:
         return self._name
 
@@ -23,7 +26,7 @@ class SearchResult:
         if raw_data is None:
             raw_data = {}
         assert (isinstance(raw_data, dict) and len(raw_data) != 0 and source in SearchResult.supported_sources) or (
-                    isinstance(raw_data, dict) and len(raw_data) == 0 and len(source) == 0), 'Incorrect input data'
+                isinstance(raw_data, dict) and len(raw_data) == 0 and len(source) == 0), 'Incorrect input data'
 
         self._title = ''
         self._abstract = ''
@@ -39,17 +42,59 @@ class SearchResult:
             self._raw_data = raw_data
             self._load_from(raw_data, source)
 
+    @property
     def title(self) -> str:
         return self._title
 
+    @property
     def abstract(self) -> str:
         return self._abstract
 
+    @property
     def year(self) -> int:
-        return self._publication_date.year
+        if self._publication_date:
+            return self._publication_date.year
+        return 0
 
+    @property
     def publication_date(self) -> datetime:
         return self._publication_date
+
+    # returns a dict to dump to csv for deduplication
+    def to_csv(self) -> dict:
+        return dict(
+            author=','.join([author.name for author in self._authors]),
+            year=self.year,
+            journal=self._journal if self._journal else '',
+            doi=self._doi if self._doi else '',
+            title=self._title.replace('\n', ' ') if self._title else '',
+            pages=self._volume if self._volume else '',  # TODO
+            volume=self._volume if self._volume else '',
+            number=0,  # TODO
+            abstract=self._abstract.replace('\n', ' ') if self._abstract else '',
+            record_id=hash((self._title, self._doi, self._abstract)),
+            isbn='',
+            label='',
+            source=''
+        )
+
+    @staticmethod
+    def csv_keys():
+        return (
+            'author',
+            'year',
+            'journal',
+            'doi',
+            'title',
+            'pages',
+            'volume',
+            'number',
+            'abstract',
+            'record_id',
+            'isbn',
+            'label',
+            'source',
+        )
 
     def _load_from(self, raw_data: dict, source: str):
         if source == 'semantic_scholar':
@@ -100,6 +145,22 @@ class SearchResult:
 
     def __str__(self):
         return self._title
+
+
+def dump_to_csv(results_set: Iterable[SearchResult], filename: str, append=False):
+    if append:
+        assert os.path.exists(filename), "Path doesn't exist"
+    else:
+        assert os.path.exists(os.path.split(filename)[0]), "Path doesn't exist"
+
+    with open(filename, 'a' if append else 'w', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=SearchResult.csv_keys())
+
+        if not append:
+            writer.writeheader()
+
+        for publication in results_set:
+            writer.writerow(publication.to_csv())
 
 
 class DatabaseClient:
