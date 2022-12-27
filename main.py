@@ -2,6 +2,7 @@
 import os
 
 from search_engine import databases
+from deduplication import Deduplicator
 
 # gs_client = GoogleScholarClient()
 # gs_client.search_publications('blockchain')
@@ -17,6 +18,6 @@ core_client = databases.CoreClient()
 #     print(p.to_csv())
 
 path_to_csv = os.path.join(os.getcwd(), 'csv_result.csv')
-databases.dump_to_csv(ss_client.search_publications('topology', limit=100), path_to_csv)
-databases.dump_to_csv(core_client.search_publications('topology', limit=100), path_to_csv, append=True)
-
+d = Deduplicator()
+d.deduplicate(ss_client.search_publications('topology', limit=100),
+              core_client.search_publications('topology', limit=100))

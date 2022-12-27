@@ -147,22 +147,6 @@ class SearchResult:
         return self._title
 
 
-def dump_to_csv(results_set: Iterable[SearchResult], filename: str, append=False):
-    if append:
-        assert os.path.exists(filename), "Path doesn't exist"
-    else:
-        assert os.path.exists(os.path.split(filename)[0]), "Path doesn't exist"
-
-    with open(filename, 'a' if append else 'w', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=SearchResult.csv_keys())
-
-        if not append:
-            writer.writeheader()
-
-        for publication in results_set:
-            writer.writerow(publication.to_csv())
-
-
 class DatabaseClient:
     def __init__(self):
         pass
