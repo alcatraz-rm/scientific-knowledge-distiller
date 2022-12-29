@@ -1,10 +1,10 @@
-import csv
-import os.path
+import random
 import random
 import string
 from copy import deepcopy
 from datetime import datetime
-from typing import Iterator, Iterable, Union
+from pprint import pprint
+from typing import Iterator, Union
 
 import arxiv
 
@@ -26,6 +26,7 @@ class SearchResult:
         'semantic_scholar',
         'core',
         'arxiv',
+        'unpaywall',
     )
 
     def __init__(self, raw_data=None, source: str = ''):
@@ -93,7 +94,7 @@ class SearchResult:
     # returns a dict to dump to csv for deduplication
     def to_csv(self) -> dict:
         return dict(
-            author=','.join([author.name for author in self._authors]),
+            author=','.join([author.name for author in self._authors]) if self._authors else '',
             year=self.year,
             journal=self._journal if self._journal else '',
             doi=self._doi if self._doi else '',
@@ -133,6 +134,8 @@ class SearchResult:
             self._load_from_core(raw_data)
         elif source == 'arxiv':
             self._load_from_arxiv(raw_data)
+        elif source == 'unpaywall':
+            self._load_from_unpaywall(raw_data)
 
     def _load_from_semantic_scholar(self, raw_data: dict):
         self._source = 'semantic_scholar'
@@ -188,6 +191,33 @@ class SearchResult:
 
         for raw_author in raw_data.authors:
             self._authors.append(Author(raw_author.name))
+
+    def _load_from_unpaywall(self, raw_data: dict):
+        self._source = 'unpaywall'
+        self._title = raw_data.get('title')
+        self._doi = raw_data.get('doi')
+        self._urls = [raw_data.get('doi_url')]
+
+        raw_pub_date = raw_data.get('publication_date')
+        if raw_pub_date:
+            self._publication_date = datetime.strptime(raw_pub_date, "%Y-%m-%d")
+        self._journal = raw_data.get('journal_name')
+
+        raw_authors = raw_data.get('z_authors')
+        if not raw_authors:
+            return
+
+        for raw_author in raw_authors:
+            if 'family' in raw_author and 'given' in raw_author:
+                self._authors.append(Author(f'{raw_author["family"]}, {raw_author["given"][0]}.'))
+            elif 'given' in raw_author and 'family' not in raw_author:
+                self._authors.append(Author(raw_author['given']))
+            elif 'family' in raw_author and 'given' not in raw_author:
+                self._authors.append(Author(raw_author['family']))
+            elif 'name' in raw_author:
+                self._authors.append(Author(raw_author['name']))
+            else:
+                print(raw_author)
 
     def __str__(self) -> str:
         return self._title
