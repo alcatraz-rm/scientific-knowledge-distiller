@@ -14,11 +14,16 @@ ss_client = databases.SematicScholarClient()
 # print()
 #
 core_client = databases.CoreClient()
-# for p in core_client.search_publications('topology', limit=100):
-#     print(p.to_csv())
+# for p in core_client.search_publications('topology', limit=10):
+# print(p.to_csv())
 
-path_to_csv = os.path.join(os.getcwd(), 'csv_result.csv')
+arxiv_client = databases.ArXivClient()
 d = Deduplicator()
-deduped_pubs = list(d.deduplicate(ss_client.search_publications('topology', limit=10000),
-                                  core_client.search_publications('topology', limit=10000)))
+deduped_pubs = list(
+    d.deduplicate(
+        core_client.search_publications('out-of-distribution detection', limit=10000),
+        ss_client.search_publications('out-of-distribution detection', limit=10000),
+        arxiv_client.search_publications('out-of-distribution detection', limit=10000)
+    )
+)
 print(len(deduped_pubs))

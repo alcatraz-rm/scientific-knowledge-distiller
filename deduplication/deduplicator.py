@@ -3,6 +3,7 @@ import itertools
 import os.path
 import subprocess
 from itertools import chain
+from pprint import pprint
 from typing import Iterable, Dict
 
 from search_engine.databases.database import SearchResult
@@ -20,8 +21,9 @@ class Deduplicator:
         unique_pubs_ids = set()
 
         path_to_deduplication_module = os.path.join(os.getcwd(), 'deduplication')
-        with open(os.path.join(path_to_deduplication_module, '_unique_citations.csv'), 'r',
-                  encoding='utf-8') as unique_pubs_csv:
+        unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
+        possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
+        with open(unique_cites_path, 'r', encoding='utf-8') as unique_pubs_csv:
             reader = csv.DictReader(unique_pubs_csv,
                                     fieldnames=['duplicate_id', 'record_id', 'author', 'year', 'journal', 'doi',
                                                 'title', 'pages', 'volume', 'number', 'abstract', 'isbn', 'label',
@@ -29,8 +31,7 @@ class Deduplicator:
                                                 ])
             unique_pubs_ids = {row['record_id'].lower() for row in reader}
 
-        with open(os.path.join(path_to_deduplication_module, '_manual_dedup.csv'), 'r',
-                  encoding='utf-8') as manual_dedup_csv:
+        with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
             reader = csv.DictReader(manual_dedup_csv,
                                     fieldnames=['id1', 'id2', 'author1', 'author2', 'author', 'title1', 'title2',
@@ -40,11 +41,12 @@ class Deduplicator:
                                                 'isbn2', 'doi1', 'doi2', 'doi', 'record_id1', 'record_id2', 'label1',
                                                 'label2', 'source1', 'source2'
                                                 ])
-            # NOTE: HERE we perform manual deduplication
+
             for row in reader:
-                id_1 = row['record_id1'].lower()
-                id_2 = row['record_id2'].lower()
-                if row['doi1'] == row['doi2'] and row['doi1']:
+                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
+                if Deduplicator.are_duplicates(row):
+                    # pprint(row)  # TODO
+                    # input()
                     best_id = Deduplicator.choose_best(publications_dict[id_1],
                                                        publications_dict[id_2])
                     unique_pubs_ids.add(best_id)
@@ -52,6 +54,10 @@ class Deduplicator:
                 else:
                     unique_pubs_ids.add(id_1)
                     unique_pubs_ids.add(id_2)
+
+        os.remove(unique_cites_path)
+        os.remove(possible_duplicates_path)
+        os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
 
         for publication in publications_dict.values():
             if publication.id in unique_pubs_ids:
@@ -62,6 +68,25 @@ class Deduplicator:
         if pub1.empty_fields <= pub2.empty_fields:
             return pub1.id
         return pub2.id
+
+    # NOTE: HERE we perform manual deduplication
+    @staticmethod
+    def are_duplicates(row):
+        if row['year1'] != row['year2'] and row['year1'] and row['year2']:
+            return False
+
+        doi = -1
+        if row['doi'] != 'NA':
+            doi = float(row['doi'])
+
+        if doi == 1 and row['doi1']:
+            return True
+        if doi < 1 and doi != -1:
+            return False
+        if row['author'] == '1' and row['title'] == '1':
+            return True
+
+        return False
 
     @staticmethod
     def _dump_to_csv(publications: Dict[int, SearchResult]):

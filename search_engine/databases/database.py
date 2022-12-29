@@ -2,8 +2,11 @@ import csv
 import os.path
 import random
 import string
+from copy import deepcopy
 from datetime import datetime
-from typing import Iterator, Iterable
+from typing import Iterator, Iterable, Union
+
+import arxiv
 
 
 class Author:
@@ -22,13 +25,11 @@ class SearchResult:
     supported_sources = (
         'semantic_scholar',
         'core',
+        'arxiv',
     )
 
     def __init__(self, raw_data=None, source: str = ''):
-        if raw_data is None:
-            raw_data = {}
-        assert (isinstance(raw_data, dict) and len(raw_data) != 0 and source in SearchResult.supported_sources) or (
-                isinstance(raw_data, dict) and len(raw_data) == 0 and len(source) == 0), 'Incorrect input data'
+        assert source in SearchResult.supported_sources and raw_data is not None, 'Incorrect input data'
 
         self._title = ''
         self._abstract = ''
@@ -39,10 +40,10 @@ class SearchResult:
         self._journal = ''
         self._volume = ''
         self._doi = ''
+        self._urls = []
 
-        if len(source) != 0:
-            self._raw_data = raw_data
-            self._load_from(raw_data, source)
+        self._raw_data = deepcopy(raw_data)
+        self._load_from(raw_data, source)
 
         self.__salt = ''.join(random.choices(string.ascii_uppercase + string.digits, k=64))
         self._id = f'id{hash((self.__salt, self._title, self._doi, self._abstract, self._source))}'
@@ -57,7 +58,8 @@ class SearchResult:
             self._authors,
             self._journal,
             self._volume,
-            self._doi
+            self._doi,
+            self._urls
         )
 
         for field in fields:
@@ -107,7 +109,7 @@ class SearchResult:
         )
 
     @staticmethod
-    def csv_keys():
+    def csv_keys() -> tuple:
         return (
             'author',
             'year',
@@ -124,16 +126,19 @@ class SearchResult:
             'source',
         )
 
-    def _load_from(self, raw_data: dict, source: str):
+    def _load_from(self, raw_data: Union[dict, arxiv.Result], source: str):
         if source == 'semantic_scholar':
             self._load_from_semantic_scholar(raw_data)
         elif source == 'core':
             self._load_from_core(raw_data)
+        elif source == 'arxiv':
+            self._load_from_arxiv(raw_data)
 
     def _load_from_semantic_scholar(self, raw_data: dict):
         self._source = 'semantic_scholar'
         self._title = raw_data.get('title', '')
         self._abstract = raw_data.get('abstract', '')
+        self._urls.append(raw_data.get('url'))
 
         raw_journal = raw_data.get('journal')
 
@@ -157,6 +162,7 @@ class SearchResult:
         self._title = raw_data.get('title', '')
         self._abstract = raw_data.get('abstract', '')
         self._doi = raw_data.get('doi', '')
+        self._urls = [raw_data.get('downloadUrl')]
 
         raw_pub_date = raw_data.get('publishedDate', '')
         if raw_pub_date:
@@ -171,7 +177,19 @@ class SearchResult:
         if raw_journal and 'title' in raw_journal[0]:
             self._journal = raw_journal[0].get('title')
 
-    def __str__(self):
+    def _load_from_arxiv(self, raw_data: arxiv.Result):
+        self._source = 'arxiv'
+        self._title = raw_data.title
+        self._abstract = raw_data.summary
+        self._doi = raw_data.doi if raw_data.doi else ''
+        self._urls = [raw_data.pdf_url] + [link.href for link in raw_data.links]
+        self._publication_date = raw_data.published
+        self._journal = raw_data.journal_ref
+
+        for raw_author in raw_data.authors:
+            self._authors.append(Author(raw_author.name))
+
+    def __str__(self) -> str:
         return self._title
 
 
