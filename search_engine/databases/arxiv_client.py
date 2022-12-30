@@ -21,6 +21,9 @@ class ArXivClient(DatabaseClient):
                 yield SearchResult(publication, source='arxiv')
                 counter += 1
                 print(f'\rarXiv: {counter}', end='')
+
+                if counter == limit:
+                    break
         except arxiv.UnexpectedEmptyPageError:
             pass
 

@@ -3,3 +3,4 @@ from search_engine.databases.semantic_scholar_client import SematicScholarClient
 from search_engine.databases.core_client import CoreClient
 from search_engine.databases.arxiv_client import ArXivClient
 from search_engine.databases.unpaywall_client import UnpaywallClient
+from search_engine.databases.aminer_client import AminerClient
