@@ -1,12 +1,20 @@
 import random
-import random
 import string
 from copy import deepcopy
 from datetime import datetime
 from pprint import pprint
 from typing import Iterator, Union
+from enum import StrEnum
 
 import arxiv
+
+
+class SupportedSources(StrEnum):
+    SEMANTIC_SCHOLAR = 'semantic_scholar'
+    CORE = 'core'
+    ARXIV = 'arxiv'
+    UNPAYWALL = 'unpaywall'
+    GOOGLE_SCHOLAR = 'google_scholar'
 
 
 class Author:
@@ -22,15 +30,8 @@ class Author:
 
 
 class SearchResult:
-    supported_sources = (
-        'semantic_scholar',
-        'core',
-        'arxiv',
-        'unpaywall',
-    )
-
-    def __init__(self, raw_data=None, source: str = ''):
-        assert source in SearchResult.supported_sources and raw_data is not None, 'Incorrect input data'
+    def __init__(self, raw_data: Union[dict, arxiv.Result], source: SupportedSources):
+        assert raw_data is not None, 'Incorrect input data'
 
         self._title = ''
         self._abstract = ''
@@ -127,18 +128,23 @@ class SearchResult:
             'source',
         )
 
-    def _load_from(self, raw_data: Union[dict, arxiv.Result], source: str):
-        if source == 'semantic_scholar':
-            self._load_from_semantic_scholar(raw_data)
-        elif source == 'core':
-            self._load_from_core(raw_data)
-        elif source == 'arxiv':
-            self._load_from_arxiv(raw_data)
-        elif source == 'unpaywall':
-            self._load_from_unpaywall(raw_data)
+    def _load_from(self, raw_data: Union[dict, arxiv.Result], source: SupportedSources):
+        match source:
+            case SupportedSources.SEMANTIC_SCHOLAR:
+                self._load_from_semantic_scholar(raw_data)
+            case SupportedSources.CORE:
+                self._load_from_core(raw_data)
+            case SupportedSources.ARXIV:
+                self._load_from_arxiv(raw_data)
+            case SupportedSources.UNPAYWALL:
+                self._load_from_unpaywall(raw_data)
+            case SupportedSources.GOOGLE_SCHOLAR:
+                self._load_from_google_scholar(raw_data)
+            case _:
+                raise Exception(f'Unsupported source: {source}')
 
     def _load_from_semantic_scholar(self, raw_data: dict):
-        self._source = 'semantic_scholar'
+        self._source = SupportedSources.SEMANTIC_SCHOLAR
         self._title = raw_data.get('title', '')
         self._abstract = raw_data.get('abstract', '')
         self._urls.append(raw_data.get('url'))
@@ -161,7 +167,7 @@ class SearchResult:
             self._authors.append(Author(raw_author['name']))
 
     def _load_from_core(self, raw_data: dict):
-        self._source = 'core'
+        self._source = SupportedSources.CORE
         self._title = raw_data.get('title', '')
         self._abstract = raw_data.get('abstract', '')
         self._doi = raw_data.get('doi', '')
@@ -181,7 +187,7 @@ class SearchResult:
             self._journal = raw_journal[0].get('title')
 
     def _load_from_arxiv(self, raw_data: arxiv.Result):
-        self._source = 'arxiv'
+        self._source = SupportedSources.ARXIV
         self._title = raw_data.title
         self._abstract = raw_data.summary
         self._doi = raw_data.doi if raw_data.doi else ''
@@ -193,7 +199,7 @@ class SearchResult:
             self._authors.append(Author(raw_author.name))
 
     def _load_from_unpaywall(self, raw_data: dict):
-        self._source = 'unpaywall'
+        self._source = SupportedSources.UNPAYWALL
         self._title = raw_data.get('title')
         self._doi = raw_data.get('doi')
         self._urls = [raw_data.get('doi_url')]
@@ -218,6 +224,18 @@ class SearchResult:
                 self._authors.append(Author(raw_author['name']))
             else:
                 print(raw_author)
+
+    def _load_from_google_scholar(self, raw_data: dict):
+        self._source = SupportedSources.GOOGLE_SCHOLAR
+
+        bib_info = raw_data.get('bib')
+
+        if bib_info:
+            self._title = bib_info.get('title')
+            self._abstract = bib_info.get('abstract')
+            self._authors = [Author(author) for author in bib_info.get('author')]
+            self._publication_date = datetime.strptime(bib_info.get('pub_year'), '%Y')
+        self._urls = [raw_data.get('pub_url')]
 
     def __str__(self) -> str:
         return self._title
