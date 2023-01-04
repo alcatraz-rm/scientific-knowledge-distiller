@@ -25,7 +25,7 @@ unpaywall_client = databases.UnpaywallClient()
 # for pub in unpaywall_client.search_publications('random forest', limit=200):
 #     print(pub)
 
-query = 'random forest'
+query = 'second order differential equation'
 # for pub in aminer_client.search_publications(query, limit=200):
 #     print(pub)
 #
@@ -33,11 +33,11 @@ arxiv_client = databases.ArXivClient()
 d = Deduplicator()
 deduped_pubs = list(
     d.deduplicate(
-        unpaywall_client.search_publications(query, limit=1000),
-        core_client.search_publications(query, limit=1000),
-        ss_client.search_publications(query, limit=1000),
-        arxiv_client.search_publications(query, limit=1000),
-        gs_client.search_publications(query, limit=1000)
+        gs_client.search_publications(query, limit=5000),
+        unpaywall_client.search_publications(query, limit=5000),
+        core_client.search_publications(query, limit=5000),
+        ss_client.search_publications(query, limit=5000),
+        arxiv_client.search_publications(query, limit=5000)
     )
 )
 print(len(deduped_pubs))
