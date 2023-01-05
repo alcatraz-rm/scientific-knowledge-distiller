@@ -6,7 +6,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database import DatabaseClient, SearchResult
+from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
 
 
 class CoreClient(DatabaseClient):
@@ -29,7 +29,7 @@ class CoreClient(DatabaseClient):
             return
 
         for result in results:
-            yield SearchResult(raw_data=dict(result), source='core')
+            yield SearchResult(raw_data=dict(result), source=SupportedSources.CORE)
 
     def __query_api(self, query: str, limit: int) -> list:
         responses = []

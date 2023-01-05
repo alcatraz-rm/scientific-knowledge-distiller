@@ -2,7 +2,7 @@ from typing import Iterator
 
 import arxiv
 
-from search_engine.databases.database import DatabaseClient, SearchResult
+from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
 
 
 class ArXivClient(DatabaseClient):
@@ -18,7 +18,7 @@ class ArXivClient(DatabaseClient):
         counter = 0
         try:
             for publication in search.results():
-                yield SearchResult(publication, source='arxiv')
+                yield SearchResult(publication, source=SupportedSources.ARXIV)
                 counter += 1
                 print(f'\rarXiv: {counter}', end='')
 

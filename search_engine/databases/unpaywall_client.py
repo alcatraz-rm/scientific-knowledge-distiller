@@ -5,7 +5,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database import DatabaseClient, SearchResult
+from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
 
 
 class UnpaywallClient(DatabaseClient):
@@ -25,7 +25,7 @@ class UnpaywallClient(DatabaseClient):
                 if counter == limit:
                     return
 
-                yield SearchResult(pub['response'], 'unpaywall')
+                yield SearchResult(pub['response'], source=SupportedSources.UNPAYWALL)
                 counter += 1
 
     def __query_api(self, query: str, limit: int = 100) -> list:

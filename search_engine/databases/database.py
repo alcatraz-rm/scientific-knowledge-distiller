@@ -15,6 +15,7 @@ class SupportedSources(StrEnum):
     ARXIV = 'arxiv'
     UNPAYWALL = 'unpaywall'
     GOOGLE_SCHOLAR = 'google_scholar'
+    INTERNET_ARCHIVE = 'internet_archive'
 
 
 class Author:
@@ -140,6 +141,8 @@ class SearchResult:
                 self._load_from_unpaywall(raw_data)
             case SupportedSources.GOOGLE_SCHOLAR:
                 self._load_from_google_scholar(raw_data)
+            case SupportedSources.INTERNET_ARCHIVE:
+                self._load_from_internet_archive(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
 
@@ -200,16 +203,16 @@ class SearchResult:
 
     def _load_from_unpaywall(self, raw_data: dict):
         self._source = SupportedSources.UNPAYWALL
-        self._title = raw_data.get('title')
-        self._doi = raw_data.get('doi')
+        self._title = raw_data.get('title', '')
+        self._doi = raw_data.get('doi', '')
         self._urls = [raw_data.get('doi_url')]
 
-        raw_pub_date = raw_data.get('publication_date')
+        raw_pub_date = raw_data.get('publication_date', '')
         if raw_pub_date:
             self._publication_date = datetime.strptime(raw_pub_date, "%Y-%m-%d")
-        self._journal = raw_data.get('journal_name')
+        self._journal = raw_data.get('journal_name', '')
 
-        raw_authors = raw_data.get('z_authors')
+        raw_authors = raw_data.get('z_authors', [])
         if not raw_authors:
             return
 
@@ -231,11 +234,30 @@ class SearchResult:
         bib_info = raw_data.get('bib')
 
         if bib_info:
-            self._title = bib_info.get('title')
-            self._abstract = bib_info.get('abstract')
+            self._title = bib_info.get('title', '')
+            self._abstract = bib_info.get('abstract', '')
             self._authors = [Author(author) for author in bib_info.get('author')]
             self._publication_date = datetime.strptime(bib_info.get('pub_year'), '%Y')
         self._urls = [raw_data.get('pub_url')]
+
+    def _load_from_internet_archive(self, raw_data: dict):
+        self._source = SupportedSources.INTERNET_ARCHIVE
+        biblio_data = raw_data.get('biblio')
+        self._title = biblio_data.get('title', '')
+        abstracts = raw_data.get('abstracts', [])
+        self._abstract = abstracts[0]['body'] if abstracts else ''
+        self._doi = biblio_data.get('doi', '')
+        self._urls = [link['access_url'] for link in raw_data.get('access', [])]
+
+        if 'release_date' in biblio_data:
+            self._publication_date = datetime.strptime(biblio_data.get('release_date'), "%Y-%m-%d")
+        elif 'release_year' in biblio_data:
+            self._publication_date = datetime.strptime(str(biblio_data.get('release_year')), '%Y')
+
+        self._journal = biblio_data.get('publisher', '')
+
+        for raw_author in biblio_data.get('contrib_names', []):
+            self._authors.append(Author(raw_author))
 
     def __str__(self) -> str:
         return self._title

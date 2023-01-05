@@ -1,7 +1,7 @@
 from pprint import pprint
 from typing import Iterator
 
-from search_engine.databases.database import DatabaseClient, SearchResult
+from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
 from semanticscholar import SemanticScholar
 
 
@@ -18,7 +18,7 @@ class SematicScholarClient(DatabaseClient):
         results = self._sch.search_paper(query.strip(), limit=limit_)
         counter = 0
         for result in results:
-            yield SearchResult(raw_data=dict(result), source='semantic_scholar')
+            yield SearchResult(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
             counter += 1
 
             if counter == limit:

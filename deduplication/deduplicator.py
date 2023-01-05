@@ -45,7 +45,7 @@ class Deduplicator:
             for row in reader:
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 if Deduplicator.are_duplicates(row):
-                    # pprint(row)  # TODO
+                    pprint(row)  # TODO
                     # input()
                     best_id = Deduplicator.choose_best(publications_dict[id_1],
                                                        publications_dict[id_2])
