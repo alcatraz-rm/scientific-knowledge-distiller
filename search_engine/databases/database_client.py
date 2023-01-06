@@ -269,3 +269,7 @@ class DatabaseClient:
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
         pass
+
+# TODO: https://dblp.org/faq/How+to+use+the+dblp+search+API.html
+# https://docs.openalex.org/api-entities/works/search-works
+#

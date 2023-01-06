@@ -8,7 +8,7 @@ from scholarly import scholarly, ProxyGenerator
 from fp.fp import FreeProxy
 from serpapi import GoogleSearch
 
-from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 
 
 class GoogleScholarClient(DatabaseClient):

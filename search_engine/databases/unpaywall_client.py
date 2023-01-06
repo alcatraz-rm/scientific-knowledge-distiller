@@ -5,7 +5,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 
 
 class UnpaywallClient(DatabaseClient):
@@ -36,9 +36,9 @@ class UnpaywallClient(DatabaseClient):
         print(f'Start Unpaywall search: {query}')
 
         page = 1
+        total_results = 0
 
-        while limit:
-            limit_ = min(limit, UnpaywallClient.MAX_LIMIT)
+        while limit > 0:
             response = requests.get(
                 endpoint,
                 params={
@@ -49,17 +49,24 @@ class UnpaywallClient(DatabaseClient):
             )
 
             if response.status_code == 200:
-                responses.append(response.json())
+                response_json = response.json()
+                results_size = len(response_json['results'])
+
+                if results_size == 0:
+                    break
+
+                responses.append(response_json)
+                total_results += results_size
             else:
                 print(f'Error code {response.status_code}, {response.content}')
                 return responses
 
-            limit -= limit_
+            limit -= results_size
             page += 1
-            print(f'\runpaywall: {(page - 1) * UnpaywallClient.MAX_LIMIT}', end='')
+            print(f'\runpaywall: {total_results}', end='')
 
             time.sleep(2)
 
-        print(f'\nTotal documents found on Unpaywall: {(page - 1) * UnpaywallClient.MAX_LIMIT}')
+        print(f'\nTotal documents found on Unpaywall: {total_results}')
         return responses
 

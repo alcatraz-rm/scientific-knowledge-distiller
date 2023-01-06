@@ -1,11 +1,13 @@
 from pprint import pprint
 from typing import Iterator
 
-from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 from semanticscholar import SemanticScholar
 
 
 class SematicScholarClient(DatabaseClient):
+    MAX_LIMIT = 100
+
     def __init__(self):
         self._sch = SemanticScholar()
         super().__init__()
@@ -14,7 +16,7 @@ class SematicScholarClient(DatabaseClient):
         print('----------------------------')
         print(f'Start Semantic Scholar search: {query}')
 
-        limit_ = min(limit, 100)
+        limit_ = min(limit, SematicScholarClient.MAX_LIMIT)
         results = self._sch.search_paper(query.strip(), limit=limit_)
         counter = 0
         for result in results:

@@ -5,7 +5,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database import DatabaseClient, SearchResult
+from search_engine.databases.database_client import DatabaseClient, SearchResult
 
 
 class AminerClient(DatabaseClient):

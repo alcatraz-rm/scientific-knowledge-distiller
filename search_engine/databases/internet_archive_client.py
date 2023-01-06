@@ -4,7 +4,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 
 
 class InternetArchiveClient(DatabaseClient):
@@ -29,19 +29,24 @@ class InternetArchiveClient(DatabaseClient):
         responses = []
         offset = 0
 
-        while limit:
+        while limit > 0:
             limit_ = min(InternetArchiveClient.MAX_LIMIT, limit)
             query_params = {'q': query, 'limit': limit_, 'offset': offset}
 
             response = requests.get(self._api_endpoint, params=query_params, headers=self._headers)
             if response.status_code == 200:
-                responses.append(response.json())
+                response_json = response.json()
+                results_size = len(response_json.get('results', []))
+                if results_size == 0:
+                    break
+
+                responses.append(response_json)
+                limit -= results_size
+                offset += results_size
             else:
                 print(f'Error code {response.status_code}, {response.content}')
                 return responses
 
-            limit -= limit_
-            offset += limit_
             time.sleep(2)
             print(f'\rinternet archive: {offset}', end='')
 

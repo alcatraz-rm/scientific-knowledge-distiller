@@ -2,7 +2,7 @@ from typing import Iterator
 
 import arxiv
 
-from search_engine.databases.database import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 
 
 class ArXivClient(DatabaseClient):

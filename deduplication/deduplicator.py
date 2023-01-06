@@ -6,14 +6,14 @@ from itertools import chain
 from pprint import pprint
 from typing import Iterable, Dict
 
-from search_engine.databases.database import SearchResult
+from search_engine.databases.database_client import SearchResult
 
 
 class Deduplicator:
     def __init__(self):
         self._path_to_deduplication_script = os.path.join(os.getcwd(), 'deduplication', 'deduplicate.r')
 
-    def deduplicate(self, *iterables):
+    def deduplicate(self, *iterables) -> Iterable[SearchResult]:
         publications_dict = {pub.id: pub for pub in chain(*iterables)}
 
         Deduplicator._dump_to_csv(publications_dict)
@@ -45,7 +45,7 @@ class Deduplicator:
             for row in reader:
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 if Deduplicator.are_duplicates(row):
-                    pprint(row)  # TODO
+                    # pprint(row)  # TODO
                     # input()
                     best_id = Deduplicator.choose_best(publications_dict[id_1],
                                                        publications_dict[id_2])

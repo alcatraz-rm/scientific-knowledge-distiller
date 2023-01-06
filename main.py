@@ -4,28 +4,34 @@ from pprint import pprint
 
 import requests
 
-from search_engine import databases
+from search_engine import databases, Search
 from deduplication import Deduplicator
+from search_engine.databases.database_client import SupportedSources
 from search_engine.databases.google_scholar_client import GoogleScholarClient
 
 # gs_client = GoogleScholarClient()
-ss_client = databases.SematicScholarClient()
-core_client = databases.CoreClient()
-unpaywall_client = databases.UnpaywallClient()
-arxiv_client = databases.ArXivClient()
-ia_client = databases.InternetArchiveClient()
+# ss_client = databases.SematicScholarClient()
+# core_client = databases.CoreClient()
+# unpaywall_client = databases.UnpaywallClient()
+# arxiv_client = databases.ArXivClient()
+# ia_client = databases.InternetArchiveClient()
 
 query = 'salesman problem'
 #
-d = Deduplicator()
-deduped_pubs = list(
-    d.deduplicate(
-        # gs_client.search_publications(query, limit=5000),
-        ia_client.search_publications(query, limit=10000),
-        unpaywall_client.search_publications(query, limit=10000),
-        core_client.search_publications(query, limit=10000),
-        ss_client.search_publications(query, limit=10000),
-        arxiv_client.search_publications(query, limit=10000)
-    )
-)
-print(len(deduped_pubs))
+# d = Deduplicator()
+# deduped_pubs = list(
+#     d.deduplicate(
+#         gs_client.search_publications(query, limit=5000),
+        # ia_client.search_publications(query, limit=10000),
+        # unpaywall_client.search_publications(query, limit=10000),
+        # core_client.search_publications(query, limit=10000),
+        # ss_client.search_publications(query, limit=10000),
+        # arxiv_client.search_publications(query, limit=10000)
+    # )
+# )
+# print(len(deduped_pubs))
+
+s = Search(query, limit=10000)
+s.perform()
+print(len(list(s.results())))
+
