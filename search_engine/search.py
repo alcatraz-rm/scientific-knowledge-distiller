@@ -17,7 +17,8 @@ class Search:
                     SupportedSources.CORE,
                     SupportedSources.INTERNET_ARCHIVE,
                     SupportedSources.SEMANTIC_SCHOLAR,
-                    SupportedSources.UNPAYWALL
+                    SupportedSources.UNPAYWALL,
+                    SupportedSources.CROSSREF
             )
     ):
         assert query, 'Query cannot be empty'
@@ -28,7 +29,7 @@ class Search:
 
         self._query = query
         self._limit = limit
-        self._remove_duplicates = True
+        self._remove_duplicates = remove_duplicates
         self._deduplicator = Deduplicator()
 
         self._clients = []
@@ -42,6 +43,8 @@ class Search:
             self._clients.append(databases.SematicScholarClient())
         if SupportedSources.UNPAYWALL in sources:
             self._clients.append(databases.UnpaywallClient())
+        if SupportedSources.CROSSREF in sources:
+            self._clients.append(databases.CrossrefClient())
 
     def perform(self):
         self._results = chain(*[client.search_publications(self._query, self._limit) for client in self._clients])

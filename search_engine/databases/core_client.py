@@ -11,7 +11,7 @@ from search_engine.databases.database_client import DatabaseClient, SearchResult
 
 
 class CoreClient(DatabaseClient):
-    MAX_LIMIT = 100
+    MAX_LIMIT = 200
 
     def __init__(self):
         self.__api_key = os.getenv('CORE_API_KEY')

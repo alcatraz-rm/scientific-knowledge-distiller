@@ -16,6 +16,7 @@ class SupportedSources(StrEnum):
     UNPAYWALL = 'unpaywall'
     GOOGLE_SCHOLAR = 'google_scholar'
     INTERNET_ARCHIVE = 'internet_archive'
+    CROSSREF = 'crossref'
 
 
 class Author:
@@ -143,6 +144,8 @@ class SearchResult:
                 self._load_from_google_scholar(raw_data)
             case SupportedSources.INTERNET_ARCHIVE:
                 self._load_from_internet_archive(raw_data)
+            case SupportedSources.CROSSREF:
+                self._load_from_crossref(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
 
@@ -214,7 +217,7 @@ class SearchResult:
 
         raw_authors = raw_data.get('z_authors', [])
         if not raw_authors:
-            return
+            raw_authors = []
 
         for raw_author in raw_authors:
             if 'family' in raw_author and 'given' in raw_author:
@@ -225,8 +228,8 @@ class SearchResult:
                 self._authors.append(Author(raw_author['family']))
             elif 'name' in raw_author:
                 self._authors.append(Author(raw_author['name']))
-            else:
-                print(raw_author)
+            # else:
+            #     print(raw_author)
 
     def _load_from_google_scholar(self, raw_data: dict):
         self._source = SupportedSources.GOOGLE_SCHOLAR
@@ -258,6 +261,31 @@ class SearchResult:
 
         for raw_author in biblio_data.get('contrib_names', []):
             self._authors.append(Author(raw_author))
+
+    def _load_from_crossref(self, raw_data: dict):
+        self._source = SupportedSources.CROSSREF
+        self._title = raw_data.get('title', [''])[0]
+        self._doi = raw_data.get('DOI', '')
+        self._urls = [link['URL'] for link in raw_data.get('link', [])] + [raw_data.get('URL', '')]
+
+        if 'published' in raw_data:
+            raw_date = raw_data.get('published').get('date-parts')[0]
+            if len(raw_date) == 3:
+                self._publication_date = datetime(year=raw_date[0], month=raw_date[1], day=raw_date[2])
+            else:
+                self._publication_date = datetime(year=raw_date[0], month=1, day=1)
+
+        raw_authors = raw_data.get('author', [])
+
+        for raw_author in raw_authors:
+            if 'family' in raw_author and 'given' in raw_author:
+                self._authors.append(Author(f'{raw_author["family"]}, {raw_author["given"][0]}.'))
+            elif 'given' in raw_author and 'family' not in raw_author:
+                self._authors.append(Author(raw_author['given']))
+            elif 'family' in raw_author and 'given' not in raw_author:
+                self._authors.append(Author(raw_author['family']))
+            elif 'name' in raw_author:
+                self._authors.append(Author(raw_author['name']))
 
     def __str__(self) -> str:
         return self._title

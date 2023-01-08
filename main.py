@@ -17,6 +17,9 @@ from search_engine.databases.google_scholar_client import GoogleScholarClient
 # ia_client = databases.InternetArchiveClient()
 
 query = 'salesman problem'
+# crossref = databases.CrossrefClient()
+# for pub in crossref.search_publications(query, limit=2000):
+#     print(pub)
 #
 # d = Deduplicator()
 # deduped_pubs = list(
@@ -31,7 +34,7 @@ query = 'salesman problem'
 # )
 # print(len(deduped_pubs))
 
-s = Search(query, limit=10000)
+s = Search(query, limit=20000, sources=(SupportedSources.SEMANTIC_SCHOLAR,))
 s.perform()
 print(len(list(s.results())))
 
