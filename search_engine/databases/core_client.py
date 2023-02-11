@@ -10,8 +10,9 @@ import requests
 from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
 
 
+# TODO: handle Error code 500, b'{"message":"Error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 45416448 bytes)"}'
 class CoreClient(DatabaseClient):
-    MAX_LIMIT = 200
+    MAX_LIMIT = 150
 
     def __init__(self):
         self.__api_key = os.getenv('CORE_API_KEY')

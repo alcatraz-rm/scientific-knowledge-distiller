@@ -15,10 +15,10 @@ class Deduplicator:
 
     def deduplicate(self, *iterables) -> Iterable[SearchResult]:
         publications_dict = {pub.id: pub for pub in chain(*iterables)}
+        print(f'total found: {len(publications_dict)}')
 
         Deduplicator._dump_to_csv(publications_dict)
         self.__run_deduplication_script()
-        unique_pubs_ids = set()
 
         path_to_deduplication_module = os.path.join(os.getcwd(), 'deduplication')
         unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
@@ -101,6 +101,7 @@ class Deduplicator:
                 writer.writerow(publications[pub_id].to_csv())
 
     def __run_deduplication_script(self):
+        print('starting deduplication...')
         p = subprocess.run(['Rscript', self._path_to_deduplication_script], capture_output=True, text=True,
                            cwd=os.path.join(os.getcwd(), 'deduplication'))
         p.check_returncode()
