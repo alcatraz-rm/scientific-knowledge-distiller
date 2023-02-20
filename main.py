@@ -9,9 +9,9 @@ from deduplication import Deduplicator
 from search_engine.databases.database_client import SupportedSources
 from search_engine.databases.google_scholar_client import GoogleScholarClient
 
-gs_client = GoogleScholarClient()
-for pub in gs_client.search_publications('topology'):
-    print(pub)
+# gs_client = GoogleScholarClient()
+# for pub in gs_client.search_publications('topology'):
+#     print(pub)
 # ss_client = databases.SematicScholarClient()
 # core_client = databases.CoreClient()
 # unpaywall_client = databases.UnpaywallClient()
@@ -19,6 +19,8 @@ for pub in gs_client.search_publications('topology'):
 # ia_client = databases.InternetArchiveClient()
 
 # query = 'neutral differential equations with periodic coefficients'
+query = input('query: ')
+limit = int(input('limit: '))
 # crossref = databases.CrossrefClient()
 # for pub in crossref.search_publications(query, limit=2000):
 #     print(pub)
@@ -36,7 +38,7 @@ for pub in gs_client.search_publications('topology'):
 # )
 # print(len(deduped_pubs))
 
-# s = Search(query, limit=5000)
-# s.perform()
-# print(len(list(s.results())))
+s = Search(query, limit=limit)
+s.perform()
+print(len(list(s.results())))
 

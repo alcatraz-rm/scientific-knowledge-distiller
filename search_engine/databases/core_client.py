@@ -40,13 +40,14 @@ class CoreClient(DatabaseClient):
         responses = []
         headers = {'Authorization': f'Bearer {self.__api_key}'}
         total_results = 0
+        failures_number = 0
 
         print('----------------------------')
         print(f'Start Core search: {query}')
 
         scroll_id = None
         while limit > 0:
-            query_data = {'q': query, 'limit': CoreClient.MAX_LIMIT}
+            query_data = {'q': query, 'limit': min(CoreClient.MAX_LIMIT, limit)}
 
             if not scroll_id:
                 query_data['scroll'] = True
@@ -75,6 +76,11 @@ class CoreClient(DatabaseClient):
                 time.sleep(sleep_time)
             else:
                 print(f'Error code {response.status_code}, {response.content}')
+
+                if failures_number < 10:
+                    failures_number += 1
+                    time.sleep(10)
+                    continue
                 return responses
 
             print(f'\rcore: {total_results}', end='')

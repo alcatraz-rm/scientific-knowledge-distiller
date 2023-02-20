@@ -27,7 +27,7 @@ class SematicScholarClient(DatabaseClient):
             return
 
         for n, result in enumerate(results):
-            yield SearchResult(raw_data=dict(result), source=SupportedSources.CROSSREF)
+            yield SearchResult(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
 
             if n + 1 == limit:
                 break

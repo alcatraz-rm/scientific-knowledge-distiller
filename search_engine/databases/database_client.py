@@ -240,7 +240,9 @@ class SearchResult:
             self._title = bib_info.get('title', '')
             self._abstract = bib_info.get('abstract', '')
             self._authors = [Author(author) for author in bib_info.get('author')]
-            self._publication_date = datetime.strptime(bib_info.get('pub_year'), '%Y')
+            pub_year = bib_info.get('pub_year')
+            if pub_year and pub_year != 'NA':
+                self._publication_date = datetime.strptime(pub_year, '%Y')
         self._urls = [raw_data.get('pub_url')]
 
     def _load_from_internet_archive(self, raw_data: dict):

@@ -18,7 +18,8 @@ class Search:
                     SupportedSources.INTERNET_ARCHIVE,
                     SupportedSources.SEMANTIC_SCHOLAR,
                     SupportedSources.UNPAYWALL,
-                    SupportedSources.CROSSREF
+                    SupportedSources.CROSSREF,
+                    # SupportedSources.GOOGLE_SCHOLAR
             )
     ):
         assert query, 'Query cannot be empty'
@@ -33,6 +34,8 @@ class Search:
         self._deduplicator = Deduplicator()
 
         self._clients = []
+        # if SupportedSources.GOOGLE_SCHOLAR in sources:
+        #     self._clients.append(databases.GoogleScholarClient())
         if SupportedSources.ARXIV in sources:
             self._clients.append(databases.ArXivClient())
         if SupportedSources.CORE in sources:

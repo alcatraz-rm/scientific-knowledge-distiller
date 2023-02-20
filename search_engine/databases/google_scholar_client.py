@@ -30,16 +30,26 @@ class GoogleScholarClient(DatabaseClient):
         pg = ProxyGenerator()
         assert pg.FreeProxies()
 
-        results = scholarly.search_pubs(query)
+        # results = scholarly.search_pubs(query)
 
-        # params = deepcopy(self._search_params)
-        # params['q'] = query
-        # params['num'] = limit
-        #
-        # search = GoogleSearch(params)
-        # results = search.get_dict()
-        # organic_results = results["organic_results"]
+        params = deepcopy(self._search_params)
+        params['q'] = query
+        params['num'] = limit
+
+        search = GoogleSearch(params)
+        results = search.get_dict()
+
+        organic_results = results["organic_results"]
         # pprint(organic_results[0])
+
+        for result in organic_results:
+            pprint(result)
+            r = GoogleSearch({
+            'engine': 'google_scholar_cite',
+            'q': result['result_id'],
+            'api_key': os.getenv('SERP_API_KEY'),
+            })
+            pass
 
         while counter != limit:
             citation = next(results)
