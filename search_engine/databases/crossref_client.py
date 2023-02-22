@@ -1,4 +1,5 @@
 import json
+import logging
 import os
 import time
 from datetime import datetime
@@ -8,6 +9,7 @@ from typing import Iterator
 import requests
 
 from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from utils.requests_manager import RequestsManager
 
 
 class CrossrefClient(DatabaseClient):
@@ -15,6 +17,7 @@ class CrossrefClient(DatabaseClient):
 
     def __init__(self):
         self._api_endpoint = 'https://api.crossref.org/works'
+        self._requests_manager = RequestsManager()
 
         super().__init__()
 
@@ -38,19 +41,23 @@ class CrossrefClient(DatabaseClient):
         responses = []
         total_results = 0
 
-        print('----------------------------')
-        print(f'Start Crossref search: {query}')
+        # print('----------------------------')
+        # print(f'Start Crossref search: {query}')
 
         while limit > 0:
             limit_ = min(limit, CrossrefClient.MAX_LIMIT)
-            response = requests.get(
+            response = self._requests_manager.get(
                 f'{self._api_endpoint}',
                 params={
                     'query': query,
                     'rows': limit_,
                     'offset': total_results
-                }
+                },
+                max_failures=10
             )
+
+            if not isinstance(response, requests.Response):
+                return responses
 
             if response.status_code == 200:
                 result_json = response.json()
@@ -64,11 +71,13 @@ class CrossrefClient(DatabaseClient):
                 total_results += result_size
                 limit -= result_size
             else:
-                print(f'Error code {response.status_code}, {response.content}')
+                # print(f'Error code {response.status_code}, {response.content}')
+                logging.error(f'Error code {response.status_code}, {response.content}')
                 return responses
 
-            print(f'\rcrossref: {total_results}', end='')
+            # print(f'\rcrossref: {total_results}', end='')
+            logging.info(f'crossref: {total_results}')
             time.sleep(1)
 
-        print(f'\nTotal documents found on Crossref: {total_results}')
+        # print(f'\nTotal documents found on Crossref: {total_results}')
         return responses

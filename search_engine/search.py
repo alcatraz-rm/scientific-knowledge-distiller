@@ -1,9 +1,15 @@
+import logging
+import threading
+import time
+from copy import deepcopy
 from itertools import chain
 from typing import Iterable
 
 from deduplication import Deduplicator
 from search_engine import databases
 from search_engine.databases.database_client import SupportedSources, SearchResult
+
+logging.basicConfig(level=20)
 
 
 class Search:
@@ -27,6 +33,7 @@ class Search:
         assert sources, 'Pass at least one source'
 
         self._results = None
+        self._results_list = []
 
         self._query = query
         self._limit = limit
@@ -50,12 +57,33 @@ class Search:
             self._clients.append(databases.CrossrefClient())
 
     def perform(self):
-        self._results = chain(*[client.search_publications(self._query, self._limit) for client in self._clients])
+        threads = []
+        for client in self._clients:
+            threads.append(threading.Thread(target=self._search, args=(deepcopy(client),)))
+
+        for thread in threads:
+            thread.start()
+
+        for thread in threads:
+            while thread.is_alive():
+                time.sleep(0.1)
+
+            thread.join()
+
+        # self._results = chain(*[client.search_publications(self._query, self._limit) for client in self._clients])
+        self._results = self._results_list
+
         if self._remove_duplicates:
             self._deduplicate()
 
     def results(self) -> Iterable[SearchResult]:
         return self._results
+
+    def _search(self, client):
+        result = list(client.search_publications(self._query, self._limit))
+
+        with threading.Lock():
+            self._results_list.extend(result)
 
     def _deduplicate(self):
         self._results = self._deduplicator.deduplicate(self._results)

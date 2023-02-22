@@ -1,3 +1,4 @@
+import logging
 from typing import Iterator
 
 import arxiv
@@ -11,20 +12,22 @@ class ArXivClient(DatabaseClient):
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
         search = arxiv.Search(query=query)
+        client = arxiv.Client()
 
-        print('----------------------------')
-        print(f'Start ArXiv search: {query}')
+        # print('----------------------------')
+        # print(f'Start ArXiv search: {query}')
 
         counter = 0
         try:
-            for publication in search.results():
+            for publication in client.results(search):
                 yield SearchResult(publication, source=SupportedSources.ARXIV)
                 counter += 1
-                print(f'\rarXiv: {counter}', end='')
+                logging.info(f'arXiv: {counter}')
+                # print(f'\rarXiv: {counter}', end='')
 
                 if counter == limit:
                     break
         except arxiv.UnexpectedEmptyPageError:
             pass
 
-        print(f'\nTotal documents found on ArXiv: {counter}')
+        # print(f'\nTotal documents found on ArXiv: {counter}')

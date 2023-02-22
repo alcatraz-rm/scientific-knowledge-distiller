@@ -1,3 +1,4 @@
+import logging
 import os
 import time
 from pprint import pprint
@@ -6,6 +7,7 @@ from typing import Iterator
 import requests
 
 from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from utils.requests_manager import RequestsManager
 
 
 class UnpaywallClient(DatabaseClient):
@@ -14,6 +16,8 @@ class UnpaywallClient(DatabaseClient):
     def __init__(self):
         self.__auth_email = os.getenv('UNPAYWALL_EMAIL')
         self._api_endpoint = 'https://api.unpaywall.org/'
+        self._requests_manager = RequestsManager()
+
         super().__init__()
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
@@ -32,21 +36,25 @@ class UnpaywallClient(DatabaseClient):
         endpoint = f'{self._api_endpoint}v2/search'
         responses = []
 
-        print('----------------------------')
-        print(f'Start Unpaywall search: {query}')
+        # print('----------------------------')
+        # print(f'Start Unpaywall search: {query}')
 
         page = 1
         total_results = 0
 
         while limit > 0:
-            response = requests.get(
+            response = self._requests_manager.get(
                 endpoint,
                 params={
                     'email': self.__auth_email,
                     'query': query,
                     'page': page
-                }
+                },
+                max_failures=10
             )
+
+            if not isinstance(response, requests.Response):
+                return responses
 
             if response.status_code == 200:
                 response_json = response.json()
@@ -58,15 +66,17 @@ class UnpaywallClient(DatabaseClient):
                 responses.append(response_json)
                 total_results += results_size
             else:
-                print(f'Error code {response.status_code}, {response.content}')
+                # print(f'Error code {response.status_code}, {response.content}')
+                logging.error(f'Error code {response.status_code}, {response.content}')
                 return responses
 
             limit -= results_size
             page += 1
-            print(f'\runpaywall: {total_results}', end='')
+            # print(f'\runpaywall: {total_results}', end='')
+            logging.info(f'unpaywall: {total_results}')
 
             time.sleep(2)
 
-        print(f'\nTotal documents found on Unpaywall: {total_results}')
+        # print(f'\nTotal documents found on Unpaywall: {total_results}')
         return responses
 
