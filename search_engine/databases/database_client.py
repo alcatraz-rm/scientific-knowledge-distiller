@@ -4,12 +4,12 @@ from copy import deepcopy
 from datetime import datetime
 from pprint import pprint
 from typing import Iterator, Union
-from enum import StrEnum
+from enum import Enum
 
 import arxiv
 
 
-class SupportedSources(StrEnum):
+class SupportedSources(Enum):
     SEMANTIC_SCHOLAR = 'semantic_scholar'
     CORE = 'core'
     ARXIV = 'arxiv'
@@ -291,6 +291,9 @@ class SearchResult:
 
     def __str__(self) -> str:
         return self._title
+
+    def __repr__(self) -> str:
+        return self.title
 
 
 class DatabaseClient:

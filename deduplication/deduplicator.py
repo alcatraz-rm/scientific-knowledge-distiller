@@ -11,16 +11,23 @@ from search_engine.databases.database_client import SearchResult
 
 class Deduplicator:
     def __init__(self):
-        self._path_to_deduplication_script = os.path.join(os.getcwd(), 'deduplication', 'deduplicate.r')
+        initial_wd = os.getcwd()
+
+        while os.path.split(os.getcwd())[-1] != 'scientific-knowledge-distiller':
+            os.chdir(os.path.join(os.getcwd(), '..'))
+
+        self._root_path = os.getcwd()
+        self._path_to_deduplication_script = os.path.join(self._root_path, 'deduplication', 'deduplicate.r')
+        os.chdir(initial_wd)
 
     def deduplicate(self, *iterables) -> Iterable[SearchResult]:
         publications_dict = {pub.id: pub for pub in chain(*iterables)}
         print(f'total found: {len(publications_dict)}')
 
-        Deduplicator._dump_to_csv(publications_dict)
+        self._dump_to_csv(publications_dict)
         self.__run_deduplication_script()
 
-        path_to_deduplication_module = os.path.join(os.getcwd(), 'deduplication')
+        path_to_deduplication_module = os.path.join(self._root_path, 'deduplication')
         unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
         with open(unique_cites_path, 'r', encoding='utf-8') as unique_pubs_csv:
@@ -83,15 +90,15 @@ class Deduplicator:
             return True
         if doi < 1 and doi != -1:
             return False
-        if row['author'] == '1' and row['title'] == '1':
+        if float(row['author']) >= 0.5 and row['title'] == '1':
             return True
 
         return False
 
-    @staticmethod
-    def _dump_to_csv(publications: Dict[int, SearchResult]):
+    def _dump_to_csv(self, publications: Dict[int, SearchResult]):
         # TODO: add env variable for path to deduplication raw dump
-        path_to_dump = os.path.join(os.getcwd(), 'deduplication', '_dump_tmp.csv')
+
+        path_to_dump = os.path.join(self._root_path, 'deduplication', '_dump_tmp.csv')
 
         with open(path_to_dump, 'w', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=SearchResult.csv_keys())
@@ -103,5 +110,5 @@ class Deduplicator:
     def __run_deduplication_script(self):
         print('starting deduplication...')
         p = subprocess.run(['Rscript', self._path_to_deduplication_script], capture_output=True, text=True,
-                           cwd=os.path.join(os.getcwd(), 'deduplication'))
+                           cwd=os.path.join(self._root_path, 'deduplication'))
         p.check_returncode()

@@ -79,7 +79,7 @@ class CoreClient(DatabaseClient):
                 retry_after = response.headers.get('X-RateLimit-Retry-After', '')
                 sleep_time = 60
                 if retry_after:
-                    retry_after = datetime.fromisoformat(retry_after).replace(tzinfo=datetime.utcnow().tzinfo)
+                    retry_after = datetime.fromisoformat(retry_after.replace('+0000', '')).replace(tzinfo=datetime.utcnow().tzinfo)
                     sleep_time = (retry_after - datetime.utcnow()).seconds + 2  # 2 seconds just in case
                 # print(f'\nToo many requests on Core, waiting {sleep_time} secs...')
                 logging.error(f'Too many requests on Core, waiting {sleep_time} secs...')
