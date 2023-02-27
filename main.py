@@ -32,4 +32,9 @@ s = Search(query, limit=limit, sources=(
     SupportedSources.UNPAYWALL,
 ))
 s.perform()
-print(len(list(s.results())))
+
+with open('results.csv', 'w', encoding='utf-8') as file:
+    for pub in s.results():
+        file.write(f'"{pub.title}",{pub.year}\n')
+
+# print(len(list(s.results())))

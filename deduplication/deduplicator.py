@@ -2,12 +2,13 @@ import csv
 import itertools
 import os.path
 import subprocess
+from copy import deepcopy
 from itertools import chain
 from pprint import pprint
 from typing import Iterable, Dict
 
 from search_engine.databases.database_client import SearchResult
-from utils.publications_group import PublicationsGraph
+from utils.publications_graph import PublicationsGraph
 
 
 class Deduplicator:
@@ -35,6 +36,8 @@ class Deduplicator:
         path_to_deduplication_module = os.path.join(self._root_path, 'deduplication')
         unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
+
+        # TODO: do something with unique citations file
         with open(unique_cites_path, 'r', encoding='utf-8') as unique_pubs_csv:
             reader = csv.DictReader(unique_pubs_csv,
                                     fieldnames=['duplicate_id', 'record_id', 'author', 'year', 'journal', 'doi',
@@ -60,31 +63,48 @@ class Deduplicator:
                 if Deduplicator.are_duplicates(row):
                     # pprint(row)  # TODO
                     # input()
-                    best_id = Deduplicator.choose_best(publications_dict[id_1],
-                                                       publications_dict[id_2])
-                    unique_pubs_ids.add(best_id)
-                    unique_pubs_ids.discard(id_2 if best_id == id_1 else id_1)
+                    # best_id = Deduplicator._choose_best(publications_dict[id_1],
+                    #                                     publications_dict[id_2])
+                    # unique_pubs_ids.add(best_id)
+                    # unique_pubs_ids.discard(id_2 if best_id == id_1 else id_1)
 
                     pubs_graph.add_edge(id_1, id_2)
-                else:
-                    unique_pubs_ids.add(id_1)
-                    unique_pubs_ids.add(id_2)
+                # else:
+                #     unique_pubs_ids.add(id_1)
+                #     unique_pubs_ids.add(id_2)
 
         connected_components = pubs_graph.connected_components()
+
+        unique_pubs_ids = set()
+        for component in connected_components:
+            base_pub = self._merge_publications(*[publications_dict[pub_id] for pub_id in component])
+            component.discard(base_pub.id)
+
+            publications_dict[base_pub.id] = deepcopy(base_pub)
+            unique_pubs_ids.add(base_pub.id)
 
         os.remove(unique_cites_path)
         os.remove(possible_duplicates_path)
         os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
 
-        for publication in publications_dict.values():
-            if publication.id in unique_pubs_ids:
-                yield publication
+        for pub_id in unique_pubs_ids:
+            yield publications_dict[pub_id]
+
+    def _merge_publications(self, *pubs) -> SearchResult:
+        if len(pubs) == 1:
+            return pubs[0]
+
+        base_pub = self._choose_best(*pubs)
+
+        for p in pubs:
+            if p.id != base_pub.id:
+                base_pub.add_version(p)
+
+        return base_pub
 
     @staticmethod
-    def choose_best(pub1: SearchResult, pub2: SearchResult) -> str:
-        if pub1.empty_fields <= pub2.empty_fields:
-            return pub1.id
-        return pub2.id
+    def _choose_best(*pubs) -> SearchResult:
+        return max(*pubs, key=lambda x: x.empty_fields)
 
     # NOTE: HERE we perform manual deduplication
     @staticmethod

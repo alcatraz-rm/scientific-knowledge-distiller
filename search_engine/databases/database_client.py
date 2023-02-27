@@ -39,12 +39,14 @@ class SearchResult:
         self._abstract = ''
         self._publication_date = None
         self._authors = []
-        self._source = ''
+        self._source = source
         self._raw_data = {}
         self._journal = ''
         self._volume = ''
         self._doi = ''
         self._urls = []
+
+        self._versions = []
 
         self._raw_data = deepcopy(raw_data)
         self._load_from(raw_data, source)
@@ -75,6 +77,22 @@ class SearchResult:
     @property
     def title(self) -> str:
         return self._title
+
+    @property
+    def source(self) -> SupportedSources:
+        return self._source
+
+    @property
+    def journal(self) -> str:
+        return self._journal
+
+    @property
+    def urls(self) -> list:
+        return self._urls
+
+    @property
+    def doi(self) -> str:
+        return self._doi
 
     @property
     def abstract(self) -> str:
@@ -128,6 +146,19 @@ class SearchResult:
             'isbn',
             'label',
             'source',
+        )
+
+    def add_version(self, other):
+        self._versions.append(
+            {
+                'year': other.year,
+                'source': other.source,
+                'title': other.title,
+                'journal': other.journal,
+                'urls': other.urls,
+                'doi': other.doi,
+                'publication_date': other.publication_date
+            }
         )
 
     def _load_from(self, raw_data: Union[dict, arxiv.Result], source: SupportedSources):
