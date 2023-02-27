@@ -3,7 +3,7 @@ import threading
 import time
 from copy import deepcopy
 from itertools import chain
-from typing import Iterable
+from typing import Iterable, Tuple
 
 from deduplication import Deduplicator
 from search_engine import databases
@@ -18,7 +18,7 @@ class Search:
             query: str,
             limit: int = 1000,
             remove_duplicates: bool = True,
-            sources: tuple[SupportedSources] = (
+            sources: tuple = (
                     SupportedSources.ARXIV,
                     SupportedSources.CORE,
                     SupportedSources.INTERNET_ARCHIVE,
