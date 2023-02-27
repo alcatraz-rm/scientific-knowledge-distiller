@@ -78,4 +78,4 @@ class RequestsManager:
                 return result
 
             max_failures -= 1
-            time.sleep(15)
+            time.sleep(5)

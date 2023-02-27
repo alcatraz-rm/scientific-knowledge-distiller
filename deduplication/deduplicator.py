@@ -7,6 +7,7 @@ from pprint import pprint
 from typing import Iterable, Dict
 
 from search_engine.databases.database_client import SearchResult
+from utils.publications_group import PublicationsGraph
 
 
 class Deduplicator:
@@ -23,6 +24,10 @@ class Deduplicator:
     def deduplicate(self, *iterables) -> Iterable[SearchResult]:
         publications_dict = {pub.id: pub for pub in chain(*iterables)}
         print(f'total found: {len(publications_dict)}')
+
+        pubs_graph = PublicationsGraph()
+        for pub_id in publications_dict:
+            pubs_graph.add_vertex(pub_id)
 
         self._dump_to_csv(publications_dict)
         self.__run_deduplication_script()
@@ -47,7 +52,8 @@ class Deduplicator:
                                                 'volume2', 'volume', 'journal1', 'journal2', 'journal', 'isbn', 'isbn1',
                                                 'isbn2', 'doi1', 'doi2', 'doi', 'record_id1', 'record_id2', 'label1',
                                                 'label2', 'source1', 'source2'
-                                                ])
+                                                ]
+                                    )
 
             for row in reader:
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
@@ -58,9 +64,13 @@ class Deduplicator:
                                                        publications_dict[id_2])
                     unique_pubs_ids.add(best_id)
                     unique_pubs_ids.discard(id_2 if best_id == id_1 else id_1)
+
+                    pubs_graph.add_edge(id_1, id_2)
                 else:
                     unique_pubs_ids.add(id_1)
                     unique_pubs_ids.add(id_2)
+
+        connected_components = pubs_graph.connected_components()
 
         os.remove(unique_cites_path)
         os.remove(possible_duplicates_path)
@@ -79,9 +89,6 @@ class Deduplicator:
     # NOTE: HERE we perform manual deduplication
     @staticmethod
     def are_duplicates(row):
-        if row['year1'] != row['year2'] and row['year1'] and row['year2']:
-            return False
-
         doi = -1
         if row['doi'] != 'NA':
             doi = float(row['doi'])
@@ -90,10 +97,21 @@ class Deduplicator:
             return True
         if doi < 1 and doi != -1:
             return False
-        if float(row['author']) >= 0.5 and row['title'] == '1':
+
+        if float(row['author']) >= 0.6 and row['title'] == '1':
+            return True
+        if row['author'] == '1' and row['title'] == '1' and row['abstract'] == '1': # useless
             return True
 
-        return False
+        if row['title'] == '1':
+            pass
+
+        if row['year1'] != row['year2'] and \
+                row['year1'] and \
+                row['year2'] and \
+                len(row['year1']) == 4 and \
+                len(row['year2']) == 4:
+            return False
 
     def _dump_to_csv(self, publications: Dict[int, SearchResult]):
         # TODO: add env variable for path to deduplication raw dump

@@ -12,7 +12,7 @@ class ArXivClient(DatabaseClient):
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
         search = arxiv.Search(query=query)
-        client = arxiv.Client(num_retries=10, delay_seconds=5, page_size=200)
+        client = arxiv.Client(num_retries=20, delay_seconds=10, page_size=200)
 
         # print('----------------------------')
         # print(f'Start ArXiv search: {query}')
