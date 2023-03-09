@@ -1,4 +1,5 @@
 import logging
+import os
 import time
 from pprint import pprint
 from typing import Iterator
@@ -18,6 +19,7 @@ class SematicScholarClient(DatabaseClient):
         # self._sch = SemanticScholar()
         self._requests_manager = RequestsManager()
         self._api_endpoint = 'https://api.semanticscholar.org/graph/v1/paper/search'
+        self._api_key = os.getenv('SEMANTIC_SCHOLAR_API_KEY')
         super().__init__()
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
@@ -45,6 +47,10 @@ class SematicScholarClient(DatabaseClient):
 
         while limit > 0:
             limit_ = min(limit, SematicScholarClient.MAX_LIMIT)
+
+            if total_results + limit_ >= 10000:
+                limit_ = 9999 - total_results
+
             response = self._requests_manager.get(
                 f'{self._api_endpoint}',
                 params={
@@ -53,6 +59,9 @@ class SematicScholarClient(DatabaseClient):
                     'offset': total_results,
                     'fields': 'externalIds,url,title,abstract,venue,publicationVenue,year,referenceCount,'
                               'isOpenAccess,openAccessPdf,publicationDate,authors,journal'
+                },
+                headers={
+                    'api-key': self._api_key
                 },
                 max_failures=10
             )
@@ -71,10 +80,9 @@ class SematicScholarClient(DatabaseClient):
                 responses.append(result_json)
                 total_results += result_size
                 limit -= result_size
-            # elif response.status_code == 429:
-            #     print('Too many requests, waiting 15 secs...')
-            #     time.sleep(15)
-            #     continue
+            elif response.status_code == 429:
+                print('Too many requests, waiting 15 secs...')
+                time.sleep(15)
             else:
                 # print(f'Error code {response.status_code}, {response.content}')
                 logging.error(f'Error code {response.status_code}, {response.content}')
@@ -82,7 +90,7 @@ class SematicScholarClient(DatabaseClient):
 
             # print(f'\rsemantic scholar: {total_results}', end='')
             logging.info(f'semantic scholar: {total_results}')
-            time.sleep(2)
+            time.sleep(1)
 
         # print(f'\nTotal documents found on SemanticScholar: {total_results}')
         return responses

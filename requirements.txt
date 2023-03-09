@@ -151,3 +151,5 @@ websocket-client==1.5.1
 widgetsnbextension==4.0.5
 wrapt==1.14.1
 wsproto==1.2.0
+
+networkx~=3.0

@@ -34,7 +34,8 @@ s = Search(query, limit=limit, sources=(
 s.perform()
 
 with open('results.csv', 'w', encoding='utf-8') as file:
-    for pub in s.results():
-        file.write(f'"{pub.title}",{pub.year}\n')
+    for n, pub in enumerate(s.results()):
+        if len(pub.versions) > 0:
+            print(pub.title)
 
 # print(len(list(s.results())))

@@ -104,7 +104,7 @@ class Deduplicator:
 
     @staticmethod
     def _choose_best(*pubs) -> SearchResult:
-        return max(*pubs, key=lambda x: x.empty_fields)
+        return min(*pubs, key=lambda x: x.empty_fields)
 
     # NOTE: HERE we perform manual deduplication
     @staticmethod

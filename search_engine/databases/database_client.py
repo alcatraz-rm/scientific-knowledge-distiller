@@ -112,6 +112,10 @@ class SearchResult:
     def publication_date(self) -> datetime:
         return self._publication_date
 
+    @property
+    def versions(self) -> list:
+        return self._versions
+
     # returns a dict to dump to csv for deduplication
     def to_csv(self) -> dict:
         return dict(
