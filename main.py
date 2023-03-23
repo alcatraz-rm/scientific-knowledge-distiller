@@ -33,9 +33,13 @@ s = Search(query, limit=limit, sources=(
 ))
 s.perform()
 
-with open('results.csv', 'w', encoding='utf-8') as file:
-    for n, pub in enumerate(s.results()):
-        if len(pub.versions) > 0:
-            print(pub.title)
+# with open('results.csv', 'w', encoding='utf-8') as file:
+#     for n, pub in enumerate(s.results()):
+#         if len(pub.versions) > 0:
+#             print(pub.title)
 
-# print(len(list(s.results())))
+print(len(list(s.results())))
+
+# for n, pub in enumerate(s.results()):
+#     if pub.lang != 'en':
+#         print(pub.title, pub.lang)

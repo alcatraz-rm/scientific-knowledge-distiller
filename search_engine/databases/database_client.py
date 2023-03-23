@@ -2,10 +2,10 @@ import random
 import string
 from copy import deepcopy
 from datetime import datetime
-from pprint import pprint
-from typing import Iterator, Union
 from enum import Enum
+from typing import Iterator, Union
 
+# from googletrans import Translator
 import arxiv
 
 
@@ -44,6 +44,7 @@ class SearchResult:
         self._journal = ''
         self._volume = ''
         self._doi = ''
+        self._lang = ''
         self._urls = []
 
         self._versions = []
@@ -111,6 +112,10 @@ class SearchResult:
     @property
     def publication_date(self) -> datetime:
         return self._publication_date
+
+    # @property
+    # def lang(self) -> str:
+    #     return self._lang
 
     @property
     def versions(self) -> list:
@@ -183,6 +188,10 @@ class SearchResult:
                 self._load_from_crossref(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
+
+        # if self._title:
+        #     self._lang = Translator().detect(self._title)
+        # pass
 
     def _load_from_semantic_scholar(self, raw_data: dict):
         self._source = SupportedSources.SEMANTIC_SCHOLAR

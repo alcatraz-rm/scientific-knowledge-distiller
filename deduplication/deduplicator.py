@@ -34,17 +34,12 @@ class Deduplicator:
         self.__run_deduplication_script()
 
         path_to_deduplication_module = os.path.join(self._root_path, 'deduplication')
-        unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
 
-        # TODO: do something with unique citations file
-        with open(unique_cites_path, 'r', encoding='utf-8') as unique_pubs_csv:
-            reader = csv.DictReader(unique_pubs_csv,
-                                    fieldnames=['duplicate_id', 'record_id', 'author', 'year', 'journal', 'doi',
-                                                'title', 'pages', 'volume', 'number', 'abstract', 'isbn', 'label',
-                                                'source'
-                                                ])
-            unique_pubs_ids = {row['record_id'].lower() for row in reader}
+        false_positive = 0
+        true_positive = 0
+        false_negative = 0
+        true_negative = 0
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
@@ -58,20 +53,58 @@ class Deduplicator:
                                                 ]
                                     )
 
+            rows = []
             for row in reader:
-                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
-                if Deduplicator.are_duplicates(row):
-                    # pprint(row)  # TODO
-                    # input()
-                    # best_id = Deduplicator._choose_best(publications_dict[id_1],
-                    #                                     publications_dict[id_2])
-                    # unique_pubs_ids.add(best_id)
-                    # unique_pubs_ids.discard(id_2 if best_id == id_1 else id_1)
+                rows.append(deepcopy(row))
 
+            for n, row in enumerate(rows):
+                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
+                are_duplicates = Deduplicator.are_duplicates(row)
+                if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
-                # else:
-                #     unique_pubs_ids.add(id_1)
-                #     unique_pubs_ids.add(id_2)
+
+                if row['doi'] != 'NA':
+                    if row['doi'] == '1' and are_duplicates:
+                        true_positive += 1
+                        continue
+                    if row['doi'] != '1' and not are_duplicates:
+                        true_negative += 1
+                        continue
+
+                print(f"{n}/{len(rows)}\ntitle 1: {row['title1']}\n"
+                      f"title 2: {row['title2']}\n"
+                      f"title sim: {row['title']}\n\n"
+                      f"author 1: {row['author1']}\n"
+                      f"author 2: {row['author2']}\n"
+                      f"author sim: {row['author']}\n\n"
+                      f"abstract 1: {row['abstract1']}\n\n"
+                      f"abstract 2: {row['abstract2']}\n\n"
+                      f"abstract sim: {row['abstract']}\n\n"
+                      f"doi 1: {row['doi1']}\n"
+                      f"doi 2: {row['doi2']}\n"
+                      f"doi sim: {row['doi']}\n\n"
+                      f"year 1: {row['year1']}\n"
+                      f"year 2: {row['year2']}\n\n"
+                      f"source 1: {row['source1']}\n"
+                      f"source 2: {row['source2']}\n"
+                      )
+                print(f'system decision: {"DUPLICATES" if are_duplicates else "NOT DUPLICATES"}')
+                mark = input('mark: ').strip()
+
+                if mark == '0' and are_duplicates:
+                    false_positive += 1
+                if mark == '0' and not are_duplicates:
+                    false_negative += 1
+
+                if are_duplicates and mark != '0':
+                    true_positive += 1
+                if not are_duplicates and mark != '0':
+                    true_negative += 1
+
+            print('TP:', true_positive)
+            print('FP:', false_positive)
+            print('TN:', true_negative)
+            print('FN:', false_negative)
 
         connected_components = pubs_graph.connected_components()
 
@@ -83,6 +116,7 @@ class Deduplicator:
             publications_dict[base_pub.id] = deepcopy(base_pub)
             unique_pubs_ids.add(base_pub.id)
 
+        unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
         os.remove(unique_cites_path)
         os.remove(possible_duplicates_path)
         os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
@@ -120,18 +154,12 @@ class Deduplicator:
 
         if float(row['author']) >= 0.6 and row['title'] == '1':
             return True
-        if row['author'] == '1' and row['title'] == '1' and row['abstract'] == '1': # useless
+        if row['title'] == '1' and row['abstract'] == '1' and row['year'] == '1':
+            return True
+        if float(row['author']) >= 0.5 and row['title'] == '1' and row['abstract'] == '1':
             return True
 
-        if row['title'] == '1':
-            pass
-
-        if row['year1'] != row['year2'] and \
-                row['year1'] and \
-                row['year2'] and \
-                len(row['year1']) == 4 and \
-                len(row['year2']) == 4:
-            return False
+        return False
 
     def _dump_to_csv(self, publications: Dict[int, SearchResult]):
         # TODO: add env variable for path to deduplication raw dump
