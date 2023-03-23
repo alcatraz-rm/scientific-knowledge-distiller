@@ -17,6 +17,7 @@ class SupportedSources(Enum):
     GOOGLE_SCHOLAR = 'google_scholar'
     INTERNET_ARCHIVE = 'internet_archive'
     CROSSREF = 'crossref'
+    DBLP = 'dblp'
 
 
 class Author:
@@ -186,12 +187,10 @@ class SearchResult:
                 self._load_from_internet_archive(raw_data)
             case SupportedSources.CROSSREF:
                 self._load_from_crossref(raw_data)
+            # case SupportedSources.DBLP:
+            #     self._load_from_dblp(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
-
-        # if self._title:
-        #     self._lang = Translator().detect(self._title)
-        # pass
 
     def _load_from_semantic_scholar(self, raw_data: dict):
         self._source = SupportedSources.SEMANTIC_SCHOLAR
@@ -332,6 +331,9 @@ class SearchResult:
                 self._authors.append(Author(raw_author['family']))
             elif 'name' in raw_author:
                 self._authors.append(Author(raw_author['name']))
+
+    def _load_from_dblp(self, raw_data: dict):
+        pass
 
     def __str__(self) -> str:
         return self._title

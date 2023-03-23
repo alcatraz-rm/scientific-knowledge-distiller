@@ -37,7 +37,10 @@ s.perform()
 #     for n, pub in enumerate(s.results()):
 #         if len(pub.versions) > 0:
 #             print(pub.title)
-
+# s = Search(query, limit=limit, sources=(
+#     SupportedSources.DBLP,
+# ))
+s.perform()
 print(len(list(s.results())))
 
 # for n, pub in enumerate(s.results()):

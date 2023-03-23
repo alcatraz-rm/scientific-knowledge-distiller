@@ -55,6 +55,8 @@ class Search:
             self._clients.append(databases.UnpaywallClient())
         if SupportedSources.CROSSREF in sources:
             self._clients.append(databases.CrossrefClient())
+        if SupportedSources.DBLP in sources:
+            self._clients.append(databases.DBLPClient())
 
     def perform(self):
         threads = []
