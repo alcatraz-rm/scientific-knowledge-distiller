@@ -1,12 +1,13 @@
 import logging
 import os
+import threading
 import time
 from pprint import pprint
 from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -17,10 +18,16 @@ class PapersWithCodeClient(DatabaseClient):
         self._api_endpoint = 'https://paperswithcode.com/api/v1/search/'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.PAPERS_WITH_CODE)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query.strip(), limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query.strip(), limit, search_id)
 
         counter = 0
         for response in responses:
@@ -31,7 +38,7 @@ class PapersWithCodeClient(DatabaseClient):
                 yield SearchResult(pub, source=SupportedSources.PAPERS_WITH_CODE)
                 counter += 1
 
-    def __query_api(self, query: str, limit: int = 100) -> list:
+    def __query_api(self, query: str, limit: int = 100, search_id: str = '') -> list:
         responses = []
 
         page = 1
@@ -72,6 +79,11 @@ class PapersWithCodeClient(DatabaseClient):
             limit -= results_size
             page += 1
             logging.info(f'papers_with_code: {total_results}')
+
+            if limit <= 0:
+                with threading.Lock():
+                    self._searches[search_id]['status'] = SearchStatus.WAITING
+                    self._searches[search_id]['documents_to_pull'] -= total_results
 
             time.sleep(2)
 

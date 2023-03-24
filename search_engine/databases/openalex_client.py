@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import threading
 import time
 from datetime import datetime
 from pprint import pprint
@@ -8,7 +9,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -19,10 +20,16 @@ class OpenAlexClient(DatabaseClient):
         self._api_endpoint = 'https://api.openalex.org/works'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.OPENALEX)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query.strip(), limit=limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query.strip(), limit=limit, search_id=search_id)
         results = []
 
         for response in responses:
@@ -37,7 +44,7 @@ class OpenAlexClient(DatabaseClient):
             if n + 1 == limit:
                 break
 
-    def __query_api(self, query: str, limit: int) -> list:
+    def __query_api(self, query: str, limit: int, search_id: str = '') -> list:
         responses = []
         total_results = 0
         failures_number = 0
@@ -62,6 +69,11 @@ class OpenAlexClient(DatabaseClient):
                 total_results += result_size
                 cursor = result_json['meta'].get('next_cursor')
                 limit -= result_size
+
+                if limit <= 0:
+                    with threading.Lock():
+                        self._searches[search_id]['status'] = SearchStatus.WAITING
+                        self._searches[search_id]['documents_to_pull'] -= total_results
 
                 if not cursor:
                     break

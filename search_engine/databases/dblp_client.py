@@ -20,7 +20,7 @@ class DBLPClient(DatabaseClient):
 
         super().__init__()
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
         responses = self.__query_api(query.strip(), limit=limit)
         results = []
 

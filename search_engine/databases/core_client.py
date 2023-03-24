@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import threading
 import time
 from datetime import datetime
 from pprint import pprint
@@ -8,7 +9,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -20,10 +21,16 @@ class CoreClient(DatabaseClient):
         self._api_endpoint = 'https://api.core.ac.uk/v3/'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.CORE)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query.strip(), limit=limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query.strip(), limit=limit, search_id=search_id)
         results = []
 
         for response in responses:
@@ -38,16 +45,13 @@ class CoreClient(DatabaseClient):
             if n + 1 == limit:
                 break
 
-    def __query_api(self, query: str, limit: int) -> list:
+    def __query_api(self, query: str, limit: int, search_id: str = '') -> list:
         responses = []
         headers = {'Authorization': f'Bearer {self.__api_key}'}
         total_results = 0
         failures_number = 0
 
         max_limit = CoreClient.MAX_LIMIT
-
-        # print('----------------------------')
-        # print(f'Start Core search: {query}')
 
         scroll_id = None
         while limit > 0:
@@ -75,6 +79,12 @@ class CoreClient(DatabaseClient):
                 total_results += result_size
                 scroll_id = result_json['scrollId']
                 limit -= result_size
+
+                if limit <= 0:
+                    with threading.Lock():
+                        self._searches[search_id]['status'] = SearchStatus.WAITING
+                        self._searches[search_id]['documents_to_pull'] -= total_results
+
             elif response.status_code == 429:
                 retry_after = response.headers.get('X-RateLimit-Retry-After', '')
                 sleep_time = 60
@@ -90,6 +100,9 @@ class CoreClient(DatabaseClient):
                         f"Can't fetch results with max limit of {max_limit}, setting max limit to {max_limit // 2}")
                     max_limit //= 2
                 else:
+                    with threading.Lock():
+                        self._searches[search_id]['status'] = SearchStatus.FINISHED_WITH_ERROR
+                        self._searches[search_id]['documents_to_pull'] -= total_results
                     break
             else:
                 logging.error(f'Error code {response.status_code}, {response.content}')
@@ -98,7 +111,11 @@ class CoreClient(DatabaseClient):
                     failures_number += 1
                     time.sleep(10)
                     continue
-                return responses
+
+                with threading.Lock():
+                    self._searches[search_id]['status'] = SearchStatus.FINISHED_WITH_ERROR
+                    self._searches[search_id]['documents_to_pull'] -= total_results
+                break
 
             # print(f'\rcore: {total_results}', end='')
             logging.info(f'core: {total_results}')

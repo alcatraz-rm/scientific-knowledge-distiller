@@ -1,11 +1,12 @@
 import logging
+import threading
 import time
 from pprint import pprint
 from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -17,16 +18,22 @@ class InternetArchiveClient(DatabaseClient):
         self._api_endpoint = 'https://scholar.archive.org/search'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.INTERNET_ARCHIVE)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query, limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query, limit, search_id=search_id)
 
         for response in responses:
             for raw_pub in response.get('results'):
                 yield SearchResult(raw_pub, source=SupportedSources.INTERNET_ARCHIVE)
 
-    def __query_api(self, query: str, limit: int = 100):
+    def __query_api(self, query: str, limit: int = 100, search_id: str = ''):
         # print('----------------------------')
         # print(f'Start Internet Archive search: {query}')
 
@@ -52,6 +59,11 @@ class InternetArchiveClient(DatabaseClient):
                 responses.append(response_json)
                 limit -= results_size
                 offset += results_size
+
+                if limit <= 0:
+                    with threading.Lock():
+                        self._searches[search_id]['status'] = SearchStatus.WAITING
+                        self._searches[search_id]['documents_to_pull'] -= offset
             else:
                 # print(f'Error code {response.status_code}, {response.content}')
                 logging.error(f'Error code {response.status_code}, {response.content}')

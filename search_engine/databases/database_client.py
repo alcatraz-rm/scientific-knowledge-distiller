@@ -1,5 +1,6 @@
 import random
 import string
+import threading
 from copy import deepcopy
 from datetime import datetime
 from enum import Enum
@@ -20,6 +21,15 @@ class SupportedSources(Enum):
     # DBLP = 'dblp'
     OPENALEX = 'openalex'
     PAPERS_WITH_CODE = 'papers_with_code'
+
+
+class SearchStatus(Enum):
+    DEFAULT = 0
+    WORKING = 1
+    FINISHED = 2
+    FINISHED_WITH_ERROR = 3
+    FINISHED_OUT_OF_DOCUMENTS = 4
+    WAITING = 5
 
 
 class Author:
@@ -408,8 +418,20 @@ class SearchResult:
 
 
 class DatabaseClient:
-    def __init__(self):
-        pass
+    def __init__(self, source_name: SupportedSources):
+        self._searches = {}
+        self._name = source_name
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
+    @property
+    def name(self) -> SupportedSources:
+        return self._name
+
+    def search_status(self, search_id: str) -> Union[SearchStatus, None]:
+        with threading.Lock():
+            search_info = self._searches.get(search_id)
+            if not search_info:
+                return
+            return search_info['status']
+
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
         pass

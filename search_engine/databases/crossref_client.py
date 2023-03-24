@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import threading
 import time
 from datetime import datetime
 from pprint import pprint
@@ -8,7 +9,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -19,10 +20,16 @@ class CrossrefClient(DatabaseClient):
         self._api_endpoint = 'https://api.crossref.org/works'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.CROSSREF)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query.strip(), limit=limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query.strip(), limit=limit, search_id=search_id)
         results = []
 
         for response in responses:
@@ -37,12 +44,9 @@ class CrossrefClient(DatabaseClient):
             if n + 1 == limit:
                 break
 
-    def __query_api(self, query: str, limit: int) -> list:
+    def __query_api(self, query: str, limit: int, search_id: str = '') -> list:
         responses = []
         total_results = 0
-
-        # print('----------------------------')
-        # print(f'Start Crossref search: {query}')
 
         while limit > 0:
             limit_ = min(limit, CrossrefClient.MAX_LIMIT)
@@ -61,7 +65,6 @@ class CrossrefClient(DatabaseClient):
 
             if response.status_code == 200:
                 result_json = response.json()
-
                 result_size = len(result_json.get('message', {}).get('items', []))
 
                 if result_size == 0:
@@ -70,8 +73,20 @@ class CrossrefClient(DatabaseClient):
                 responses.append(result_json)
                 total_results += result_size
                 limit -= result_size
+
+                if limit <= 0:
+                    with threading.Lock():
+                        self._searches[search_id]['status'] = SearchStatus.WAITING
+                        self._searches[search_id]['documents_to_pull'] -= total_results
             else:
                 # print(f'Error code {response.status_code}, {response.content}')
+                with threading.Lock():
+                    if total_results < limit:
+                        self._searches[search_id]['status'] = SearchStatus.FINISHED_OUT_OF_DOCUMENTS
+                    else:
+                        self._searches[search_id]['status'] = SearchStatus.FINISHED_WITH_ERROR
+                    self._searches[search_id]['documents_to_pull'] -= total_results
+
                 logging.error(f'Error code {response.status_code}, {response.content}')
                 return responses
 

@@ -1,6 +1,7 @@
 import logging
 import threading
 import time
+import uuid
 from copy import deepcopy
 from itertools import chain
 from typing import Iterable, Tuple
@@ -36,6 +37,7 @@ class Search:
         assert sources, 'Pass at least one source'
 
         self._remove_without_title = remove_without_title
+        self._search_id = uuid.uuid4()
 
         self._results = None
         self._results_list = []
@@ -77,10 +79,8 @@ class Search:
         for thread in threads:
             while thread.is_alive():
                 time.sleep(0.1)
-
             thread.join()
 
-        # self._results = chain(*[client.search_publications(self._query, self._limit) for client in self._clients])
         self._results = self._results_list
 
         if self._remove_duplicates:
@@ -90,7 +90,7 @@ class Search:
         return self._results
 
     def _search(self, client):
-        result = list(client.search_publications(self._query, self._limit))
+        result = list(client.search_publications(self._query, self._limit, self._search_id))
 
         with threading.Lock():
             self._results_list.extend(result)

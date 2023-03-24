@@ -1,12 +1,13 @@
 import logging
 import os
+import threading
 import time
 from pprint import pprint
 from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -18,10 +19,16 @@ class UnpaywallClient(DatabaseClient):
         self._api_endpoint = 'https://api.unpaywall.org/'
         self._requests_manager = RequestsManager()
 
-        super().__init__()
+        super().__init__(SupportedSources.UNPAYWALL)
 
-    def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
-        responses = self.__query_api(query.strip(), limit)
+    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'kill_signal_occurred': False
+            }
+        responses = self.__query_api(query.strip(), limit, search_id=search_id)
 
         counter = 0
         for response in responses:
@@ -32,12 +39,9 @@ class UnpaywallClient(DatabaseClient):
                 yield SearchResult(pub['response'], source=SupportedSources.UNPAYWALL)
                 counter += 1
 
-    def __query_api(self, query: str, limit: int = 100) -> list:
+    def __query_api(self, query: str, limit: int = 100, search_id: str = '') -> list:
         endpoint = f'{self._api_endpoint}v2/search'
         responses = []
-
-        # print('----------------------------')
-        # print(f'Start Unpaywall search: {query}')
 
         page = 1
         total_results = 0
@@ -74,6 +78,11 @@ class UnpaywallClient(DatabaseClient):
             page += 1
             # print(f'\runpaywall: {total_results}', end='')
             logging.info(f'unpaywall: {total_results}')
+
+            if limit <= 0:
+                with threading.Lock():
+                    self._searches[search_id]['status'] = SearchStatus.WAITING
+                    self._searches[search_id]['documents_to_pull'] -= total_results
 
             time.sleep(2)
 
