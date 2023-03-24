@@ -22,8 +22,9 @@ class Deduplicator:
         self._path_to_deduplication_script = os.path.join(self._root_path, 'deduplication', 'deduplicate.r')
         os.chdir(initial_wd)
 
-    def deduplicate(self, *iterables) -> Iterable[SearchResult]:
-        publications_dict = {pub.id: pub for pub in chain(*iterables)}
+    def deduplicate(self, remove_without_title=True, *iterables) -> Iterable[SearchResult]:
+        publications_dict = {pub.id: pub for pub in chain(*iterables) if
+                             (remove_without_title and pub.title) or not remove_without_title}
         print(f'total found: {len(publications_dict)}')
 
         pubs_graph = PublicationsGraph()
@@ -63,48 +64,48 @@ class Deduplicator:
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
 
-                if row['doi'] != 'NA':
-                    if row['doi'] == '1' and are_duplicates:
-                        true_positive += 1
-                        continue
-                    if row['doi'] != '1' and not are_duplicates:
-                        true_negative += 1
-                        continue
-
-                print(f"{n}/{len(rows)}\ntitle 1: {row['title1']}\n"
-                      f"title 2: {row['title2']}\n"
-                      f"title sim: {row['title']}\n\n"
-                      f"author 1: {row['author1']}\n"
-                      f"author 2: {row['author2']}\n"
-                      f"author sim: {row['author']}\n\n"
-                      f"abstract 1: {row['abstract1']}\n\n"
-                      f"abstract 2: {row['abstract2']}\n\n"
-                      f"abstract sim: {row['abstract']}\n\n"
-                      f"doi 1: {row['doi1']}\n"
-                      f"doi 2: {row['doi2']}\n"
-                      f"doi sim: {row['doi']}\n\n"
-                      f"year 1: {row['year1']}\n"
-                      f"year 2: {row['year2']}\n\n"
-                      f"source 1: {row['source1']}\n"
-                      f"source 2: {row['source2']}\n"
-                      )
-                print(f'system decision: {"DUPLICATES" if are_duplicates else "NOT DUPLICATES"}')
-                mark = input('mark: ').strip()
-
-                if mark == '0' and are_duplicates:
-                    false_positive += 1
-                if mark == '0' and not are_duplicates:
-                    false_negative += 1
-
-                if are_duplicates and mark != '0':
-                    true_positive += 1
-                if not are_duplicates and mark != '0':
-                    true_negative += 1
-
-            print('TP:', true_positive)
-            print('FP:', false_positive)
-            print('TN:', true_negative)
-            print('FN:', false_negative)
+                # if row['doi'] != 'NA':
+                #     if row['doi'] == '1' and are_duplicates:
+                #         true_positive += 1
+                #         continue
+                #     if row['doi'] != '1' and not are_duplicates:
+                #         true_negative += 1
+                #         continue
+                #
+                # print(f"{n}/{len(rows)}\ntitle 1: {row['title1']}\n"
+                #       f"title 2: {row['title2']}\n"
+                #       f"title sim: {row['title']}\n\n"
+                #       f"author 1: {row['author1']}\n"
+                #       f"author 2: {row['author2']}\n"
+                #       f"author sim: {row['author']}\n\n"
+                #       f"abstract 1: {row['abstract1']}\n\n"
+                #       f"abstract 2: {row['abstract2']}\n\n"
+                #       f"abstract sim: {row['abstract']}\n\n"
+                #       f"doi 1: {row['doi1']}\n"
+                #       f"doi 2: {row['doi2']}\n"
+                #       f"doi sim: {row['doi']}\n\n"
+                #       f"year 1: {row['year1']}\n"
+                #       f"year 2: {row['year2']}\n\n"
+                #       f"source 1: {row['source1']}\n"
+                #       f"source 2: {row['source2']}\n"
+                #       )
+                # print(f'system decision: {"DUPLICATES" if are_duplicates else "NOT DUPLICATES"}')
+                # mark = input('mark: ').strip()
+                #
+                # if mark == '0' and are_duplicates:
+                #     false_positive += 1
+                # if mark == '0' and not are_duplicates:
+                #     false_negative += 1
+                #
+                # if are_duplicates and mark != '0':
+                #     true_positive += 1
+                # if not are_duplicates and mark != '0':
+                #     true_negative += 1
+            #
+            # print('TP:', true_positive)
+            # print('FP:', false_positive)
+            # print('TN:', true_negative)
+            # print('FN:', false_negative)
 
         connected_components = pubs_graph.connected_components()
 

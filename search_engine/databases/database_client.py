@@ -17,7 +17,8 @@ class SupportedSources(Enum):
     GOOGLE_SCHOLAR = 'google_scholar'
     INTERNET_ARCHIVE = 'internet_archive'
     CROSSREF = 'crossref'
-    DBLP = 'dblp'
+    # DBLP = 'dblp'
+    OPENALEX = 'openalex'
 
 
 class Author:
@@ -55,6 +56,10 @@ class SearchResult:
 
         self.__salt = ''.join(random.choices(string.ascii_uppercase + string.digits, k=64))
         self._id = f'id{hash((self.__salt, self._title, self._doi, self._abstract, self._source))}'
+
+        if self._title is None:
+            self._title = ''
+        self._title.strip()
 
     @property
     def empty_fields(self) -> int:
@@ -189,6 +194,8 @@ class SearchResult:
                 self._load_from_crossref(raw_data)
             # case SupportedSources.DBLP:
             #     self._load_from_dblp(raw_data)
+            case SupportedSources.OPENALEX:
+                self._load_from_openalex(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
 
@@ -218,6 +225,10 @@ class SearchResult:
     def _load_from_core(self, raw_data: dict):
         self._source = SupportedSources.CORE
         self._title = raw_data.get('title', '')
+
+        if self._title:
+            self._title = self._title.replace('\n', '')
+
         self._abstract = raw_data.get('abstract', '')
         self._doi = raw_data.get('doi', '')
         self._urls = [raw_data.get('downloadUrl')]
@@ -332,8 +343,41 @@ class SearchResult:
             elif 'name' in raw_author:
                 self._authors.append(Author(raw_author['name']))
 
-    def _load_from_dblp(self, raw_data: dict):
-        pass
+    # def _load_from_dblp(self, raw_data: dict):
+    #     pass
+
+    def _load_from_openalex(self, raw_data):
+        self._source = SupportedSources.OPENALEX
+        self._title = raw_data.get('title')
+
+        self._doi = raw_data.get('doi', '')
+        if self._doi and 'https://doi.org/' in self._doi:
+            self._doi = self._doi.replace('https://doi.org/', '')
+
+        self._publication_date = datetime.strptime(raw_data.get('publication_date'), "%Y-%m-%d")
+        ids = raw_data.get('ids')
+        if ids:
+            if 'openalex' in ids:
+                self._urls.append(ids['openalex'])
+            if 'doi' in ids:
+                self._urls.append(ids['doi'])
+        else:
+            self._urls = [raw_data.get('id')]
+
+        open_access = raw_data.get('open_access')
+        if open_access['is_oa']:
+            self._urls.append(open_access['oa_url'])
+
+        for author in raw_data.get('authorships'):
+            self._authors.append(Author(author['author']['display_name']))
+
+        biblio = raw_data.get('biblio')
+        if biblio and biblio.get('volume'):
+            self._volume = biblio.get('volume')
+
+        host_venue = raw_data.get('host_venue')
+        if host_venue and host_venue.get('display_name'):
+            self._journal = host_venue.get('display_name')
 
     def __str__(self) -> str:
         return self._title

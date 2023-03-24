@@ -18,6 +18,7 @@ class Search:
             query: str,
             limit: int = 1000,
             remove_duplicates: bool = True,
+            remove_without_title: bool = True,
             sources: tuple = (
                     SupportedSources.ARXIV,
                     SupportedSources.CORE,
@@ -25,24 +26,24 @@ class Search:
                     SupportedSources.SEMANTIC_SCHOLAR,
                     SupportedSources.UNPAYWALL,
                     SupportedSources.CROSSREF,
+                    SupportedSources.OPENALEX
                     # SupportedSources.GOOGLE_SCHOLAR
             )
     ):
         assert query, 'Query cannot be empty'
-        assert limit > 0, 'Limit must be greater then zero'
+        assert limit >= len(sources), 'Limit must be greater then sources number'
         assert sources, 'Pass at least one source'
+
+        self._remove_without_title = remove_without_title
 
         self._results = None
         self._results_list = []
 
         self._query = query
-        self._limit = limit
         self._remove_duplicates = remove_duplicates
         self._deduplicator = Deduplicator()
 
         self._clients = []
-        # if SupportedSources.GOOGLE_SCHOLAR in sources:
-        #     self._clients.append(databases.GoogleScholarClient())
         if SupportedSources.ARXIV in sources:
             self._clients.append(databases.ArXivClient())
         if SupportedSources.CORE in sources:
@@ -55,8 +56,12 @@ class Search:
             self._clients.append(databases.UnpaywallClient())
         if SupportedSources.CROSSREF in sources:
             self._clients.append(databases.CrossrefClient())
-        if SupportedSources.DBLP in sources:
-            self._clients.append(databases.DBLPClient())
+        # if SupportedSources.DBLP in sources:
+        #     self._clients.append(databases.DBLPClient())
+        if SupportedSources.OPENALEX in sources:
+            self._clients.append(databases.OpenAlexClient())
+
+        self._limit = limit // len(sources)
 
     def perform(self):
         threads = []
@@ -88,4 +93,4 @@ class Search:
             self._results_list.extend(result)
 
     def _deduplicate(self):
-        self._results = self._deduplicator.deduplicate(self._results)
+        self._results = self._deduplicator.deduplicate(self._remove_without_title, self._results)

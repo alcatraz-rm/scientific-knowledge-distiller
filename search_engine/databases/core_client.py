@@ -83,18 +83,18 @@ class CoreClient(DatabaseClient):
                     sleep_time = (retry_after - datetime.utcnow()).seconds + 10  # 2 seconds just in case
                 # print(f'\nToo many requests on Core, waiting {sleep_time} secs...')
                 logging.error(f'Too many requests on Core, waiting {sleep_time} secs...')
-
                 time.sleep(sleep_time)
             elif response.status_code == 500 and 'Error: Allowed memory size' in response.text:
                 if max_limit > 20:
                     logging.error(
                         f"Can't fetch results with max limit of {max_limit}, setting max limit to {max_limit // 2}")
                     max_limit //= 2
+                else:
+                    break
             else:
-                # print(f'Error code {response.status_code}, {response.content}')
                 logging.error(f'Error code {response.status_code}, {response.content}')
 
-                if failures_number < 20:
+                if failures_number < 5:
                     failures_number += 1
                     time.sleep(10)
                     continue

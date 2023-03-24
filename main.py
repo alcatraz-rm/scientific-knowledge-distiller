@@ -27,22 +27,29 @@ s = Search(query, limit=limit, sources=(
     SupportedSources.ARXIV,
     SupportedSources.CORE,
     SupportedSources.CROSSREF,
-    SupportedSources.INTERNET_ARCHIVE,
+    SupportedSources.INTERNET_ARCHIVE, # todo empty titles
     SupportedSources.SEMANTIC_SCHOLAR,
     SupportedSources.UNPAYWALL,
+    SupportedSources.OPENALEX, # todo empty titles
 ))
-s.perform()
+# s.perform()
 
 # with open('results.csv', 'w', encoding='utf-8') as file:
 #     for n, pub in enumerate(s.results()):
 #         if len(pub.versions) > 0:
 #             print(pub.title)
 # s = Search(query, limit=limit, sources=(
-#     SupportedSources.DBLP,
+#     SupportedSources.OPENALEX,
 # ))
 s.perform()
-print(len(list(s.results())))
+titles = []
+for publication in s.results():
+    if publication.versions:
+        pass
+    titles.append((publication.title, publication.source))
 
-# for n, pub in enumerate(s.results()):
-#     if pub.lang != 'en':
-#         print(pub.title, pub.lang)
+titles = sorted(titles, key=lambda x: x[0])
+
+with open('titles.csv', 'w', encoding='utf-8') as f:
+    for t in titles:
+        f.write(f'"{t[0]}";{t[1]}\n')
