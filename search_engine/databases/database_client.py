@@ -19,6 +19,7 @@ class SupportedSources(Enum):
     CROSSREF = 'crossref'
     # DBLP = 'dblp'
     OPENALEX = 'openalex'
+    PAPERS_WITH_CODE = 'papers_with_code'
 
 
 class Author:
@@ -196,6 +197,8 @@ class SearchResult:
             #     self._load_from_dblp(raw_data)
             case SupportedSources.OPENALEX:
                 self._load_from_openalex(raw_data)
+            case SupportedSources.PAPERS_WITH_CODE:
+                self._load_from_papers_with_code(raw_data)
             case _:
                 raise Exception(f'Unsupported source: {source}')
 
@@ -346,7 +349,7 @@ class SearchResult:
     # def _load_from_dblp(self, raw_data: dict):
     #     pass
 
-    def _load_from_openalex(self, raw_data):
+    def _load_from_openalex(self, raw_data: dict):
         self._source = SupportedSources.OPENALEX
         self._title = raw_data.get('title')
 
@@ -379,6 +382,24 @@ class SearchResult:
         if host_venue and host_venue.get('display_name'):
             self._journal = host_venue.get('display_name')
 
+    def _load_from_papers_with_code(self, raw_data: dict):
+        self._source = SupportedSources.PAPERS_WITH_CODE
+        paper_info = raw_data.get('paper')
+        self._title = paper_info.get('title')
+        self._abstract = paper_info.get('abstract')
+
+        self._urls.append(paper_info.get('url_pdf'))
+        repository_info = raw_data.get('repository')
+        if repository_info:
+            self._urls.append(repository_info.get('url'))
+
+        if paper_info['conference_url_pdf']:
+            self._urls.append(paper_info['conference_url_pdf'])
+
+        self._publication_date = datetime.strptime(paper_info.get('published'), "%Y-%m-%d")
+        for author in paper_info.get('authors', []):
+            self._authors.append(Author(author))
+
     def __str__(self) -> str:
         return self._title
 
@@ -392,7 +413,3 @@ class DatabaseClient:
 
     def search_publications(self, query: str, limit: int = 100) -> Iterator[SearchResult]:
         pass
-
-# TODO: https://dblp.org/faq/How+to+use+the+dblp+search+API.html
-# https://docs.openalex.org/api-entities/works/search-works
-#

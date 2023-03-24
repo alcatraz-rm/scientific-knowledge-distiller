@@ -27,10 +27,11 @@ s = Search(query, limit=limit, sources=(
     SupportedSources.ARXIV,
     SupportedSources.CORE,
     SupportedSources.CROSSREF,
-    SupportedSources.INTERNET_ARCHIVE, # todo empty titles
+    SupportedSources.INTERNET_ARCHIVE,
     SupportedSources.SEMANTIC_SCHOLAR,
     SupportedSources.UNPAYWALL,
-    SupportedSources.OPENALEX, # todo empty titles
+    SupportedSources.OPENALEX,
+    SupportedSources.PAPERS_WITH_CODE,
 ))
 # s.perform()
 

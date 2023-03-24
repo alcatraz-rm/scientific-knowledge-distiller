@@ -26,7 +26,8 @@ class Search:
                     SupportedSources.SEMANTIC_SCHOLAR,
                     SupportedSources.UNPAYWALL,
                     SupportedSources.CROSSREF,
-                    SupportedSources.OPENALEX
+                    SupportedSources.OPENALEX,
+                    SupportedSources.PAPERS_WITH_CODE,
                     # SupportedSources.GOOGLE_SCHOLAR
             )
     ):
@@ -60,6 +61,8 @@ class Search:
         #     self._clients.append(databases.DBLPClient())
         if SupportedSources.OPENALEX in sources:
             self._clients.append(databases.OpenAlexClient())
+        if SupportedSources.PAPERS_WITH_CODE in sources:
+            self._clients.append(databases.PapersWithCodeClient())
 
         self._limit = limit // len(sources)
 
