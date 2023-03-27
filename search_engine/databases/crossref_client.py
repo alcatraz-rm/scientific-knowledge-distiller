@@ -6,6 +6,7 @@ import time
 from datetime import datetime
 from pprint import pprint
 from typing import Iterator
+from uuid import UUID
 
 import requests
 
@@ -22,14 +23,9 @@ class CrossrefClient(DatabaseClient):
 
         super().__init__(SupportedSources.CROSSREF)
 
-    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
-        with threading.Lock():
-            self._searches[search_id] = {
-                'status': SearchStatus.WORKING,
-                'documents_to_pull': limit,
-                'kill_signal_occurred': False
-            }
-        responses = self.__query_api(query.strip(), limit=limit, search_id=search_id)
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+        self._create_search(search_id, limit)
+        responses = self.__query_api(query.strip(), search_id=search_id)
         results = []
 
         for response in responses:
@@ -38,18 +34,21 @@ class CrossrefClient(DatabaseClient):
         if not results:
             return
 
+        documents_pulled = self._documents_pulled(search_id)
+
         for n, result in enumerate(results):
             yield SearchResult(raw_data=dict(result), source=SupportedSources.CROSSREF)
 
-            if n + 1 == limit:
+            if n + 1 == documents_pulled:
                 break
 
-    def __query_api(self, query: str, limit: int, search_id: str = '') -> list:
+    def __query_api(self, query: str, search_id: UUID = '') -> list:
         responses = []
         total_results = 0
+        counter = 0
 
-        while limit > 0:
-            limit_ = min(limit, CrossrefClient.MAX_LIMIT)
+        while self.documents_to_pull(search_id) > 0:
+            limit_ = min(CrossrefClient.MAX_LIMIT, self.documents_to_pull(search_id) - counter)
             response = self._requests_manager.get(
                 f'{self._api_endpoint}',
                 params={
@@ -61,38 +60,77 @@ class CrossrefClient(DatabaseClient):
             )
 
             if not isinstance(response, requests.Response):
-                return responses
+                self.change_limit(search_id, -counter)
+                counter = 0
+                self._change_status(SearchStatus.FINISHED, search_id)
+                break
 
             if response.status_code == 200:
                 result_json = response.json()
                 result_size = len(result_json.get('message', {}).get('items', []))
 
                 if result_size == 0:
+                    self.change_limit(search_id, -counter)
+                    counter = 0
+                    self._change_status(SearchStatus.FINISHED, search_id)
                     break
 
                 responses.append(result_json)
                 total_results += result_size
-                limit -= result_size
+                counter += result_size
 
-                if limit <= 0:
-                    with threading.Lock():
-                        self._searches[search_id]['status'] = SearchStatus.WAITING
-                        self._searches[search_id]['documents_to_pull'] -= total_results
+                if counter >= self.documents_to_pull(search_id):
+                    self.change_limit(search_id, -counter)
+                    counter = 0
+                    self._change_status(SearchStatus.WAITING, search_id)
+
+                    kill = False
+
+                    while True:
+                        if self._kill_signal_occurred(search_id):
+                            kill = True
+                            break
+                        if self.documents_to_pull(search_id) > 0:
+                            break
+
+                        time.sleep(5)
+                    if kill:
+                        break
             else:
-                # print(f'Error code {response.status_code}, {response.content}')
-                with threading.Lock():
-                    if total_results < limit:
-                        self._searches[search_id]['status'] = SearchStatus.FINISHED_OUT_OF_DOCUMENTS
-                    else:
-                        self._searches[search_id]['status'] = SearchStatus.FINISHED_WITH_ERROR
-                    self._searches[search_id]['documents_to_pull'] -= total_results
+                self.change_limit(search_id, -counter)
+                counter = 0
+                self._change_status(SearchStatus.FINISHED, search_id)
 
                 logging.error(f'Error code {response.status_code}, {response.content}')
-                return responses
+                break
 
-            # print(f'\rcrossref: {total_results}', end='')
             logging.info(f'crossref: {total_results}')
             time.sleep(1)
 
-        # print(f'\nTotal documents found on Crossref: {total_results}')
+        self._terminate(search_id)
         return responses
+
+    def _create_search(self, search_id: UUID, limit: int):
+        super(CrossrefClient, self)._create_search(search_id, limit)
+
+    def _change_status(self, status: SearchStatus, search_id: UUID):
+        super(CrossrefClient, self)._change_status(status, search_id)
+
+    def _terminate(self, search_id: UUID):
+        super(CrossrefClient, self)._terminate(search_id)
+
+    def _documents_pulled(self, search_id: UUID) -> int:
+        return super(CrossrefClient, self)._documents_pulled(search_id)
+
+    def _kill_signal_occurred(self, search_id: UUID):
+        return super(CrossrefClient, self)._kill_signal_occurred(search_id)
+
+    # note: don't call this manually
+    def send_kill_signal(self, search_id: UUID):
+        super(CrossrefClient, self).send_kill_signal(search_id)
+
+    def documents_to_pull(self, search_id: UUID) -> int:
+        return super(CrossrefClient, self).documents_to_pull(search_id)
+
+    def change_limit(self, search_id: UUID, delta: int):
+        super(CrossrefClient, self).change_limit(search_id, delta)

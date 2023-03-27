@@ -7,6 +7,8 @@ from enum import Enum
 from typing import Iterator, Union
 
 # from googletrans import Translator
+from uuid import UUID
+
 import arxiv
 
 
@@ -27,9 +29,8 @@ class SearchStatus(Enum):
     DEFAULT = 0
     WORKING = 1
     FINISHED = 2
-    FINISHED_WITH_ERROR = 3
-    FINISHED_OUT_OF_DOCUMENTS = 4
-    WAITING = 5
+    # FINISHED_WITH_ERROR = 3
+    WAITING = 3
 
 
 class Author:
@@ -426,12 +427,57 @@ class DatabaseClient:
     def name(self) -> SupportedSources:
         return self._name
 
-    def search_status(self, search_id: str) -> Union[SearchStatus, None]:
+    def _create_search(self, search_id: UUID, limit: int):
+        with threading.Lock():
+            self._searches[search_id] = {
+                'status': SearchStatus.WORKING,
+                'documents_to_pull': limit,
+                'documents_pulled': 0,
+                'kill_signal_occurred': False
+            }
+
+    def _change_status(self, status: SearchStatus, search_id: UUID):
+        with threading.Lock():
+            self._searches[search_id]['status'] = status
+
+    def _terminate(self, search_id: UUID):
+        with threading.Lock():
+            self._searches[search_id]['kill_signal_occurred'] = True
+            self._searches[search_id]['status'] = SearchStatus.FINISHED
+
+    def _documents_pulled(self, search_id: UUID) -> int:
+        with threading.Lock():
+            return self._searches[search_id]['documents_pulled']
+
+    def _kill_signal_occurred(self, search_id: UUID):
+        with threading.Lock():
+            return self._searches[search_id]['kill_signal_occurred']
+
+    # note: don't call this manually
+    def send_kill_signal(self, search_id: UUID):
+        with threading.Lock():
+            self._searches[search_id]['kill_signal_occurred'] = True
+
+    def documents_to_pull(self, search_id: UUID) -> int:
+        with threading.Lock():
+            return self._searches[search_id]['documents_to_pull']
+
+    def change_limit(self, search_id: UUID, delta: int):
+        with threading.Lock():
+            self._searches[search_id]['documents_to_pull'] = max(
+                0,
+                self._searches[search_id]['documents_to_pull'] + delta
+            )
+
+            if delta < 0:
+                self._searches[search_id]['documents_pulled'] -= delta
+
+    def search_status(self, search_id: UUID) -> Union[SearchStatus, None]:
         with threading.Lock():
             search_info = self._searches.get(search_id)
             if not search_info:
                 return
             return search_info['status']
 
-    def search_publications(self, query: str, limit: int = 100, search_id: str = '') -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, imit: int = 100) -> Iterator[SearchResult]:
         pass

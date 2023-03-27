@@ -8,7 +8,7 @@ from typing import Iterable, Tuple
 
 from deduplication import Deduplicator
 from search_engine import databases
-from search_engine.databases.database_client import SupportedSources, SearchResult
+from search_engine.databases.database_client import SupportedSources, SearchResult, SearchStatus
 
 logging.basicConfig(level=20)
 
@@ -69,19 +69,73 @@ class Search:
         self._limit = limit // len(sources)
 
     def perform(self):
-        threads = []
-        for client in self._clients:
-            threads.append(threading.Thread(target=self._search, args=(deepcopy(client),)))
+        threads = {}
+        active_clients = {}
 
-        for thread in threads:
-            thread.start()
+        for n, client in enumerate(self._clients):
+            active_clients[n] = client
+            threads[n] = threading.Thread(target=self._search, args=(client,))
 
-        for thread in threads:
-            while thread.is_alive():
-                time.sleep(0.1)
-            thread.join()
+        for thread_index in threads:
+            threads[thread_index].start()
+
+        while True:
+            clients_to_remove = []
+            threads_to_remove = []
+            docs_to_distribute = 0
+
+            if len(active_clients) == 0:
+                for thread_index in threads:
+                    while threads[thread_index].is_alive():
+                        time.sleep(1)
+                    threads[thread_index].join()
+                break
+            all_active_clients_are_waiting = True
+            for client_index in active_clients:
+                if active_clients[client_index].search_status(self._search_id) != SearchStatus.WAITING:
+                    all_active_clients_are_waiting = False
+            if all_active_clients_are_waiting:
+                for client_index in active_clients:
+                    active_clients[client_index].send_kill_signal(self._search_id)
+
+                for thread_index in threads:
+                    while threads[thread_index].is_alive():
+                        time.sleep(1)
+                    threads[thread_index].join()
+                break
+
+            for index in active_clients:
+                status = active_clients[index].search_status(self._search_id)
+
+                if status == SearchStatus.FINISHED:
+                    docs_to_distribute += active_clients[index].documents_to_pull(self._search_id)
+                    clients_to_remove.append(index)
+            for index in clients_to_remove:
+                del active_clients[index]
+
+            if docs_to_distribute > len(active_clients):
+                docs_for_active_client = docs_to_distribute // len(active_clients)
+
+                for client_index in active_clients:
+                    active_clients[client_index].change_limit(self._search_id, docs_for_active_client)
+
+            for thread_index in threads:
+                if not threads[thread_index].is_alive():
+                    threads[thread_index].join()
+                    threads_to_remove.append(thread_index)
+            for index in threads_to_remove:
+                del threads[index]
+
+            time.sleep(2)
 
         self._results = self._results_list
+
+        total_documents = 0
+        for client in self._clients:
+            pulled = client._documents_pulled(self._search_id)
+            logging.info(f'{client.name}: {pulled}')
+            total_documents += pulled
+        logging.info(f'total documents: {total_documents}')
 
         if self._remove_duplicates:
             self._deduplicate()
@@ -90,7 +144,7 @@ class Search:
         return self._results
 
     def _search(self, client):
-        result = list(client.search_publications(self._query, self._limit, self._search_id))
+        result = list(client.search_publications(self._query, self._search_id, self._limit))
 
         with threading.Lock():
             self._results_list.extend(result)
