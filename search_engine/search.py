@@ -2,13 +2,11 @@ import logging
 import threading
 import time
 import uuid
-from copy import deepcopy
-from itertools import chain
-from typing import Iterable, Tuple
+from typing import Iterable
 
 from deduplication import Deduplicator
 from search_engine import databases
-from search_engine.databases.database_client import SupportedSources, SearchResult, SearchStatus
+from search_engine.databases.database_client import SupportedSources, Document, SearchStatus
 
 logging.basicConfig(level=20)
 
@@ -140,7 +138,7 @@ class Search:
         if self._remove_duplicates:
             self._deduplicate()
 
-    def results(self) -> Iterable[SearchResult]:
+    def results(self) -> Iterable[Document]:
         return self._results
 
     def _search(self, client):

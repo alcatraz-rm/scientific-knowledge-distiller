@@ -5,7 +5,6 @@ from copy import deepcopy
 from datetime import datetime
 from enum import Enum
 from typing import Iterator, Union
-
 # from googletrans import Translator
 from uuid import UUID
 
@@ -29,7 +28,6 @@ class SearchStatus(Enum):
     DEFAULT = 0
     WORKING = 1
     FINISHED = 2
-    # FINISHED_WITH_ERROR = 3
     WAITING = 3
 
 
@@ -45,7 +43,7 @@ class Author:
         return self._name
 
 
-class SearchResult:
+class Document:
     def __init__(self, raw_data: Union[dict, arxiv.Result], source: SupportedSources):
         assert raw_data is not None, 'Incorrect input data'
 
@@ -142,7 +140,7 @@ class SearchResult:
     # returns a dict to dump to csv for deduplication
     def to_csv(self) -> dict:
         return dict(
-            author=','.join([author.name for author in self._authors]) if self._authors else '',
+            author=','.join([author.name for author in self._authors if author.name]) if self._authors else '',
             year=self.year,
             journal=self._journal if self._journal else '',
             doi=self._doi if self._doi else '',
@@ -407,7 +405,9 @@ class SearchResult:
         if paper_info['conference_url_pdf']:
             self._urls.append(paper_info['conference_url_pdf'])
 
-        self._publication_date = datetime.strptime(paper_info.get('published'), "%Y-%m-%d")
+        published = paper_info.get('published')
+        if published:
+            self._publication_date = datetime.strptime(published, "%Y-%m-%d")
         for author in paper_info.get('authors', []):
             self._authors.append(Author(author))
 
@@ -479,5 +479,5 @@ class DatabaseClient:
                 return
             return search_info['status']
 
-    def search_publications(self, query: str, search_id: UUID, imit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, imit: int = 100) -> Iterator[Document]:
         pass

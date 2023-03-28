@@ -1,19 +1,18 @@
 import logging
-import threading
 import time
 from typing import Iterator
 from uuid import UUID
 
 import arxiv
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 
 
 class ArXivClient(DatabaseClient):
     def __init__(self):
         super().__init__(SupportedSources.ARXIV)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
 
         search = arxiv.Search(query=query)
@@ -23,7 +22,7 @@ class ArXivClient(DatabaseClient):
         total_results = 0
         try:
             for publication in client.results(search):
-                yield SearchResult(publication, source=SupportedSources.ARXIV)
+                yield Document(publication, source=SupportedSources.ARXIV)
                 counter += 1
                 total_results += 1
                 logging.info(f'arXiv: {total_results}')

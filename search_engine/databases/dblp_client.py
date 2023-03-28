@@ -7,7 +7,7 @@ from typing import Iterator
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources
 from utils.requests_manager import RequestsManager
 
 # TODO
@@ -20,7 +20,7 @@ class DBLPClient(DatabaseClient):
 
         super().__init__()
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100 = '') -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100 = '') -> Iterator[Document]:
         responses = self.__query_api(query.strip(), limit=limit)
         results = []
 
@@ -31,7 +31,7 @@ class DBLPClient(DatabaseClient):
             return
 
         for n, result in enumerate(results):
-            yield SearchResult(raw_data=dict(result), source=SupportedSources.DBLP)
+            yield Document(raw_data=dict(result), source=SupportedSources.DBLP)
 
             if n + 1 == limit:
                 break

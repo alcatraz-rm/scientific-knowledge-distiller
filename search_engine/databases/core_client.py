@@ -1,16 +1,14 @@
 import json
 import logging
 import os
-import threading
 import time
 from datetime import datetime
-from pprint import pprint
 from typing import Iterator
 from uuid import UUID
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -24,7 +22,7 @@ class CoreClient(DatabaseClient):
 
         super().__init__(SupportedSources.CORE)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query.strip(), search_id=search_id)
         results = []
@@ -38,7 +36,7 @@ class CoreClient(DatabaseClient):
         documents_pulled = self._documents_pulled(search_id)
 
         for n, result in enumerate(results):
-            yield SearchResult(raw_data=dict(result), source=SupportedSources.CORE)
+            yield Document(raw_data=dict(result), source=SupportedSources.CORE)
 
             if n + 1 == documents_pulled:
                 break
@@ -108,7 +106,8 @@ class CoreClient(DatabaseClient):
                 retry_after = response.headers.get('X-RateLimit-Retry-After', '')
                 sleep_time = 60
                 if retry_after:
-                    retry_after = datetime.fromisoformat(retry_after.replace('+0000', '')).replace(tzinfo=datetime.utcnow().tzinfo)
+                    retry_after = datetime.fromisoformat(retry_after.replace('+0000', '')).replace(
+                        tzinfo=datetime.utcnow().tzinfo)
                     sleep_time = (retry_after - datetime.utcnow()).seconds + 10  # 10 seconds just in case
                 logging.error(f'Too many requests on Core, waiting {sleep_time} secs...')
                 time.sleep(sleep_time)

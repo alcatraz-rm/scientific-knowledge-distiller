@@ -1,13 +1,11 @@
 import csv
-import itertools
 import os.path
 import subprocess
 from copy import deepcopy
 from itertools import chain
-from pprint import pprint
 from typing import Iterable, Dict
 
-from search_engine.databases.database_client import SearchResult
+from search_engine.databases.database_client import Document
 from utils.publications_graph import PublicationsGraph
 
 
@@ -22,7 +20,7 @@ class Deduplicator:
         self._path_to_deduplication_script = os.path.join(self._root_path, 'deduplication', 'deduplicate.r')
         os.chdir(initial_wd)
 
-    def deduplicate(self, remove_without_title=True, *iterables) -> Iterable[SearchResult]:
+    def deduplicate(self, remove_without_title=True, *iterables) -> Iterable[Document]:
         publications_dict = {pub.id: pub for pub in chain(*iterables) if
                              (remove_without_title and pub.title) or not remove_without_title}
         print(f'total found: {len(publications_dict)}')
@@ -125,7 +123,7 @@ class Deduplicator:
         for pub_id in unique_pubs_ids:
             yield publications_dict[pub_id]
 
-    def _merge_publications(self, *pubs) -> SearchResult:
+    def _merge_publications(self, *pubs) -> Document:
         if len(pubs) == 1:
             return pubs[0]
 
@@ -138,7 +136,7 @@ class Deduplicator:
         return base_pub
 
     @staticmethod
-    def _choose_best(*pubs) -> SearchResult:
+    def _choose_best(*pubs) -> Document:
         return min(*pubs, key=lambda x: x.empty_fields)
 
     # NOTE: HERE we perform manual deduplication
@@ -162,13 +160,13 @@ class Deduplicator:
 
         return False
 
-    def _dump_to_csv(self, publications: Dict[int, SearchResult]):
+    def _dump_to_csv(self, publications: Dict[int, Document]):
         # TODO: add env variable for path to deduplication raw dump
 
         path_to_dump = os.path.join(self._root_path, 'deduplication', '_dump_tmp.csv')
 
         with open(path_to_dump, 'w', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=SearchResult.csv_keys())
+            writer = csv.DictWriter(csvfile, fieldnames=Document.csv_keys())
             writer.writeheader()
 
             for pub_id in publications:

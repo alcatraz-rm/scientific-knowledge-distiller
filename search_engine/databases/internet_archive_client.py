@@ -1,13 +1,9 @@
 import logging
-import threading
 import time
-from pprint import pprint
 from typing import Iterator
 from uuid import UUID
 
-import requests
-
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -21,7 +17,7 @@ class InternetArchiveClient(DatabaseClient):
 
         super().__init__(SupportedSources.INTERNET_ARCHIVE)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query, search_id=search_id)
 
@@ -30,7 +26,7 @@ class InternetArchiveClient(DatabaseClient):
 
         for response in responses:
             for raw_pub in response.get('results'):
-                yield SearchResult(raw_pub, source=SupportedSources.INTERNET_ARCHIVE)
+                yield Document(raw_pub, source=SupportedSources.INTERNET_ARCHIVE)
                 counter += 1
 
                 if counter == documents_pulled:

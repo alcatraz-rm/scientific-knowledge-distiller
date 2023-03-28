@@ -1,16 +1,12 @@
 import logging
 import os
-import threading
 import time
-from pprint import pprint
 from typing import Iterator
 from uuid import UUID
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
-from semanticscholar import SemanticScholar
-
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -24,7 +20,7 @@ class SematicScholarClient(DatabaseClient):
         self._api_key = os.getenv('SEMANTIC_SCHOLAR_API_KEY')
         super().__init__(SupportedSources.SEMANTIC_SCHOLAR)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query.strip(), search_id=search_id)
         results = []
@@ -38,7 +34,7 @@ class SematicScholarClient(DatabaseClient):
         documents_pulled = self._documents_pulled(search_id)
 
         for n, result in enumerate(results):
-            yield SearchResult(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
+            yield Document(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
 
             if n + 1 == documents_pulled:
                 break

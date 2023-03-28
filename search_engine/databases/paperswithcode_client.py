@@ -1,14 +1,11 @@
 import logging
-import os
-import threading
 import time
-from pprint import pprint
 from typing import Iterator
 from uuid import UUID
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -21,7 +18,7 @@ class PapersWithCodeClient(DatabaseClient):
 
         super().__init__(SupportedSources.PAPERS_WITH_CODE)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query.strip(), search_id)
 
@@ -30,7 +27,7 @@ class PapersWithCodeClient(DatabaseClient):
 
         for response in responses:
             for pub in response['results']:
-                yield SearchResult(pub, source=SupportedSources.PAPERS_WITH_CODE)
+                yield Document(pub, source=SupportedSources.PAPERS_WITH_CODE)
                 counter += 1
 
                 if counter == documents_pulled:
@@ -139,4 +136,3 @@ class PapersWithCodeClient(DatabaseClient):
 
     def change_limit(self, search_id: UUID, delta: int):
         super(PapersWithCodeClient, self).change_limit(search_id, delta)
-

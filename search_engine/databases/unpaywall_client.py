@@ -1,14 +1,12 @@
 import logging
 import os
-import threading
 import time
-from pprint import pprint
 from typing import Iterator
 from uuid import UUID
 
 import requests
 
-from search_engine.databases.database_client import DatabaseClient, SearchResult, SupportedSources, SearchStatus
+from search_engine.databases.database_client import DatabaseClient, Document, SupportedSources, SearchStatus
 from utils.requests_manager import RequestsManager
 
 
@@ -22,7 +20,7 @@ class UnpaywallClient(DatabaseClient):
 
         super().__init__(SupportedSources.UNPAYWALL)
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[SearchResult]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query.strip(), search_id=search_id)
 
@@ -31,7 +29,7 @@ class UnpaywallClient(DatabaseClient):
         counter = 0
         for response in responses:
             for pub in response['results']:
-                yield SearchResult(pub['response'], source=SupportedSources.UNPAYWALL)
+                yield Document(pub['response'], source=SupportedSources.UNPAYWALL)
                 counter += 1
 
                 if counter == documents_pulled:
