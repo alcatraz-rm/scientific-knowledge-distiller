@@ -46,7 +46,6 @@ class InternetArchiveClient(DatabaseClient):
 
             if not response:
                 self.change_limit(search_id, -counter)
-                counter = 0
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
 
@@ -55,7 +54,6 @@ class InternetArchiveClient(DatabaseClient):
                 results_size = len(response_json.get('results', []))
                 if results_size == 0:
                     self.change_limit(search_id, -counter)
-                    counter = 0
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
 
@@ -65,8 +63,9 @@ class InternetArchiveClient(DatabaseClient):
 
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
-                    counter = 0
                     self._change_status(SearchStatus.WAITING, search_id)
+                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    counter = 0
 
                     kill = False
 
@@ -75,22 +74,24 @@ class InternetArchiveClient(DatabaseClient):
                             kill = True
                             break
                         if self.documents_to_pull(search_id) > 0:
+                            self._change_status(SearchStatus.WORKING, search_id)
                             break
 
                         time.sleep(5)
 
                     if kill:
+                        logging.info(f'Kill signal for {self.name} occurred.')
                         break
             else:
                 logging.error(f'Error code {response.status_code}, {response.content}')
                 self.change_limit(search_id, -counter)
-                counter = 0
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
 
             time.sleep(2)
-            logging.info(f'internet archive: {offset}')
+            logging.debug(f'internet archive: {offset}')
 
+        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

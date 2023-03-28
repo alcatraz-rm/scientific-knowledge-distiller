@@ -52,7 +52,6 @@ class OpenAlexClient(DatabaseClient):
 
             if not isinstance(response, requests.Response):
                 self.change_limit(search_id, -counter)
-                counter = 0
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
 
@@ -62,7 +61,6 @@ class OpenAlexClient(DatabaseClient):
 
                 if result_size == 0:
                     self.change_limit(search_id, -counter)
-                    counter = 0
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
 
@@ -73,8 +71,10 @@ class OpenAlexClient(DatabaseClient):
 
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
-                    counter = 0
                     self._change_status(SearchStatus.WAITING, search_id)
+                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    counter = 0
+
                     kill = False
 
                     while True:
@@ -82,16 +82,17 @@ class OpenAlexClient(DatabaseClient):
                             kill = True
                             break
                         if self.documents_to_pull(search_id) > 0:
+                            self._change_status(SearchStatus.WORKING, search_id)
                             break
 
                         time.sleep(5)
 
                     if kill:
+                        logging.info(f'Kill signal for {self.name} occurred.')
                         break
 
                 if not cursor:
                     self.change_limit(search_id, -counter)
-                    counter = 0
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
             else:
@@ -103,12 +104,12 @@ class OpenAlexClient(DatabaseClient):
                     continue
 
                 self.change_limit(search_id, -counter)
-                counter = 0
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
 
-            logging.info(f'openalex: {total_results}')
+            logging.debug(f'openalex: {total_results}')
 
+        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

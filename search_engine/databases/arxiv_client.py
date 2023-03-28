@@ -25,11 +25,13 @@ class ArXivClient(DatabaseClient):
                 yield Document(publication, source=SupportedSources.ARXIV)
                 counter += 1
                 total_results += 1
-                logging.info(f'arXiv: {total_results}')
+                logging.debug(f'arXiv: {total_results}')
 
                 if counter == self.documents_to_pull(search_id):
                     self._change_status(SearchStatus.WAITING, search_id)
                     self.change_limit(search_id, -counter)
+                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+
                     counter = 0
 
                     kill = False
@@ -39,20 +41,22 @@ class ArXivClient(DatabaseClient):
                             kill = True
                             break
                         if self.documents_to_pull(search_id) > 0:
+                            self._change_status(SearchStatus.WORKING, search_id)
                             break
 
                         time.sleep(5)
 
                     if kill:
+                        logging.info(f'Kill signal for {self.name} occurred.')
                         break
 
         except arxiv.UnexpectedEmptyPageError:
             pass
 
         self.change_limit(search_id, -counter)
-        counter = 0
         self._change_status(SearchStatus.FINISHED, search_id)
         self._terminate(search_id)
+        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
 
     def _create_search(self, search_id: UUID, limit: int):
         super(ArXivClient, self)._create_search(search_id, limit)

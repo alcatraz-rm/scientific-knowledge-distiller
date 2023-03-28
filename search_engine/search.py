@@ -8,7 +8,13 @@ from deduplication import Deduplicator
 from search_engine import databases
 from search_engine.databases.database_client import SupportedSources, Document, SearchStatus
 
-logging.basicConfig(level=20)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(threadName)s] [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("debug.log"),
+        logging.StreamHandler()
+])
 
 
 class Search:
@@ -37,6 +43,11 @@ class Search:
         self._remove_without_title = remove_without_title
         self._search_id = uuid.uuid4()
 
+        logging.info(f'Search {self._search_id} created.')
+        logging.info(f'Search query: {query}')
+        logging.info(f'Search limit: {limit}')
+        logging.info(f'Sources: {",".join([str(source) for source in sources])}')
+
         self._results = None
         self._results_list = []
 
@@ -64,7 +75,8 @@ class Search:
         if SupportedSources.PAPERS_WITH_CODE in sources:
             self._clients.append(databases.PapersWithCodeClient())
 
-        self._limit = limit // len(sources)
+        self._limit_for_source = limit // len(sources)
+        logging.info(f'Initial limit for source: {self._limit_for_source}')
 
     def perform(self):
         threads = {}
@@ -72,7 +84,7 @@ class Search:
 
         for n, client in enumerate(self._clients):
             active_clients[n] = client
-            threads[n] = threading.Thread(target=self._search, args=(client,))
+            threads[n] = threading.Thread(target=self._search, args=(client,), name=str(client.name))
 
         for thread_index in threads:
             threads[thread_index].start()
@@ -113,6 +125,7 @@ class Search:
 
             if docs_to_distribute > len(active_clients):
                 docs_for_active_client = docs_to_distribute // len(active_clients)
+                logging.info(f'Found {docs_to_distribute} docs to distribute. Docs for each client: {docs_for_active_client}')
 
                 for client_index in active_clients:
                     active_clients[client_index].change_limit(self._search_id, docs_for_active_client)
@@ -142,7 +155,7 @@ class Search:
         return self._results
 
     def _search(self, client):
-        result = list(client.search_publications(self._query, self._search_id, self._limit))
+        result = list(client.search_publications(self._query, self._search_id, self._limit_for_source))
 
         with threading.Lock():
             self._results_list.extend(result)

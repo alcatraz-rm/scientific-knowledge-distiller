@@ -4,6 +4,7 @@ import os
 import time
 from datetime import datetime
 from typing import Iterator
+from uuid import UUID
 
 import requests
 
@@ -20,7 +21,7 @@ class DBLPClient(DatabaseClient):
 
         super().__init__()
 
-    def search_publications(self, query: str, search_id: UUID, limit: int = 100 = '') -> Iterator[Document]:
+    def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         responses = self.__query_api(query.strip(), limit=limit)
         results = []
 
@@ -71,7 +72,7 @@ class DBLPClient(DatabaseClient):
                 return responses
 
             limit -= results_size
-            logging.info(f'dblp: {total_results}')
+            logging.debug(f'dblp: {total_results}')
 
             time.sleep(2)
         return responses

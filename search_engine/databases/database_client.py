@@ -1,3 +1,4 @@
+import logging
 import random
 import string
 import threading
@@ -439,6 +440,7 @@ class DatabaseClient:
     def _change_status(self, status: SearchStatus, search_id: UUID):
         with threading.Lock():
             self._searches[search_id]['status'] = status
+        logging.info(f'Status for {self.name} changed to {status}.')
 
     def _terminate(self, search_id: UUID):
         with threading.Lock():
@@ -471,6 +473,9 @@ class DatabaseClient:
 
             if delta < 0:
                 self._searches[search_id]['documents_pulled'] -= delta
+
+        if delta > 0:
+            logging.info(f'Limit for {self.name} increased for {delta} documents.')
 
     def search_status(self, search_id: UUID) -> Union[SearchStatus, None]:
         with threading.Lock():
