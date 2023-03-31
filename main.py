@@ -26,13 +26,13 @@ limit = int(input('limit: '))
 s = Search(query, limit=limit, sources=(
     SupportedSources.ARXIV,
     SupportedSources.CORE,
-    SupportedSources.CROSSREF,
+    # SupportedSources.CROSSREF,
     SupportedSources.INTERNET_ARCHIVE,
     SupportedSources.SEMANTIC_SCHOLAR,
     SupportedSources.UNPAYWALL,
     SupportedSources.OPENALEX,
     SupportedSources.PAPERS_WITH_CODE,
-))
+), remove_without_title=False)
 # s.perform()
 
 # with open('results.csv', 'w', encoding='utf-8') as file:
@@ -50,6 +50,7 @@ for publication in s.results():
     titles.append((publication.title, publication.source))
 
 titles = sorted(titles, key=lambda x: x[0])
+print(len(titles))
 
 with open('titles.csv', 'w', encoding='utf-8') as f:
     for t in titles:

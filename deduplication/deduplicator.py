@@ -1,9 +1,14 @@
 import csv
+import json
 import os.path
 import subprocess
 from copy import deepcopy
 from itertools import chain
+from pprint import pprint
 from typing import Iterable, Dict
+
+import pdfkit
+from json2html import json2html
 
 from search_engine.databases.database_client import Document
 from utils.publications_graph import PublicationsGraph
@@ -34,11 +39,49 @@ class Deduplicator:
 
         path_to_deduplication_module = os.path.join(self._root_path, 'deduplication')
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
+        true_duplicates_path = os.path.join(path_to_deduplication_module, '_true_pairs.csv')
 
         false_positive = 0
         true_positive = 0
         false_negative = 0
         true_negative = 0
+
+        with open(true_duplicates_path, 'r', encoding='utf-8') as true_pairs_csv:
+            true_pairs_csv.readline()
+            reader = csv.DictReader(true_pairs_csv,
+                                    fieldnames=['id1', 'id2', 'author1', 'author2', 'author', 'title1', 'title2',
+                                                'title', 'abstract1', 'abstract2', 'abstract', 'year1', 'year2', 'year',
+                                                'number1', 'number2', 'number', 'pages1', 'pages2', 'pages', 'volume1',
+                                                'volume2', 'volume', 'journal1', 'journal2', 'journal', 'isbn', 'isbn1',
+                                                'isbn2', 'doi1', 'doi2', 'doi', 'record_id1', 'record_id2', 'label1',
+                                                'label2', 'source1', 'source2'
+                                                ]
+                                    )
+
+            rows = []
+            for row in reader:
+                rows.append(deepcopy(row))
+
+            for n, row in enumerate(rows):
+                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
+                pubs_graph.add_edge(id_1, id_2)
+
+                # testing logic
+                if publications_dict[id_1].doi == publications_dict[id_2].doi:
+                    true_positive += 1
+                    continue
+
+                filename = os.path.join(path_to_deduplication_module, 'cases', f'case-{n}.pdf')
+                res_json = {}
+                res_json['doc_1'] = publications_dict[id_1].to_dict()
+                res_json['doc_2'] = publications_dict[id_2].to_dict()
+                res_json['decision'] = 'DUPLICATES'
+                res_json['state'] = 1
+                config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
+                pdfkit.from_string(json2html.convert(res_json), filename, configuration=config)
+                # pprint(publications_dict[id_1].to_dict())
+                # pprint(publications_dict[id_2].to_dict())
+                # testing logic
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
@@ -62,49 +105,6 @@ class Deduplicator:
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
 
-                # if row['doi'] != 'NA':
-                #     if row['doi'] == '1' and are_duplicates:
-                #         true_positive += 1
-                #         continue
-                #     if row['doi'] != '1' and not are_duplicates:
-                #         true_negative += 1
-                #         continue
-                #
-                # print(f"{n}/{len(rows)}\ntitle 1: {row['title1']}\n"
-                #       f"title 2: {row['title2']}\n"
-                #       f"title sim: {row['title']}\n\n"
-                #       f"author 1: {row['author1']}\n"
-                #       f"author 2: {row['author2']}\n"
-                #       f"author sim: {row['author']}\n\n"
-                #       f"abstract 1: {row['abstract1']}\n\n"
-                #       f"abstract 2: {row['abstract2']}\n\n"
-                #       f"abstract sim: {row['abstract']}\n\n"
-                #       f"doi 1: {row['doi1']}\n"
-                #       f"doi 2: {row['doi2']}\n"
-                #       f"doi sim: {row['doi']}\n\n"
-                #       f"year 1: {row['year1']}\n"
-                #       f"year 2: {row['year2']}\n\n"
-                #       f"source 1: {row['source1']}\n"
-                #       f"source 2: {row['source2']}\n"
-                #       )
-                # print(f'system decision: {"DUPLICATES" if are_duplicates else "NOT DUPLICATES"}')
-                # mark = input('mark: ').strip()
-                #
-                # if mark == '0' and are_duplicates:
-                #     false_positive += 1
-                # if mark == '0' and not are_duplicates:
-                #     false_negative += 1
-                #
-                # if are_duplicates and mark != '0':
-                #     true_positive += 1
-                # if not are_duplicates and mark != '0':
-                #     true_negative += 1
-            #
-            # print('TP:', true_positive)
-            # print('FP:', false_positive)
-            # print('TN:', true_negative)
-            # print('FN:', false_negative)
-
         connected_components = pubs_graph.connected_components()
 
         unique_pubs_ids = set()
@@ -115,10 +115,10 @@ class Deduplicator:
             publications_dict[base_pub.id] = deepcopy(base_pub)
             unique_pubs_ids.add(base_pub.id)
 
-        unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
-        os.remove(unique_cites_path)
-        os.remove(possible_duplicates_path)
-        os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
+        # unique_cites_path = os.path.join(path_to_deduplication_module, '_unique_citations.csv')
+        # os.remove(unique_cites_path)
+        # os.remove(possible_duplicates_path)
+        # os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
 
         for pub_id in unique_pubs_ids:
             yield publications_dict[pub_id]
@@ -151,7 +151,7 @@ class Deduplicator:
         if doi < 1 and doi != -1:
             return False
 
-        if float(row['author']) >= 0.6 and row['title'] == '1':
+        if float(row['author']) >= 0.5 and row['title'] == '1':
             return True
         if row['title'] == '1' and row['abstract'] == '1' and row['year'] == '1':
             return True

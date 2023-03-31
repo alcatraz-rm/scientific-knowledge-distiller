@@ -71,6 +71,7 @@ class Document:
         if self._title is None:
             self._title = ''
         self._title.strip()
+        self._title = self._title.replace('\n', ' ')
 
     @property
     def empty_fields(self) -> int:
@@ -146,14 +147,28 @@ class Document:
             journal=self._journal if self._journal else '',
             doi=self._doi if self._doi else '',
             title=self._title.replace('\n', ' ') if self._title else '',
-            pages=self._volume if self._volume else '',  # TODO
-            volume=self._volume if self._volume else '',
+            pages='',
+            volume='',
             number=0,  # TODO
             abstract=self._abstract.replace('\n', ' ') if self._abstract else '',
             record_id=self._id,
             isbn='',
             label='',
             source=self._source
+        )
+
+    def to_dict(self) -> dict:
+        return dict(
+            authors=[str(author) for author in self._authors],
+            title=self._title,
+            publication_date=str(self._publication_date),
+            source=str(self._source),
+            journal=self._journal,
+            volume=self._volume,
+            doi=self._doi,
+            urls=self._urls,
+            id=self._id,
+            abstract=self._abstract
         )
 
     @staticmethod
