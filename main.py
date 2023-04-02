@@ -1,12 +1,16 @@
 # from search_engine.databases import GoogleScholarClient
+import csv
+import json
 import os
 from pprint import pprint
 
+import pdfkit
 import requests
+from json2html import json2html
 
 from search_engine import databases, Search
 from deduplication import Deduplicator
-from search_engine.databases.database_client import SupportedSources
+from search_engine.databases.database_client import SupportedSources, Document
 
 from dotenv import load_dotenv
 from pathlib import Path
@@ -26,7 +30,7 @@ limit = int(input('limit: '))
 s = Search(query, limit=limit, sources=(
     SupportedSources.ARXIV,
     SupportedSources.CORE,
-    # SupportedSources.CROSSREF,
+    SupportedSources.CROSSREF,
     SupportedSources.INTERNET_ARCHIVE,
     SupportedSources.SEMANTIC_SCHOLAR,
     SupportedSources.UNPAYWALL,
@@ -43,15 +47,12 @@ s = Search(query, limit=limit, sources=(
 #     SupportedSources.OPENALEX,
 # ))
 s.perform()
-titles = []
-for publication in s.results():
-    if publication.versions:
-        pass
-    titles.append((publication.title, publication.source))
 
-titles = sorted(titles, key=lambda x: x[0])
-print(len(titles))
+results = sorted(list(s.results()), key=lambda x: x.title)
+res_json = [pub.to_dict() for pub in results]
+config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
+with open('deduplication/cases/case-1/result.json', 'w', encoding='utf-8') as file:
+    json.dump(res_json, file, indent=4)
+# pdfkit.from_string(json2html.convert(res_json), 'results.pdf', configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
 
-with open('titles.csv', 'w', encoding='utf-8') as f:
-    for t in titles:
-        f.write(f'"{t[0]}";{t[1]}\n')
+print(len(results))

@@ -62,25 +62,20 @@ class Deduplicator:
             for row in reader:
                 rows.append(deepcopy(row))
 
+            true_pairs_len = len(rows)
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
 
                 # testing logic
-                if publications_dict[id_1].doi == publications_dict[id_2].doi:
-                    true_positive += 1
-                    continue
-
-                filename = os.path.join(path_to_deduplication_module, 'cases', f'case-{n}.pdf')
-                res_json = {}
-                res_json['doc_1'] = publications_dict[id_1].to_dict()
-                res_json['doc_2'] = publications_dict[id_2].to_dict()
-                res_json['decision'] = 'DUPLICATES'
-                res_json['state'] = 1
+                res_json = {'cases': []}
+                res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
+                                          'doc_2': publications_dict[id_2].to_dict(),
+                                          'decision': 'DUPLICATES',
+                                          'id': n})
+                filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n}.pdf')
                 config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
-                pdfkit.from_string(json2html.convert(res_json), filename, configuration=config)
-                # pprint(publications_dict[id_1].to_dict())
-                # pprint(publications_dict[id_2].to_dict())
+                pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm' })
                 # testing logic
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
@@ -104,6 +99,17 @@ class Deduplicator:
                 are_duplicates = Deduplicator.are_duplicates(row)
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
+
+                # testing logic
+                res_json = {'cases': []}
+                res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
+                                          'doc_2': publications_dict[id_2].to_dict(),
+                                          'decision': 'DUPLICATES' if are_duplicates else 'NOT DUPLICATES',
+                                          'id': n + true_pairs_len})
+                filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n + true_pairs_len}.pdf')
+                config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
+                pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
+                # testing logic
 
         connected_components = pubs_graph.connected_components()
 
