@@ -8,6 +8,7 @@ import pdfkit
 import requests
 from json2html import json2html
 
+from distiller.distiller import Distiller
 from search_engine import databases, Search
 from deduplication import Deduplicator
 from search_engine.databases.database_client import SupportedSources, Document
@@ -36,23 +37,17 @@ s = Search(query, limit=limit, sources=(
     SupportedSources.UNPAYWALL,
     SupportedSources.OPENALEX,
     SupportedSources.PAPERS_WITH_CODE,
-), remove_without_title=False)
-# s.perform()
-
-# with open('results.csv', 'w', encoding='utf-8') as file:
-#     for n, pub in enumerate(s.results()):
-#         if len(pub.versions) > 0:
-#             print(pub.title)
-# s = Search(query, limit=limit, sources=(
-#     SupportedSources.OPENALEX,
-# ))
+))
 s.perform()
 
 results = sorted(list(s.results()), key=lambda x: x.title)
-res_json = [pub.to_dict() for pub in results]
-config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
-with open('deduplication/cases/case-1/result.json', 'w', encoding='utf-8') as file:
-    json.dump(res_json, file, indent=4)
+d = Distiller()
+top_100 = d.get_top_n(results, query, 100)
+pass
+# res_json = [pub.to_dict() for pub in results]
+# config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
+# with open('deduplication/cases/case-1/result.json', 'w', encoding='utf-8') as file:
+#     json.dump(res_json, file, indent=4)
 # pdfkit.from_string(json2html.convert(res_json), 'results.pdf', configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
 
-print(len(results))
+# print(len(results))
