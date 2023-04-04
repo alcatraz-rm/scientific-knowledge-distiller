@@ -111,6 +111,18 @@ class Deduplicator:
                 # pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
                 # testing logic
 
+        # merge publication with the same doi logic
+        doi_dict = {}
+        for pub_id in publications_dict:
+            doi = publications_dict[pub_id].doi
+            if doi:
+                if doi in doi_dict:
+                    for _pub_id in doi_dict[doi]:
+                        pubs_graph.add_edge(pub_id, _pub_id)
+                    doi_dict[doi].append(pub_id)
+                else:
+                    doi_dict[doi] = [pub_id]
+
         connected_components = pubs_graph.connected_components()
 
         unique_pubs_ids = set()

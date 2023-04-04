@@ -1,7 +1,9 @@
 # from search_engine.databases import GoogleScholarClient
 import csv
 import json
+import logging
 import os
+import time
 from pprint import pprint
 
 import pdfkit
@@ -38,12 +40,22 @@ s = Search(query, limit=limit, sources=(
     SupportedSources.OPENALEX,
     SupportedSources.PAPERS_WITH_CODE,
 ))
-s.perform()
-
-results = sorted(list(s.results()), key=lambda x: x.title)
 d = Distiller()
-top_100 = d.get_top_n(results, query, 100)
-pass
+
+start_time = time.time()
+s.perform()
+results = list(s.results())
+logging.info(f'total results after deduplication: {len(results)}')
+top_1000 = d.get_top_n_specter(results, query, 1000)
+end_time = time.time()
+top_1000 = [pub.to_dict() for pub in top_1000]
+for n in range(len(top_1000)):
+    top_1000[n]['rank'] = n
+
+with open('results.json', 'w', encoding='utf-8') as file:
+    json.dump(top_1000, file, indent=4)
+
+logging.info(f'elapsed time: {end_time - start_time}')
 # res_json = [pub.to_dict() for pub in results]
 # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
 # with open('deduplication/cases/case-1/result.json', 'w', encoding='utf-8') as file:

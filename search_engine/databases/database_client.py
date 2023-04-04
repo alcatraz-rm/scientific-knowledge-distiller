@@ -95,7 +95,7 @@ class Document:
 
     @property
     def title(self) -> str:
-        return self._title
+        return self._title if self._title else ''
 
     @property
     def source(self) -> SupportedSources:
@@ -115,7 +115,7 @@ class Document:
 
     @property
     def abstract(self) -> str:
-        return self._abstract
+        return self._abstract if self._abstract else ''
 
     @property
     def year(self) -> int:
@@ -158,6 +158,11 @@ class Document:
         )
 
     def to_dict(self) -> dict:
+        versions = deepcopy(self._versions)
+        for n in range(len(versions)):
+            versions[n]['source'] = str(versions[n]['source'])
+            versions[n]['publication_date'] = str(versions[n]['publication_date'])
+
         return dict(
             authors=[str(author) for author in self._authors],
             title=self._title,
@@ -168,7 +173,8 @@ class Document:
             doi=self._doi,
             urls=self._urls,
             id=self._id,
-            abstract=self._abstract
+            abstract=self._abstract,
+            versions=versions
         )
 
     @staticmethod

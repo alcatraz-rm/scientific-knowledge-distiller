@@ -2,6 +2,7 @@ from itertools import chain
 from typing import Iterable
 
 import progressbar
+import torch
 from sentence_transformers import SentenceTransformer, util
 
 from search_engine.databases.database_client import Document
@@ -26,3 +27,13 @@ class Distiller:
 
         top_n_docs = [publications_dict[doc[0]] for doc in sorted(result_list, key=lambda x: -x[1])[:n]]
         return top_n_docs
+
+    def get_top_n_specter(self, documents: Iterable[Document], query: str, n: int):
+        documents = list(documents)
+        model = SentenceTransformer('allenai-specter')
+        paper_texts = [paper.title + '[SEP]' + paper.abstract for paper in documents]
+        corpus_embeddings = model.encode(paper_texts, convert_to_tensor=True, batch_size=16)
+        query_embedding = model.encode(query + '[SEP]', convert_to_tensor=True)
+
+        search_hits = util.semantic_search(query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
+        return [documents[hit['corpus_id']] for hit in search_hits]

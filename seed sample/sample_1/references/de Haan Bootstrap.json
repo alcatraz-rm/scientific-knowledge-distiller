@@ -1,0 +1,220 @@
+{
+    "abstractText": "Tail index estimation depends for its accuracy on a precise choice of the sample fraction, i.e., the number of extreme order statistics on which the estimation is based. A complete solution to the sample fraction selection is given by means of a two-step subsample bootstrap method. This method adaptively determines the sample fraction that minimizes the asymptotic mean-squared error. Unlike previous methods, prior knowledge of the second-order parameter is not required. In addition, we are able to dispense with the need for a prior estimate of the tail index which already converges roughly at the optimal rate. The only arbitrary choice of parameters is the number of Monte Carlo replications. 2001 Academic Press AMS 1991 subject classifications: 62G32, 62F40.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "J. Danielsson"
+        },
+        {
+            "affiliations": [],
+            "name": "L. de Haan"
+        },
+        {
+            "affiliations": [],
+            "name": "L. Peng"
+        },
+        {
+            "affiliations": [],
+            "name": "C. G. de Vries"
+        }
+    ],
+    "id": "SP:5f6a29dc707d39aab63a524562007f0e7640c784",
+    "references": [
+        {
+            "authors": [
+                "S. Cso rgo",
+                "P. Deheuvels",
+                "D.M. Mason"
+            ],
+            "title": "Kernel estimator of the tail index of a distribution",
+            "venue": "Ann. Statist",
+            "year": 1985
+        },
+        {
+            "authors": [
+                "J. Danielsson",
+                "C.G. de Vries"
+            ],
+            "title": "Tail index and quantile estimation with very high frequency data",
+            "venue": "J. Empirical Finance",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "R. Davis",
+                "S.I. Resnick"
+            ],
+            "title": "Tail estimates motivated by extreme value theory",
+            "venue": "Ann. Statist",
+            "year": 1984
+        },
+        {
+            "authors": [
+                "L. de Haan",
+                "D.W. Jansen",
+                "K. Koedijk",
+                "C.G. de Vries"
+            ],
+            "title": "Safety first portfolio selection, extreme value theory and long run asset risks, in ``Extreme Value Theory and Applications'",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "L. de Haan",
+                "S.I. Resnick"
+            ],
+            "title": "A simple asymptotic estimate for the index of a stable distribution",
+            "venue": "J. Roy. Statist. Soc. Ser. B",
+            "year": 1980
+        },
+        {
+            "authors": [
+                "A.L.M. Dekkers",
+                "L. de Haan"
+            ],
+            "title": "Optimal choice of sample fraction in extreme-value estimation",
+            "venue": "J. Multivariate Anal. 47, No",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "H. Drees",
+                "E. Kaufmann"
+            ],
+            "title": "Selection of the optimal sample fraction in univariate extreme value estimation, Stochast",
+            "venue": "Process. Appl",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "P. Embrechts",
+                "C. Kuppelberg"
+            ],
+            "title": "Mikosch, ``Modelling Extreme Events,'' SpringerVerlag",
+            "venue": "New York Berlin,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "J. Geluk",
+                "L. de Haan"
+            ],
+            "title": "Regular variation, extensions and Tauberian theorems, CWI Tract",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "P. Hall"
+            ],
+            "title": "On some simple estimates of an exponent of regular variation",
+            "venue": "J. Roy. Statist. Soc. Ser. B",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "P. Hall"
+            ],
+            "title": "Using the bootstrap to estimate mean squared error and select smoothing parameter in nonparametric problems",
+            "venue": "J. Multivariate Anal",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "P. Hall",
+                "A.H. Welsh"
+            ],
+            "title": "Adaptive estimate of parameters of regular variation",
+            "venue": "Ann. Statist",
+            "year": 1985
+        },
+        {
+            "authors": [
+                "B.M. Hill"
+            ],
+            "title": "A simple general approach to inference about the tail of a distribution",
+            "venue": "Ann. Statist",
+            "year": 1975
+        },
+        {
+            "authors": [
+                "T. Hsing"
+            ],
+            "title - FOUND": "On tail index estimation using dependent data",
+            "venue": "Ann. Statist",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "D.W. Jansen",
+                "C.G. de Vries"
+            ],
+            "title": "On the frequency of large stock returns: putting booms and busts into perspective",
+            "venue": "Rev. Econ. Statist",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "D.M. Mason"
+            ],
+            "title": "Law of large numbers for sum of extreme values",
+            "venue": "Ann. Probab",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "V.V. Petrov"
+            ],
+            "title": "``Sums of Independent Random Variables,'' Springer-Verlag",
+            "venue": "New York,",
+            "year": 1975
+        },
+        {
+            "authors": [
+                "III J. Pickands"
+            ],
+            "title": "Statistical inference using extreme order statistics",
+            "venue": "Ann. Statist",
+            "year": 1975
+        },
+        {
+            "authors": [
+                "C.S. Resnick"
+            ],
+            "title - FOUND": "Starica, Tail index estimation for dependent data, Ann",
+            "venue": "Appl. Probab",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "G. Shorack",
+                "J. Wellner"
+            ],
+            "title": "``Empirical Processes with Applications to Statistics,'' Wiley",
+            "venue": "New York,",
+            "year": 1986
+        }
+    ],
+    "sections": [
+        {
+            "text": "Journal of Multivariate Analysis 76, 226 248 (2001)\nUsing a Bootstrap Method to Choose the Sample Fraction in Tail Index Estimation1\nJ. Danielsson2\nLondon School of Economics, London, United Kingdom, and University of Iceland, Iceland\nand\nL. de Haan,3 L. Peng, and C. G. de Vries\nErasmus University, Rotterdam, The Netherlands, and Tinbergen Institute, Rotterdam, The Netherlands\nReceived March 19, 1998\nTail index estimation depends for its accuracy on a precise choice of the sample fraction, i.e., the number of extreme order statistics on which the estimation is based. A complete solution to the sample fraction selection is given by means of a two-step subsample bootstrap method. This method adaptively determines the sample fraction that minimizes the asymptotic mean-squared error. Unlike previous methods, prior knowledge of the second-order parameter is not required. In addition, we are able to dispense with the need for a prior estimate of the tail index which already converges roughly at the optimal rate. The only arbitrary choice of parameters is the number of Monte Carlo replications. 2001 Academic Press\nAMS 1991 subject classifications: 62G32, 62F40. Key words and phrases: tail index, bootstrap, bias, mean squared error, optimal\nextreme sample fraction."
+        },
+        {
+            "heading": "1. INTRODUCTION",
+            "text": "Let X1 , X2 , ... be independent random variables with a common distribution function F which has a regularly varying tail\n1&F(x)=x&1 #L(x) x , #>0, (1.1)\ndoi:10.1006 jmva.2000.1903, available online at http: www.idealibrary.com on\n226 0047-259X 01 35.00 Copyright 2001 by Academic Press All rights of reproduction in any form reserved.\n1 Some data studied in the paper was obtained from Olsen and Associates. 2 Danielsson benefitted from an HCM fellowship of the EU and the Research Contribution of the Icelandic banks. 3 To whom correspondence should be addressed: L. de Haan, Erasmus University, P.O. Box 1738, 3000 DR Rotterdam, The Netherlands. E-mail: ldehaan cs.few.eur.nl.\nwhere L is a slowly varying function and 1 # is the index of regular variation, or the tail index. This is the case if F is in the domain of attraction of an extreme-value distribution with positive index or if F is in the domain of attraction of a stable distribution with index 0<:<2. Various estimators for estimating # have been proposed (see Hill, 1975; Pickands, 1975; de Haan and Resnick, 1980; Hall, 1982; Mason, 1982; Davis and Resnick, 1984; Cso rgo , et al. 1985, Hall and Welsh, 1985). We concentrate on the best known estimator, Hill's estimator,\n#n (k) := 1 k : k\ni=1\nlog Xn, n&i+1&log Xn, n&k ,\nwhere Xn, 1 } } } Xn, n are the order statistics of X1 , ..., Xn . It is well known that if k=k(n) and k(n) n 0, then\n#n (k) #, n ,\nin probability (Mason, 1982). This follows since k(n) implies that eventually infinitely many order statistics are involved, allowing for the use of the law of large numbers, while the condition k(n) n 0 means that the tail and nothing else is estimated. An asymptotic normality result for #n (k) is needed for the construction of a confidence interval. Hall (1982) showed that if one chooses k(n) by\nk0 (n) :=arg min k Asy E(#n (k)&#)2,\nwhere Asy E denotes the expectation with respect to the limit distribution, then\n- k0 (n)(#n (k0 (n))&#) w d N(b, #2),\nso that the optimal sequence k0 (n) results in an asymptotic bias b. One can evaluate k0 (n) asymptotically when the first- and second-order regular variation properties of the underlying distribution are known. A version of that result is our Theorem 1. In fact, k0 (n) is the value which just balances the asymptotic variance and bias components of E(#n (k)&#)2.\nOur framework is a second-order condition connected with (1.1). There exists a function A*, not changing sign near infinity, such that\nlim t \\\\ 1&F(x) 1&F(t) &x&1 #+<A*(t)+=x&1 # x \\ #&1 \\ #\nfor x>0 and where \\ 0 is the second-order parameter. A reformulated version of this condition with the inverse function U of 1 (1&F ) is needed: There exists a function A, not changing sign near infinity, such that\nlim t\nU(tx) U(t)&x#\nA(t) =x# x\\&1 \\ . (1.2)\nThe function |A| is regular varying at infinity with index \\. We write |A| # RV\\ . We solve the optimality issue when \\ is strictly negative. Under this condition k0 (n) can be expressed in terms of #, \\ and the second-order rate function A.\nOur aim is to determine the optimal sequence k0 (n) solely on the basis of the sample, i.e., to determine an estimator k 0 (n) such that\n- k 0 (n)(#n (k 0 (n))&#) w d N(b, #2). (1.3)\nFor this it is sufficient to prove\nk 0 (n) k0 (n) 1, (1.4)\nin probability (Hall and Welsh, 1985). To find such k 0 (n) we need two steps. We apply two subsample bootstrap procedures. This solves the problem under the extra assumption that A(t)=ct\\ with \\<0 and c{0, but otherwise \\ and c unknown.\nThe published literature at the time of writing did not contain a solution for the estimation of k0 (n) except for very special cases. The most advanced is Hall (1990), who obtained an estimator k 0 (n) which satisfies (1.4) under two extra assumptions, that \\ is known and that a prior estimate of # is available such that this estimator already converges roughly at the optimal rate.4 We are able to dispense with these assumptions. Nevertheless, Hall's (1990) suggestion to use a bootstrap method was very instrumental for the development of our automatic and general procedure.\nAs a byproduct of our approach we obtain a consistent estimator for the second-order parameter \\; cf. Eq. (3.9) below. We believe this result to be new to the literature as well.\nA completely different approach to the problem is taken in a recent paper by Drees and Kaufmann (1998). The Drees and Kaufmann method requires the choice of a tuning parameter. In our case the equivalence of this tuning parameter is the choice of the bootstrap resample size n1 . Below we present a fully automatic procedure for obtaining n1 in the sense that\n4 Hall (1990) also uses the same idea to select the bandwidth in kernel estimation procedures. There, however, the second assumption is rather innocuous, but this is not the case for the problem at hand.\na heuristic algorithm is used to determine the bootstrap sample size (see Section 4). An explicit procedure for the choice of the resample size appears to be new to the literature as well."
+        },
+        {
+            "heading": "2. MAIN RESULTS",
+            "text": "Let Xn, 1 } } } Xn, n be the order statistics of X1 , ..., Xn . Hill's estimator is defined by\n#n (k) := 1 k : k\ni=1\nlog Xn, n&i+1&log Xn, n&k .\nVarious authors have considered the asymptotic normality of #n ; see Hall (1982). We can minimize the mean squared error of #n to get the asymptotically optimal choice of k, but it depends on the unknown parameter # and the function A(t) (see Dekkers and de Haan, 1993). We apply the powerful bootstrap tool to find the optimal number of order statistics adaptively.\nThe asymptotic mean squared error of #n is defined as\nAMSE(n, k) :=Asy E(#n (k)&#)2.\nThe AMSE will be estimated by a bootstrap procedure. Subsequently, we minimize the estimated AMSE to find the optimal k-value adaptively. For this to work two problems need to be solved. Even if one were given #, then the regular bootstrap is not ensured to yield an AMSE estimate which is asymptotic to AMSE (n, k). Moreover, one does not know # in the first place. The first problem can be solved by using a bootstrap resample size n1 which is of smaller order than n. Therefore resamples X*n1= [X1*, ..., X*n1] are drawn from Xn=[X1 , ..., Xn] with replacement. Let n1<n and X*n1 , 1 } } } X*n1 , n1 denote the order statistics of X*n1 and define\n#*n1 (k1) := 1 k1 : k1\ni=1\nlog X*n1 , n1&i+1&log X*n1 , n1&k1 .\nHall (1990) proposes the bootstrap estimate\nAMSE@(n1 , k1)=E((#*n1 (k1)&#n (k)) 2 | Xn).\nIn this setup k has to be chosen such that #n (k) is consistent. Then an estimate of k1 for sample size n1 is obtained. The problem is, however, that\nk is unknown. Therefore we replace #n (k) in the above expression with a more suitable statistic. This can be achieved by using a control variate.\nDefine\nMn (k)= 1 k : k\ni=1\n(log Xn, n&i+1&log Xn, n&k)2.\nNote that Mn (k) (2#n (k)) is another consistent estimator of #, which also balances the bias squared and variance if k tends to infinity with the rate of k0 (n). Only the multiplicative constant differs. Therefore, we propose to use the bootstrap estimate for the mean squared error,\nQ(n1 , k1) :=E((M*n1 (k1)&2(#*n1 (k1)) 2)2 | Xn),\nwhere M*n1 (k1)= 1 k1 k1i=1 (log X*n1 , n1&i+1&log X*n1 , n1&k1) 2.\nIt can be shown that the statistics Mn (k) (2#n (k))&#n (k) and #n (k)&# have similar asymptotic behavior in particular, both have asymptotic mean zero. Accordingly, as is shown in the following two theorems, the k-value that minimizes AMSE(n, k) and the k-value that minimizes Asy E(Mn (k)&2(#n (k))2)2 are of the same general order (with respect to n), under some conditions.\nTheorem 1. Suppose (1.2) holds and k , k n 0. Determine k0 (n) such that AMSE(n, k) is minimal. Then\nk0 (n)= n\ns& (#2 (1&\\)2 n) (1+o(1)) # RV&2\\ (1&2\\) , as n ,\nwhere s& is the inverse function of s, with s given by\nA2 (t)=| t s(u) du(1+o(1)) as t .\nFor the existence of such a monotone function see Lemma 2.9 of Dekkers and de Haan (1993). Moreover, for fixed $>0 and n ,\nk0 (n)targ min k E(#n (k)&#)2 1[ |#n(k)&#|<k$&1 2] .\nTheorem 2. Suppose (1.2) holds and k , k n 0. Determine k 0 (n) such that Asy E(Mn (k)&2(#n (k))2)2 is minimal. Then\nk 0 (n)= n\ns& (#2 (1&\\)4 (n\\2)) (1+o(1)), as n .\nMoreover, for fixed $>0 and n ,\nk 0 (n)tE(Mn (k)&2(#n (k))2)2 1[ |Mn(k)&2(#n(k))2|<k$&1 2] .\nCorollary 3.\nk 0 (n) k0 (n) \\1&1\\+ 2 (1&2\\)\n(n ).\nThe next theorem is our main result and shows that the optimal k1 for a subsample of size n1 can be estimated consistently. The method used in proving this result is more involved but similar to the method that is used in proving Theorem 1.\nTheorem 4. Suppose (1.2) holds and k1 , k1 n1 0, n1=O(n1&=) for some 0<=<1. Determine k*1, 0 (n1) such that\nQ(n1 , k1)=E((M*n1 (k1)&2(#*n1 (k1)) 2)2 | Xn)\nis minimal. Then\nk*1, 0 (n1) s& (#2 (1&\\)4 (n1\\2)) n1 w p 1, as n .\nTheorem 4 gives the optimal k1 for sample size n1 , but we need the optimal value for the sample size n. This can be achieved modulo a conversion factor.\nCorollary 5. Suppose (1.2) holds for A(t)=ct\\, t , and k1 , k1 n1 0, n1=O(n1&=) for some 0<=<1. Then\n\\n1n + &2\\ (2\\&1) k*1, 0 (n1) k 0 (n) w p 1, as n .\nThe conversion factor can be calculated consistently as follows.\nTheorem 6. Let n1=O(n1&=) for some 0<=<1 2 and n2=(n1)2 n. Suppose (1.2) holds for A(t)=ct\\, t , and ki , k i ni 0 (i=1, 2). Determine k*i, 0 such that\nE((M*ni (ki)&2(#*ni (ki)) 2)2 | Xn)\nis minimal (i=1, 2). Then\n(k*1, 0 (n1))2 k*2, 0 (n2) \\ (log k*1, 0 (n1))2 (2 log n1&log k*1, 0 (n1))2+ (log n1&log k*1, 0(n1)) log n1\nk0 (n) w p 1 (2.1)\nas n .\nRemark 1. From Theorem 6 we can achieve the optimal choice of k asymptotically. Therefore, by using the asymptotically optimal choice of k, Hill's estimator will also be asymptotically optimal.\nCorollary 7. Suppose the conditions of Theorem 6 hold. Define\nk 0 (n) := (k*1, 0 (n1))2 k*2, 0 (n2) \\ (log k*1, 0 (n1))2 (2 log n1&log k*1, 0 (n1))2+ (log n1&log k*1, 0(n1)) log n1\nThen #n (k 0) has the same asymptotic efficiency as #n (k0).\nTo summarize, the algorithm for computing #n (k 0) is as follows. For a given choice of n1 draw bootstrap resamples of size n1 . Calculate Q(n1 , k1), i.e., the bootstrap AMSE, at each k1 ; and find the k*1, 0 (n1) which minimizes this bootstrap AMSE. Repeat this procedure for an even smaller resample size n2 , where n2=(n1)2 n. This yields k*2, 0 (n2). Subsequently, calculate k 0 (n) from the formula in Corollary 7. Finally, estimate # by #n (k o). By using this procedure two tuning parameters have to be chosen, the number of bootstrap resamples and n1 . The number of bootstrap resamples is determined by the computational facilities and can be chosen on the basis of a stopping criterion where either the resampling is stopped once the fluctuations in the bootstrap MSE's fall below a certain level or once a bound on run time is hit. The choice of n1 is made as follows.\nFrom Theorem 6 we know that for any = such that 0<=<1 2 the n1=n1&= is an appropriate choice. Hence, asymptotic arguments provide little guidance in choosing between any of the possible n1 . We use the following heuristic procedure. In the proof to Theorem 6 we will show that\nk ok*2, 0 (k*1, 0)2 1,\nin probability. By very similar arguments one can show that\nAsy E(Mn (k 0)&2(#n (k 0))2)2 Q(n2 , k*2, 0)\n(Q(n1 , k*1, 0))2 1,\nin probability, as well. Thus an estimator for Asy E(Mn (k 0)&2(#n (k 0))2)2 is the ratio\nR(n1) := (Q(n1 , k*1, 0))2\nQ(n2 , k*2, 0) .\nThe finite sample n1 is now chosen such that R(n1) is minimal. Note that this criterion is the finite sample analogue of the asymptotic criterion that is used for locating k 0 (n). In practice this criterion is implemented by working with a grid of n1 values over which R(n1) is minimized. The grid size is again determined by the available computing time."
+        },
+        {
+            "heading": "3. PROOFS",
+            "text": "Let Y1 , ..., Yn be independent random variables with common distribution function G( y)=1& y&1 ( y 1). Let Yn, 1 } } } Yn, n be the order statistics of Y1 , ..., Yn . Note that [Xn, n&i+1]ni=1 =\nd [U(Yn, n&i+1)]ni=1 with the function U defined in the Introduction.\nLemma 8. Let 0<k<n and k . We have:\n(1) For n , Yn, n&k (n k) 1 in probability.\n(2) For n , (Pn , Qn) is asymptotically normal with means zero, variances 1 and 20 respectively, and covariance 4, where\nPn :=- k {1k : k\ni=1 log Yn, n&i+1&log Yn, n&k&1= and\nQn :=- k {1k : k\ni=1 (log Yn, n&i+1&log Yn, n&k)2&2= . Proof. The proof is similar to the proof of Lemma 3.1 of Dekkers and\nde Haan (1993). K\nProof of Theorem 1. We use the method of Dekkers and de Haan (1993), which we outline, since a similar reasoning is used in the proofs of Theorems 2 and 4.\nRelation (1.2) is equivalent to the regular variation of the function\n|log U(t)&# log t&c0 |\nwith index \\ for some constant c0 (see Geluk and de Haan, 1987, II.1). Then (1.2) holds with\nA(t)=\\(log U(t)&# log t&c0).\nApplying extended Potter's inequalities to the function A, we get that for each 0<=<1 there exists t0>0 such that for t t0 and tx t0 ,\n(1&=) x\\e&= |log x| &1 log U(tx)&log U(t)&# log x\nA(t) \\\n(1+=) x\\e= |log x|&1. (3.1)\nApplying this relation with t replaced by Yn, n&k and x replaced by Yn, n&i+1 Yn, n&k , adding the inequalities for i=1, 2, ..., k, and dividing by k, we get\n#n r#+ #Pn - k +\\&1A(Yn, n&k)(1\\=) {1k : k i=1 \\ Yn, n&i+1 Yn, n&k + \\\\= &1= .\nNow\n: k i=1 \\ Yn, n&i+1 Yn, n&k + \\\\= = d : k i=1 Yi\nwith Y1 , ..., Yk i.i.d. with common distribution function 1&1 x. Hence by the weak law of large numbers,\n#n r#+ #Pn - k +\\&1 (1\\=) \\ 11&\\ =&1+ A(Yn, n&k),\ni.e.,\n#n=#+ #Pn - k +(1&\\)&1 A \\nk++op \\A \\ n k++ .\n(Note that in the latter term we have replaced Yn, n&k by n k, which can be done since |A| is regularly varying.) Hence\nAsy E(#n&#)2r #2\nk + A2 (n k) (1&\\)2 .\nWe can assume (see Lemma 2.9 of Dekkers and de Haan, 1993) that A2 has a monotone derivative s which is then regularly varying with index 2\\&1. Consequently, s& (1 t) (s& denoting the inverse of s) is regularly varying with index 1 (1&2\\). The first result of the theorem is then obtained by minimizing the right-hand side of the equation above. For the proof of the second statement of Theorem 1 we are going to replace the op-terms by o-terms on part of the sample space. Define for some 0<$0<1 2 the set\nEn :={|: |Pn |, |D\\n |, }kn Yn, n&k&1 }<k$0&1 2= with\nD\\n := 1 k : k\ni=1\n(Yn, n&i+1 Yn, n&k)\\\\=&(1&\\ =)&1.\nNow take = and t0 as in (3.1). Then, provided (n k)(1&k$0&1 2) t0 , we have Yn, n&k t0 on En . Also, since A is regularly varying we have\n}A(Yn, n&k)&A \\nk+}<2=A \\ n k+\non En . Using these two facts and the inequalities (3.1) we find that\n} #n (k)&#&#Pn- k+ A(n k) (1&\\) }<=A \\ n k+\non the set En (so we have o(A) instead of op (A)). Hence for n and any intermediate sequence k(n),\nE(#n (k)&#)2 1[ |#n(k)&#|<k$&1 2] 1En #2\nk + A2 (n k) (1&\\)2\n1.\nNext, we show that the contribution of the set E cn to the expectation can be neglected. For example,\nE(#n (k)&#)2 1[ |#n(k)&#|<k$&1 2]1[ |Pn|>k$0&1 2]\nk2$&1P[ |Pn |>k$0&1 2],\nand by Bennett's inequality (cf. Petrov, 1975, Chap. III.5) we can show that\nP[ |Pn |>k$0&1 2] k&;\nfor any ;>0, eventually. Hence\nlim n E(#n (k)&#)2 1[ |#n(k)&#|2 k$&1 2]1[ |Pn|>k$0&1 2] #2\nk + A2 (n k) (1&\\)2\n=0.\nThe reasoning in the case any of the other conditions of the set En is violated is exactly the same (but for (k n) Yn, n&k we first have to transform the inequality into an inequality for its inverse, (1 k) ni=1 1[Yi>(n k) x] , and apply Bennett's inequality). Hence\nE(#n (k)&#)2 1[ |#n(k)&#| k$&1 2] r #2\nk + A2 (n k) (1&\\)2\nThe rest of the proof is the same as before.\nProof of Theorem 2. From the proof of Theorem 1 we get\n#n = d #+ #Pn C +d1A(Yn, n&k)+op (A(n k)) (3.2)\nwith d1=1 (1&\\) and hence\n#2n = d #2+ 2#2Pn - k +2#d1A(Yn, n&k)+op (A(n k)). (3.3)\nSimilarly,\nMn = d 2#2+ #2Qn - k +d2A(Yn, n&k)+op (A(n k)) (3.4)\nwhere d2=2#(2&\\) (1&\\)2. The rest of the proof is similar to that of Theorem 1. K\nProof of Theorem 4. Let Gn denote the empirical distribution function of n independent, uniformly distributed random variables. As n is large enough and n1=O(n1&=), we have\n1 2 sup 0<t n1(log n1)\n2 tG&n \\1t+ 2 a.s. (3.5)\nand\nsup t 2 }- t \\Gn \\ 1 t+& 1 t+} log n - n a.s.\n(see Shorack and Wellner, 1986, Eqs. (10) and (17), Chap. 10.5). Hence\nsup 4 t n1(log n1) 2 } 1 G&n \\1t+ _Gn \\G&n \\1t++&G&n \\ 1 t+&} log n - n a.s.\nTherefore, for all 4 t n1 (log n1)2,\n} tG&n \\1t+&1 } 2 - t log n - n a.s. (3.6)\nLet Fn denote the empirical distribution function of Xn , Un= (1 (1&Fn))&. Now we use (3.1), (3.5), (3.6),\n|log y| 2 | y&1| for all 1 2 y 2\n| y&\\&1| (&\\)(2&\\&1 6 21+\\) | y&1| for all 1 2 y 2\nand\nlog Un (t) = log F &n \\1&1t+ = d\nlog F & \\G&n \\1&1t++ = log U \\ 1\n1&G&n \\1&1t++ = d\nlog U \\ t tG&n \\1t++ .\nFrom this we conclude that for any 0<=<1 there exists t0>4 such that for t0<t<n1 (log n1)2 and t0<tx<n1 (log n1)2,\nlog Un (tx)&log Un (t)&# log x A(tx)\n\\\n= d\nlog U \\ txtxG&n ( 1tx)+&log U(tx)&# log \\ 1 txG&n ( 1 tx)+\nA(tx) \\\nA(tx) A(t)\n& log U \\ ttG&n ( 1t )+&log U(t)&# log \\ 1 tG&n ( 1 t )+\nA(t) \\\n+ log U(tx)&log U(t)&# log x\nA(t) \\\n+ # log \\ 1txG&n ( 1tx)+\nA(t) \\ & # log \\ 1tG&n ( 1t )+ A(t) \\\n_(1+=) \\txG&n \\ 1tx++ &\\ e= |log(txGn&(1 tx))|&1& (1+=) x\\e= |log x|\n&(1&=) \\tG&n \\1t++ &\\ e&= |log(tGn&(1 t))|+1+(1+=) x\\e= |log x|\n&1+ } #\\A(t) } 2 \\} txG&n \\ 1 tx+&1 }+ } tG&n \\ 1 t+&1 }+ a.s.\n(1+=) _\\txG&n \\ 1tx++ &\\\n&1& e= |log(txGn&(1 tx))| (1+=) x\\e= |log x| +(1+=) |e= |log(txGn&(1 tx))|&1| (1+=) x\\e= |log x|\n+=(1+=) x\\e= |log x|&(1&=) _\\tG&n \\1t++ &\\\n&1& _e&= |log(tGn&(1 t))|&(1&=)[e&= |log(tGn&(1 t))|&1]&=\n+(1+=) x\\e= |log x|&1+ } #\\A(t) } 4 - t log n - n (- x+1) a.s.\n(1+=)(&\\)(2&\\&1 6 21+\\) } txG&n \\ 1tx+&1 } e= log 2 (1+=) x\\ _e= |log x|+4=e= log 2 (1+=) x\\e= |log x|+(1+=)2 x\\e= |log x|&1\n+(1&=)(&\\)(2&\\&1 6 21+\\) } tG&n \\1t+&1 } e= log 2\n+4=(1&=) e= log 2&=+ } #\\A(t) } 4 - t log n - n (- x+1) a.s.\n_(&\\)(2&\\+1 6 23+\\)+2 } #\\A(t) }& 2 - t log n - n (- x+1)\n+(1+9=)(1+=) x\\e= |log x|&1+7= a.s. (3.7)\nSimilarly,\nlog Un (tx)&log Un (t)&# log x A(t) \\\n&_(&\\)(2&\\+1 6 23+\\)+2 } #\\A(t) }& 2 - t log n - n (- x+1)\n+(1&9=)(1&=) x\\e&= |log x| &1&7= a.s. (3.8)\nInequalities (3.7) and (3.8) are valid in probability with t replaced by Yn1 , n1&k1 and tx replaced by Yn1 , ni+1 (i=1, ..., k1) since\n4 Yn1 , n1&i+1 Yn1 , n1 (i=1, ..., k1) in probability,\nand\nYn1 , n1 (n1(log n1)2) 0 in probability\nfor n1 and k1 n1 0. We now minimize\nE((M*n1(k1)&2(#*n1 (k1)) 2)2 | Xn).\nNote that, conditionally, given Xn , Pn1 is once again a normalized m of i.i.d. random variables from an exponential distribution. Hence, when n1 increases, the distribution of Pn1 approaches a normal one. The case is similar for Qn1 .\nWe proceed as in the proof of Theorem 2 and use\n#*n1 (k1) = d #+ #Pn1 - k1 +d1A(Yn1 , n1&k1)+op (A(n1 k1))\n+O \\log n - n1 k1- n + ,\n(#*n1 (k1)) 2 = d #2+ 2#2Pn1 - k1 +2#d1A(Yn1 , n1&k1)\n+op \\A \\n1k1+++O \\ log n - n1 k1\n- n + , and\nM*n1 (k1) = d 2#2+ #2Qn1 - k1 +d2A(Yn1 , n1&k1)\n+op \\A \\n1k1+++O \\ log n - n1 k1\n- n + . Note that the term log n - n1 k1 - n=o(1 - k1 ), so that it can be neglected in the minimization process. The statement of Theorem 4 follows. K\nProof of Corollary 5. The proof follows easily from Theorem 2 and Theorem 4 and the fact that\nt1 (2\\&1)s& (1 t) (&2\\c2)1 (1&2\\). K\nProof of Theorem 6. Since k*1, 0 # RV&2\\ (1&2\\) in probability, we have\nlog k*1, 0 log n1 w p &2\\ 1&2\\\n(see Proposition 1.7.1 of Geluk and de Haan, 1987); i.e.,\nlog k*1, 0 &2 log n1+2 log k*1, 0 w p \\. (3.9)\nWrite the result of Corollary 5 for k*1, 0 and k*2, 0 ,\nk*1, 0 k 0 <\\ n1 n +\n2\\ (2\\&1)\nw p 1,\nk*2, 0 k 0 <\\ n2 n +\n2\\ (2\\&1)\nw p 1.\nHence\nk 0k*2, 0 (k*1, 0)2 w p 1, (3.10)\nand by Corollary 3\n(k*1, 0 (n1))2 k*2, 0 (n2) k0 (n) w p \\1&1\\+ 2 (1&2\\) .\nAn application of the estimate of \\ from (3.9) gives the result. K\nProof of Corollary 7. We now have a random sequence k 0 (n) with the property\nlim n k 0 (n) k0 (n) =1 in probability.\nTheorem 4.1 of Hall and Welsh (1985) now guarantees that #n (k 0 (n)) achieves the optimal rate. K"
+        },
+        {
+            "heading": "4. SIMULATION AND ESTIMATION",
+            "text": "We investigate the performance of our fully automatic estimation procedure by means of Monte Carlo experiments and by an application to some financial data sets, i.e., the stock-price index S6P 500 and foreign exchange quote data. The sample sizes are typical for current financial data sets, ranging from 2,000 to 20,000 observations. The sample size in the Monte Carlo experiments were chosen to be equally large.\n4.1. Simulations\nWe evaluate the performance of our estimators for #, \\, and k0 (n) on the basis of pseudo i.i.d. random numbers from the Student-t and type-II extreme value distributions in addition to two cases of dependent data. The tail index 1 # equals the degrees of freedom in the case of the Student-t distribution. Recall that the type-II extreme value distribution reads exp[&x&1 #]. We focus on 1 #=1, 4, and 11. For the Student-t distribution \\ #=&2, while for the extreme value distribution \\=&1.\nIn addition to the i.i.d. data, we also investigate the performance of our estimator for dependent data. From Hsing (1991), Resnick and Starica (1998), and Embrechts et al. (1997) we know that the Hill estimator is consistent for dependent data like the ARMA processes and ARCH-type processes. We focus on two stochastic processes.\nFirst, the MA(1) process Yt=Xt+Xt&1 , where the Xt are i.i.d. Student-t with 1 #=3 degrees of freedom is considered. The first- and second-order parameters of the tail expansion of Yt can be computed by standard calculus methods. The interest in this process derives from the fact that while #n (k) is biased upward for Student-t distributions, the bias switches sign for the marginal distribution of Y; i.e., the c-parameter in the A(t) function switches sign.\nThe other stochastic process exhibits conditional heteroscedasticity. Financial time series return data typically have the fair game property with dependence only in the second moment; see e.g. Bollerslev et al. (1992) and Embrechts et al. (1997). The following stochastic volatility process is typical for the processes that are used to model financial return data:\nYt =UtXtHt ,\nUt i.i.d. discrete uniform on &1, 1,\nXt=- 57 Zt , Zt t/ (3) i.i.d.,\nHt=0.1Qt+0.9Ht&1 , Qt tN(0, 1), i.i.d.\nThe Xt and Zt are chosen such that the marginal distribution Yt has a Student-t with a three degrees of freedom distribution. This allows us to evaluate the performance of our procedure.\nThe results of the Monte Carlo experiments are reported in Tables I and II for sample sizes of 2,000 and 20,000, respectively. Each table is based on 250 simulations per distribution. For the choice of the tuning parameter n1 we use the procedure described at the end of Section 2. Hence, for n=2,000 we searched over the interval from n1=600 to n1=1700 in increments of 100. The number of bootstrap resamples was 1,000. In the larger sample with size n=20,000 we searched from n1=2,000 to n1=15,000, in increments of 1,000, using 500 bootstrap resamples for each n1 . The grid size could be made much finer, and the number of resamples larger, for a specific data set in order to increase the precision. For each distribution we report the true value of the parameter, the mean, the standard error (s.e.), and the root mean squared error (RMSE). We report estimates for # and &\\, while k 0 (n) is reported relative to k0 (n).\nFrom the Tables I and II we see that the estimator for the inverse tail index # performs well in terms of bias and standard error for both the larger and the smaller sample sizes. Evidently, in most cases the bias and standard error are lower for the larger sample size n=20,000. The only exception to decent performance in terms of bias is the Student-t with 11 degrees of freedom, since it is heavily upward biased in the smaller sample.\nTABLE I\nMonte Carlo Experiment with n=2,000\nDistribution Parameters True Mean S.E. RMSE\nStudent(1) # 1.000 1.004 0.106 0.106 &\\ 2.000 1.332 0.362 0.768 k (n) k0 (n) 1.000 0.874 0.426 0.444 Student(4) # 0.250 0.296 0.074 0.087\n&\\ 0.500 0.562 0.235 0.242 k 0 (n) k0 (n) 1.000 1.133 0.988 0.995\nStudent(11) # 0.091 0.170 0.050 0.094 &\\ 0.182 0.374 0.173 0.258 k 0 (n) k0 (n) 1.000 1.386 1.114 1.177 Extreme(1) # 1.000 1.035 0.095 0.101\n&\\ 1.000 2.140 0.818 1.402 k 0 (n) k0 (n) 1.000 1.342 0.732 0.806\nExtreme(4) # 0.250 0.259 0.024 0.025 &\\ 1.000 2.138 0.817 1.400 k 0 (n) k0 (n) 1.000 1.339 0.732 0.805 Extreme(11) # 0.091 0.094 0.009 0.010\n&\\ 1.000 2.137 0.824 1.403 k 0 (n) k0 (n) 1.000 1.338 0.735 0.808\nMA(1) # 0.333 0.322 0.089 0.090 &\\ 0.667 0.621 0.279 0.282 k 0 (n) k0 (n) 1.000 2.544 2.260 2.733 Stochastic # 0.333 0.368 0.083 0.090\nvolatility &\\ 0.667 0.663 0.252 0.252 k 0 (n) k0 (n) 1.000 1.041 0.827 0.826\nThis occurs even though the RMSE does not vary that much with # for the Student-t class. Thus for some applications the RMSE criterion may give too low a weight to the bias. The method also works well for the two stochastic processes.\nThe estimates for the second-order parameter \\ are less precise than those for the first-order parameter (after rescaling the standard error by the true parameter value). The tail observations are naturally more informative about the leading terms of the expansion at infinity. Because k 0 (n) depends on \\\u0302, it is not surprising to see that the same observation applies to k 0 (n) k0 (n). As was predicted on the basis of the theoretical parameters, the MA(1) #-estimate is downward biased, while it is upward biased for the Student-t model.\nAnother way to evaluate our procedures is to see how the performance changes as the sample size is increased by the factor 10 if we move from 2,000 to 20,000 observations. From theory we know that the asymptotic\nTABLE II\nMonte Carlo Experiment with n=20,000\nDistribution Parameters True Mean S.E. RMSE\nStudent(1) # 1.000 1.009 0.037 0.038 &\\ 2.000 1.519 0.253 0.543 k (n) k0 (n) 1.000 1.023 0.372 0.372 Student(4) # 0.250 0.283 0.029 0.044\n&\\ 0.500 0.646 0.126 0.193 k 0 (n) k0 (n) 1.000 1.562 1.038 1.179\nStudent(11) # 0.091 0.146 0.033 0.064 &\\ 0.182 0.423 0.118 0.269 k 0 (n) k0 (n) 1.000 2.379 2.235 2.631 Extreme(1) # 1.000 1.026 0.033 0.042\n&\\ 1.000 1.940 0.417 1.028 k 0 (n) k0 (n) 1.000 1.635 0.722 0.960\nExtreme(4) # 0.250 0.257 0.008 0.011 &\\ 1.000 1.939 0.415 1.026 k 0 (n) k0 (n) 1.000 1.629 0.715 0.951 Extreme(11) # 0.091 0.093 0.063 0.004\n&\\ 1.000 1.942 0.414 1.028 k 0 (n) k0 (n) 1.000 1.632 0.719 0.956\nMA(1) # 0.333 0.321 0.044 0.046 &\\ 0.667 0.766 0.201 0.224 k 0 (n) k0 (n) 1.000 3.977 2.732 4.037 Stochastic # 0.333 0.357 0.030 0.038\nvolatility &\\ 0.667 0.744 0.134 0.154 k 0 (n) k0 (n) 1.000 1.281 0.768 0.816\nbias and RMSE should drop by a factor 10&\\ (1&2\\), while the squared root of the ratio of the asymptotically optimal number of highest order statistics k0 should increase by the same factor. In Table III we report the ratios that are implied by comparing the numbers from Tables I and II. The RMSE and upper order statistics ratios are close to the true factor. The bias ratio is less favorable. There are two cases where the bias deteriorated in the larger sample.\n4.2. Asset Return Data\nThe financial data sets we examine have been widely studied in the area of finance. The use of high frequency data in financial research and applications has become standard. For example, some data sets studied in the special issue of the Journal of Empirical Finance edited by Baillie and Dacorogna (1997) were larger than 1.5 million, and the sample sizes of the data sets studied in Embrechts et al. (1997, Chap. 6) are of the order of magnitude of 10,000. Nevertheless, even though several aspects of these\nTABLE III\nAsymptotic Ratios\nDistribution True factor Bias ratio RMSE ratio Root of the k 0 (n) ratio\nStudent(1) 2.51 0.44 2.78 2.71 Student(4) 1.78 1.39 1.97 2.09 Student(11) 1.36 1.43 1.46 1.78 Extreme(1) 2.15 1.35 2.41 2.37 Extreme(2) 2.15 1.28 2.27 2.38 Extreme(11) 2.15 1.50 2.50 2.38 MA(1) 1.93 0.92 1.96 2.41 Stochastic volatility 1.93 1.46 2.37 2.14\nhigh frequency data are by now well understood, the distribution of tail events has received comparatively little attention in the finance literature. On the other hand, this is of clear importance for such applications as risk management. Here we describe the shape of the tails for two such data sets.\nWe selected daily returns from the S6P 500 stock index with 18,024 observations from 1928 to 1997, and data extracted from all quotes on the DM Dollar contract from September 1992 to October 1993. The quote data was supplied by Olsen and Associates who continuously collect these data from the markets. The number of quotes is over 1.5 million, and these quotes are irregularly spaced throughout the year. The quotes were aggregated into 52,588 10-minute return observations. The data and the aggregation procedures are described by Danielsson and de Vries (1997). In order to examine the change in the tail properties of the data over the time interval we decided to create subsamples of the first 2,000 and last 2,000 observations for both data sets in addition to using the first and last 20,000 observations on the foreign exchange rate data, and the entire stock index data set. In the estimation procedure we employed the same grid for n1 as was used in the simulations; the number of bootstrap resamples, however, was increased to 5,000.\nLet Pt be the price at time t of a financial asset like equity or foreign exchange. The compound return on holding such an asset for one period is log(Pt+1 Pt). Hence, returns are denomination free. Therefore returns on different assets can be directly compared. One dimension along which the asset returns can be compared in order to assess their relative risk characteristics is by means of the tail index. Financial corporations are required to use large data sets on past returns to evaluate the risk on their trading portfolio. The minimum required capital stock of these financial institutions is determined on the basis of this risk. The capital requirement ensures that banks can meet the incidental heavy losses that are so characteristic of the financial markets. The frequency of these large losses can be\nTABLE IV\nDescriptive Statistics\nAnnualized Annualized Series mean return standard error Skewness Kurtosis\nDM US First 2,000 0.842 0.209 0.70 7.98 Last 2,000 0.431 0.131 0.78 12.82\nFirst 20,000 0.377 0.144 0.31 10.85 Last 20,000 0.051 0.116 &0.01 17.35\nS6P500 First 2,000 &0.080 0.343 0.22 5.33 Last 2,000 0.115 0.117 &0.45 4.53\nAll 18,024 0.053 0.179 &0.49 22.71\nanalyzed by means of extreme value theory; see e.g. Jansen and de Vries (1991) for an early example of this approach and Embrechts et al. (1997) for a more recent treatment. In this analysis, the measurement of # is very important because it indicates the shape and heaviness of the distribution of returns. It is the essential input for predictions of out-of-sample losses; see de Haan et al. (1994).\nIn Table IV we report some descriptive statistics. The mean return and standard error of the returns have been annualized because the magnitude in the high frequency returns is typically very small (for the daily return data we assumed 250 trading days per year). As the tables shows, all data exhibit a high kurtosis which points to peakedness in the center of the return distribution and heavy tails. The main results are reported in Table V. We see that the tails are indeed heavy. The 1 # estimates show that the number of bounded moments hovers around 3 to 4. The shorter samples necessarily give less precise estimates of #, but the results for the subsamples appear to be consistent with the large sample results. As was the case in the simulation experiments there is more variation in the \\\u0302 and k 0 (n). The table yields an interesting impression concerning the first- and second-order tail indices; It appears that both # and \\ are about equal for either asset. An economic explanation for this observation might be that arbitrage induces similar tail shapes and hence similar risk properties. The equality of # across different assets has been suggested before. But due to the fact that this observation depends on the more or less arbitrary choices of k(n), no firm conclusion regarding this observation could be reached. The current method overcomes this problem."
+        }
+    ],
+    "title": "Using a Bootstrap Method to Choose the Sample Fraction in Tail Index Estimation",
+    "year": 2001
+}

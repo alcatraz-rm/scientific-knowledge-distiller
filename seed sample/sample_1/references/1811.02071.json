@@ -1,0 +1,1172 @@
+{
+    "abstractText": "Ivan Voitalov, 2 Pim van der Hoorn, 2 Remco van der Hofstad, and Dmitri Krioukov 2, 4, 5 Department of Physics, Northeastern University, Boston, Massachusetts 02115, USA Network Science Institute, Northeastern University, Boston, Massachusetts 02115, USA Department of Mathematics and Computer Science, Eindhoven University of Technology, Postbus 513, 5600 MB Eindhoven, Netherlands Department of Mathematics, Northeastern University, Boston, Massachusetts 02115, USA Department of Electrical & Computer Engineering, Northeastern University, Boston, Massachusetts 02115, USA",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Ivan Voitalov"
+        },
+        {
+            "affiliations": [],
+            "name": "Pim van der Hoorn"
+        },
+        {
+            "affiliations": [],
+            "name": "Remco van der Hofstad"
+        },
+        {
+            "affiliations": [],
+            "name": "Dmitri Krioukov"
+        }
+    ],
+    "id": "SP:54360a570efc874abc8b46e1d0f63207a3c3ac8f",
+    "references": [
+        {
+            "authors": [
+                "M.E.J. Newman"
+            ],
+            "title": "Networks",
+            "venue": "2nd ed. ",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Barrat",
+                "M. Barth\u00e9lemy"
+            ],
+            "title": "and A",
+            "venue": "Vespignani, Dynamical Processes on Complex Networks ",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "S.N. Dorogovtsev",
+                "A.V. Goltsev",
+                "J.F.F. Mendes"
+            ],
+            "title": "Critical Phenomena in Complex Networks",
+            "venue": "Rev. Mod. Phys. 80, 1275 ",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "A. Arenas"
+            ],
+            "title": "A",
+            "venue": "D\u0131\u0301az-Guilera, J. Kurths, Y. Moreno, and C. Zhou, Synchronization in Complex Networks, Phys. Rep. 469, 93 ",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "W. Willinger",
+                "R. Govindan",
+                "S. Jamin",
+                "V. Paxson",
+                "S. Shenker"
+            ],
+            "title": "Scaling Phenomena in the Internet: Critically Examining Criticality",
+            "venue": "Proc. Natl. Acad. Sci. U.S.A. 99, 2573 ",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "L. Li",
+                "D. Alderson",
+                "J.C. Doyle",
+                "W. Willinger"
+            ],
+            "title": "Towards a Theory of Scale-Free Graphs: Definition",
+            "venue": "Properties, and Implications, Internet Math. 2, 431 ",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "D. Krioukov",
+                "K. Claffy",
+                "M. Fomenkov",
+                "F. Chung",
+                "A. Vespignani",
+                "W. Willinger"
+            ],
+            "title": "The Workshop on Internet Topology (WIT) Report",
+            "venue": "ACM SIGCOMM Comput. Commun. Rev. 37, 69 ",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "W. Willinger",
+                "D. Alderson",
+                "J.C. Doyle"
+            ],
+            "title": "Mathematics and the Internet: A Source of Enormous Confusion and Great Potential",
+            "venue": "Not. Am. Math. Soc. 56, 586 ",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "M. Mitzenmacher"
+            ],
+            "title": "A Brief History of Generative Models for Power Law and Lognormal Distributions",
+            "venue": "Internet Math. 1, 226 ",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "R. Khanin",
+                "E. Wit"
+            ],
+            "title": "How Scale-Free Are Biological Networks",
+            "venue": "J. Comput. Biol. 13, 810 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "M.P.H. Stumpf",
+                "M.A. Porter"
+            ],
+            "title": "Critical Truths About Power Laws",
+            "venue": "Science 335, 665 ",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "\u00c1. Corral",
+                "F. Font",
+                "J. Camacho"
+            ],
+            "title": "Noncharacteristic half-lives in radioactive decay",
+            "venue": "Phys. Rev. E 83, 066103 ",
+            "year": 2011
+        },
+        {
+            "authors": [
+                "\u00c1. Corral",
+                "\u00c1. Gonz\u00e1lez"
+            ],
+            "title": "Power-law distributions in geoscience revisited",
+            "venue": "",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "A. Clauset",
+                "C.R. Shalizi",
+                "M.E. Newman"
+            ],
+            "title": "Powerlaw Distributions in Empirical Data",
+            "venue": "SIAM Rev. 51, 661 ",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "A.D. Broido",
+                "A. Clauset"
+            ],
+            "title": "Scale-free networks are rare",
+            "venue": "Nat. Commun. 10, 1017 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "E. Klarreich"
+            ],
+            "title": "Scant Evidence of Power Laws Found in Real-World Networks",
+            "venue": "",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "P. Holme"
+            ],
+            "title": "Rare and everywhere: Perspectives on scalefree networks",
+            "venue": "Nat. Commun. 10, 1016 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "J. Lee",
+                "L.F. James",
+                "S. Choi",
+                "F. Caron"
+            ],
+            "title": "A Bayesian model for sparse graphs with flexible degree distribution and overlapping community structure",
+            "venue": "",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "H. Drees",
+                "A. Jan\u00dfen",
+                "S.I. Resnick",
+                "T. Wang"
+            ],
+            "title": "On a minimum distance procedure for threshold selection in tail analysis",
+            "venue": "",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "M. Gerlach",
+                "E.G. Altmann"
+            ],
+            "title": "Testing Statistical Laws in Complex Systems",
+            "venue": "Phys. Rev. Lett. 122, 168301 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "M. Serafino",
+                "G. Cimini",
+                "A. Maritan",
+                "S. Suweis",
+                "J.R. Banavar",
+                "G. Caldarelli"
+            ],
+            "title": "Scale-free networks revealed from finite-size scaling",
+            "venue": "",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "A. Charpentier",
+                "E. Flachaire"
+            ],
+            "title": "Extended Scale-Free Networks",
+            "venue": "",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "S.N. Dorogovtsev",
+                "J.F.F. Mendes",
+                "A.N. Samukhin"
+            ],
+            "title": "Structure of Growing Networks with Preferential Linking",
+            "venue": "Phys. Rev. Lett. 85, 4633 ",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "P.L. Krapivsky",
+                "S. Redner",
+                "F. Leyvraz"
+            ],
+            "title": "Connectivity of Growing Random Networks",
+            "venue": "Phys. Rev. Lett. 85, 4629 ",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "B. Bollob\u00e1s",
+                "O. Riordan",
+                "J. Spencer",
+                "G. Tusn\u00e1dy"
+            ],
+            "title": "The degree sequence of a scale-free random graph process",
+            "venue": "Random Struct. Algor. 18, 279 ",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "S.I. Resnick"
+            ],
+            "title": "Heavy-tail Phenomena: Probabilistic and Statistical Modeling (Springer",
+            "venue": "New York,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "N.H. Bingham",
+                "C.M. Goldie"
+            ],
+            "title": "and J",
+            "venue": "L. Teugels, Regular Variation ",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "S. Foss",
+                "D. Korshunov",
+                "S. Zachary"
+            ],
+            "title": "An Introduction to Heavy-tailed and Subexponential Distributions",
+            "venue": "Vol. 6 ",
+            "year": 2011
+        },
+        {
+            "authors": [
+                "J. Beirlant",
+                "Y. Goegebeur",
+                "J. Segers"
+            ],
+            "title": "and J",
+            "venue": "L. Teugels, Statistics of Extremes: Theory and Applications ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "C. Stegehuis"
+            ],
+            "title": "R",
+            "venue": "van der Hofstad, A. Janssen, and J. S. van Leeuwaarden, Clustering Spectrum of Scalefree Networks, Phys. Rev. E 96, 042309 ",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "M. Bogu\u00f1\u00e1",
+                "D. Krioukov",
+                "K.C. Claffy"
+            ],
+            "title": "Navigability of Complex Networks",
+            "venue": "Nat. Phys. 5, 74 ",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "S.A. Delre",
+                "W. Jager",
+                "T.H. Bijmolt",
+                "M.A. Janssen"
+            ],
+            "title": "Will It Spread or Not? The Effects of Social Influences and Network Topology on Innovation Diffusion",
+            "venue": "J. Prod. Innov. Manag. 27, 267 ",
+            "year": 2010
+        },
+        {
+            "authors": [
+                "B. Doerr",
+                "M. Fouz",
+                "T. Friedrich"
+            ],
+            "title": "Why Rumors Spread so Quickly in Social Networks",
+            "venue": "Commun. ACM 55, 70 ",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "K. Bringmann",
+                "R. Keusch",
+                "J. Lengler",
+                "Y. Maus"
+            ],
+            "title": "and A",
+            "venue": "Molla, in Proceedings of the ACM Symposium on Principles of Distributed Computing - 17 ",
+            "year": 2017
+        },
+        {
+            "authors": [
+                "A. Ameraoui",
+                "K. Boukhetala",
+                "J.-F. Dupuy"
+            ],
+            "title": "Bayesian Estimation of the Tail Index of a Heavy Tailed Distribution Under Random Censoring",
+            "venue": "Comput. Stat. Data Anal. 104, 148 ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "P. Embrechts",
+                "C. Kl\u00fcppelberg",
+                "T. Mikosch"
+            ],
+            "title": "Modelling Extremal Events: for Insurance and Finance",
+            "venue": "Vol. 33 ",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "S. Boucheron",
+                "M. Thomas"
+            ],
+            "title - FOUND": "Tail Index Estimation",
+            "venue": "Concentration and Adaptivity, Electron. J. Stat. 9, 2751 ",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "A.J. McNeil",
+                "R. Frey"
+            ],
+            "title": "Estimation of Tail-related Risk Measures for Heteroscedastic Financial Time Series: an Extreme Value Approach",
+            "venue": "J. Empir. Finance. 7, 271 ",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "D.W. Jansen",
+                "C.G. De Vries"
+            ],
+            "title": "On the frequency of large stock returns: Putting booms and busts into perspective",
+            "venue": "Rev. Econ. Stat. , 18 ",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "J.H. McCulloch"
+            ],
+            "title": "13 financial applications of stable distributions",
+            "venue": "Handbook of statistics 14, 393 ",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "M. Kotulski"
+            ],
+            "title": "Asymptotic distributions of continuoustime random walks: a probabilistic approach",
+            "venue": "J. Stat. Phys. 81, 777 ",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "R. Metzler",
+                "J. Klafter"
+            ],
+            "title": "The random walk\u2019s guide to anomalous diffusion: a fractional dynamics approach",
+            "venue": "Phys. Rep. 339, 1 ",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "S. Lu",
+                "F.J. Molz"
+            ],
+            "title": "How well are hydraulic conductivity variations approximated by additive stable processes? Adv",
+            "venue": "Environ. Res. 5, 39 ",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "S.I. Resnick"
+            ],
+            "title": "Heavy tail modeling and teletraffic data: special invited paper",
+            "venue": "Ann. Statist. 25, 1805 ",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "C.L. Nikias",
+                "M. Shao"
+            ],
+            "title": "Signal processing with alpha-stable distributions and applications",
+            "venue": "(Wiley- Interscience,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "R.L. Wasserstein",
+                "N.A. Lazar"
+            ],
+            "title": "The ASA\u2019s Statement on p-values: Context",
+            "venue": "Process, and Purpose, Am. Stat. 70, 129 ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "R.L. Wasserstein",
+                "A.L. Schirm"
+            ],
+            "title": "and N",
+            "venue": "A. Lazar, Moving to a World Beyond \u201cp < 0.05\u201d, Am. Stat. 73, 1 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "I. Voitalov"
+            ],
+            "title": "Tail Index Estimation for Degree Sequences of Complex Networks",
+            "venue": "https://github.com/ ivanvoitalov/tail-estimation ",
+            "year": 2018
+        },
+        {
+            "authors": [
+                "B.M. Hill"
+            ],
+            "title": "A Simple General Approach to Inference About the Tail of a Distribution",
+            "venue": "Ann. Stat. 3, 1163 ",
+            "year": 1975
+        },
+        {
+            "authors": [
+                "A.L. Dekkers",
+                "J.H. Einmahl",
+                "L. De Haan"
+            ],
+            "title": "A Moment Estimator for the Index of an Extreme-value Distribution",
+            "venue": "Ann. Stat. 17, 1833 ",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "P. Groeneboom",
+                "H. Lopuha\u00e4",
+                "P. De Wolf"
+            ],
+            "title": "Kerneltype Estimators for the Extreme Value Index",
+            "venue": "Ann. Stat. 31, 1956 ",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "T. Wang",
+                "S.I. Resnick"
+            ],
+            "title": "Consistency of Hill estimators in a linear preferential attachment model",
+            "venue": "Extremes 22, 1 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "E.A. Bender",
+                "E.R. Canfield"
+            ],
+            "title": "The Asymptotic Number of Labeled Graphs with Given Degree Sequences",
+            "venue": "J. Comb. Theory, Ser. A 24, 296 ",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "B. Bollob\u00e1s"
+            ],
+            "title": "A Probabilistic Proof of an Asymptotic Formula for the Number of Labelled Regular Graphs",
+            "venue": "Eur. J. Comb. 1, 311 ",
+            "year": 1980
+        },
+        {
+            "authors": [
+                "N.C. Wormald"
+            ],
+            "title": "Some Problems in the Enumeration of Labelled graphs",
+            "venue": "B. Aust. Math. Soc. 21, 159 ",
+            "year": 1980
+        },
+        {
+            "authors": [
+                "R. Arratia",
+                "T.M. Liggett"
+            ],
+            "title": "How Likely is an i.i.d. Degree Sequence to be Graphical",
+            "venue": "Ann. Appl. Probab. 15,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "C.I. Del Genio",
+                "H. Kim",
+                "Z. Toroczkai",
+                "K.E. Bassler"
+            ],
+            "title": "Efficient and Exact Sampling of Simple Graphs with Given Arbitrary Degree Sequence",
+            "venue": "PLoS One 5, e10012 ",
+            "year": 2010
+        },
+        {
+            "authors": [
+                "K.F. Chan",
+                "P. Gray"
+            ],
+            "title": "Using Extreme Value Theory to Measure Value-at-risk for Daily Electricity Spot Prices",
+            "venue": "Int. J. Forecast. 22, 283 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "J. Danielsson",
+                "C.G. De Vries"
+            ],
+            "title": "Value-at-risk and Extreme Returns",
+            "venue": "Ann. Econ. Statist. , 239 ",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "M. Gilli",
+                "E. K\u00ebllezi"
+            ],
+            "title": "An Application of Extreme Value Theory for Measuring Financial Risk",
+            "venue": "Comput. Econ. 27, 207 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "R.A. Fisher",
+                "L.H.C. Tippett"
+            ],
+            "title": "Limiting forms of the frequency distribution of the largest or smallest member of a sample",
+            "venue": "Math. Proc. Cambridge Philos. Soc. 24, 180 ",
+            "year": 1928
+        },
+        {
+            "authors": [
+                "B. Gnedenko"
+            ],
+            "title": "Sur la Distribution Limite du Terme Maximum d\u2019une Serie Aleatoire",
+            "venue": "Ann. Math. 44, 423 ",
+            "year": 1943
+        },
+        {
+            "authors": [
+                "M. Matsui",
+                "T. Mikosch",
+                "L. Tafakori"
+            ],
+            "title": "Estimation of the Tail Index for Lattice-valued Sequences",
+            "venue": "Extremes 16, 429 ",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "III J. Pickands"
+            ],
+            "title": "Statistical Inference Using Extreme Order Statistics",
+            "venue": "Ann. Stat. 3, 119 ",
+            "year": 1975
+        },
+        {
+            "authors": [
+                "J. Segers"
+            ],
+            "title": "Generalized Pickands Estimators for the Extreme Value Index",
+            "venue": "J. Stat. Plan. Infer. 128, 381 ",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "W.L. Shinyie",
+                "N. Ismail",
+                "A.A. Jemain"
+            ],
+            "title": "Semiparametric Estimation for Selecting Optimal Threshold of Extreme Rainfall Events",
+            "venue": "Int. Ser. Prog. Wat. Res. 27, 2325 ",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "S. M\u00fcller",
+                "K. Rufibach"
+            ],
+            "title - FOUND": "Smooth Tail-index Estimation",
+            "venue": "J. Stat. Comput. Sim. 79, 1155 ",
+            "year": 2009
+        },
+        {
+            "authors": [
+                "M.I. Gomes",
+                "A. Guillou"
+            ],
+            "title": "Extreme Value Theory and Statistics of Univariate Extremes: A Review",
+            "venue": "Int. Stat. Rev. 83, 263 ",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "P. Billingsley"
+            ],
+            "title": "Convergence of probability measures",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "P. Krapivsky",
+                "D. Krioukov"
+            ],
+            "title": "Scale-free Networks as Preasymptotic Regimes of Superlinear Preferential Attachment",
+            "venue": "Phys. Rev. E 78, 026114 ",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "S. Dommers",
+                "C. Giardin\u00e0"
+            ],
+            "title": "and R",
+            "venue": "van der Hofstad, Ising Critical Exponents on Random Trees and Graphs, Commun Math Phys 328, 355 ",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "R. Cohen",
+                "S. Havlin"
+            ],
+            "title": "Scale-Free Networks Are Ultrasmall",
+            "venue": "Phys. Rev. Lett. 90, 058701 ",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Bogu\u00f1\u00e1",
+                "R. Pastor-Satorras",
+                "A. Vespignani"
+            ],
+            "title": "Cut-offs and Finite Size Effects in Scale-free Networks",
+            "venue": "Eur. Phys. J. B 38, 205 ",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "A. Clauset",
+                "E. Tucker",
+                "M. Sainz"
+            ],
+            "title": "The Colorado Index of Complex Networks",
+            "venue": "https://icon.colorado. edu/ ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "C. Orsini",
+                "M.M. Dankulov",
+                "P. Colomer-de Sim\u00f3n",
+                "A. Jamakovic",
+                "P. Mahadevan",
+                "A. Vahdat",
+                "K.E. Bassler",
+                "Z. Toroczkai",
+                "M. Bogu\u00f1\u00e1",
+                "G. Caldarelli",
+                "S. Fortunato",
+                "D. Krioukov"
+            ],
+            "title": "Quantifying randomness in real networks",
+            "venue": "Nat. Commun. 6, 8627 ",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "S.A. Hill"
+            ],
+            "title": "A measure for characterizing heavy-tailed networks",
+            "venue": "arXiv:1907.04808 ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "N. Berger",
+                "C. Borgs",
+                "J.T. Chayes"
+            ],
+            "title": "R",
+            "venue": "M. D\u2019Souza, and R. D. Kleinberg, Degree Distribution of Competition-induced Preferential Attachment Graphs, Comb. Probab. Comput. 14, 697 ",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "D. Krioukov",
+                "M. Kitsak",
+                "R.S. Sinkovits",
+                "D. Rideout",
+                "D. Meyer",
+                "M. Bogu\u00f1\u00e1"
+            ],
+            "title": "Network Cosmology",
+            "venue": "Sci. Rep. 2, 793 ",
+            "year": 2012
+        },
+        {
+            "authors": [
+                "H. Jessen",
+                "T. Mikosch"
+            ],
+            "title": "Regularly varying functions",
+            "venue": "Publ. l\u2019Institut. Math. 80, 171 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "G.E. Willmot",
+                "X.S. Lin",
+                "in Lundberg"
+            ],
+            "title": "Approximations for Compound Distributions with Insurance Applications (Springer",
+            "venue": "New York,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "M. Bogun\u00e1",
+                "R. Pastor-Satorras"
+            ],
+            "title": "Class of Correlated Random Networks with Hidden Variables",
+            "venue": "Phys. Rev. E 68, 036112 ",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "B. Bollob\u00e1s",
+                "S. Janson",
+                "O. Riordan"
+            ],
+            "title": "The Phase Transition in Inhomogeneous Random Graphs",
+            "venue": "Random Struct. Algor. 31, 3 ",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "L. Lov\u00e1sz",
+                "B. Szegedy"
+            ],
+            "title": "Limits of Dense Graph Sequences",
+            "venue": "J. Comb. Theory, Ser. B 96, 933 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "S.I. Resnick"
+            ],
+            "title": "Extreme Values",
+            "venue": "Regular Variation and Point Processes ",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "T. Mikosch"
+            ],
+            "title": "Regular Variation",
+            "venue": "Subexponentiality and Their Applications in Probability Theory , Report Eurandom, Vol. 99013 ",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "S. Resnick",
+                "C. St\u0103ric\u0103"
+            ],
+            "title": "Smoothing the Hill estimator",
+            "venue": "Adv. Appl. Probab. 29, 271 ",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "T.T. Pereira"
+            ],
+            "title": "in Extreme Value Theory and Applications III",
+            "venue": "Proc. Gaithersburg Conference (NIST special publ.) ",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "M. Falk"
+            ],
+            "title": "Efficiency of Convex Combinations of Pickands Estimator of the Extreme Value Index",
+            "venue": "J. Nonparametr. Stat. 4, 133 ",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "M.F. Alves"
+            ],
+            "title": "Estimation of the Tail Parameter in the Domain of Attraction of an Extremal Distribution",
+            "venue": "J. Stat. Plan. Infer. 45, 143 ",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "H. Drees"
+            ],
+            "title": "Refined Pickands Estimators of the Extreme Value Index",
+            "venue": "Ann. Stat. 23, 2059 ",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "S. Yun"
+            ],
+            "title": "On a Generalized Pickands Estimator of the Extreme Value Index",
+            "venue": "J. Stat. Plan. Infer. 102, 389 ",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "G. Draisma"
+            ],
+            "title": "L",
+            "venue": "de Haan, L. Peng, and T. T. Pereira, A Bootstrap-based Method to Achieve Optimality in Estimating the Extreme-value Index, Extremes 2, 367 ",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "Y. Qi"
+            ],
+            "title - FOUND": "Bootstrap and Empirical Likelihood Methods in Extremes",
+            "venue": "Extremes 11, 81 ",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "J. Danielsson"
+            ],
+            "title - FOUND": "L",
+            "venue": "de Haan, L. Peng, and C. G. de Vries, Using a Bootstrap Method to Choose the Sample Fraction in Tail Index Estimation, J. Multivar. Anal. 76, 226 ",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "L. de Haan",
+                "A. Ferreira"
+            ],
+            "title": "Extreme Value Theory: an Introduction (Springer",
+            "venue": "New York,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "L. de Haan",
+                "S. Resnick"
+            ],
+            "title": "Second-order regular variation and rates of convergence in extreme-value theory, Ann",
+            "venue": "Probab. 24,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "P. Jordanova",
+                "M. Stehlik"
+            ],
+            "title": "Flexible Extreme Value Inference And Hill Plots For A Small",
+            "venue": "Mid And Large Samples, ",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "J.J. Velthoen"
+            ],
+            "title": "Estimation of the Extreme Value Index for Imprecise Data",
+            "venue": "B.S. thesis, Delft University of Technology ",
+            "year": 2014
+        },
+        {
+            "authors": [
+                "A. Broido"
+            ],
+            "title": "Scale-free network analysis",
+            "venue": "https:// github.com/adbroido/SFAnalysis ",
+            "year": 2019
+        },
+        {
+            "authors": [
+                "D. Huppenkothen",
+                "A.L. Watts",
+                "P. Uttley"
+            ],
+            "title": "A",
+            "venue": "J. Van der Horst, M. Van der Klis, C. Kouveliotou, E. G\u00f6\u011f\u00fc\u015f, J. Granot, S. Vaughan, and M. H. Finger, Quasi-Periodic Oscillations and Broadband Variability in Short Magnetar Bursts, Astrophys. J. 768, 87 ",
+            "year": 2013
+        },
+        {
+            "authors": [
+                "M. Brzezinski"
+            ],
+            "title": "Robust Estimation of the Pareto Tail Index: a Monte Carlo Analysis",
+            "venue": "Empir. Econ. 51, 1 ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "P. Jordanova",
+                "Z. Fabi\u00e1n",
+                "P. Hermann",
+                "L. St\u0159elec",
+                "A. Rivera",
+                "S. Girard",
+                "S. Torres",
+                "M. Steh\u013a\u0131k"
+            ],
+            "title": "Weak Properties and Robustness of t-Hill Estimators",
+            "venue": "Extremes 19, 591 ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "T. Britton",
+                "M. Deijfen",
+                "A. Martin-L\u00f6f"
+            ],
+            "title": "Generating Simple Random Graphs with Prescribed Degree Distribution",
+            "venue": "J. Stat. Phys. 124, 1377 ",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "A.-L. Barab\u00e1si",
+                "R. Albert"
+            ],
+            "title": "Emergence of Scaling in Random Networks",
+            "venue": "Science 286, 509 ",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "D. Krioukov",
+                "F. Papadopoulos",
+                "M. Kitsak",
+                "A. Vahdat",
+                "M. Bogun\u00e1"
+            ],
+            "title": "Hyperbolic Geometry of Complex Networks",
+            "venue": "Phys. Rev. E 82, 036106 ",
+            "year": 2010
+        },
+        {
+            "authors": [
+                "P.L. Krapivsky",
+                "S. Redner"
+            ],
+            "title": "Organization of Growing Random Networks",
+            "venue": "Phys. Rev. E 63, 066123 ",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "R. Aldecoa",
+                "C. Orsini",
+                "D. Krioukov"
+            ],
+            "title": "Hyperbolic Graph Generator",
+            "venue": "Comput. Phys. Commun. 196, 492 ",
+            "year": 2015
+        },
+        {
+            "authors": [
+                "C. Orsini",
+                "R. Aldecoa"
+            ],
+            "title": "Hyperbolic Graph Generator",
+            "venue": "https://github.com/named-data/ Hyperbolic-Graph-Generator/releases ",
+            "year": 2016
+        },
+        {
+            "authors": [
+                "M.L. Goldstein",
+                "S.A. Morris",
+                "G.G. Yen"
+            ],
+            "title": "Problems with fitting to the power-law distribution",
+            "venue": "Eur. Phys. J. B 41, 255 ",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "H. Bauke"
+            ],
+            "title": "Parameter estimation for power-law distributions by maximum likelihood methods",
+            "venue": "Eur. Phys. J. B 58, 167 ",
+            "year": 2007
+        }
+    ],
+    "sections": [
+        {
+            "text": "Scale-Free Networks Well Done\nIvan Voitalov,1, 2 Pim van der Hoorn,1, 2 Remco van der Hofstad,3 and Dmitri Krioukov1, 2, 4, 5\n1Department of Physics, Northeastern University, Boston, Massachusetts 02115, USA 2Network Science Institute, Northeastern University, Boston, Massachusetts 02115, USA\n3Department of Mathematics and Computer Science, Eindhoven University of Technology, Postbus 513, 5600 MB Eindhoven, Netherlands\n4Department of Mathematics, Northeastern University, Boston, Massachusetts 02115, USA 5Department of Electrical & Computer Engineering,\nNortheastern University, Boston, Massachusetts 02115, USA\nWe bring rigor to the vibrant activity of detecting power laws in empirical degree distributions in real-world networks. We first provide a rigorous definition of power-law distributions, equivalent to the definition of regularly varying distributions that are widely used in statistics and other fields. This definition allows the distribution to deviate from a pure power law arbitrarily but without affecting the power-law tail exponent. We then identify three estimators of these exponents that are proven to be statistically consistent\u2014that is, converging to the true value of the exponent for any regularly varying distribution\u2014and that satisfy some additional niceness requirements. In contrast to estimators that are currently popular in network science, the estimators considered here are based on fundamental results in extreme value theory, and so are the proofs of their consistency. Finally, we apply these estimators to a representative collection of synthetic and real-world data. According to their estimates, real-world scale-free networks are definitely not as rare as one would conclude based on the popular but unrealistic assumption that real-world data comes from power laws of pristine purity, void of noise and deviations.\nI. INTRODUCTION\nScale-free and power-law are sacral words in network science, a mature field that studies complex systems in nature and society by representing these systems as networks of interacting elements [1\u20134]. The most basic property of any network, second only to the network size and average degree, is the degree distribution, and the early days of network science were filled with the surprising and exciting news that degree distributions in many realworld networks of completely different origins are scalefree, i.e., \u201cclose to power laws.\u201d This property means that the node degrees in a network are highly variable and lack a characteristic scale, with a multitude of profound and far-reaching implications for a wide spectrum of structural and dynamical properties of networks [1\u20138]. These implications are the reason why these scale-free findings were extremely impactful, and why they steered the whole field of network science in the direction it has followed for nearly two decades. They impacted essentially all the key aspects of network science, from the basic tasks of network modeling, all the way down to concrete applications, such as prediction and control of the dynamics of real-world complex systems, or identifying their vulnerabilities [1\u20134].\nYet there is one glaring problem behind all these exciting developments. The problem is that scale-free networks do not have any widely agreed-upon rigorous definitions. Specifically, it is quite unclear what it really means for a degree sequence in a given real-world network to be power-law or \u201cclose\u201d to a power law. This lack of rigor has led and still leads to confused controversy and never-ending heated debates [9\u201327]. This controversy has culminated in the recent work [20] that concluded that\n\u201cscale-free networks are rare.\u201d Here we arrive at quite a different conclusion based on a state-of-the-art statistical analysis and a more general definition of power laws.\nFaced with the question whether a given real-world network is scale-free or not, one first has to decide how much the data can be trusted\u2014how well does the measured degree sequence reflect the actual degree sequence in the network? We do not address this question here, and assume that we can trust the data. Under this assumption, the next questions are:\n1. What exactly does it mean that a distribution is approximately a power law?\n2. What are the correct, i.e., statistically consistent, methods to estimate the tail exponent of this power law from the measured degree sequence?\n3. How likely is it that the measured sequence comes from a power law with the estimated exponent?\nHere we address all these three questions. One of the most frequently seen formula in the early days of network science was\nP (k) \u223c k\u2212\u03b3 . (1)\nIt intended to say that the fraction P (k) of nodes of degree k in a network under consideration decays with k approximately as a power law with exponent \u03b3. The symbol \u2018\u223c\u2019 could mean anything, but usually its intended meaning was something like \u201croughly proportional.\u201d The literature was also abundant with plots of empirical probability mass/density functions (PMFs/PDFs) P (k) and complementary cumulative distribution functions (CCDFs) F (k) of degrees k drawn on the loglog scale to illustrate\nar X\niv :1\n81 1.\n02 07\n1v 2\n[ ph\nys ic\ns. so\ncph\n] 2\n2 O\nct 2\n01 9\n2 that these functions are \u201croughly straight lines,\u201d so that the network is power-law, thus deserving a publication.\nThe first attempt to introduce some rigor into this vibrant activity, which became overwhelmingly popular in network science, came in [19], when network science was about a decade old. In [19], Eq. (1) was taken literally to mean that P (k) for k \u2265 kmin is exactly proportional to k\u2212\u03b3 , i.e.,\nP (k) = c k\u2212\u03b3 , (2)\nwhere c is the normalization constant. But complexly mixed stochastic processes driving evolution of many different real-world networks are of different origins and nature. Worse, they all are prone to different types and magnitudes of noise and fluctuations. Therefore, basic common sense suggests that these processes can hardly produce beautifully clean power-law dependencies void of any deviations from (2). This is similar to how one cannot expect Newton\u2019s laws on Earth with friction to yield results as beautiful as Newton\u2019s laws in the empty space without friction. That is why it is not surprising that if one looks for such idealized power-law dependencies in real-world networks, one is doomed to find them quite rare [20]. And as far as power-law network models are concerned, even the most basic such model, preferential attachment, is known to have a degree distribution with a power-law tail, but the exact expression for the degree distribution in preferential attachment networks is not a pure power law (2), as shown in [28\u201330]. In fact, power-law network models with the pristine purity of (2) are an exception rather than a rule.\nFor all these reasons, in statistics one considers the class of regularly varying distributions [31\u201334] instead of the pure power laws (2). Compared to the rather restrictive distribution class (2), the class of regularly varying distributions is much larger. In particular, it contains all the distributions whose PDFs are given by\nP (k) = `(k)k\u2212\u03b3 , (3)\nthus allowing for deviations from pure power laws by means of a slowly varying function `(k), i.e., a function that varies slowly at infinity, classic examples including functions converging to constants or loga k for any constant a. The exact definition of regularly varying distributions requires their CCDFs to be of the form\nF (k) := \u2211 k\u2032>k P (k\u2032) = `\u2032(k)k\u2212\u03b1, (4)\nwhere \u03b1 = \u03b3 \u2212 1, and `\u2032(k) is also a slowly varying function. The class of distributions that satisfy (4) is even more general than (3): if (3) holds for a distribution, then so does (4), but not necessarily the other way around.\nCompared to (2), any distribution in the class (4) has the same power-law tail exponent \u03b3, but it can have drastically different shapes for finite degrees. The exact shape of `(k) is of much less significance than the value of the\ntail exponent \u03b3, because it is \u03b3, and not `(k), that is solely definitive for a number of important structural and dynamical properties of networks in the limit of large network size [5\u20138, 35\u201341]. As the simplest example, the value of \u03b3 determines how many moments of the degree distribution remain bounded in the large-graph limit, affecting many important network properties. Yet we also note that some properties of finite-size networks may and usually do depend on a specific form of `(k).\nFor all these reasons, and following the well-established tradition in statistics, in Section II we define a distribution to be power-law if it is regularly varying, i.e., if its CCDF satisfies (4).\nThe next question, that we address in Section III, is how to properly estimate the value of \u03b3 under the assumption that a given degree sequence comes from a regularly varying distribution. This question has attracted extensive research attention in probability, statistics, physics, engineering, and finance [31\u201334, 42\u201352], where a variety of estimators have been developed for this task, all based on extreme value theory. We identify the maximal subset of such estimators that, to the best of our knowledge, are the only currently existing estimators that\n1. are applicable to any regularly varying distribution;\n2. are statistically consistent, i.e., have been proven to converge to the true \u03b3, if applied to increasinglength sequences sampled from any regularly varying distribution; and\n3. can be fully automated by the means of the double bootstrap method that has been proven to yield the optimal estimation of \u03b3 for any finite sequence of numbers sampled from any regularly varying distribution.\nIt is important to stress here that (2) is just one representative of the extremely wide class of regularly varying distributions (4). Therefore, as opposed to the methods in [19, 20] that are consistent only under the assumption that a given degree sequence comes from a pure power law (2) above a certain minimal degree threshold, the estimators that we discuss in Section III are proven to be consistent under the much more general assumption that the sequence comes from any impure power law, including any distribution that satisfies (3) or even (4) with any nontrivial slowly varying functions `(k), `\u2032(k).\nIn Section IV we evaluate these estimators by applying them to a wide range of synthetic sequences sampled from a variety of regularly varying distributions, as well as to degree sequences in paradigmatic network models\u2014the configuration model, preferential attachment, and random hyperbolic graphs. In all the considered cases, all the considered estimators converge as expected. We also compare their performance to that of the PLFit algorithm from [19, 20], which is believed to represent the state of the art in network science. We find that PLFit tends to show much worse performance when applied\n3 to distributions with nontrivial slowly varying functions. Remarkably, one example of such nontrivial distributions is the degree distribution in the \u201charmonic oscillator\u201d of power laws\u2014the preferential attachment model.\nThe key strength behind the estimators considered in this paper is that most of them have been proven to be consistent not only under the assumption that the sampling distribution P (k) is regularly varying, but also under the even more general assumption that it is any distribution belonging to the maximum domain of attraction of any extreme value distribution with any index \u03be, which is the main parameter of an extreme value distribution. The extreme value distributions are the n \u2192 \u221e limit distributions of rescaled maximum values among n samples from any given distribution P (k). If P (k) is regularly varying, then \u03be is strictly positive, and the tail exponent \u03b3 and extreme value index \u03be are related by\n\u03be = 1\n\u03b3 \u2212 1 . (5)\nIf P (k) is not regularly varying, then \u03be is either negative or zero, in which case the tail exponent \u03b3 is undefined. None of the considered estimators estimates \u03b3 directly. They all are based on extreme value theory, and estimate the index \u03be instead.\nThe last question from the list of the three questions above is about hypothesis testing. Given any degree sequence, one can always apply to it any \u03be-estimator that\nwill always return some \u03be-estimate \u03be\u0302. How likely is it that this sequence comes from a regularly varying distri-\nbution with exponent \u03b3 = 1 + 1/\u03be\u0302? Clearly, if \u03be\u0302 is either negative or zero, then this question is ill-posed since one\ncannot even tell what the \u03b3 is. But what if \u03be\u0302 is positive? Section V is dedicated to the explanation that even in this case one cannot devise any hypothesis test to answer the above question. The popular p-value approach used often in hypothesis testing is deeply problematic and should be avoided, as has been long known and recently well documented in a statement article by the American Statistical Association [53], followed by a special issue of The American Statistician [54]. But it is not that p-values are bad, and there is a better way. Hypothesis testing is simply impossible with regularly varying distributions. Intuitively, the main reason for this impossibility is the infinite number of \u201cdegrees of freedom\u201d contained in the space of slowly varying functions `(k) that make the space of regularly varying distributions nonparametric. In particular, there is an infinite number of regularly varying distributions such that for any finite sequence length, degree sequences of this length sampled from these distributions do not appear to be regularly varying, or the other way around, there is an infinite number of distributions that are not regularly varying, but such that random sequences of any finite length sampled from these distributions appear as regularly varying.\nIn view of this extremely important but badly misunderstood observation, which is one of the key points in\nthis paper, the best strategy one can follow is to consult as many consistent \u03b3-estimators as possible to see whether they agree on the ranges of their \u03b3-estimates on a given sequence [31]. And this is indeed the strategy we follow in Section V to define what it means for a given degree sequence to be power-law. If at least one of the considered estimators returns a negative or zero\nvalue of \u03be\u0302, then we call the degree sequence not power-\nlaw, but if all the estimators agree that \u03be\u0302 > 1/4, then we say that the sequence is power-law. If neither of these conditions are satisfied, then we call the degree sequence\nhardly power-law. The threshold \u03be\u0302 = 1/4 between the power-law and hardly power-law ranges is completely arbitrary, and one is free to choose any nonnegative value of \u03be for this threshold, determining the value of \u03b3 above which one can hardly call a network power-law. We chose this value to be \u03b3 = 1+1/\u03be = 5 for the reasons discussed in Section V.\nFinally, in Section VI, we implement all the considered estimators in a software package [55] available to the public, and apply them to the degree sequences of 115 real-world networks with more than 1, 000 nodes collected from the KONECT database [56]. The collection contains many paradigmatic networks from different domains. Some of them were found to be power-law in the past (the Internet, for instance), while others were documented not to be power-law (road networks are a classic example). We find that the considered consistent estimators mostly agree with this classification, while overall, according to the definitions above, these estimators report that 49% of the considered undirected networks have degree sequences that are power-law. Among the considered directed networks, 24% have both in- and out-degree sequences that are power-law, while 82% have either inor out-degree sequence that is power-law. The bipartite networks exhibit a similar picture according to the estimators: 35% of them have power-law degree sequences for both types of nodes, while in 74% of them at least one type of nodes has a power-law degree sequence.\nIn summary, if we relax the unrealistic requirement that degree distributions in real-world networks must be pure power laws, and allow for real-world impurity via regularly varying distributions, then upon the application of the state-of-the-art methods in statistics to detect such distributions in empirical data, we find that one can definitely not call scale-free networks \u201crare.\u201d"
+        },
+        {
+            "heading": "II. POWER-LAW DISTRIBUTIONS",
+            "text": "We define a distribution to be power-law if it is regularly varying. A distribution with PDF P (k) is called regularly varying [32, 33] if its CCDF\nF (k) := 1\u2212 F (k) = \u2211 k\u2032>k P (k\u2032) (6)\n4 satisfies\nF (k) = `(k)k\u2212\u03b1, (7)\nwhere \u03b1 > 0, and `(k) is a slowly varying function. A function `(x) is called slowly varying if\nlim x\u2192\u221e\n`(tx) `(x) = 1 (8)\nfor any t > 0. If the PDF of a distribution satisfies (3) with some slowly varying function, then the distribution is regularly varying, i.e., its CCDF satisfies (7) with some other slowly varying function. The converse may or may not be true, as discussed in Appendix A.\nIf a distribution is regularly varying, but its slowly varying function `(k) in (7) does not vary at all, i.e., if it is constant, then we call such a distribution a pure power law. If k is integer-valued, k = kmin, kmin + 1, . . ., where kmin is a natural number, then this pure power law is known as the generalized zeta distribution with PDF\nP (k) = k\u2212\u03b3\n\u03b6(\u03b3, kmin) , (9)\nwhere \u03b3 is the PDF tail exponent, and \u03b6(\u03b3, kmin) is the Hurwitz zeta function. If k = x is real and x \u2265 xmin > 0, then this pure power law is known as the Pareto distribution whose PDF is\nP (x) = \u03b1x\u03b1minx \u2212\u03b3 , (10)\nwhere \u03b1 = \u03b3 \u2212 1. In both cases the constant slowly varying functions are simply the normalization constants. Clearly, pure power laws form a small subset of general power laws, i.e., regularly varying distributions.\nThe definition of power-law distributions as regularly varying distributions formalize the point that the distribution exhibits a power-law tail at high degrees, but has an arbitrary shape at small degrees. They follow the wellestablished convention in probability, statistics, physics, engineering, and finance [31\u201334, 42\u201352], where regularly varying distributions are the best studied subclass of much larger classes of distributions, such as heavy-tailed and others, see Appendix A.\nWe also note that the rigorous definition of regularly varying distributions in (7) perfectly formalizes the common traditional intuition behind the \u2018\u223c\u2019 sign in the nonrigorous \u201cscale-free formula\u201d (1). Indeed, if the regularly varying functions log(ck)k\u2212\u03b1 and Ck\u2212\u03b1, for example, are drawn on the loglog scale, one would see nothing but straight lines at large k in both cases, even though the first case is not a pure power law. This observation is formalized by Potter\u2019s Theorem [32, Theorem 1.5.6], stating that limk\u2192\u221e `(k)k\n\u2212\u03b4 = 0 for any slowly varying function `(k) and any \u03b4 > 0. Therefore, in both cases one would be tempted to write F (k) \u223c k\u2212\u03b1, so that the power-law definition (7) is indeed a perfect way to hide any distributional peculiarities that do not asymptotically influence the power-law shape of the distribution tail.\nWe emphasize here that due to the nature of slowly varying functions, definition (7) is intrinsically asymptotic, dealing with the k \u2192 \u221e limit. In particular this implies that a distribution satisfying (7) can take any form for all degrees k < K below an arbitrarily large but fixed threshold K > 0. This observation, and more generally, the asymptotic nature of power laws is the key factor responsible for the impossibility of hypothesis testing with regularly varying distributions, Section V.\nThe simplest and most frequently seen examples of regularly varying distributions can be found in Appendix A."
+        },
+        {
+            "heading": "III. CONSISTENT ESTIMATORS OF THE TAIL EXPONENT",
+            "text": "We now turn to the question of how to estimate the tail exponent of a regularly varying distribution given a finite collection of samples (e.g., node degrees) from it. We employ three estimators\u2014Hill [57], Moments [58] and Kernel [59]\u2014that have been long proven to be statistically consistent at this task. Consistency means that as the number of samples increases, the estimated val-\nues of the exponent \u03be\u0302 are guaranteed to converge to the true exponent value \u03be regardless of the slowing-varying function `(k).\nWe note that all the considered estimators are consistent under the assumption that the data that they are applied to is a collection of i.i.d. (independent, identically distributed) samples from a regularly varying distribution. There is no, and cannot be any, hypothesis testing procedure that will tell whether a given sequence (of degrees in a (real-world) network) is an i.i.d. sequence from a regularly varying distribution, as we explain in detail in Section V. Therefore the application of these estimators to degree sequences of real-world networks can be justified only indirectly. In particular, their consistency has been recently proven for a wide range of preferentialattachment models, in which degree sequences are not exactly i.i.d. [60]. In case of the configuration model [61\u2013 63], it is known that a degree sequence sampled i.i.d.\u2019ly from a distribution with finite variance is graphical with positive probability [5, Theorem 7.21]. This probability is very close to 1/2 for any distribution with a finite mean that takes odd values with positive probability, a surprising fact proven in [64]. This means that random graphs with a power-law degree distribution can be sampled by first sampling i.i.d.\u2019ly a degree sequence from the distribution, and then constructing a graph with this degree sequence using known techniques [65]. Such a graph exists with non-zero probability because the degree sequence is graphical with this probability. Applied to graphs constructed this way, the estimators are consistent because the degree sequences in these graphs are i.i.d. Yet proving the consistency of these estimators applied to other network models is an open research area, which is only tangentially related to justifying their application to real-world networks, since there cannot\n5 be any \u201cultimately best\u201d model for any real-world network. We also note that these estimators are actively employed in practice, in particular in financial mathematics [43, 45, 66\u201368], where regularly varying distributions are abundant, where the estimation of rare events is of key importance (e.g., for portfolio or fund management), and where the i.i.d. assumption cannot be checked to hold in real-world data either.\nAll the considered estimators do not estimate either the PDF or CCDF tail exponents \u03b3 or \u03b1 = \u03b3 \u2212 1 directly. They are all based on extreme value theory, so that instead of estimating \u03b3 or \u03b1, they estimate the extreme value index \u03be of the distribution. Given a sequence of n i.i.d. samples x1, . . . , xn from a distribution, extreme value theory is concerned with the behavior of the maximum value mn = max n i=1 xi in this sample. In particular, one is typically interested in finding ndependent constants cn and dn such that the distribution of (mn \u2212 dn)/cn has a non-degenerate limit. This limit distribution, if it exists, is called an extreme value distribution (EVD), and the distribution of x\u2019s is then said to belong to the maximum domain of attraction (MDA) of this EVD. One of the key results in extreme value theory [69] is that there are only three families of EVDs. They are parameterized by a real number \u03be, called the extreme value index. The three families are Weibull with \u03be < 0, Gumbel with \u03be = 0, and Fre\u0301chet with \u03be > 0.\nThe reason why extreme value estimators are the standard tool in statistics to infer the tail exponent of regularly varying distribution, is the fundamental fact proven in [70]. It states that the class of all distributions that belong to the Fre\u0301chet MDA with \u03be > 0 is exactly the class of all regularly varying distributions, i.e., those distributions whose CCDFs satisfy (7). Moreover, the PDF and CCDF tail exponents \u03b3 and \u03b1 are related to the extreme value index \u03be in this case by\n\u03be = 1\n\u03b3 \u2212 1 =\n1 \u03b1 . (11)\nIt is this intimate relation between regularly varying distributions and extreme value theory that provides a rigorous and well-explored framework to analyze regularly varying distributions and make inferences concerning them.\nWe note that while the Hill estimator is consistent under the assumption that a given sequence is sampled only from a regularly varying distribution, i.e., that it is in the Fre\u0301chet MDA, the other considered estimators\u2014that is, the Moments and Kernel estimators\u2014are consistent for degree sequences sampled from any distribution belonging to the MDA of any extreme value distribution. This means that if these estimators are applied to increasinglength sequences sampled from distributions belonging to the Fre\u0301chet, Gumbel, or Weibull MDAs, then in all these three cases the estimates of these estimators are guaranteed to converge to the true values of \u03be that are positive, zero, and negative, respectively. As a side note, while the Fre\u0301chet MDA is exactly all the regularly varying distri-\nbutions, the Weibull MDA consists of distributions with upper-bounded supports, while the Gumbel MDA contains all other distributions that can be either light-tailed or heavy-tailed, but not regularly varying. Appendix B contains all the relevant details.\nThe key point here, which we rely upon in the next section, is that if the estimators, applied to a particular degree sequence, return either negative values of \u03be, or values of \u03be close to zero, then this sequence is quite unlikely to come from the Fre\u0301chet MDA, i.e., from a regularly varying distribution. Yet again, there is no way to quantify this unlikeliness rigorously, as explained in Section V.\nApplied to n data samples x1, x2, . . . , xn, the estimators operate by first sorting the data in non-increasing order, x(1) \u2265 x(2) \u2265 . . . \u2265 x(n), and then limiting their consideration only to the \u03ba largest data samples x(1), x(2), . . . , x(\u03ba), where \u03ba is a free parameter. Since the \u03ba-th order statistic is a random variable representing the \u03ba-th largest element among n i.i.d. samples from a distribution, the \u03ba parameter is known as the number of order statistics. The estimators thus operate only on the \u03ba-tail of the empirical distribution represented by the \u03ba order statistics. Given this tail, different estimators provide different expressions, documented in Appendix B,\nfor the estimated value \u03be\u0302\u03ba,n of \u03be, which depends on \u03ba. These expressions rely on different aspects of the order statistics contained in the tail, but all these expressions are consistent, meaning that\n\u03be\u0302\u03ba,n \u2192 \u03be as \u03ba, n\u2192\u221e, \u03ba/n\u2192 0, (12)\nfor all the estimators. The convergence above is usually in probability, although in some cases some stronger results, such as almost sure convergence or asymptotic normality, are available under additional assumptions on the data.\nIt is important to note here that in proving this convergence, the number of order statistics \u03ba cannot be fixed, it must diverge with the number of samples n to incorporate more and more data in the tail, so that the estimated value of \u03be is less and less affected by the fluctuations in the tail. Yet \u03ba cannot be equal to n either, since in this case the estimated \u03be would be affected by the slowly varying function `(k). This implies that if applied to finite-size data samples, these estimators will not give a good estimate of \u03be for either small or large values of \u03ba. One option to deal with this problem in practice is\nto investigate the plot of \u03be\u0302\u03ba,n as a function of \u03ba in order to find the value of \u03ba where this function is \u201cmost flat/constant.\u201d This subjective approach can clearly not be rigorous. Worse, on real-world data, these functions can behave violently, see for instance the figures in Chapter 4 of [31] or in [71], so that finding such a flat region\nof \u03be\u0302\u03ba,n may be quite problematic. Fortunately, for the three estimators that we consider, the double bootstrap method documented in Appendix C is proven to find the optimal value \u03ba\u2217 of \u03ba. Optimality\n6 means here that the error between the estimated and true values of \u03be is minimized, Appendix C. The double bootstrap method is also proven not to break consistency, meaning that as a function of n, the value of \u03ba\u2217n diverges sublinearly, so that in view of (12), the estimated value\nof \u03be, \u03be\u0302\u03ba\u2217n,n, converges to the true \u03be:\n\u03be\u0302\u03ba\u2217n,n \u2192 \u03be as n\u2192\u221e. (13)\nIn addition to the Hill, Moments, and Kernel estimators, the Pickands estimator [72] and its generalized versions [73] are also often considered. However, only for one of these generalizations has the double bootstrap method been proven to be consistent, Appendix B. Worse, in application to real-world data, the Pickands estimator has been shown to be unstable and volatile [73, 74] and to have poor efficiency [59, 75]. Many other \u03be-estimators exist, see [76] for a review, but the proofs of consistency of the double bootstrap method are available only for the Hill, Moments, Kernel, and Pickands estimator.\nTherefore, to the best of our knowledge, the Hill, Moments, and Kernel estimators are the maximal subset of consistent, stable, and efficient estimators, for which the double bootstrap method that automatically determines the optimal value of \u03ba, is proven to be both optimal and consistent. The reason we consider not one but all such estimators is mentioned above: since as we explain in Section V there can be no hypothesis test to tell whether a given degree sequence is an i.i.d. sequence sampled from a regularly varying distribution, the best one can do is to consider as many consistent estimators as possible, testing as many different aspects of the degree sequence as possible, and see whether they agree in their estimations [31]."
+        },
+        {
+            "heading": "IV. EVALUATION OF ESTIMATOR PERFORMANCE",
+            "text": "In Appendix D we perform an in-depth evaluation of all the three estimators based on extreme value (EV) theory from the previous section. We apply them to a collection of random sequences sampled from various distributions, as well as to degree sequences in three popular network models\u2014the configuration model, preferential attachment, and random hyperbolic graphs. We also juxtapose these validation results against the performance of the PLFit algorithm from [19, 20].\nThe results of these experiments are as expected: all the EV estimators converge to the true value of \u03be if the distribution is regularly varying, and they do not converge if it is not. They also converge even in the case where we sample not from a fixed regularly varying distribution, but from a sequence of distributions that are not regularly varying but that converge to a regularly varying distribution\u2014the case with a Pareto distribution with the diverging natural exponential cutoff. On degree sequences in network models where individual degrees\nare not i.i.d. samples from a fixed degree distribution, the estimators converge as well, even though the i.i.d. assumption no longer holds.\nFor PLFit we find in Appendix D that if the sample distribution is sufficiently \u201cnice,\u201d then the estimation accuracy and convergence rates of the PLFit are comparable to those of the EV estimators. However, in cases where the distribution is not so nice and is further from a pure power law, the EV estimators perform significantly better than the PLFit. This is the case, for example, with distributions that can be fitted by power laws with wrong exponents in the region of small degrees. Remarkably, one example of such a distribution is the degree distribution in the preferential attachment model, a \u201charmonic oscillator\u201d of power laws in network science [28\u201330]. For these and a number of other lower-level technical reasons, all documented in Appendix D and fully supported in a more recent and detailed focused study [24], we exclude the PLFit from the subsequent considerations here."
+        },
+        {
+            "heading": "V. POWER-LAW DEGREE SEQUENCES",
+            "text": "There is no way to test the hypothesis that any given number was sampled from any given distribution that contains the number in its support. Yet if one has a long sequence of numbers, then there is a multitude of hypothesis testing procedures to measure how likely it is that this sequence was sampled from the distribution. The longer the sequence, the more reliable such procedures are, and any good procedure will give a definitive answer as the sequence length approaches infinity. This statistical methodology is widely known to work not only for a fixed distribution, but also for many parametric families of distributions. In the latter case, the testing involves one additional step: the parameters of the distribution are first to be estimated from the sequence using a consistent estimator.\nA variation of this standard approach is at the core of [19, 20], where the parametric family of distributions consists of pure power laws\u2014the zeta or Pareto distributions. Their parameters, the tail exponents, are estimated using a combination of the likelihood maximization and Kolmogorov-Smirnov (KS) distance minimization techniques documented in Appendix D. Finally, the hypothesis testing procedure is the KS test, yielding a popular p-value number reflecting roughly how likely a given sequence comes from the pure power law with the estimated exponent.\nWe now come to the key point that this or any other hypothesis testing approach is not, and cannot be, applicable to regularly varying distributions, simply because these distributions do not form a parametric family of distributions. Instead, they are a nonparametric class of distributions of an asymptotic nature with an uncountably infinite number of \u201cdegrees of freedom\u201d contained in the slowly varying functions `(k) (Appendix A). Testing whether a given finite collection of numbers was sampled\n7 from such an infinite-dimensional family of distributions is akin to testing whether a given number was sampled from a given distribution, which clearly is impossible as mentioned above.\nSituations of this type are quite familiar for a physicist or network scientist. Phase transitions are a classic example: true phase transitions occur only in the thermodynamic limit, while for any finite system we can only observe their signs. The simplest example in network science is graph sparsity. The definition of sparse graphs applies only to family of graphs whose size tends to infinity, and one cannot say anything at all about how sparse any given finite-size graph is, even if this is an empty graph of n = 1010 nodes, simply because this graph can be considered as a typical Erdo\u030bs-Re\u0301nyi graph with the connection probability p = 10\u221210 10 , which is dense.\nYet, for a variety of reasons, these matters, including the impossibility of hypothesis testing with nonparametric families of distributions, as well as various consequences of this impossibility, are routinely overlooked and misunderstood. For these reasons, we first discuss the general picture behind this impossibility, and then illustrate it with a collection of examples.\nFirst, the general picture is as follows. Recall that the consistency of an exponent estimator means that if we sample i.i.d.\u2019ly increasingly larger numbers n of random numbers ki, i = 1, . . . , n, from a fixed regularly varying distribution with exponent \u03b3 and any slowly varying function `(k), then the estimates \u03b3\u0302n that the estimator returns are guaranteed to converge to \u03b3. Observe that while \u03b3 is a fixed number, \u03b3\u0302n is a random number, i.e., a random variable, because the kis are random. That is why one has to be careful with statements concerning in what particular sense the random variable \u03b3\u0302n converges to number \u03b3. As stated in Section III, the convergence is usually in probability, but in some cases one can prove that \u03b3n converges to a normally distributed random variable with mean \u03b3 and some vanishing variance. For different definitions of convergence of random variables, we refer to any textbook on probability, such as [77].\nIt is crucially important to recognize that the convergence in probability does not mean that for any finite n there are any guarantees on how close the estimate \u03b3\u0302n will be to the true \u03b3. To see why, observe that the slowly varying function `(k) can be arbitrarily bad, breaking pure power laws for any arbitrarily large number of degree samples or range of degrees, while the true tail of the distribution can be inferred only in the limit of infinitely long sampled sequences, which one never has in practice.\nWe thus see that this general picture is very different from the one with hypothesis testing with a parametric family of distributions, such as the normal distributions or pure power laws. If we employ MLE, for instance, to estimate the parameters of such distributions, we usually know all we need to tell how close our estimates are expected to be to the true values for any given sample of size n. We often even know the full distribution of these estimates as random variables, and we then have"
+        },
+        {
+            "heading": "102 103 104 105 106",
+            "text": "Number of samples n\n1.0\n0.5\n0.0\n0.5\n1.0\nUniform-Pareto Pareto with exp. cutoff\nFIG. 1. The extreme value index estimates for the two adversarial examples in Section V. The sequences of varying length n are sampled from the distributions defined by Eq. (14) with c1 = 1, c2 = 2, f = 2 \u00b7 10\u22124, and \u03b3 = 2 (blue squares), and by Eq. (15) with c = 500 and \u03b3 = 2 (red circles). The data shown are the estimates of the Moments estimator with the double bootstrap procedure applied to these samples. The results are averaged over 100 random sequences for each data point. In the case of blue squares, the distribution is regularly varying with \u03b3 = 2, so that \u03be = 1. However, if n is not sufficiently larger than 1/f , the sequences sampled from this distribution appear as if sampled from the uniform distribution that belongs to the Weibull MDA with \u03be = \u22121. In the case of red circles, the distribution is not regularly varying. It belongs to the Gumbel MDA with \u03be = 0. However, if n is not sufficiently larger than c\u03b3\u22121, the sequences sampled from this distribution appear as if sampled from a regularly varying distribution with \u03b3 = 2 and \u03be = 1. The examples illustrate that for any finite n there is absolutely no way to tell what distribution class (regularly varying or not) the samples are coming from.\nthe luxury to employ any reasonable hypothesis test of our choice, or to compute p-values to quantify chances if we wish. With regularly varying distributions, the situation is very different because if we do not know `(k), we simply do not know how large n must be so that our estimators and hypothesis tests start showing any signs of convergence, simply because `(k) can be arbitrarily bad.\nTo illustrate this extremely important point, we consider several examples next. The first two are of artificial/adversarial nature, while the last one is a wellstudied network model.\nThe first example is a regularly varying distribution with support on [c1,\u221e) and PDF with \u03b3 > 1 and constants c2 > c1 \u2265 0 and f \u2208 [0, 1]:\nP (x) = `(x)x\u2212\u03b3 , where (14)\n`(x) =\n{ 1\u2212f c2\u2212c1x\n\u03b3 , if x \u2208 [c1, c2], (\u03b3 \u2212 1)fc\u03b3\u221212 , if x \u2208 (c2,\u221e).\nIn words, this distribution is uniform on the interval [c1, c2], and a pure power law (Pareto) for x > c2. The parameter f is the fraction of the distribution mass falling within the Pareto region. This distribution is regularly varying for any constants c2 > c1 \u2265 0, f \u2208 (0, 1], and \u03b3 > 1 because for x > c2 the slowly varying function of its CCDF is constant, or in simpler terms, because it has a pure power law tail. However, if we sample n < 1/f random numbers from this distribution, then there is no\n8 way to infer from these samples that the distribution is regularly varying with exponent \u03b3 because the expected number of samples in the Pareto region is below 1, so that all samples are expected to be from the uniform part of the distribution. Only if the number of samples n is sufficiently larger than 1/f , can we expect to start seeing signs of the presence of a power-law tail. Figure 1 confirms that this is indeed the case. Clearly, one can replace the uniform part of the distribution with an arbitrary function, thus reflecting the reality of degree sequences observed in many real-world networks much more closely.\nAs another example, consider the Pareto distribution supported on [1,\u221e) with a fixed exponential cutoff at c > 1:\nP (x) = c\u03b3\u22121\n\u0393(1\u2212 \u03b3, 1/c) x\u2212\u03b3e\u2212x/c, (15)\nwhere \u0393 denotes the upper incomplete gamma function. This distribution is not regularly varying, yet if our sample size n satisfies n < c\u03b3\u22121, then we will be tempted to conclude that the distribution is regularly varying, and that the exponent is \u03b3, because almost all samples will be from the Pareto part of the distribution. Only if the number of samples n is sufficiently larger than c\u03b3\u22121, will we see signs of that this distribution does not really have any power-law tail, as confirmed in Fig. 1.\nTo see that such deceiving situations can occur in quite reasonable network models we refer to superlinear preferential attachment. In this model of growing networks, new nodes join a network one at a time, and connect to existing nodes of degree k with probability proportional to k\u03b4, where \u03b4 > 1. For any such \u03b4 the limit degree distribution is not regularly varying: the number of nodes with degrees exceeding a certain fixed threshold is finite [78]. Yet this threshold becomes larger if \u03b4 approaches 1. The threshold is also a growing function of the average degree k\u0304, i.e., the number of links that new nodes establish. More importantly, the larger this threshold, the more slowly the degree distribution approaches its limit, appearing as a reasonably \u201cclean\u201d power law in its vast preasymptotic regime. For example, for \u03b4 = 1.15 and k\u0304 = 4, there are no noticeable deviations from this seemingly pure power-law behavior until the network size reaches about 1017 [78].\nAll these examples illustrate the point that based on any given finite degree sequence (of a real-world network), there is absolutely no way to tell how likely the hypothesis is that this sequence was sampled from a regularly varying distribution. In view of this impossibility, the best strategy one can follow is to simply rely on the estimates of the consistent estimators discussed in the previous section [31]. If the estimates of \u03be that these estimators report on a given sequence are all positive, then it might be the case that this sequence comes from a regularly varying distribution. Yet if these estimates are negative or close to zero, then the chances of that are slim. However, there is absolutely no, and cannot be any,\nrigorous way to quantify these chances, using p-values or any other methods, for the reasons above. This is the key point in our paper.\nIn view of these considerations, we take a conservative approach, and propose the following definition of a power-law degree sequences, based on the values of \u03be that the three estimators from the previous section return upon their application to the sequence:\nB A degree sequence is not power-law (NPL) if at least one estimator returns a negative or zero value of \u03be;\nB A degree sequence is hardly power-law (HPL) if all the estimators return positive values of \u03be, and if at least one estimator returns a value of \u03be \u2264 1/4;\nB A degree sequence is power-law (PL) if all the estimators return values of \u03be > 1/4.\nIn purely intuitive and non-rigorous terms, the larger the \u03be, the more likely it is that the degree sequence comes from a distribution with a power-law tail. These chances are the smaller, the closer the positive \u03be is to zero, and we take a conservative approach to doubt that the degree sequence is power-law if \u03be \u2264 1/4. If \u03be \u2264 0, these chances are really slim. Unfortunately, as discussed above, it is principally impossible to attach any rigorous quantifiers to this intuition.\nYet we note that one important advantage of this classification scheme is that it tries to make a decision based on information from several estimators that are known to be consistent, instead of just one of unknown consistency. It is also possible to include other consistent estimators to collect more information about a degree sequence. We reiterate that we employ the Hill, Moments and Kernel estimators here because they are the only three consistent estimators that are known to be stable on real-world data, and for which the double bootstrap procedure has been proven to be consistent.\nWe also note that the choice of the hardly-power-law \u03be = 1/4 threshold is completely arbitrary, and in view of the considerations above we should not have defined any hardly power-law regime, and call a degree sequence power-law if all \u03bes are positive. Yet if \u03be = 0.01, for instance, then \u03b3 = 101. To call a degree sequence with such \u03b3 a power law is an unsatisfactory stretch of terminology. Another reason to define this threshold is that it is very\ndifficult to tell whether a very small value \u03be\u0302 > 0 that an estimator returns is an estimation of \u03be = 0 or of a very small \u03be > 0. In the latter case, the sequence was sampled from a regularly varying distribution, while in the latter case it was sampled from a distribution in the Gumbel MDA. This MDA consists of all kinds of distributions, including both light-tailed and heavy-tailed, but not regularly varying. The lognormal distribution, for example, is not regularly varying, but it is heavy-tailed and belongs to the Gumbel MDA, see Appendix B. Yet if the task is to tell whether a sequence was sampled from a regularly\n9 varying distribution or not, then classifying the sequence\nas regularly varying based on a small value \u03be\u0302 increases\nthe chances of false positives because this small \u03be\u0302 may be an estimate of \u03be = 0, in which case the source distribution is not regularly varying. To minimize the chances of such false positives, we do define the hardly-power-law threshold \u03be = 1/4, so that if at least one estimator thinks that \u03be \u2264 1/4, we doubt that the sequence is coming from a regularly varying distribution. We set this threshold to \u03be = 1/4 here by selecting the largest value of \u03b3 that is known to us to still matter. That is, we are unaware of any value of \u03b3 that would correspond to any critical point, and that is larger than \u03b3 = 1+1/\u03be = 5 in the Ising model on random graphs in [79].\nPower-law degree sequences whose distributions have divergent second moments, meaning \u03b3 < 3 and \u03be > 1/2, are of particular interest to network science for a variety of reasons. For example, networks with such degree sequences are particularly robust thanks to the absence of the percolation threshold [6], they are ultrasmall worlds versus small worlds [80], the degree correlations in them are unavoidable due to structural constraints [81], etc. Therefore, we also define a subclass of power-law degree sequences with divergent second moments of their distributions:\nB A power-law degree sequence has a divergent second moment (DSM) if all the estimators return values of \u03be > 1/2.\nWe note that we do not put any restriction on how close to each other the estimated values reported by the different estimators must be in the definitions above. The main reason for that is that the speeds of convergence of these estimators are not known. They may converge to the true \u03be at different rates. However, as discussed above, if the data size is relatively large, and all the esti-\nmators report values \u03be\u0302 > 1/4, the chances that the degree sequence does not come from a regularly varying distribution ought to be slim. The power-law sequence definitions above represent one of many possible classification schemes. But if a degree sequence is classified as PL or DSM according to this scheme, and if all the estimators report values that are close to each other, then one can be confident about the true values of \u03be and \u03b3. Unfortunately, there is no way to quantify this confidence. Since the convergence speeds are unknown, one cannot attach any rigorous bounds on how close the estimated values must be to yield any given accuracy in the estimation of the true \u03b3. It is also important to recognize that these considerations apply not only to the estimators considered here, but also to any other estimator, including the PLFit [19], whose convergence speed on regularly varying distributions is not known.\nFinally, if a network is simple unweighted undirected unipartite single-layer and static, then it has only one degree sequence associated with it, so that it is straightforward to call such a network power-law if its degree sequence is power-law. However, in more complicated sit-\nuations, such as directed, multipartite, multilayer, multiplex, and/or temporal networks, there are not one but many degree sequences associated with the network. To call such a network power-law based only on one, or all, or some percentage (as in [20]) of the total number of its degree sequences, is purely a matter of taste. What usually does matter is a specific question, e.g., the spread of a disease, posed for the network, and different degree sequences, e.g., in- versus out-degrees, are of interest for different questions. Therefore, we do not propose to classify such networks as power-law or not, and instead report the data for each degree sequence separately in the next section."
+        },
+        {
+            "heading": "VI. REAL-WORLD NETWORKS",
+            "text": "Here we apply the Hill, Moments, and Kernel estimators to a collection of degree sequences in real-world networks from the KONECT database [56]. The database is a curated collection of real-world networks categorized by several network attributes such as size, (un)directedness, (un)weightedness, etc. The database uses a unified edge list format to store the data, which simplifies the automation of data processing. Better yet, the database allows one to sort networks by their properties, and to filter out networks with possibly incomplete information. This is in contrast to other large network collections, such as ICON [82], that link their entries to third-party databases of various formats and origins, which makes it quite difficult to collect and process the data in an automated manner.\nTo streamline data processing, we do not consider networks in the database that are not downloadable in the KONECT edge list format. We also ignore temporal networks to avoid arbitrariness in selecting the temporal scale for data aggregation. Among database entries that possibly represent the same real-world network (for example, Wikipedia (EN) hyperlinks and Wikipedia (EN) links, both representing the English Wikipedia), we select only one entry. We also ignore networks that are marked as incomplete in the database. Finally, since the estimation of \u03be cannot be reliable for networks of a small size, we only consider networks consisting of at least n = 1000 nodes.\nThe KONECT database contains not only undirected networks, but also directed and bipartite. For the latter two classes, we obtain not one, but two degree sequences for each network: the in- and out-degree sequences for directed networks, and one degree sequence for each of the two types of nodes in bipartite networks. We also remove all self-loops and multi-edges from each collected network. After these filtering steps, we are left with 115 networks of three different types: undirected (35), directed (49), and bipartite (31). The degree sequences of these networks are available at the software package repository [55].\n10\n100 101 102 103\n10 4\n10 3\n10 2\n10 1\n100\nF( k)\nCAIDA (IN) (a)\nHill = 1.1 Mom = 1.11 Kern = 1.12\n100 101 102\n10 3\n10 2\n10 1\nHuman PPI (MV) (b)\nHill = 2.04 Mom = 2.4 Kern = 2.03\n100 101\n10 6 10 5 10 4 10 3 10 2 10 1 100 Roads CA (RO) (c) Hill = 17.86 Mom = 0.34 Kern = 0.4\n100 101 102 103 10 5\n10 4\n10 3\n10 2\n10 1\nF( k)\nYoutube (YG) (d)\nHill = 1.79 Mom = 1.87 Kern = 1.56\n100 101 102 103\n10 5 10 4 10 3 10 2 10 1 100 Amazon-in (Am)(e)\nHill = 2.04 Mom = 2.58 Kern = 2.14\n100 101 10 1\n100\nAmazon-out (Am) (f)\n100 101 102 103 104 Degree k\n10 5\n10 4\n10 3\n10 2\n10 1\n100\nF( k)\nStanford-in (SF) (g)\nHill = 1.15 Mom = 1.15 Kern = 1.15\n100 101 102 103 Degree k\n10 4\n10 3\n10 2\n10 1\n100 arXiv-in (THc) (h)\nHill = 1.9 Mom = 1.98 Kern = 2.12\n100 101 Degree k\n10 3\n10 2\n10 1\n100\nU. Rovira i Virgili (A@)\n(i)\nHill = 5.51 Mom = 0.07 Kern = 0.08\nHill = 1.2 107 Mom = 1.0 Kern = 3.24\n.\nPower-law DSM Non-DSM\nNot power-law\nFIG. 2. The results of the Hill, Moments, and Kernel estimators applied to the degree sequences of nine real-world networks. The degree sequences belong to different classes defined in Section V: (a,d,g) power-law DSM: (a) CAIDA, the undirected network of the Internet at the autonomous system level; (d) Youtube, the user degree distribution of the bipartite network of Youtube users and their group memberships; (g) Stanford, the in-degree distribution of the directed network of hyperlinks between the WWW pages at the Stanford University website; (b,e,h) power-law non-DSM: (b) Human PPI, the undirected network of human protein-protein interactions; (e) Amazon, the in-degree distribution of the directed network of product recommendations at Amazon; (h) arXiv, the in-degree distribution of the directed citation network of publications on High Energy Physics Theory at arXiv; (c,f,i) not power-law: (c) Roads CA, the undirected network of road intersections in the state of California; (f) Amazon, the out-degree distribution of the same network as in (e); (i) U. Rovira i Virgili, the undirected email communication network at the University of Rovira i Virgili. The shown network names are their codenames used in the KONECT database [56], and they also appear in Tables I-III. Each panel shows the empirical complementary cumulative distribution functions (CCDFs) F (k) of the degree sequences on loglog scale. The straight lines visualize the estimated values of the CCDF exponents \u03b1 = 1/\u03be. The filled circles are the optimal values of the number of order statistics \u03ba\u2217 found by the double bootstrap method. The estimators operate only on degrees larger than \u03ba\u2217. The estimated values of \u03b1 are \u03b1\u0302 = 1/\u03be\u0302(\u03ba\u2217), where \u03be\u0302(\u03ba) is the estimated value of the tail index \u03be as a function of \u03ba. For non-positive values of \u03be\u0302(\u03ba\u2217), the \u03b1\u0302 is undefined, so that the legends in panels (c,f,i) show \u03be\u0302 = \u03be\u0302(\u03ba\u2217) instead. Hardly power-law examples are not shown as they are not particularly interesting, lying somewhere in between power-law and not power-law examples.\nWe then feed the obtained degree sequences to the three estimators. Figure 2 shows the exponent estimation results that the estimators produce on some paradigmatic\nreal-world networks in different domains, while Tables I, II and III contain the full lists of these estimations for the undirected, directed and bipartite networks respec-\n11\ntively. We see that many networks that were found to be power-law in the past have degree sequences that are classified as such by these estimators as well. These include the Internet, WWW, human protein interactions, social group memberships, citations, and product recommendation networks. The other way around, degree sequences of networks that are known not to be power-law are classified as not power-law\u2014the California road network or the out-degree distribution in the directed network of Amazon product recommendations, for instance.\nWe emphasize again the importance of using as many consistent estimators as possible: on any finite degree sequence, different estimators are not guaranteed to return the same \u03be-estimation, as they may explore different parts of the distribution, especially if the slowly varying function `(k) is nontrivial, Appendix C. That is why we use the maximal subset of stable and efficient estimators for which the double bootstrap method to determine the optimal number of order statistics \u03ba\u2217 is proven to be consistent.\nFinally, Figure 3 summarizes the estimation results for\n\u03b3\u0302 = 1 + 1/\u03be\u0302 in Tables I-III by classifying the degree sequences of all the considered networks into the not powerlaw (NPL), hardly power-law (HPL), and power-law (PL) classes, the latter containing the subclass of power-law networks with divergent second moments (DSM), defined\nin the previous section. We see that the percentages of power-law and DSM degree sequences in undirected networks are 49% and 29%, respectively. Among the considered directed networks, 24% and 6% have both inand out-degree sequences that are power-law and DSM, while 82% and 45% of these networks have either in- or out- degree sequence which is power-law and DSM, with a majority of those being in-degree sequences. The bipartite networks exhibit a similar picture: 35% and 13% of them are power-law and DSM according to both types of nodes, while 74% and 55% are power-law and DSM according to at least one type of nodes.\nWhile one cannot directly compare these results to the ones in [20], they present quite a different picture than painted there."
+        },
+        {
+            "heading": "VII. CONCLUSION AND DISCUSSION",
+            "text": "In summary, we call a distribution power-law if it is regularly varying. The pure power laws\u2014the Pareto and zeta distributions\u2014are a small subset of this more general, realistic, and well-studied class of distributions. This class constitutes the most inclusive theoretical framework capable of formalizing all the aspects of the \u201cstraight line on log-log scale\u201d intuition behind power-law\n12\nobservations in real-world networks. Utilizing the connection between this class of distributions and the maximum domain of attraction of the Fre\u0301chet distribution in extreme value theory, we identify state-of-the-art statistical tools to estimate the tail exponent \u03b3 in a given degree sequence. These are then deployed to design a classification scheme for degree sequences. The application of this scheme to a representative collection of degree sequences in real-world networks reveals that significant fractions of these networks have power-law degree sequences.\nWe note that the problem of classifying a given degree sequence as power-law or not has nothing to do with possible mechanisms that may lead to the emergence of power-law distributions in real data, and that are of great interest to network science in general. The reason why such mechanisms are a completely different subject altogether is simple. We can think of different mechanisms as different network models approximating stochastic processes that drive the evolution of real-world networks, and it is quite well known that completely different network models and thus completely different network formation mechanisms may lead to networks that have exactly the same degree distribution. That is, these networks may certainly be very different in all respects other than the degree distribution [83]. Therefore the question of what mechanism causes this or that degree distribution is completely irrelevant and ill-posed, as it is impossible in principle to infer it based only on the degree distribution.\nThe impossibility of hypothesis testing for regularly varying distributions is the reason why one cannot attach any statistical weight, such as a p-value, to the statement that a given finite sequence is regularly varying or not. Yet many other aspects of the current state of affairs in statistics related to detecting power laws in empirical network data do allow for improvement, so we comment on some of them here.\nFundamental limitations of estimators based on extreme value theory. The existing consistent estimators of tail exponents are based on extreme value (EV) theory. These estimators cannot generally differentiate between heavy-tailed and light-tailed distributions, simply because the maximum domain of attraction of the Gumbel EV distribution contains distributions of both types\u2014the light-tailed normal and heavy-tailed lognormal distributions, for example, Appendix B. Since for many applications in network science an important question is whether a degree distribution is heavy- or lighttailed, versus regularly varying or not, it is of particular interest to devise other estimators, not based on EV theory, that would be capable of differentiating between these two types of distributions. Some initial steps in this direction have recently been made [84]. Even more generally, it is often of interest whether a given degree sequence comes from a distribution with an infinite or finite second moment, versus power-law or not, so that it would be desirable to develop statistically consistent\nmethods to test the infiniteness of the second moment. Such tests cannot be based on EV theory either.\nYet even for EV-based estimators there are many paths to improve their applicability and rigorous guarantees, which we discuss next.\nThe i.i.d. assumption. First, it would be nice to relax the i.i.d. assumption for these estimators, and to prove their consistency in application to network models. The first step in this direction was made in [60]. We saw in our experiments in Appendix D that all the considered estimators converge in all the considered network models, but there are no proofs for this convergence for any network model other than preferential attachment, to the best of our knowledge.\nConvergence speed. Another important open problem is the convergence speed. All we currently know is that the considered estimators converge to the true value of the power-law exponent \u03b3 on sequences of random numbers of increasing length n sampled i.i.d.\u2019ly from any regularly varying distribution with this \u03b3, but we do not know how quickly this convergence occurs, so that, for instance, there is no way to tell how close the estimates of different estimators on the same finite-n sequence are supposed to be, even if this sequence is sampled i.i.d.\u2019ly from a regularly varying distribution. The speed of this convergence depends not only on \u03b3 but also on the slowly varying function `(k). Thus, the problem is to obtain bounds, as functions of n, on the error of estimation of \u03b3 for a given \u03b3 and `(k). Can such bounds be obtained for certain classes of `(k)s?\nNot one sequence but many sequences. More pertinent to networks, and also closely related to the convergence speed, is the question of dealing with not one sequence but with sequences of sequences. For some realworld networks there exist data not only on one snapshot of the network but also on a historical series of such snapshots. In this case, we have not one degree sequence but a series of degree sequences. One can then apply the estimators to these series, obtaining a series of estimates. Given such an estimate series and the length of the sequence attached to each element of the series, i.e., the network size, can one extract any additional information about the convergence of the series, and possibly devise some tests of the hypothesis that the series comes from a regularly varying generative process? To the best of our knowledge, these questions are wide open.\nInteger-valued sequences. Another networkspecific issue is that degree sequences are integer-valued, while the considered EV estimators were designed with real-valued data in mind. As a consequence, these estimators are known to be unstable and to converge quite slowly in the case of integer-valued regularly varying distributions, Appendix C. We circumvent this issue in our experiments by adding symmetric uniform noise, but it would be nice to design estimators that work reliably on integer-valued data directly.\nThe second order condition. Another down-toearth issue is the second order condition needed to prove\n13\nthe consistency of the double bootstrap method, Appendix C. This condition is violated by pure power-law distributions, the Pareto and zeta distributions. We saw in our experiments in Appendix D that the estimators equipped with the double bootstrap method converge in these cases as well, but there are no proofs of the consistency of the double bootstrap method in these cases.\nCutoffs. Finally, we comment on the important issue of cutoffs that often causes much confusion. Here we have to differentiate between many possibilities of what a cutoff might mean. Two classes of such possibilities are finite-size effects and true cutoffs. In the first case, a cutoff is just an illusion due to a finite sample size. If one samples an insufficiently large number of i.i.d. samples from a regularly varying distribution, the empirical distribution of these samples may appear to have a cutoff, even though the distribution we are sampling from does not have any cutoffs by definition of it being regularly varying. In simple terms, the tail of the empirical distribution may bend downwards, but this effect is simply due to the insufficient number of samples. In such cases, if one explores the empirical distribution tail, one finds only a few data points there. We note that EV theory gives not only the expected value of the maximum among these samples, but also the exact distribution of this properly rescaled maximum in the limit, Appendix B.\nIn networks, however, this maximum can simply not be greater than the network size n which is equal to the degree sequence length, and there are other kinds of degree correlations and degree sequence constraints that are forced by the network structure, many documented in [81], for instance. These constraints can be such that the degree distribution does have true cutoffs. More generally, it may very well happen that the process driving the evolution of a given network is such that its degree distribution does converge to a distribution with true cutoffs, sharp or soft. Examples are the preferential attachment model with a preference kernel which is constant above a certain degree threshold [85, Section 4], or the causal set of the universe [86].\nIn these cases, one has to further differentiate between the following two possibilities. First, the cutoff can be constant, that is, independent of the network size/degree sequence length. In this case, the distribution is not regularly varying by definition, so that one cannot call it power-law. If one still wishes to estimate \u03b3 in samples from, for example, the distribution class P (k) = `(k)k\u2212\u03b3e\u2212k/c where `(k) is a slowly varying function, and c > 0 a constant, then it is yet another open problem since EV-based estimators can clearly not be employed for this estimation, simply because the distributions in this class are not regularly varying. Neither are we aware of any consistent estimators that can do this estimation. In fact, such estimators are quite unlikely to exist, simply because this task appears to be ill-defined. Indeed, `(k) can be arbitrarily bad for any\nfinite k. All we know about this function is that it varies slowly at infinity. But we also know from the shape of the distribution that it is exponential at infinity.\nThe other possibility is that the cutoff diverges with the network size. In this case we have a scenario that can possibly be modeled by random sequences of varying length n sampled from a sequence of distributions parameterized by n. If their cutoff diverges with n, then the latter sequence may or may not converge to a regularly varying distribution in the n \u2192 \u221e limit. In Appendix D we considered an example of this sort, diverging natural exponential cutoffs, where the n-dependent distributions Pn(k) = Cnk \u2212\u03b3e\u2212k/n \u03be\ndo converge to the regularly varying Pareto distribution. We saw there that even in this case, the considered estimators converge to the true values of \u03b3, even though the key assumptions behind the proofs of their convergence are violated. Proving the consistency of these and other estimators for sequences of random numbers sampled from sequences of distributions converging to regularly varying distributions, is thus yet another open problem.\nNotwithstanding these open problems, the consistent estimators considered in this paper represent the current state of the art in the rigorous detection of power laws in empirical data. Their implementation is available in [55], and their application to a representative collection of degree sequences in real-world networks confirms that scale-free networks are not rare."
+        },
+        {
+            "heading": "ACKNOWLEDGMENTS",
+            "text": "We thank S. Resnick, S. Foss, A. Vespignani, A. Broido, and J. Kelley for useful discussions and suggestions. This work was supported by NSF Grant No. IIS-1741355, ARO Grant Nos. W911NF16-1-0391 and W911NF-17-1-0491, NWO VICI grant No. 639.033.806, and the Gravitation Networks grant No. 024.002.003.\n14"
+        },
+        {
+            "heading": "Appendix A: Classes of distributions with heavy tails",
+            "text": "Here we briefly review the taxonomy of distributions with heavy tails and provide the definition of the simplest and most frequently seen regularly varying distributions. All the distribution classes mentioned here are characterized by the key property that their tails decay more slowly than exponentially. The most general class is that of the heavy-tailed distributions. We note that \u201cfat-tailed\u201d distributions are also mentioned sometimes in the literature, but do not appear to have any rigorous definition. We focus on distributions with support on R+. Chapters 2 and 3 in [33] contain further details."
+        },
+        {
+            "heading": "1. Heavy-tailed distributions",
+            "text": "A distribution with cumulative distribution function (CDF) F (x) is said to be heavy-tailed [33, Theorem 2.6] if its complementary CDF (CCDF) F (x) satisfies, for any t > 0,\nlim sup x\u2192\u221e\netx F (x) =\u221e.\nIn words, this definition literally says that the tail of the distribution F (x) decays more slowly than exponentially.\nThe class of heavy-tailed distributions is quite vast and general which makes it rather difficult to work with them in their full generality. Therefore, many different narrower and more tractable subclasses of heavy-tailed distributions have been defined and studied, see Figure 4 for an overview of the landscape of heavy-tailed distributions. For completeness, we briefly discuss two important subclasses that encapsulate regularly varying distributions, which are our main interest.\na. Long-tailed distributions. A distribution with CDF F (x) is called long-tailed [33, Definition 2.21] if its CCDF satisfies, for any fixed y > 0,\nlim x\u2192\u221e\nF (x+ y)\nF (x) = 1, (A1)\nmeaning that any finite shift does not asymptotically affect the tail of the distribution. This property is nice and useful as, for instance, if X is a random variable which has a long-tailed distribution, and Y a random variable that only takes values on a finite set, then the tail of the distribution of X+Y is asymptotically equivalent to that of X [33, Corollary 2.32].\nLong-tailed distributions are heavy-tailed [33, Lemma 2.17], but not all heavy-tailed distributions are longtailed. A simple example of a heavy-tailed function which is not long-tailed is\nf(x) = \u221e\u2211 k=1 2\u2212k1{2(k\u22121) \u2264 x < 2k},\n14\nHeavy tailed\nLong tailed\nSubexponential\nRegularly varying\nFIG. 4. Schematic overview of the landscape of heavy-tailed distributions, containing regularly varying distributions.\nif its complementary CDF (CCDF) F (x) satisfies, for any t > 0,\nlim sup x\u2192\u221e\netx F (x) =\u221e."
+        },
+        {
+            "heading": "In words, this definition literally says that the tail of the",
+            "text": "distribution F (x) decays more slowly than exponentially.\nThe class of heavy-tailed distributions is quite vast and general which makes it rather difficult to work with them in their full generality. Therefore, many different narrower and more tractable subclasses of heavy-tailed distributions have been defined and studied, see Figure 4 for an overview of the landscape of heavy-tailed distributions. For completeness, we briefly discuss two important subclasses that encapsulate regularly varying distributions, which are our main interest.\na. Long-tailed distributions. A distribution with CDF F (x) is called long-tailed [33, Definition 2.21] if its CCDF satisfies, for any fixed y > 0,\nlim x\u2192\u221e\nF (x+ y)\nF (x) = 1, (A1)\nmeaning that any finite shift does not asymptotically affect the tail of the distribution. This property is nice and useful as, for instance, if X is a random variable which has a long-tailed distribution, and Y a random variable that only takes values on a finite set, then the tail of the distribution of X+Y is asymptotically equivalent to that of X [33, Corollary 2.32].\nLong-tailed distributions are heavy-tailed [33, Lemma 2.17], but not all heavy-tailed distributions are longtailed. A simple example of a heavy-tailed function which is not long-tailed is\nf(x) = \u221e\u2211 k=1 2\u2212k1{2(k\u22121) \u2264 x < 2k},\nwhere 1 is the indicator function. Indeed, for any t > 0\nlim sup x\u2192\u221e etxf(x) \u2265 lim sup k\u2192\u221e\net2 k 2\u2212k =\u221e,\nso that f is heavy-tailed, but\nlim inf x\u2192\u221e\nf(x+ 1)\nf(x) \u2264 lim inf k\u2192\u221e\nf(2k + 1)\nf(2k) =\n1 2 6= 0,\nso that f is not long-tailed. b. Subexponential distributions. Let (F \u2217 F )(x) be the convolution of CDF F (x) with itself. That is, F \u2217 F is the CDF of X +X \u2032, where X and X \u2032 are independent random variables with CDF F . A distribution with CDF F (x) is said to be subexponential [33, Definition 3.1] if\nlim x\u2192\u221e (F \u2217 F )(x) F (x) = 2. (A2)\nThis definition means that if X and X \u2032 are independent samples from a subexponential distribution, then the CCDF of X + X \u2032 is asymptotically twice as large as the CCDF of the original distribution. This property implies, for instance, that if the sum \u2211n i=1Xi of n independent samples from a subexponential distribution exceeds some large threshold, then it is because just one Xi has exceeded this threshold. This is in contrast to independent samples from a Poisson distribution, for instance, as their sums exceeding a large threshold do not contain, with high probability, any terms exceeding this threshold.\nThe class of subexponential distributions is contained in that of long-tailed distribution [33, Lemma 3.2], hence they are heavy-tailed. In fact, it is strictly contained. However, unlike the case for heavy-tailed versus longtailed distributions, examples of long-tailed distributions that are not subexponential are more involved, see Section 3.7 in [33].\nOur main interest is in regularly varying distributions, which form a subclass of subexponential distributions [33, Theorem 3.29]. This hierarchy endows regularly varying distributions with all the nice theoretical properties of the subexponential and long-tailed ones, but in contrast to these more general classes, regularly varying distributions are equipped with a concise and tractable representation that makes them very convenient to work with in statistical inference settings.\n2. Regularly varying distributions\nA function f(x) is said to be regularly varying at infinity with index \u03b1 [32, 33] if there exists a slowly varying function `(x), such that\nf(x) = `(x)x\u2212\u03b1, (A3)\nwhere a slowly varying function `(x) is defined to be a function satisfying, for any t > 0,\nlim x\u2192\u221e\n`(tx) `(x) = 1.\nI . 4. Sche atic overvie of the landscape of heavy-tailed distributions, containing regularly varying distributions.\nwhere 1 is the indicator function. Indeed, for any t > 0\nlim sup x\u2192\u221e etxf(x) \u2265 lim sup k\u2192\u221e\net2 k 2\u2212k =\u221e,\nso that f is heavy-tailed, but\nlim inf x\u2192\u221e\nf(x+ 1)\nf(x) \u2264 lim inf k\u2192\u221e\nf(2k + 1)\nf(2k) =\n1 2 6= 0,\nso that f is not long-tailed. b. Subexponential distributions. Let (F \u2217 F )(x) be the convolution of CDF F (x) with itself. That is, F \u2217 F is the CDF of X +X \u2032, where X and X \u2032 are independent random variables with CDF F . A distribution ith CDF F (x) is said to be subexponential [33, Definition 3.1] if\nlim x\u2192\u221e (F \u2217 F )(x) F (x) = 2. (A2)\nThis definition means that if X and X \u2032 are independent samples from a subexponential distribution, then the CCDF of X + X \u2032 is asymptotically twice as large as the CCDF of the original distribution. This property implies, for instance, that if the sum \u2211n i=1Xi of n independent samples from a subexponential distribution exceeds some large threshold, then it is because just one Xi has exceeded this threshold. This is in contrast to independent samples from a Poisson distribution, for instance, as their sums exceeding a large threshold do not contain, with high probability, any terms exceeding this threshold.\nThe class of subexponential distributions is contained in that of long-tailed distribution [33, Lemma 3.2], hence they are heavy-tailed. In fact, it is strictly contained. However, unlike the case for heavy-tailed versus longtailed distributions, examples of long-tailed distributions that are not subexponential are more involved, see Section 3.7 in [33].\nOur main interest is in regularly varying distributions, which form a subclass of subexponential distributions [33, Theorem 3.29]. This hierarchy endows regularly varying\n15\ndistributions with all the nice theoretical properties of the subexponential and long-tailed ones, but in contrast to these more general classes, regularly varying distributions are equipped with a concise and tractable representation that makes them very convenient to work with in statistical inference settings."
+        },
+        {
+            "heading": "2. Regularly varying distributions",
+            "text": "A function f(x) is said to be regularly varying at infinity with index \u03b1 [32, 33] if there exists a slowly varying function `(x), such that\nf(x) = `(x)x\u2212\u03b1, (A3)\nwhere a slowly varying function `(x) is defined to be a function satisfying, for any t > 0,\nlim x\u2192\u221e\n`(tx) `(x) = 1.\nThe simplest examples of slowly varying functions are functions converging to constants or loga(bx) for any a \u2208 R and b > 0.\nThe full class of slowly varying functions is of course much richer, and it is fully characterized by Karamata\u2019s Representation Theorem [31, Corollary 2.1] stating that\n`(x) = c(x) exp {\u222b x 1 t\u22121\u03b5(t) dt } ,\nfor some functions c, \u03b5 : R+ 7\u2192 R+ satisfying\nlim x\u2192\u221e c(x) = c \u2208 (0,\u221e), lim x\u2192\u221e \u03b5(x) = 0.\nThe theory of regular variations is a rich and welldeveloped one, and for further details we refer to [32].\nA distribution is defined to be regularly varying if its CCDF F (x) is a regularly varying function. In Section II we also define a power-law distribution to be a regularly varying distribution.\nWe note that if the PDF of a distribution is regularly varying, then so is its CCDF with another slowly varying function `\u2032(x),\nP (x) = `(x)x\u2212\u03b3 \u21d2 F (x) = `\u2032(x)x\u2212\u03b1, where \u03b1 = \u03b3 \u2212 1,\naccording to Karamata\u2019s theorem [31, Theorem 2.1] in the case of continuous distributions, and to [87, Lemma 9.1] in the case of discrete ones. The converse is not generally true, and depends on the exact form of the slowly varying function `\u2032(x). A simple example of a distribution whose PDF is not regularly varying but whose CCDF is, is given by the PDF P (x) = c sin(x)2 x\u22123 with support x \u2265 1, and c the normalization constant. This PDF is not regularly varying since `(x) = c sin2 x is not slowly varying. However, the CCDF of this distribution F (x) = `\u2032(x)x\u22122, where `\u2032(x) = (c/2) ( sin2 x+ x sin(2x)\u2212 2x2Ci(2x) ) and\nCi(x) = \u2212 \u222b\u221e x\ncos(t)/t dt is the cosine integral, is regularly varying because `\u2032(x) is slowly varying: it converges to the constant c/4 at x\u2192\u221e.\nAnother important property of regularly varying distributions is that if the sum X+Y of two random variables is regularly varying, and limz\u2192\u221e FY (z)/FX+Y (z) = 0, then X is regularly varying as well, and the tail exponents \u03b3 of X + Y and X are the same [88, Lemma 3.12]. In application to directed networks, this means for instance that if the total degree distribution is regularly varying and either the in-degree or out-degree distribution is not heavy-tailed, then the other distribution must be regularly varying with the same exponent as the total degree distribution.\nAs a subclass of heavy-tailed distributions, regularly varying distributions can model data with high variability, yet here we stress again that they are far from being as general as heavy-tailed distributions, which means, in particular, that if a given data fails to be regularly varying, it does not necessarily mean that it is not heavytailed or even subexponential. The simplest example of a subexponential distribution which is not regularly varying is the lognormal distribution. Yet on the other hand, regularly varying distributions are a vast generalization of pure power laws exclusively considered in [19, 20], i.e., of the Pareto distribution (10) if x is continuous, or of the generalized zeta distribution (9) if x is integer-valued."
+        },
+        {
+            "heading": "3. Simplest examples of regularly varying distributions",
+            "text": "To make the definition (A3) more concrete, here we give the simplest examples of regularly varying distributions, both continuous and integer-valued ones.\nThe simplest example is the continuous Pareto distribution with scale x\u2217 and shape \u03b1, or exponent \u03b3 = \u03b1+1:\nPPareto(x) = { \u03b1(x\u2217)\u03b1x\u2212\u03b3 if x \u2265 x\u2217, 0 else.\nHere the slowly varying function is simply the constant `Pareto(x) = \u03b1(x\n\u2217)\u03b1, which does not vary at all. There are two simple ways to turn a continuous regularly varying distribution into a integer-valued one, both of which again belong to the class of regularly varying distributions. In the first example we simply take the integer k to be the floor of the continuous value x: k = bxc. If x is Pareto-distributed, then since P (k) = FPareto(k \u2212 1) \u2212 FPareto(k), it follows that for all k \u2265 bx\u2217c\nPfloorP(k) = ( k \u2212 1 x\u2217 )\u2212\u03b1 \u2212 ( k x\u2217 )\u2212\u03b1 = `floorP(k)k \u2212\u03b3 ,\nwhere `floorP(k) converges to \u03b1(x \u2217)\u03b1 as k \u2192\u221e. We note that in this example the slowly varying function is not a constant. Yet it approaches a constant asymptotically.\n16\nThe second example is a mixed Poisson distribution [89] with Pareto mixing. The easiest way to define a mixed Poisson distribution is via the procedure to sample from it: as its name suggests, first sample x from the Pareto distribution, and then sample k from the Poisson distribution with mean x. The resulting PDF of k is thus\nPmPois(k) = \u222b \u221e x\u2217 xke\u2212x k! PPareto(x) dx\n= \u03b1(x\u2217)\u03b1 \u0393(k + 1\u2212 \u03b3, x\u2217)\n\u0393(k + 1) = `mPois(k) k\n\u2212\u03b3 ,\n(A4)\n`mPois(k) = \u03b1(x \u2217)\u03b1k\u03b3 \u0393(k + 1\u2212 \u03b3, x\u2217) \u0393(k + 1) ,\nwhere \u0393(k, x) is the upper incomplete Gamma function. The function `mPois(k) is slowly varying, and its k \u2192\u221e limit is, as in the previous example, \u03b1(x\u2217)\u03b1.\nMixed Poisson distributions appear often as exact degree distributions in network models with hidden variables [90], also known in mathematics as inhomogeneous random graphs [91], or more generally, graphon-based W -random graphs [92]. Both the expected value and the tail exponent of mixed Poisson k are equal to those of Pareto x, versus floored Paretos in which the expected value of k is \u3008k\u3009 = \u03b6 (\u3008x\u3009), where \u03b6 is the Riemann zeta function."
+        },
+        {
+            "heading": "Appendix B: Consistent estimators for tail exponents of regularly varying distributions",
+            "text": "Here we give the definitions of the three consistent estimators of the tail of a regularly varying distribution that we use to infer the tail exponents in synthetic and real-world degree sequences. The two other consistent estimators that are also included in our software package [55] are defined here as well.\nAlthough we work only with regularly varying distributions, the used estimators are actually designed to estimate the index of an extreme value distribution. In fact, the consistency results are proven under the assumption that the distribution belongs to the maximum domain of attraction of an extreme value distribution. It turns out that any regularly varying distribution satisfies this assumption. Therefore, we start with a brief review of extreme value distributions and their maximum domains of attraction, and then explain how these concepts are employed by the consistent estimators of tail exponents."
+        },
+        {
+            "heading": "1. Extreme value distributions and their maximum domains of attraction",
+            "text": "Let x1, . . . , xn be an i.i.d. sequence sampled from some distribution P (x), and denote by mn = max1\u2264i\u2264n xi the largest value in the sequence. Extreme value theory is concerned with the properties of the distribution\nof mn, whose CDF is given by the order statistics F n(x). The typical question is whether there is a non-degenerate limit law, i.e., a distribution which is not a delta function, for \u00b5n = (mn \u2212 dn)/cn for some appropriately chosen ndependent constants cn > 0 and dn \u2208 R. A degenerate limit for \u00b5n exists for any distribution as one can always select dn = 0 and any cn growing with n faster than the expected value of mn, in which case the distribution of \u00b5n would approach the delta-function distribution centered at zero. However, a non-degenerate limit exists [43, Theorem 3.1.3] if and only if the CDF F (x) of the distribution satisfies\nlim x\u2192XF 1\u2212 F (x) F (x)\u2212 F (x\u2212) = 1 and F (XF\u2212) = 1, (B1)\nwhere XF = sup{x ; F (x) < 1} is the right endpoint of the distribution, which can be infinite, and F (x\u2212) = limt\u2192\u221e F (x \u2212 1/t) is the left limit of F at x. In words, this requirement states that F (x) must be sufficiently flat at its right end and must not jump there. Many distributions frequently appearing in practice do satisfy this requirement, but not all. Notable examples of distributions that do not satisfy it, are the Poisson [43, Example 3.1.4] and geometric [43, Example 3.1.5] distributions. Indeed, for a distribution with support on non-negative integers, the limit in (B1) is equivalent to limk\u2192\u221e F (k)/F (k \u2212 1) = 1. For the Poisson distribution with mean \u03bb, we have\nF (k)\nF (k \u2212 1) \u2264 1\u2212\n( 1 + \u03bb\nk \u2212 \u03bb\n)\u22121 ,\nwhich tends to 0 as k \u2192 \u221e, while for the geometric distribution with success probability p, F (k)/F (k\u22121)\u2192 1\u2212 p, violating (B1) in both cases.\nIf a distribution P (x) does satisfy (B1), so that a nondegenerate limit distribution of \u00b5n = (mn \u2212 dn)/cn does exist, this latter distribution P(\u00b5) is called an extreme value distribution [93, 94]. An important result [69] (see also [93, Proposition 0.3]) states that extreme value distributions are parameterized by an index parameter \u03be \u2208 R, and that the class of extreme value distributions consists of just three subclasses\u2014Fre\u0301chet, Gumbel, and Weibull distributions\u2014corresponding, respectively, to \u03be > 0, \u03be = 0, and \u03be < 0. The CDFs F(\u00b5) of these three distributions can be grouped into the CDF of the generalized extreme value distribution\nF(\u03bb) = e\u2212\u03bb, where\n\u03bb = { (1 + \u03be\u03bd)\u22121/\u03be, if \u03be 6= 0, e\u2212\u03bd , otherwise, where (B2)\n\u03bd = \u00b5\u2212 l s ,\nwhere l \u2208 R and s > 0 are known as, respectively, the location and scale parameters. The supports of the distributions are \u03bd \u2265 \u22121/\u03be for \u03be > 0, \u03bd \u2264 \u22121/\u03be for \u03be < 0, and \u03bd \u2208 R for \u03be = 0.\n17\nA distribution P (x) is said to belong to the maximum domain of attraction (MDA) of an extreme value distribution P(\u00b5) if there exist n-sequences of constants cn > 0 and dn \u2208 R such that the distribution of \u00b5n = (mn \u2212 dn)/cn converges to P(\u00b5). The crucially important fact, originally proven in [70], is that the regularly varying distributions are exactly all the distributions comprising the MDA of the Fre\u0301chet distribution, see also [93, Proposition 1.11] and [94, Theorem 1.4.20], so that any regularly varying distribution with PDF and CCDF tail exponents \u03b3 and \u03b1 belongs to the MDA of a Fre\u0301chet distribution with index\n\u03be = 1\n\u03b1 =\n1\n\u03b3 \u2212 1 . (B3)\nThe sequences dn and cn in this regularly varying/Fre\u0301chet case are, [93, Proposition 1.11],\ndn = 0, cn = F \u22121 (\n1\u2212 1 n\n) ,\nwhere F\u22121 is the inverse CDF of the distribution P (x), while the location and scale parameters of the the Fre\u0301chet distribution in (B2) are\nl = 1,\ns = \u03be,\nso that the distribution of the largest values mn among n i.i.d. samples from any regularly varying distribution has the following limit upon rescaling by cn:\nlim n\u2192\u221e\nFn(cn\u00b5) = F(\u00b5) = e\u2212\u00b5 \u22121/\u03be\n(B4)\nwith support \u00b5 \u2265 0. If the distribution P (x) is Pareto, for example, then\ncn = F \u22121 (\n1\u2212 1 n\n) = x\u2217n\u03be, (B5)\nrelated to the known observations that the expected maximum degree among n samples from a power-law networks with exponent \u03b3 is proportional to n1/(\u03b3\u22121) [81].\nWe note that the expressions above specify not only the expected values but also the full limit distributions of such maxima. We also note that the mean of the limit Fre\u0301chet distribution F(\u00b5) = e\u2212\u00b5\u22121/\u03be is \u3008\u00b5\u3009 = \u0393(1 \u2212 \u03be) if \u03be < 1 (\u03b3 > 2), and that this mean is infinite if \u03be \u2265 1 (\u03b3 \u2264 2), so that if \u03b3 > 2 and n is large, one can approximate the expected value of mn in Pareto by\n\u3008mn\u3009 \u2248 \u3008\u00b5\u3009cn = \u0393 ( \u03b3 \u2212 2 \u03b3 \u2212 1 ) x\u2217n1/(\u03b3\u22121). (B6)\nTo complete the picture of the classification of distributions based on their MDAs, the MDA of the Weibull distribution consists of all distributions with an upperbounded support, XF < \u221e, and CCDFs satisfying\nF (XF \u2212 1/t) = `(t)t1/\u03be for t \u2192 \u221e, some slowly varying function `(t), and \u03be < 0, which is the same \u03be as in (B2) [43, Theorem 3.3.12]. This requirement says that the CCDF approaches its right end as a regularly varying function. Examples are the uniform or beta distributions on [0, 1].\nBy exclusion, all other distributions satisfying (B1) are in the MDA of the Gumbel distribution. However, there are more insightful characterizations of the Gumbel MDA (roughly, it consists of all von Mises functions and tail-equivalent distributions) [43, Theorems 3.3.26- 3.3.27]. Examples are the normal [43, Example 3.3.29] and exponential [43, Example 3.3.19] distributions, which are not heavy-tailed, but also heavy-tailed distributions that are not regularly varying\u2014the subexponential lognormal distribution, for example [43, Example 3.3.31].\nThe key point, however, is that if a distribution is regularly varying with tail exponent \u03b3, then it is in the MDA of the Fre\u0301chet distribution with index \u03be = 1/(\u03b3\u22121) which all the following estimators actually estimate."
+        },
+        {
+            "heading": "2. Hill\u2019s estimator",
+            "text": "Hill\u2019s estimator [57] was introduced to analyze the tail behavior of a distribution without any assumptions about its shape, other than that it belongs to the Fre\u0301chet MDA. Given an i.i.d. sample xi, i = 1, . . . , n, and its order statistics x(1) \u2265 x(2) \u2265 \u00b7 \u00b7 \u00b7 \u2265 x(n), the estimator is defined by\n\u03be\u0302 Hill\u03ba,n = 1\n\u03ba \u03ba\u2211 i=1 log ( x(i) x(\u03ba+1) ) (B7)\nTheorems 4.1 and 4.2 in [31] prove that if \u03ba/n \u2192 0 and \u03ba \u2192 \u221e as n \u2192 \u221e, then this estimator is statistically consistent, i.e., satisfies (12), for any distribution in the MDA of the Fre\u0301chet distribution. In other words, the estimator is statistically consistent for any regularly varying distribution with any tail exponent \u03b3 > 1, or equivalently any index \u03be > 0."
+        },
+        {
+            "heading": "3. Moments estimator",
+            "text": "The moments estimator [58] is a modification of Hill\u2019s estimator that is statistically consistent not only for distributions from the MDA of the Fre\u0301chet distribution, but also for distributions from the MDAs of the Gumbel or Weibull distributions, i.e., for any \u03be \u2208 R. To define it, denote\n\u03be\u0302 Hill,2\u03ba,n = 1\n\u03ba \u03ba\u2211 i=1 ( log x(i) x(\u03ba+1) )2 .\n18\nWith this notation, the Moments estimator is\n\u03be\u0302Moment\u03ba,n = \u03be\u0302 Hill \u03ba,n + 1\u2212\n1\n2\n1\u2212 ( \u03be\u0302 Hill\u03ba,n )2 \u03be\u0302 Hill,2\u03ba,n  \u22121 . (B8)\nConsistency of \u03be\u0302Moment\u03ba,n is proven in [58, Theorem 2.1]. It converges almost surely if \u03ba/n \u2192 0 and \u03ba \u2192 \u221e as n \u2192 \u221e, and there exists a constant \u03b4 > 0 such that log(n)\u03b4/\u03ba\u2192 0."
+        },
+        {
+            "heading": "4. Kernel estimator",
+            "text": "Similar to the Moments estimator, the Kernel estimator [59] is consistently applicable to distributions with any \u03be \u2208 R. As its name suggests, the Kernel estimator uses a kernel, which is a function \u03c6 : [0, 1]\u2192 [0,\u221e) that can by chosen by the user, and that must satisfy a set of conditions for the estimator to be consistent [59]. The estimator also employs a parameter \u03bb > 1/2 to get rid of possible singularities. Finally, instead of using an integervalued \u03ba to determine the range of the order statistics to consider for \u03be-estimation, the estimator relies on a continuous bandwidth parameter h > 0 for that purpose. Thanks to this modification, as a function of h, the estimator tends to be smoother compared to the other estimators.\nGiven the chosen kernel \u03c6, denote \u03c6h(u) := \u03c6(u/h)/h. With this notation, the Kernel estimator is\n\u03be\u0302Kernelh,n = \u03be\u0302 pos h,n \u2212 1 +\nq\u0302 (1) h,n q\u0302 (2) h,n , where\n\u03be\u0302 posh,n = n\u22121\u2211 i=1 i n \u03c6h ( i n ) log ( x(i) x(i+1) ) ,\nq\u0302 (1) h,n = n\u22121\u2211 i=1 ( i n )\u03bb \u03c6h ( i n ) log ( x(i) x(i+1) ) ,\nq\u0302 (2) h,n = n\u22121\u2211 i=1 \u2202 \u2202u [u\u03bb+1\u03c6h(u)]u=i/n log ( x(i) x(i+1) ) .\nThe consistency of this estimator for n\u2192\u221e, h\u2192 0, and hn\u2192\u221e is proven in [59].\nFor the experiments in this paper, which are also the default settings in [55], we prepare a list of fractions of order statistics h1, . . . , hs. The estimator is then evaluated at each h-value hi, i = 1, . . . , s. These fractions hi are logarithmically spaced in the interval [1/n, 1], where n is the sequence length. The number of different h-values is set to s = [0.3n]. The logarithmic binning is chosen to scan the tail of the degree sequence more densely, while the choice of s guarantees that the sample sizes used in the double bootstrap procedure described in Appendix C 1 exceed s, so that kernel smoothing is applied to both bootstrap samples as well. For \u03bb, we use the setting in [59] where \u03bb = 0.6. In our software package [55]\nthe values of \u03bb and s can be changed to any other values \u03bb > 1/2 and s > 0. We note that the estimator is proven to be consistent for any choice of s, hi, and \u03bb satisfying the requirements above. Package [55] also implements the bi- and tri-weight kernels from [59]:\n\u03c6(1)(u) = 15\n8 (1\u2212 u2)2,\n\u03c6(2)(u) = 35\n16 (1\u2212 u2)3,\nwhere \u03c6(1) is used for the tail estimation, and the combination of \u03c6(1) and \u03c6(2) is used to find the optimal h\u2217 as described in Section C 1. Once such an h\u2217 is found, the value of \u03ba\u2217 is set to bnh\u2217c in [55]."
+        },
+        {
+            "heading": "5. Smooth Hill estimator",
+            "text": "Although Hill\u2019s estimator is consistent, it, as a function of the number of order statistics \u03ba, can be highly irregular for finite-size data samples. The plots of such functions are even known as Hill Horror Plots, Section 4.4.2 in [31]. These horrors make it essentially impossible to examine these plots in search of the stable regime of \u03be\u0302 Hill\u03ba,n , i.e., the region of \u03bas where \u03be\u0302 Hill \u03ba,n is approximately constant. The value that the estimator yields in this constant regime is then one\u2019s best estimate of \u03be, but if these plots are highly irregular, then this estimation procedure is unavoidably subjective. Even though no results presented in this paper rely on such subjective manipulations\u2014instead we rely on the statistically consistent double bootstrap method to find \u03ba\u2217, Section C 1\u2014 in practice one may wish to investigate such plots to get deeper insight into the data at hand. To this end, one usually uses either the smoothed version of Hill\u2019s estimator or Pickands estimator, which are both included in [55].\nThe smooth Hill estimator [95] is defined for any integer r \u2265 2, which is a parameter, by\n\u03be\u0302 smooH\u03ba,n = 1\n(r \u2212 1)\u03ba r\u03ba\u2211 j=\u03ba+1 \u03be\u0302 Hillj,n , (B9)\nwhich is just an average of Hill\u2019s estimators over the range [\u03ba+ 1, r\u03ba]. This estimator is also statistically consistent, for any r, as proven in [95]. The practical advantage of this smooth estimator compared to the original Hill\u2019s estimator is that by averaging the latter, the former suppresses its erratic behavior, making it easier to identify its stable region."
+        },
+        {
+            "heading": "6. Pickands estimator",
+            "text": "The Pickands estimator [72] is defined by\n\u03be\u0302 Pickands\u03ba,n = 1\nlog 2 log ( x(\u03ba) \u2212 x(2\u03ba) x(2\u03ba) \u2212 x(4\u03ba) ) . (B10)\n19\nConsistency of the estimator is proven also in [72]. Similarly to the Moments and Kernel estimators, it is consistently applicable to distributions in the MDAs of extreme value distributions with any \u03be \u2208 R. In practice this estimator provides a simple way to check whether the assumption that the data comes from a regularly varying distribution makes sense. Specifically, if the function \u03be\u0302 Pickands\u03ba,n of \u03ba is all negative, then this assumption can hardly be true.\nIn contrast to the other estimators, the Pickands estimator has an issue dealing with integer-valued data containing ties. For instance, if there are many data points with the same value (many nodes with the same degree), it can happen that for some \u03ba, x(2\u03ba) = x(4\u03ba), in which case \u03be\u0302 Pickands\u03ba,n is undefined. This drawback can however be remedied, in a provably consistent manner, by adding uniform noise to the integer-valued data, as explained in Section C 2.\nIt is known that in practice the Pickands estimator is quite volatile as a function of the number of order statistics \u03ba, and that it has large asymptotic variance [73] and poor efficiency [59]. Attempts to cure this poor behavior resulted in a number of different versions of generalized Pickands estimators [73, 96\u2013100], all of them using linear combinations of log-spacings of the order statistics \u03ba(1), . . . , \u03ba(n). Yet, to the best of our knowledge, the consistency of the double bootstrap method has been proven [101] for only one version, the one defined in [96], so that we implemented only this version in [55]."
+        },
+        {
+            "heading": "Appendix C: Estimating the tail exponent of an empirical degree sequence",
+            "text": "Here we discuss the technical details concerning the application of the consistent estimators discussed in the previous section to empirical degree sequences coming from either synthetic or real-world networks."
+        },
+        {
+            "heading": "1. Finding the optimal number of order statistics",
+            "text": "All the estimators in Section B depend on the number of order statistics \u03ba. That is, all the estimators operate only on the \u03ba largest-value data samples (degrees). The consistency of all the estimators is proven only in the limit of both \u03ba and n, the number of samples (nodes), tending to infinity. Therefore, when applied to a finite empirical degree sequence, these estimators have the value of \u03ba as a free parameter. The main focus of this section is the double bootstrap method that algorithmically identifies an optimal \u03ba-value \u03ba\u2217 in a statisti-\ncally consistent manner, meaning that the value of \u03be\u0302\u03ba\u2217,n estimated by these estimators with \u03ba = \u03ba\u2217 provably converges to the true value of \u03be as n\u2192\u221e.\nThe identification of an optimal value \u03ba\u2217 has been an active research topic in extreme value statistics for several decades [101, 102]. The existing methods for choos-\ning \u03ba\u2217 can be roughly split into two classes: (1) heuristic approaches that propose to study tail index estimates plotted as functions of \u03ba, and (2) theoretical approaches based on the minimization of the asymptotic mean-squared-error (AMSE) of the estimator.\nThe heuristic methods mainly consider various ways of identifying regions of \u03ba where estimators show stable behavior, i.e., where the estimator plot is relatively flat as a function of \u03ba. Examples of such approaches are the automated eyeball method [95], or picking a fixed small percentage (typically 5% or 10%) of the largest-value data samples. Such methods, involving (semi-)subjective adhoc choices, may not be robust.\nThe main idea behind the theoretical methods is as follows. Suppose x1, . . . , xn is an i.i.d. sequence sampled from a distribution that belongs to the domain of attraction of the generalized extreme value distribution (B2)\nwith a given \u03be. Denote by \u03be\u0302\u03ba,n the estimated value of \u03be returned by a given estimator applied to the \u03ba largest elements in this sequence. Observe that since the sequence\nis random, \u03be\u0302\u03ba,n is a random variable. Define the asymptotic mean squared error between the true and estimated \u03bes as\nAMSE(n, \u03ba) = E [ (\u03be\u0302\u03ba,n \u2212 \u03be)2 ] . (C1)\nThe main goal is to find the optimal \u03ba-value \u03ba\u2217 that minimizes this error:\n\u03ba\u2217 = arg min \u03ba AMSE(n, \u03ba). (C2)\nTo estimate \u03ba\u2217 in this paper we use the AMSE-based double bootstrap method developed in [59, 101\u2013103] because of its proved consistency, stability, and applicability to the considered estimators. The method finds a consistent optimal value \u03ba\u2217 for a given consistent estimator by employing not only this estimator, but also another consistent estimator. The two estimators are applied to two collections of bootstrap samples from the original data, estimating \u03be at all possible values of \u03ba in these collections, and the value \u03ba\u2217 is then determined as the value of \u03ba at which the two estimators agree most in their estimation of \u03be according to the empirical AMSE evaluated on the bootstrap collections.\nSpecifically, the double bootstrap method operates using the following steps with two parameters: r denotes the number of bootstrap samples, and t \u2208 (0, 1) defines the first and second bootstrap sample sizes as n1 = \u221a tn and n2 = tn, where n is the original sequence length. In all the experiments in this paper, and in the software package [55], these parameters are set to r = 500 and t = 1/2 by default, so that the size of the second bootstrap sample is n2 = n/2.\n1. Sample r > 1 bootstrap samples of size n1 = [\u221a tn ]\nfrom the original data.\n2. Using the two consistent estimators, estimate \u03be (1) \u03ba1,j\nand \u03be (2) \u03ba1,j\nfor each value of \u03ba1 = 1, . . . , n1 in each bootstrap sample j = 1, . . . , r.\n20\n3. Find \u03ba\u22171 that minimizes the empirical AMSE between the two estimates with respect to the r bootstrap samples, i.e.,\n\u03ba\u22171 = arg min \u03ba1\n1\nr r\u2211 j=1 (\u03be (1) \u03ba1,j \u2212 \u03be(2)\u03ba1,j) 2.\n4. Repeat the same procedure for a smaller bootstrap sample size n2 = [tn] and find \u03ba \u2217 2 in the same man-\nner.\n5. The optimal value of \u03ba for the original data is given by:\n\u03ba\u2217 = A(\u03ba\u22171, n1, n) (\u03ba\u22171) 2\n\u03ba\u22172 , (C3)\nwhere A(\u03ba\u22171, n1, n) is a pre-factor that depends on \u03ba\u22171, n1, n, and whose exact form depends on the two estimators used.\nFollowing the derivations in [59, 101\u2013103], we use the following combinations of consistent estimators for the double bootstrap procedure applied to the Hill, Kernel, and Moments estimators: (1) the 1st (Hill) and 2nd moment estimators for the Hill double bootstrap; (2) the 2nd and 3rd moment estimators for the Moments double bootstrap; (3) the bi-weight and tri-weight kernel estimators for the Kernel double bootstrap. We note that in principle any combination of consistent estimators can be used in the double bootstrap method, but proofs of the consistency of such combinations must be carried out for each combination, so that we use the combinations that are already proven to be consistent and optimal.\nWe also note that these proofs are based on an additional assumption that the regularly varying distribution of the samples satisfies the second order condition [104], [105, Definition 2.3.1]. This condition is often invoked to prove asymptotic normality of estimators [76, 106], but it is known to be either difficult or impossible to check in real-world data [107]. To define it for a given distribution with CDF F (x), let U(x) = F\u22121(1\u2212 1/x) be the inverse of the CCDF 1\u2212 F (x). If the distribution is in an MDA of some extreme value distribution, then it is known [105, Theorem 1.1.6] that there exists a positive function a(x) such that, for any t > 0,\nlim x\u2192\u221e U(tx)\u2212 U(x) a(x) = b\u03be(t) :=\n{ t\u03be\u22121 \u03be , if \u03be 6= 0,\nlog t, otherwise.\nThe second order condition concerns the scaling of (U(tx) \u2212 U(x))/a(x) \u2212 b\u03be(t) as x \u2192 \u221e. The distribution is said to satisfy the second order condition if there exist functions A(x) with limx\u2192\u221eA(x) = 0 and a nondegenerate H(t) 6= cb\u03be(t) for any c 6= 0, such that for any t > 0\nlim x\u2192\u221e\n( U(tx)\u2212 U(x)\na(x) \u2212 t \u03be \u2212 1 \u03be\n) /A(x) = H(t). (C4)\nA simple example of a regularly varying CDF that satisfies the second order condition is\nF (x) = 1\u2212 x\u2212\u03b1 \u2212 dx\u2212\u03b4,\nwhere d > 0, \u03b4 > \u03b1 > 0, and x \u2265 x\u2217, where x\u2217 is the root of F (x) = 0. The simplest example of a distribution that does not satisfy the second order condition is a Pareto distribution. To see this, note that in case of Pareto U(x) = x\u2217x1/\u03b1, so that a(x) = \u03b1\u22121x\u2217x1/\u03b1, and\nU(tx)\u2212 U(x) a(x) = \u03b1(t1/\u03b1 \u2212 1) = t \u03be \u2212 1 \u03be .\nHence the left hand side in (C4) is always zero, meaning that no non-degenerate function H(t) exists.\nSince the proofs of consistency of the double bootstrap method rely on the second order condition, nothing can be said regarding the convergence and consistency of the considered estimators equipped with the double bootstrap method, if they are applied to sequences sampled from distributions that do not satisfy the second order condition. However, in our experiments we find that even in these cases the double bootstrap procedure\nperforms well, and the values of \u03be\u0302\u03ba\u2217,n quickly converge to the true \u03bes as n\u2192\u221e in most such cases, Section D 1.\nFurther technical details on the double bootstrap procedure for the Hill estimator can be found in [102, 103], for the Moments estimator in [101], and for the Kernel estimator in [59], where the consistency of double bootstrapping applied to these estimators is also proven."
+        },
+        {
+            "heading": "2. Working with integer data",
+            "text": "A common issue with all the known consistent estimators is their instability, i.e., erratic behavior of \u03be\u0302\u03ba,ns as functions of sampled sequences and the number of order statistics \u03ba, on integer-valued sequences [71, 108], which is the case with degree sequences. For instance, just rounding samples in sequences sampled from a continuous regularly varying distribution makes the estimators unstable [71], even though such rounded sequences are still regularly varying with the same exponent, Section A 3. In other words, the estimators remain consistent on integer-valued regularly varying distributions, but they tend to be unstable and exhibit slow convergence in such cases.\nTo resolve this issue we add uniform symmetric noise to the integer-valued sequences xi, i = 1, . . . , n, that is, to all sequences considered in this paper. Specifically, instead of applying the estimators to xi, we apply them to yi = xi+ui, where uis are i.i.d. samples from the uniform distribution on [\u22121/2, 1/2]. This does not affect the tail exponent: if x is a regularly varying random variable with tail index \u03be > 0, and u is a uniform random variable on [\u22121/2 \u00b7 10\u2212p, 1/2 \u00b7 10\u2212p], where p \u2265 0, then x + u is also regularly varying with the same exponent [108, Theorem 5.3.1]. Adding such noise greatly improves the\n21\nstability and convergence of the estimators, see Fig. 5 and compare it with Section D 1."
+        },
+        {
+            "heading": "3. Example of the estimator operation using the double bootstrap method",
+            "text": "To emphasize the importance of using as many consistent estimators as possible in application to degree sequences in real-world networks, here we consider an example of how the estimators work in conjunction with the double bootstrap method, showing that different estimators may explore different parts of the empirical degree distribution for any finite sequence, thus explaining why they may return different estimations on such sequences, especially if the slowly varying function `(k) is not trivial.\nFigure 6 shows that the Hill estimator yields a higher estimation of \u03b1 = 1/\u03be than the other two estimators applied to the in-degree sequence of the Libimseti network. This happens because the value of the optimal number of order statistics \u03ba\u2217 returned by Hill\u2019s double bootstrap is substantially lower than for the other two estimators, so that the Hill estimator considers a smaller part of the distribution tail. The value of Hill\u2019s \u03ba\u2217 is smaller because it is based on finding the minimum of the AMSE as a function of the number of order statistics \u03ba, and as we can see in the figure these minima occur at quite different values of \u03ba for the Hill versus the two other estimators.\nThis effect is actually expected in small-sized sequences sampled from regularly varying distributions with nontrivial slowly varying functions `(k). Figure 7 shows the details behind estimator convergence in two different cases, with a \u201cnice\u201d and \u201cnot so nice\u201d slowly varying function `(k). The figure illustrates the point that the farther the `(k) is from a constant, the larger the network size must be for all the estimators to yield similar values of \u03ba\u2217 and \u03be\u0302. The estimators are guaranteed to converge to the true value of \u03be for any `(k), but only in the infinite sample limit n \u2192 \u221e, and, to the best of our knowledge, there are no results (for the bounds) on the speed of this convergence, partly because this speed\nmay depend in an unknown way on some properties of `(k). That is why using as many consistent estimators as possible in application to real-world data is the best strategy one can follow."
+        },
+        {
+            "heading": "Appendix D: Evaluation on synthetic sequences and network models",
+            "text": "Here we show that the estimators based on extreme value (EV) theory\u2014the Hill, Moments, and Kernel estimators equipped with the double bootstrap procedure, the code in [55]\u2014yield the expected results when applied to synthetic degree sequences and to network models. We also compare the estimations that these estimators produce with the ones by the PLFit [19], which is based on a combination of techniques inspired by maximumlikelihood estimation (MLE) and Kolmogorov-Smirnov (KS) distance minimization. We use the plfit.m code version 1.0.11 by Aaron Clauset, which is widely used and publicly available at [109]. As stated in the code comments of the fit.py script in [110]\u2014the Python implementation of the PLFit used in [20]\u2014this implementation is based on the original MATLAB code [109], so that the results obtained using any of these two implementations [109, 110] should be identical."
+        },
+        {
+            "heading": "1. Synthetic sequences",
+            "text": "Here we sample different numbers n of positive integers k \u2208 N+ from the distributions listed below, so that the sampled sequence length is always n. The set of chosen distributions is intended to be diverse and representative of distributions claimed to be observed in real-world networks. In cases where the distribution has support on non-negative integers k \u2208 N, we discard all the zero entries from the sequence since they would correspond to nodes of degree k = 0 in networks. The parameter \u03b3 in all the distributions below can be any real number greater than 1.\nZeta distribution: The distribution PDF (or PMF, to be precise) is\nP (k) = k\u2212\u03b3\n\u03b6(\u03b3) , k \u2208 N+, (D1)\nwhere \u03b6(\u03b3) is the Riemann zeta function. This is the \u201cclean\u201d integer-valued power-law distribution with constant slowly varying function `(k) = 1/\u03b6(\u03b3).\nPareto-mixed Poisson distribution: For each sample, we first sample a real number x from the Pareto distribution, and then sample an integer k from the Poisson distribution with mean x:\nP (k|x) = x ke\u2212x\nk! , k \u2208 N, (D2)\nP (x) = \u03b1x\u03b10x \u2212\u03b3 , x \u2265 x0 > 0, (D3)\n22\nwhere \u03b1 = \u03b3 \u2212 1, and we set x0 = 1 in the experiments. The Pareto-mixed Poisson distribution is ubiquitous in network models with hidden variables [90], also known in mathematics as inhomogeneous random graphs [91], and more generally, as graphon-based W -random graphs [92]. This is one of the simplest regularly varying distribution with non-constant `(k) that converges to a constant, `(k)\u2192 \u03b1x\u03b10 , Section A 3.\nPareto distribution with natural exponential cutoff. We sample a random number x from the Pareto distribution with the exponential cutoff at n\u03be,\nPn(x) = x\u03b10\nE\u03b3 (x0/n\u03be) x\u2212\u03b3e\u2212x/n\n\u03be\n, x \u2265 x0 > 0, (D4)\nwhere E\u03b3 is the exponential integral function, \u03be = 1/\u03b1, and \u03b1 = \u03b3 \u2212 1. We then round x to the closest integer k = [x]. We set x0 = 1. The value n\n\u03be of where the exponential decay becomes prominent corresponds to the natural cutoff [81], which is proportional to the exact expected maximum value (B6) among n i.i.d. samples from the Pareto distribution with exponent \u03b3. This is an example of not a fixed distribution, but of an n-dependent family of distributions. For any fixed n, the distribution is not regularly varying since it has an exponential tail instead of a power-law tail. Yet as n increases, the location n\u03be of the \u201csoft beginning\u201d of the exponential tail diverges, so that in the n\u2192\u221e limit the distributions in this family converge to the pure Pareto distribution with exponent \u03b3, which is regularly varying.\nPareto distribution with a constant exponential cutoff. The sampling is the same as in the previous example, except that the location of the exponential cutoff does not depend on n, and is fixed to be 10 instead of n\u03be. This is an example of a distribution which is not regularly varying.\nDouble power law. We sample a random number x from the double power-law distribution with the PDF\nP (x) = \u03b2x\u2212\u03b30 ( 1 + (x c )\u03b10/r)\u2212r , x \u2265 x0 > 0, (D5)\n\u03b10 = \u03b3 \u2212 \u03b30, \u03b3 \u2265 \u03b30 > 1, (D6)\nwhere c is the location of the switch between the two power laws with exponents \u03b30 for x c and \u03b3 for x c, r is the parameter that controls how smooth this switch is, and \u03b2 is the normalizing constant given by\n\u03b2 = \u03b1x\u03b10\nc\u03b102F1 ( r, r\u03b1/\u03b10, 1 + r\u03b1/\u03b10, \u2212 (c/x0)\u03b10/r ) , where \u03b1 = \u03b3 \u2212 1 and 2F1 is the Gauss hypergeometric function. As in all other examples, given this random x, we round it to integer k = [x]. In our experiments, we set \u03b30 = 1.5, c = 500, r = 0.1, and x0 = 1. This distribution is regularly varying with exponent \u03b3, which we vary in the experiments. Yet, as discussed in Section V, it may be difficult for the estimators to see that it is indeed \u03b3 and not \u03b30 if n is small. Distributions of this form characterize the degree distribution in the causal set of the universe [86], and they also frequently appear in astrophysics [111].\nTo assess the accuracy of the estimators, we sample s = 100 random sequences for each combination of the distributions listed above, the values of \u03b3, and the numbers of samples n in a sequence. On each sampled sequence j, j = 1, . . . , s, each estimator returns an esti-\nmated value \u03be\u0302j of \u03be. Given a collection of these \u03be\u0302js, we compute the relative root-mean-squared-error (RRMSE), a standard measure used to assess the accuracy of the tail\n23\nindex estimation [112, 113], defined as\nRRMSE =\n\u221a 1 s \u2211s j=1(\u03be\u0302j \u2212 \u03be)2\n\u03be , (D7)\nand show the results in Fig. 8 both for the extreme value (EV) estimators (Hill, Kernel, Moments), and for the MLE-based PLFit [19].\nWe observe that all the results are as expected. On sequences sampled from distributions that are regularly\nvarying, all the EV estimators converge. They also converge in the case where the distributions are not regularly varying for any finite sample size n, but where they converge to a regularly varying distribution at n\u2192\u221e\u2014the Pareto distribution with the diverging natural cutoff. No estimator converges in the case of a fixed distribution which is not regularly varying\u2014the Pareto distribution with a fixed exponential cutoff.\nAlso as expected, the PLFit yields a lower estimation error in case of the zeta distribution. This is because\n24\nthe zeta distribution satisfies PLFit\u2019s main assumption of a clean power law with constant `(k), but does not satisfy the second order condition, thus affecting the optimality of the double bootstrap, Section C 1. In other cases with reasonably \u201cnice\u201d regularly varying distributions with `(k) quickly converging to a constant, the accuracy and convergence rates of the EV and PLFit estimators are comparable. However, as soon as the regularly varying distribution is not really nice\u2014the double power law case with non-constant `(k) over a wide range of degrees k\u2014the PLFit estimations are completely off, as opposed to the EV estimators. This is also expected for the reasons discussed in Section D 3."
+        },
+        {
+            "heading": "2. Network models",
+            "text": "The main motivation to test the performance of the EV estimators not only on synthetic sequences of numbers sampled from various distributions, but also on degree sequences in network models, is to see whether and how their performance is affected by possible non-i.i.d.-ness of the latter sequences. To this end we consider three\nparadigmatic network models in which the degree distributions have been proven to converge to a regularly varying distribution, and in which the degree sequences are not i.i.d: 1) the erased configuration model (ECM) [114], 2) preferential attachment (PA) [115], and 3) hyperbolic random graphs (HRG) [116].\nErased configuration model. We sample varying-length i.i.d. sequences of random integers from the zeta distributions with different values of the exponent, and then either accept or reject the sequence based on whether the sum of its elements is even or odd. Each number in the sequence is the number of stubs attached to a node in a network to be formed. We match pairs of stubs uniformly at random, and then delete loops and multi-edges. For any finite sample size, the degree sequence in the resulting network is neither zeta-distributed nor i.i.d., but it converges to the original zeta distribution as the sample size tends to infinity [114, Theorem 2.1].\nPreferential attachment. We use the redirection implementation in [117]: starting with the first node of degree 0, nodes arrive one by one, and each new node picks an already existing node uniformly at random, and then connects either to it with probability 1 \u2212 r, or to\n25\nits random neighbor with probability r. The only exception is the second node that connects to the first node with probability 1. We use this redirection probability to control the exponent of the power-law tail of the degree distribution, because this distribution converges to the following regularly varying distribution with exponent \u03b3 = 1 + 1/r [117]:\nP (k) = (\u03b3 \u2212 1)\u0393(2\u03b3 \u2212 3) \u0393(\u03b3 \u2212 2) \u0393(k + \u03b3 \u2212 3) \u0393(k + 2\u03b3 \u2212 3) . (D8)\nHyperbolic random graphs. The degree distribution in random geometric graphs in hyperbolic spaces converges to regularly varying Pareto-mixed Poisson distributions (A4), and, as opposed to the previous two models, these graphs also have non-vanishing average local clustering coefficients [116]. We use the software package developed in [118] and available at [119] to generate these graphs. We fix the average degree parameter to k\u0304 = 10, the temperature parameter to T = 0 corresponding to strongest clustering, and vary the \u03b3 parameter.\nFor each model, we vary the \u03b3 over the three values \u03b3 = 2.1, 2.5, and 3.0, and vary the network size n from 103 to 106. For each combination of the model, \u03b3, and n, we generate 100 random networks, read off their degree sequences, and feed them to all the considered estimators.\nWe then compute the RRMSE (D7), and show the results in Fig. 9.\nWe observe that in all the considered cases, all the EV estimators converge, even though the degree sequences are not i.i.d. The slow convergence in some cases is explained by the slow convergence of the degree distributions in these finite-sized networks to their limits. This is the case, for example, in the HRGs with \u03b3 = 2.1: the degree distribution in HRGs converges to its Paretomixed Poisson limit the more slowly, the closer the \u03b3 is to 2 [116].\nThe most notable results are for PA. Here the EV estimators clearly outperform the PLFit if \u03b3 = 2.1 or \u03b3 = 3, while all the estimators are on par if \u03b3 = 2.5 for the reasons that we discuss in the next section."
+        },
+        {
+            "heading": "3. Anatomy of the PLFit",
+            "text": "To better understand the slow convergence of the PLFit in the double power law and preferential attachment cases in the previous two sections, it is instructive to recall first how exactly the PLFit algorithm works. The algorithm is a variation of estimators in [120, 121] based on maximum-likelihood estimation (MLE). The starting point of the PLFit operations is a sequence of possible \u03b3values \u03b3s to experiment with. By default, this sequence is linearly spaced in the region [1.5, 3.5] with step size 0.01 in the code [109] released with [19]. These default settings have to be manually changed for the code to be applicable to degree sequences coming from distributions with \u03b3 > 3.5. The default values of \u03b3s in the code [110] used in [20] are linearly spaced in [1.01, 6.50] with step size 0.01.\nGiven the sequence \u03b3s and a degree sequence of length n supplied as input data, the PLFit algorithm first finds the sequence of unique degree values kt appearing in the degree sequence. For each value kt, the algorithm computes the vector of log-likelihood values\nLts = \u2212nt log \u03b6(\u03b3s, kt)\u2212 \u03b3s n\u2211 i=1 1{ki \u2265 kt} log ki, (D9)\nwhere nt is the number of nodes with degrees ki \u2265 kt, 1 the indicator function, and\n\u03b6(\u03b3s, kt) = \u221e\u2211 k=kt k\u2212\u03b3s (D10)\nis the Hurwitz zeta function. This likelihood is based on the assumption that the degrees that are greater than or equal to kt form a sequence of i.i.d. samples from a pure power law with exponent \u03b3s, i.e., from the generalized zeta distribution (9) with parameters \u03b3s, kmin = kt, and the normalization constant c = 1/\u03b6(\u03b3s, kt). Among all the considered values \u03b3s, the algorithm then identifies the one, \u03b3\u2217t , that corresponds to the maximum value of\n26\nLts for the given kt. This \u03b3\u2217t serves as an approximation of the MLE of \u03b3 for the degrees that are greater than or equal to kt. For the same kt, the algorithm then computes the Kolmogorov-Smirnov (KS) distance DKSt between the generalized zeta distribution with parameters \u03b3\u2217t and kmin = kt, and the empirical CDF of degrees ki \u2265 kt. This procedure is then repeated for each kt observed in the sequence, and the estimates \u03b3\u0302 and k\u0302min that the algorithm eventually returns are those that correspond to the minimum DKSt\u2217 of D KS t across all possible values of kt, i.e., k\u0302min = kt\u2217 and \u03b3\u0302 = \u03b3 \u2217 t\u2217 .\nThe algorithm is thus a mixture of two optimization strategies: one is based on likelihood maximization, while the other one deals with the KS distance minimization. We note that since the algorithm does not implement MLE exactly, it trivially cannot be consistent if the true value of \u03b3 does not belong to the finite set of \u03b3s values, because it can never report any \u03b3-estimate \u03b3\u0302 that does not belong to the finite set of \u03b3ss. More importantly, even though the correct implementation of MLE with a fixed and known kmin had long been proven to be consistent [19], the consistency of MLE in combination with KS-distance minimization has been proven only very recently in [24], and only for pure power laws, i.e., for the Pareto or generalized zeta distributions. If the distribution is not a pure power law but a general regularly varying distribution, the consistency of the algorithm is a question that has not been rigorously explored at all, except the conjectures in [24] that this MLE-KS combination appears to be consistent for regularly varying distributions satisfying the second order condition, and for regularly varying distributions whose slowly varying functions `(k) converge to constants, and that the algorithm is likely not to be consistent for all other classes of regularly varying distributions. That is, in all these other cases the algorithm may be consistent, or it may not be.\nThe problem is that there is the following logical inconsistency in the algorithm: it operates under the assumption that above a certain kmin, the distribution of degrees k is a pure power law, but then it recognizes that the distribution may be not a pure power law, and tries to account for that by finding a reasonable value of kmin such that above this value the assumption would hold \u201capproximately.\u201d If the distribution was a pure power law, then the search for this kmin would not be necessary, since the value of kmin would be equal with high probability to the smallest value observed in the sequence. But if the distribution is not a pure power law, then such a value of kmin simply does not exist, since for any kmin the distribution of k > kmin is not a pure power law. Yet the distribution of such ks may converge to a pure power law, but only if the kmin value that the algorithm finds diverges with the sample size n, and only if the slowly varying function `(k) converges to a constant. Therefore, for this subclass of regularly varying distributions with `(k)s converging to constants, the algorithm is likely to be consistent, yet the full proof is currently lacking [24].\nIf `(k) does not converge to a constant, then the consistency of the algorithm is quite unclear at present.\nIn all the regularly varying distributions considered in the previous two sections, the function `(k) does converge to a constant, and indeed in all these cases the PLFit appears to eventually converge. Yet in two of these cases, namely, double power laws and preferential attachment, its convergence is worse than that of any of the considered EV estimators. To see why, we analyze the two components of the PLFit, KS distance minimization and likelihood maximization, separately\u2014in Figs. 10 and 11, respectively.\nFigure 10 illustrates that the KS distance minimization component of the PLFit drives the values of kmin that the PLFit attempts to estimate to erroneously low values, in full agreement with more recent and in-depth investigations in [24]. This happens because the smaller the kmin, the smaller the deviations of the empirical CDF at degrees k right above kmin from the theoretical CDF, because if the distribution is regularly varying, there are more nodes with smaller degrees. The larger the kmin, the larger are these deviations caused by \u201csparser statistics\u201d in the distribution tail, and as a consequence the KS distance grows larger. If kmin is set to a small value, the deviations in the tail are suppressed as they are getting \u201csquished\u201d in the high-degree region of the CDF close to 1, cf. panels (a) and (b) in the figure.\nPanel (c) in Fig. 10 shows that the plfit.m code [109], both originally released with [19] as well as its current version, cannot be used to compute the MLE values of \u03b3 for large kmins, because it contains errors in computing the Hurwitz zeta function with the required accuracy [121], leading to numerical errors. Therefore we use a SciPy [122] implementation instead in Fig. 11.\nFigure 11 shows that if kmin is small\u2014and it is, thanks to the KS distance minimization part of the PLFit\u2014then the MLE component of the PLFit does very little other than trying to fit the loglog slope of the PDF evaluated at this kmin. The reasons behind this problem are the same as those behind the KS distance minimization problems discussed above: since there is a lot of data with degrees right above a small value of kmin, and since the MLE is primarily concerned with fitting as much data as possible, it tries to fit the part of the distribution with degrees k right above kmin, versus the true tail of the distribution with large ks, thus getting bad estimates of the tail exponent.\nIn other words, the errors in PLFit\u2019s estimates are due to the combination of the following two factors related, ironically, to the two key ideas behind the PLFit: (1) the small values of kmin returned by the KS distance minimization part of the algorithm, and (2) the MLE part of the PLFit that estimates not the tail exponent but, roughly, the loglog slope of the PDF evaluated close to this kmin. If this slope is different from the slope at large ks, i.e., the true tail exponent, then the PLFit does not really fit any power-law tail. However, if the distribution is such that at least one of these conditions is not\n27\nbetween the two CDFs at k\u0303 is also shown. Panel (c) shows a collection of numerical errors produced by the PLFit if modified to compute the MLE values of \u03b3 for large kmins. The errors are due to the numerically incorrect computations of the Hurwitz zeta function in the plfit.m code [109].\nsatisfied, then the PLFit estimates are more accurate, cf. the Pareto-mixed Poisson or the \u03b3 = 2.5 preferential attachment cases in Fig. 11.\nIf these two conditions are satisfied, which is the case with the double power law and preferential attachment with \u03b3 = 2.1 and \u03b3 = 3.0 in Fig. 11, then the PLFit estimates of the tail exponent are quite off. But if they are off, and if one then performs KS hypothesis testing using these inaccurate estimates, then the hypothesis that the degree sequence comes from a pure power law with the estimated exponent will be rejected with high probability, simply because the true tail exponent is different. For these reasons, if one applies the PLFit to preferential attachment networks with these exponents and then deploys the KS hypothesis tests, one will likely find that these networks are not power-law [20].\nFinally, Figure 11 also shows that the whole idea of using MLE to estimate tail exponents of regularly varying distributions is quite problematic to begin with, explaining why it has not been seriously explored in statistics. Indeed, for such an estimation procedure to be accurate, the values of kmin must be large and diverging in the n \u2192 \u221e limit for the reasons discussed above. However, the larger the kmin, the smaller the second term in (D9). On the other hand, as a function of \u03b3s, the first term in (D9) grows monotonically at a much higher rate than the linear rate of growth of the second term. Therefore,\nif kmin is above a certain threshold, then the MLE will do nothing but select the largest possible value of \u03b3s to maximize the likelihood via the first term. This is exactly what we see in Fig. 11, where for many instances of large kmin, the MLE-selected values of \u03b3 are the largest possible values within the range that we offer the MLE to\n28\noperate with. Therefore, the correctness of MLE depends on whether there exists a \u201csweet-spot\u201d range of values of kmin that are not too large and not too small. It might be the case that such a range simply does not exist for some regularly varying distributions. Worse, even if it can be proven to always exist, which is unclear at present, we have seen above that the KS distance minimization procedure is quite unlikely to be a correct, statistically\nconsistent, procedure to identify this range. At least, the KS distance minimization has not been proven to be such a procedure for general regularly varying distributions. Whether a required procedure exists at all, is also unclear. After all, for the reasons mentioned above, even the required sweet-spot range of kmins is quite unlikely to exist for regularly varying distributions whose slowly varying functions do not converge to constants.\n29\n30\n31\n32\n[1] A.-L. Baraba\u0301si, Network Science (Cambridge University Press, Cambridge, 2016). [2] M. E. J. Newman, Networks, 2nd ed. (Oxford University Press, Oxford, 2018). [3] A. Barrat, M. Barthe\u0301lemy, and A. Vespignani, Dynamical Processes on Complex Networks (Cambridge University Press, Cambridge, 2008). [4] S. Bornholdt and H. G. Schuster, eds., Handbook of Graph and Networks: From the Genome to the Internet (Wiley-VCH, Berlin, 2002). [5] R. van der Hofstad, Random Graphs and Complex Networks, Vol. 1 (Cambridge University Press, Cambridge, 2016). [6] S. N. Dorogovtsev, A. V. Goltsev, and J. F. F. Mendes, Critical Phenomena in Complex Networks, Rev. Mod. Phys. 80, 1275 (2008). [7] A. Arenas, A. D\u0131\u0301az-Guilera, J. Kurths, Y. Moreno, and C. Zhou, Synchronization in Complex Networks, Phys. Rep. 469, 93 (2008). [8] L. Dall\u2019Asta, Dynamical Phenomena on Complex Networks, Ph.D. thesis, Universite\u0301 Paris Sud (2006). [9] W. Willinger, R. Govindan, S. Jamin, V. Paxson, and S. Shenker, Scaling Phenomena in the Internet: Critically Examining Criticality, Proc. Natl. Acad. Sci. U.S.A. 99, 2573 (2002). [10] L. Li, D. Alderson, J. C. Doyle, and W. Willinger, Towards a Theory of Scale-Free Graphs: Definition, Properties, and Implications, Internet Math. 2, 431 (2005). [11] C. B. Duke, ed., Network Science (The National Academies Press, Washington, 2006). [12] D. Krioukov, K. Claffy, M. Fomenkov, F. Chung, A. Vespignani, and W. Willinger, The Workshop on Internet Topology (WIT) Report, ACM SIGCOMM Comput. Commun. Rev. 37, 69 (2007). [13] W. Willinger, D. Alderson, and J. C. Doyle, Mathematics and the Internet: A Source of Enormous Confusion and Great Potential, Not. Am. Math. Soc. 56, 586 (2009). [14] M. Mitzenmacher, A Brief History of Generative Models for Power Law and Lognormal Distributions, Internet Math. 1, 226 (2004). [15] R. Khanin and E. Wit, How Scale-Free Are Biological Networks, J. Comput. Biol. 13, 810 (2006). [16] M. P. H. Stumpf and M. A. Porter, Critical Truths About Power Laws, Science 335, 665 (2012).\n[17] A\u0301. Corral, F. Font, and J. Camacho, Noncharacteristic half-lives in radioactive decay, Phys. Rev. E 83, 066103 (2011).\n[18] A\u0301. Corral and A\u0301. Gonza\u0301lez, Power-law distributions in geoscience revisited, (2018), arXiv:1810.07868. [19] A. Clauset, C. R. Shalizi, and M. E. Newman, Powerlaw Distributions in Empirical Data, SIAM Rev. 51, 661 (2009). [20] A. D. Broido and A. Clauset, Scale-free networks are rare, Nat. Commun. 10, 1017 (2019). [21] E. Klarreich, Scant Evidence of Power Laws Found in Real-World Networks, (2018). [22] P. Holme, Rare and everywhere: Perspectives on scalefree networks, Nat. Commun. 10, 1016 (2019). [23] J. Lee, L. F. James, S. Choi, and F. Caron, A Bayesian\nmodel for sparse graphs with flexible degree distribution and overlapping community structure, (2018), arXiv:1810.01778. [24] H. Drees, A. Jan\u00dfen, S. I. Resnick, and T. Wang, On a minimum distance procedure for threshold selection in tail analysis, (2018), arXiv:1811.06433. [25] M. Gerlach and E. G. Altmann, Testing Statistical Laws in Complex Systems, Phys. Rev. Lett. 122, 168301 (2019). [26] M. Serafino, G. Cimini, A. Maritan, S. Suweis, J. R. Banavar, and G. Caldarelli, Scale-free networks revealed from finite-size scaling, (2019), arXiv:1905.09512. [27] A. Charpentier and E. Flachaire, Extended Scale-Free Networks, (2019), arXiv:1905.10267. [28] S. N. Dorogovtsev, J. F. F. Mendes, and A. N. Samukhin, Structure of Growing Networks with Preferential Linking, Phys. Rev. Lett. 85, 4633 (2000). [29] P. L. Krapivsky, S. Redner, and F. Leyvraz, Connectivity of Growing Random Networks, Phys. Rev. Lett. 85, 4629 (2000). [30] B. Bolloba\u0301s, O. Riordan, J. Spencer, and G. Tusna\u0301dy, The degree sequence of a scale-free random graph process, Random Struct. Algor. 18, 279 (2001). [31] S. I. Resnick, Heavy-tail Phenomena: Probabilistic and Statistical Modeling (Springer, New York, 2007). [32] N. H. Bingham, C. M. Goldie, and J. L. Teugels, Regular Variation (Cambridge University Press, Cambridge, 1989). [33] S. Foss, D. Korshunov, and S. Zachary, An Introduction to Heavy-tailed and Subexponential Distributions, Vol. 6 (Springer, New York, 2011). [34] J. Beirlant, Y. Goegebeur, J. Segers, and J. L. Teugels, Statistics of Extremes: Theory and Applications (John Wiley & Sons, Chichester, 2006). [35] C. Stegehuis, R. van der Hofstad, A. Janssen, and J. S. van Leeuwaarden, Clustering Spectrum of Scalefree Networks, Phys. Rev. E 96, 042309 (2017). [36] R.van der Hofstad, G. Hooghiemstra, and D. Znamenski, Distances in Random Graphs with Finite Mean and Infinite Variance Degrees, Electron. J. Probab. 12, 703 (2007). [37] P. van der Hoorn and M. Olvera-Cravioto, Typical Distances in the Directed Configuration Model, Ann. Appl. Probab. 28, 1739 (2018). [38] M. Bogun\u0303a\u0301, D. Krioukov, and K. C. Claffy, Navigability of Complex Networks, Nat. Phys. 5, 74 (2009). [39] S. A. Delre, W. Jager, T. H. Bijmolt, and M. A. Janssen, Will It Spread or Not? The Effects of Social Influences and Network Topology on Innovation Diffusion, J. Prod. Innov. Manag. 27, 267 (2010). [40] B. Doerr, M. Fouz, and T. Friedrich, Why Rumors Spread so Quickly in Social Networks, Commun. ACM 55, 70 (2012). [41] K. Bringmann, R. Keusch, J. Lengler, Y. Maus, and A. Molla, in Proceedings of the ACM Symposium on Principles of Distributed Computing - 17 (ACM, 2017) pp. 371\u2013380. [42] A. Ameraoui, K. Boukhetala, and J.-F. Dupuy, Bayesian Estimation of the Tail Index of a Heavy Tailed Distribution Under Random Censoring, Comput. Stat. Data Anal. 104, 148 (2016).\n33\n[43] P. Embrechts, C. Klu\u0308ppelberg, and T. Mikosch, Modelling Extremal Events: for Insurance and Finance, Vol. 33 (Springer, Berlin, 2013). [44] S. Boucheron and M. Thomas, Tail Index Estimation, Concentration and Adaptivity, Electron. J. Stat. 9, 2751 (2015). [45] A. J. McNeil and R. Frey, Estimation of Tail-related Risk Measures for Heteroscedastic Financial Time Series: an Extreme Value Approach, J. Empir. Finance. 7, 271 (2000). [46] D. W. Jansen and C. G. De Vries, On the frequency of large stock returns: Putting booms and busts into perspective, Rev. Econ. Stat. , 18 (1991). [47] J. H. McCulloch, 13 financial applications of stable distributions, Handbook of statistics 14, 393 (1996). [48] M. Kotulski, Asymptotic distributions of continuoustime random walks: a probabilistic approach, J. Stat. Phys. 81, 777 (1995). [49] R. Metzler and J. Klafter, The random walk\u2019s guide to anomalous diffusion: a fractional dynamics approach, Phys. Rep. 339, 1 (2000). [50] S. Lu and F. J. Molz, How well are hydraulic conductivity variations approximated by additive stable processes? Adv. Environ. Res. 5, 39 (2001). [51] S. I. Resnick, Heavy tail modeling and teletraffic data: special invited paper, Ann. Statist. 25, 1805 (1997). [52] C. L. Nikias and M. Shao, Signal processing with alpha-stable distributions and applications (WileyInterscience, 1995). [53] R. L. Wasserstein and N. A. Lazar, The ASA\u2019s Statement on p-values: Context, Process, and Purpose, Am. Stat. 70, 129 (2016). [54] R. L. Wasserstein, A. L. Schirm, and N. A. Lazar, Moving to a World Beyond \u201cp < 0.05\u201d, Am. Stat. 73, 1 (2019). [55] I. Voitalov, Tail Index Estimation for Degree Sequences of Complex Networks, https://github.com/ ivanvoitalov/tail-estimation (2018). [56] J. Kunegis, in Proceedings of the 22nd International Conference on World Wide Web (ACM, 2013) pp. 1343\u2013 1350. [57] B. M. Hill, A Simple General Approach to Inference About the Tail of a Distribution, Ann. Stat. 3, 1163 (1975). [58] A. L. Dekkers, J. H. Einmahl, and L. De Haan, A Moment Estimator for the Index of an Extreme-value Distribution, Ann. Stat. 17, 1833 (1989). [59] P. Groeneboom, H. Lopuhaa\u0308, and P. De Wolf, Kerneltype Estimators for the Extreme Value Index, Ann. Stat. 31, 1956 (2003). [60] T. Wang and S. I. Resnick, Consistency of Hill estimators in a linear preferential attachment model, Extremes 22, 1 (2019). [61] E. A. Bender and E. R. Canfield, The Asymptotic Number of Labeled Graphs with Given Degree Sequences, J. Comb. Theory, Ser. A 24, 296 (1978). [62] B. Bolloba\u0301s, A Probabilistic Proof of an Asymptotic Formula for the Number of Labelled Regular Graphs, Eur. J. Comb. 1, 311 (1980). [63] N. C. Wormald, Some Problems in the Enumeration of Labelled graphs, B. Aust. Math. Soc. 21, 159 (1980). [64] R. Arratia and T. M. Liggett, How Likely is an i.i.d. Degree Sequence to be Graphical? Ann. Appl. Probab. 15, 652 (2005).\n[65] C. I. Del Genio, H. Kim, Z. Toroczkai, and K. E. Bassler, Efficient and Exact Sampling of Simple Graphs with Given Arbitrary Degree Sequence, PLoS One 5, e10012 (2010). [66] K. F. Chan and P. Gray, Using Extreme Value Theory to Measure Value-at-risk for Daily Electricity Spot Prices, Int. J. Forecast. 22, 283 (2006). [67] J. Danielsson and C. G. De Vries, Value-at-risk and Extreme Returns, Ann. Econ. Statist. , 239 (2000). [68] M. Gilli and E. Ke\u0308llezi, An Application of Extreme Value Theory for Measuring Financial Risk, Comput. Econ. 27, 207 (2006). [69] R. A. Fisher and L. H. C. Tippett, Limiting forms of the frequency distribution of the largest or smallest member of a sample, Math. Proc. Cambridge Philos. Soc. 24, 180 (1928). [70] B. Gnedenko, Sur la Distribution Limite du Terme Maximum d\u2019une Serie Aleatoire, Ann. Math. 44, 423 (1943). [71] M. Matsui, T. Mikosch, and L. Tafakori, Estimation of the Tail Index for Lattice-valued Sequences, Extremes 16, 429 (2013). [72] J. Pickands III, Statistical Inference Using Extreme Order Statistics, Ann. Stat. 3, 119 (1975). [73] J. Segers, Generalized Pickands Estimators for the Extreme Value Index, J. Stat. Plan. Infer. 128, 381 (2005). [74] W. L. Shinyie, N. Ismail, and A. A. Jemain, Semiparametric Estimation for Selecting Optimal Threshold of Extreme Rainfall Events, Int. Ser. Prog. Wat. Res. 27, 2325 (2013). [75] S. Mu\u0308ller and K. Rufibach, Smooth Tail-index Estimation, J. Stat. Comput. Sim. 79, 1155 (2009). [76] M. I. Gomes and A. Guillou, Extreme Value Theory and Statistics of Univariate Extremes: A Review, Int. Stat. Rev. 83, 263 (2015). [77] P. Billingsley, Convergence of probability measures (John Wiley & Sons, 2013). [78] P. Krapivsky and D. Krioukov, Scale-free Networks as Preasymptotic Regimes of Superlinear Preferential Attachment, Phys. Rev. E 78, 026114 (2008). [79] S. Dommers, C. Giardina\u0300, and R. van der Hofstad, Ising Critical Exponents on Random Trees and Graphs, Commun Math Phys 328, 355 (2014). [80] R. Cohen and S. Havlin, Scale-Free Networks Are Ultrasmall, Phys. Rev. Lett. 90, 058701 (2003). [81] M. Bogun\u0303a\u0301, R. Pastor-Satorras, and A. Vespignani, Cut-offs and Finite Size Effects in Scale-free Networks, Eur. Phys. J. B 38, 205 (2004). [82] A. Clauset, E. Tucker, and M. Sainz, The Colorado Index of Complex Networks, https://icon.colorado. edu/ (2016). [83] C. Orsini, M. M. Dankulov, P. Colomer-de Simo\u0301n, A. Jamakovic, P. Mahadevan, A. Vahdat, K. E. Bassler, Z. Toroczkai, M. Bogun\u0303a\u0301, G. Caldarelli, S. Fortunato, and D. Krioukov, Quantifying randomness in real networks, Nat. Commun. 6, 8627 (2015). [84] S. A. Hill, A measure for characterizing heavy-tailed networks, arXiv:1907.04808 (2019). [85] N. Berger, C. Borgs, J. T. Chayes, R. M. D\u2019Souza, and R. D. Kleinberg, Degree Distribution of Competition-induced Preferential Attachment Graphs, Comb. Probab. Comput. 14, 697 (2005). [86] D. Krioukov, M. Kitsak, R. S. Sinkovits, D. Rideout, D. Meyer, and M. Bogun\u0303a\u0301, Network Cosmology, Sci. Rep. 2, 793 (2012).\n34\n[87] P. van der Hoorn, D. Yao, and N. Litvak, Average Nearest Neighbor Degrees in Scale-free Networks, Internet Math. 1 (2018). [88] H. Jessen and T. Mikosch, Regularly varying functions, Publ. l\u2019Institut. Math. 80, 171 (2006). [89] G. E. Willmot and X. S. Lin, in Lundberg Approximations for Compound Distributions with Insurance Applications (Springer, New York, 2001) pp. 37\u201349. [90] M. Boguna\u0301 and R. Pastor-Satorras, Class of Correlated Random Networks with Hidden Variables, Phys. Rev. E 68, 036112 (2003). [91] B. Bolloba\u0301s, S. Janson, and O. Riordan, The Phase Transition in Inhomogeneous Random Graphs, Random Struct. Algor. 31, 3 (2007). [92] L. Lova\u0301sz and B. Szegedy, Limits of Dense Graph Sequences, J. Comb. Theory, Ser. B 96, 933 (2006). [93] S. I. Resnick, Extreme Values, Regular Variation and Point Processes (Springer, New York, 2013). [94] T. Mikosch, Regular Variation, Subexponentiality and Their Applications in Probability Theory , Report Eurandom, Vol. 99013 (Eurandom, 1999). [95] S. Resnick and C. Sta\u0306rica\u0306, Smoothing the Hill estimator, Adv. Appl. Probab. 29, 271 (1997). [96] T. T. Pereira, in Extreme Value Theory and Applications III, Proc. Gaithersburg Conference (NIST special publ.) (NIST, 1993) p. 165. [97] M. Falk, Efficiency of Convex Combinations of Pickands Estimator of the Extreme Value Index, J. Nonparametr. Stat. 4, 133 (1994). [98] M. F. Alves, Estimation of the Tail Parameter in the Domain of Attraction of an Extremal Distribution, J. Stat. Plan. Infer. 45, 143 (1995). [99] H. Drees, Refined Pickands Estimators of the Extreme Value Index, Ann. Stat. 23, 2059 (1995). [100] S. Yun, On a Generalized Pickands Estimator of the Extreme Value Index, J. Stat. Plan. Infer. 102, 389 (2002). [101] G. Draisma, L. de Haan, L. Peng, and T. T. Pereira, A Bootstrap-based Method to Achieve Optimality in Estimating the Extreme-value Index, Extremes 2, 367 (1999). [102] Y. Qi, Bootstrap and Empirical Likelihood Methods in Extremes, Extremes 11, 81 (2008). [103] J. Danielsson, L. de Haan, L. Peng, and C. G. de Vries, Using a Bootstrap Method to Choose the Sample Fraction in Tail Index Estimation, J. Multivar. Anal. 76, 226 (2001). [104] L. de Haan and U. Stadtmu\u0308ller, Generalized Regular Variation of Second Order, J. Aust. Math. Soc. 61, 381 (1996). [105] L. de Haan and A. Ferreira, Extreme Value Theory: an\nIntroduction (Springer, New York, 2007). [106] L. de Haan and S. Resnick, Second-order regular vari-\nation and rates of convergence in extreme-value theory, Ann. Probab. 24, 97 (1996).\n[107] P. Jordanova and M. Stehlik, Flexible Extreme Value Inference And Hill Plots For A Small, Mid And Large Samples, (2015), arXiv:1509.06718. [108] J. J. Velthoen, Estimation of the Extreme Value Index for Imprecise Data, B.S. thesis, Delft University of Technology (2014). [109] A. Clauset, PLFit Matlab Script, http://tuvalu. santafe.edu/~aaronc/powerlaws/plfit.m (2012). [110] A. Broido, Scale-free network analysis, https:// github.com/adbroido/SFAnalysis (2019). [111] D. Huppenkothen, A. L. Watts, P. Uttley, A. J. Van der Horst, M. Van der Klis, C. Kouveliotou, E. Go\u0308g\u0306u\u0308s\u0327, J. Granot, S. Vaughan, and M. H. Finger, Quasi-Periodic Oscillations and Broadband Variability in Short Magnetar Bursts, Astrophys. J. 768, 87 (2013). [112] M. Brzezinski, Robust Estimation of the Pareto Tail Index: a Monte Carlo Analysis, Empir. Econ. 51, 1 (2016). [113] P. Jordanova, Z. Fabia\u0301n, P. Hermann, L. Str\u030celec, A. Rivera, S. Girard, S. Torres, and M. Stehl\u0301\u0131k, Weak Properties and Robustness of t-Hill Estimators, Extremes 19, 591 (2016). [114] T. Britton, M. Deijfen, and A. Martin-Lo\u0308f, Generating Simple Random Graphs with Prescribed Degree Distribution, J. Stat. Phys. 124, 1377 (2006). [115] A.-L. Baraba\u0301si and R. Albert, Emergence of Scaling in Random Networks, Science 286, 509 (1999). [116] D. Krioukov, F. Papadopoulos, M. Kitsak, A. Vahdat, and M. Boguna\u0301, Hyperbolic Geometry of Complex Networks, Phys. Rev. E 82, 036106 (2010). [117] P. L. Krapivsky and S. Redner, Organization of Growing Random Networks, Phys. Rev. E 63, 066123 (2001). [118] R. Aldecoa, C. Orsini, and D. Krioukov, Hyperbolic Graph Generator, Comput. Phys. Commun. 196, 492 (2015). [119] C. Orsini and R. Aldecoa, Hyperbolic Graph Generator, https://github.com/named-data/ Hyperbolic-Graph-Generator/releases (2016). [120] M. L. Goldstein, S. A. Morris, and G. G. Yen, Problems with fitting to the power-law distribution, Eur. Phys. J. B 41, 255 (2004). [121] H. Bauke, Parameter estimation for power-law distributions by maximum likelihood methods, Eur. Phys. J. B 58, 167 (2007). [122] E. Jones, T. Oliphant, and P. Peterson, SciPy: Open Source Scientific Tools for Python, (2001\u2013)."
+        }
+    ],
+    "title": "Scale-Free Networks Well Done",
+    "year": 2019
+}

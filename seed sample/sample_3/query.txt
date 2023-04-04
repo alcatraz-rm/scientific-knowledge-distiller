@@ -1,0 +1,16 @@
+elicitable risk measures
+
+limit: 15000
+2023-04-04 14:58:02,622 [MainThread] [INFO] SupportedSources.ARXIV: 3705
+2023-04-04 14:58:02,624 [MainThread] [INFO] SupportedSources.CORE: 155
+2023-04-04 14:58:02,624 [MainThread] [INFO] SupportedSources.INTERNET_ARCHIVE: 3705
+2023-04-04 14:58:02,624 [MainThread] [INFO] SupportedSources.SEMANTIC_SCHOLAR: 3705
+2023-04-04 14:58:02,625 [MainThread] [INFO] SupportedSources.UNPAYWALL: 16
+2023-04-04 14:58:02,625 [MainThread] [INFO] SupportedSources.CROSSREF: 0
+2023-04-04 14:58:02,625 [MainThread] [INFO] SupportedSources.OPENALEX: 3705
+2023-04-04 14:58:02,625 [MainThread] [INFO] SupportedSources.PAPERS_WITH_CODE: 3
+2023-04-04 14:58:02,625 [MainThread] [INFO] total documents: 14994
+total found: 14744
+starting deduplication...
+2023-04-04 14:59:36,755 [MainThread] [INFO] total results after deduplication: 11783
+2023-04-04 15:32:57,966 [MainThread] [INFO] elapsed time: 2883.8902962207794

@@ -1,0 +1,17 @@
+Expectiles and statistical properties
+
+limit: 15000
+2023-04-04 13:58:50,520 [MainThread] [INFO] SupportedSources.ARXIV: 6948
+2023-04-04 13:58:50,521 [MainThread] [INFO] SupportedSources.CORE: 224
+2023-04-04 13:58:50,521 [MainThread] [INFO] SupportedSources.INTERNET_ARCHIVE: 520
+2023-04-04 13:58:50,521 [MainThread] [INFO] SupportedSources.SEMANTIC_SCHOLAR: 41
+2023-04-04 13:58:50,522 [MainThread] [INFO] SupportedSources.UNPAYWALL: 0
+2023-04-04 13:58:50,522 [MainThread] [INFO] SupportedSources.CROSSREF: 6948
+2023-04-04 13:58:50,522 [MainThread] [INFO] SupportedSources.OPENALEX: 311
+2023-04-04 13:58:50,522 [MainThread] [INFO] SupportedSources.PAPERS_WITH_CODE: 0
+2023-04-04 13:58:50,523 [MainThread] [INFO] total documents: 14992
+total found: 14949
+starting deduplication...
+2023-04-04 13:59:04,138 [MainThread] [INFO] total results after deduplication: 14193
+2023-04-04 14:19:23,860 [MainThread] [INFO] elapsed time: 2141.2786581516266
+
