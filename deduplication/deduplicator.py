@@ -41,9 +41,7 @@ class Deduplicator:
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
         true_duplicates_path = os.path.join(path_to_deduplication_module, '_true_pairs.csv')
 
-        false_positive = 0
         true_positive = 0
-        false_negative = 0
         true_negative = 0
 
         with open(true_duplicates_path, 'r', encoding='utf-8') as true_pairs_csv:
@@ -67,17 +65,6 @@ class Deduplicator:
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
 
-                # testing logic
-                # res_json = {'cases': []}
-                # res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
-                #                           'doc_2': publications_dict[id_2].to_dict(),
-                #                           'decision': 'DUPLICATES',
-                #                           'id': n})
-                # filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n}.pdf')
-                # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
-                # pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm' })
-                # testing logic
-
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
             reader = csv.DictReader(manual_dedup_csv,
@@ -94,11 +81,21 @@ class Deduplicator:
             for row in reader:
                 rows.append(deepcopy(row))
 
+            pairs_counter = 0
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 are_duplicates = Deduplicator.are_duplicates(row)
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
+
+                if publications_dict[id_1].doi and publications_dict[id_1].doi == publications_dict[id_2].doi and are_duplicates:
+                    true_positive += 1
+                    continue
+                if publications_dict[id_1].doi and publications_dict[id_2].doi and publications_dict[id_1].doi != publications_dict[id_2].doi and not are_duplicates:
+                    true_negative += 1
+                    continue
+
+                pairs_counter += 1
 
                 # testing logic
                 # res_json = {'cases': []}
@@ -110,6 +107,7 @@ class Deduplicator:
                 # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
                 # pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
                 # testing logic
+            print('pairs', pairs_counter)
 
         # merge publication with the same doi logic
         doi_dict = {}

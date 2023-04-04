@@ -6,9 +6,9 @@ import os
 import time
 from pprint import pprint
 
-import pdfkit
-import requests
-from json2html import json2html
+# import pdfkit
+# import requests
+# from json2html import json2html
 
 from distiller.distiller import Distiller
 from search_engine import databases, Search
