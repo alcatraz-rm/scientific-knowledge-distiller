@@ -93,28 +93,28 @@ class Deduplicator:
                     input()
 
                 # testing logic
-                doi = -1
-                if row['doi'] != 'NA':
-                    doi = float(row['doi'])
-
-                if doi == 1 and row['doi1'] and are_duplicates:
-                    true_positive += 1
-                    continue
-                if doi < 1 and doi != -1 and not are_duplicates:
-                    true_negative += 1
-                    continue
-
-                res_json = {'cases': []}
-                res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
-                                          'doc_2': publications_dict[id_2].to_dict(),
-                                          'decision': 'DUPLICATES' if are_duplicates else 'NOT DUPLICATES',
-                                          'id': n})
-                filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n}.pdf')
-                config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
-                pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
+                # doi = -1
+                # if row['doi'] != 'NA':
+                #     doi = float(row['doi'])
+                #
+                # if doi == 1 and row['doi1'] and are_duplicates:
+                #     true_positive += 1
+                #     continue
+                # if doi < 1 and doi != -1 and not are_duplicates:
+                #     true_negative += 1
+                #     continue
+                #
+                # res_json = {'cases': []}
+                # res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
+                #                           'doc_2': publications_dict[id_2].to_dict(),
+                #                           'decision': 'DUPLICATES' if are_duplicates else 'NOT DUPLICATES',
+                #                           'id': n})
+                # filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n}.pdf')
+                # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
+                # pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
                 # testing logic
-            print('true positive:', true_positive)
-            print('true negative:', true_negative)
+            # print('true positive:', true_positive)
+            # print('true negative:', true_negative)
 
         # merge publication with the same doi logic
         doi_dict = {}
