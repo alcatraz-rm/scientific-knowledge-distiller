@@ -154,7 +154,19 @@ class Deduplicator:
 
     @staticmethod
     def _choose_best(*pubs) -> Document:
-        return min(*pubs, key=lambda x: x.empty_fields)
+        has_abstract = [pub for pub in pubs if pub.abstract]
+        if len(has_abstract) > 0:
+            pubs = has_abstract
+
+        years = [p.year for p in pubs]
+        latest_year = max(years)
+        pubs = [p for p in pubs if p.year == latest_year]
+
+        has_doi = [pub for pub in pubs if pub.doi]
+        if len(has_doi) > 0:
+            pubs = has_doi
+
+        return pubs[0]
 
     # NOTE: HERE we perform manual deduplication
     @staticmethod
