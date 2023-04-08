@@ -28,12 +28,17 @@ class Distiller:
         top_n_docs = [publications_dict[doc[0]] for doc in sorted(result_list, key=lambda x: -x[1])[:n]]
         return top_n_docs
 
-    def get_top_n_specter(self, documents: Iterable[Document], query: str, n: int):
+    def get_top_n_specter(self, documents: Iterable[Document], query: str = '', paper: Document = None, n: int = 100):
+        assert (query and not paper) or (paper and not query), 'Please use query or document, not both'
         documents = list(documents)
         model = SentenceTransformer('allenai-specter')
-        paper_texts = [paper.title + '[SEP]' + paper.abstract for paper in documents]
+        paper_texts = [p.title + '[SEP]' + p.abstract for p in documents]
         corpus_embeddings = model.encode(paper_texts, convert_to_tensor=True, batch_size=16)
-        query_embedding = model.encode(query + '[SEP]', convert_to_tensor=True)
+
+        if query:
+            query_embedding = model.encode(query + '[SEP]', convert_to_tensor=True)
+        else:
+            query_embedding = model.encode(paper.title + '[SEP]' + paper.abstract, convert_to_tensor=True)
 
         search_hits = util.semantic_search(query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
         return [documents[hit['corpus_id']] for hit in search_hits]

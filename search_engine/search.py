@@ -63,7 +63,7 @@ class Search:
         if SupportedSources.INTERNET_ARCHIVE in sources:
             self._clients.append(databases.InternetArchiveClient())
         if SupportedSources.SEMANTIC_SCHOLAR in sources:
-            self._clients.append(databases.SematicScholarClient())
+            self._clients.append(databases.SemanticScholarClient())
         if SupportedSources.UNPAYWALL in sources:
             self._clients.append(databases.UnpaywallClient())
         if SupportedSources.CROSSREF in sources:

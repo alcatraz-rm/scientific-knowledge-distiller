@@ -256,6 +256,15 @@ class Document:
         for raw_author in raw_data['authors']:
             self._authors.append(Author(raw_author['name']))
 
+        is_oa = raw_data.get('isOpenAccess')
+        if is_oa:
+            oa_pdf_url = raw_data.get('openAccessPdf', {})
+            if oa_pdf_url:
+                oa_pdf_url = oa_pdf_url.get('url', '')
+                if oa_pdf_url:
+                    self._urls.append(oa_pdf_url)
+
+
     def _load_from_core(self, raw_data: dict):
         self._source = SupportedSources.CORE
         self._title = raw_data.get('title', '')

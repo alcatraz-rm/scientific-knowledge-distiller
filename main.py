@@ -46,7 +46,7 @@ start_time = time.time()
 s.perform()
 results = list(s.results())
 logging.info(f'total results after deduplication: {len(results)}')
-top_1000 = d.get_top_n_specter(results, query, 1000)
+top_1000 = d.get_top_n_specter(results, query, n=1000)
 end_time = time.time()
 top_1000 = [pub.to_dict() for pub in top_1000]
 for n in range(len(top_1000)):
