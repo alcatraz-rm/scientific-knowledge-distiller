@@ -3,12 +3,25 @@
 # id_type - arxiv id, semantic scholar id or doi
 import json
 import logging
+import os
+from pathlib import Path
 
+from dotenv import load_dotenv
+
+from search_engine import Search
 from deduplication import Deduplicator
 from distiller.distiller import Distiller
-from search_engine import Search
 from search_engine.databases import SemanticScholarClient
 from search_engine.databases.database_client import SupportedSources
+
+
+initial_wd = os.getcwd()
+while os.path.split(os.getcwd())[-1] != 'scientific-knowledge-distiller':
+    os.chdir(os.path.join(os.getcwd(), '..'))
+root_path = os.getcwd()
+os.chdir(initial_wd)
+
+load_dotenv(dotenv_path=Path(os.path.join(root_path, '.env')))
 
 
 def get_relevant_snowball_method(paper_id='', id_type='arxiv', limit: int = 1000, top_pubs_number: int = 100, remove_without_title: bool = True):
@@ -32,7 +45,7 @@ def get_relevant_snowball_method(paper_id='', id_type='arxiv', limit: int = 1000
         SupportedSources.UNPAYWALL,
         SupportedSources.OPENALEX,
         SupportedSources.PAPERS_WITH_CODE,
-    ))
+    ), remove_duplicates=False)
     s.perform()
     results = list(s.results())
     results += layer_1
