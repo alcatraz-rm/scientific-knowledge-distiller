@@ -3,6 +3,7 @@ This module is used for duplicates removing.
 """
 from matplotlib import pyplot as plt
 import networkx as nx
+from networkx import draw_networkx
 
 
 class PublicationsGraph:

@@ -60,10 +60,11 @@ class Deduplicator:
             for row in reader:
                 rows.append(deepcopy(row))
 
-            true_pairs_len = len(rows)
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
+
+        pubs_graph.show()
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
@@ -81,33 +82,39 @@ class Deduplicator:
             for row in reader:
                 rows.append(deepcopy(row))
 
-            pairs_counter = 0
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 are_duplicates = Deduplicator.are_duplicates(row)
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
-
-                if publications_dict[id_1].doi and publications_dict[id_1].doi == publications_dict[id_2].doi and are_duplicates:
-                    true_positive += 1
-                    continue
-                if publications_dict[id_1].doi and publications_dict[id_2].doi and publications_dict[id_1].doi != publications_dict[id_2].doi and not are_duplicates:
-                    true_negative += 1
-                    continue
-
-                pairs_counter += 1
+                if row['doi'] != '1':
+                    pprint(publications_dict[id_1].to_dict())
+                    pprint(publications_dict[id_2].to_dict())
+                    input()
 
                 # testing logic
+                # doi = -1
+                # if row['doi'] != 'NA':
+                #     doi = float(row['doi'])
+                #
+                # if doi == 1 and row['doi1'] and are_duplicates:
+                #     true_positive += 1
+                #     continue
+                # if doi < 1 and doi != -1 and not are_duplicates:
+                #     true_negative += 1
+                #     continue
+                #
                 # res_json = {'cases': []}
                 # res_json['cases'].append({'doc_1': publications_dict[id_1].to_dict(),
                 #                           'doc_2': publications_dict[id_2].to_dict(),
                 #                           'decision': 'DUPLICATES' if are_duplicates else 'NOT DUPLICATES',
-                #                           'id': n + true_pairs_len})
-                # filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n + true_pairs_len}.pdf')
+                #                           'id': n})
+                # filename = os.path.join(path_to_deduplication_module, 'cases', f'cases-{n}.pdf')
                 # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
                 # pdfkit.from_string(json2html.convert(res_json), filename, configuration=config, css='style.css', options={'page-height': '297mm', 'page-width': '420mm'})
                 # testing logic
-            print('pairs', pairs_counter)
+            # print('true positive:', true_positive)
+            # print('true negative:', true_negative)
 
         # merge publication with the same doi logic
         doi_dict = {}
@@ -171,8 +178,8 @@ class Deduplicator:
             return True
         if row['title'] == '1' and row['abstract'] == '1' and row['year'] == '1':
             return True
-        if float(row['author']) >= 0.5 and row['title'] == '1' and row['abstract'] == '1':
-            return True
+        # if float(row['author']) >= 0.5 and row['title'] == '1' and row['abstract'] == '1':
+        #     return True
 
         return False
 
