@@ -64,8 +64,6 @@ class Deduplicator:
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
 
-        pubs_graph.show()
-
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
             manual_dedup_csv.readline()
             reader = csv.DictReader(manual_dedup_csv,
