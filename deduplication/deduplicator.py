@@ -85,10 +85,6 @@ class Deduplicator:
                 are_duplicates = Deduplicator.are_duplicates(row)
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
-                if row['doi'] != '1':
-                    pprint(publications_dict[id_1].to_dict())
-                    pprint(publications_dict[id_2].to_dict())
-                    input()
 
                 # testing logic
                 # doi = -1
