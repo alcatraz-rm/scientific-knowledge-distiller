@@ -24,9 +24,9 @@ os.chdir(initial_wd)
 load_dotenv(dotenv_path=Path(os.path.join(root_path, '.env')))
 
 
-def get_relevant_snowball_method(paper_id='', id_type='arxiv', limit: int = 1000, top_pubs_number: int = 100, remove_without_title: bool = True):
-    if id_type == 'arxiv':
-        paper_id = f'arXiv:{paper_id}'
+def get_relevant_snowball_method(paper_id='', limit: int = 1000, top_pubs_number: int = 100, remove_without_title: bool = True):
+    # if id_type == 'arxiv':
+    #     paper_id = f'arXiv:{paper_id}'
     semantic_scholar_client = SemanticScholarClient()
     paper = semantic_scholar_client.get_paper(paper_id)
 
@@ -59,9 +59,9 @@ def get_relevant_snowball_method(paper_id='', id_type='arxiv', limit: int = 1000
     return top
 
 
+paper_id = input('paper id: ')
 top_pubs = get_relevant_snowball_method(
-    paper_id='1705.10311',
-    id_type='arxiv',
+    paper_id=paper_id,
     limit=10000,
     top_pubs_number=1000
 )
