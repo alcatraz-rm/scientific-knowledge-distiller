@@ -23,17 +23,19 @@ class UnpaywallClient(DatabaseClient):
     def search_publications(self, query: str, search_id: UUID, limit: int = 100) -> Iterator[Document]:
         self._create_search(search_id, limit)
         responses = self.__query_api(query.strip(), search_id=search_id)
-
         documents_pulled = self._documents_pulled(search_id)
+        result = []
 
         counter = 0
         for response in responses:
             for pub in response['results']:
-                yield Document(pub['response'], source=SupportedSources.UNPAYWALL)
+                result.append(Document(pub['response'], source=SupportedSources.UNPAYWALL))
                 counter += 1
 
                 if counter == documents_pulled:
-                    return
+                    break
+
+        return result
 
     def __query_api(self, query: str, search_id: UUID = '') -> list:
         endpoint = f'{self._api_endpoint}v2/search'
@@ -86,18 +88,7 @@ class UnpaywallClient(DatabaseClient):
                 logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                 counter = 0
 
-                kill = False
-
-                while True:
-                    if self._kill_signal_occurred(search_id):
-                        kill = True
-                        break
-                    if self.documents_to_pull(search_id) > 0:
-                        self._change_status(SearchStatus.WORKING, search_id)
-                        break
-
-                    time.sleep(5)
-
+                kill = self._wait(search_id)
                 if kill:
                     logging.info(f'Kill signal for {self.name} occurred.')
                     break
@@ -122,6 +113,9 @@ class UnpaywallClient(DatabaseClient):
 
     def _kill_signal_occurred(self, search_id: UUID):
         return super(UnpaywallClient, self)._kill_signal_occurred(search_id)
+
+    def _wait(self, search_id: UUID):
+        return super(UnpaywallClient, self)._wait(search_id)
 
     # note: don't call this manually
     def send_kill_signal(self, search_id: UUID):

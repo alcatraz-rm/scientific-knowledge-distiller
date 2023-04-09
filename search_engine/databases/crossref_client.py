@@ -26,16 +26,7 @@ class CrossrefClient(DatabaseClient):
         for response in responses:
             results += response.get('message', {}).get('items', [])
 
-        if not results:
-            return
-
-        documents_pulled = self._documents_pulled(search_id)
-
-        for n, result in enumerate(results):
-            yield Document(raw_data=dict(result), source=SupportedSources.CROSSREF)
-
-            if n + 1 == documents_pulled:
-                break
+        return [Document(raw_data=dict(result), source=SupportedSources.CROSSREF) for result in results]
 
     def __query_api(self, query: str, search_id: UUID = '') -> list:
         responses = []
@@ -75,20 +66,13 @@ class CrossrefClient(DatabaseClient):
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
                     self._change_status(SearchStatus.WAITING, search_id)
-                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    logging.info(
+                        f'Pulled {counter} docs from {self.name}.'
+                        f'Total docs pulled: {self._documents_pulled(search_id)}'
+                    )
                     counter = 0
 
-                    kill = False
-
-                    while True:
-                        if self._kill_signal_occurred(search_id):
-                            kill = True
-                            break
-                        if self.documents_to_pull(search_id) > 0:
-                            self._change_status(SearchStatus.WORKING, search_id)
-                            break
-
-                        time.sleep(5)
+                    kill = self._wait(search_id)
                     if kill:
                         logging.info(f'Kill signal for {self.name} occurred.')
                         break
@@ -120,6 +104,9 @@ class CrossrefClient(DatabaseClient):
 
     def _kill_signal_occurred(self, search_id: UUID):
         return super(CrossrefClient, self)._kill_signal_occurred(search_id)
+
+    def _wait(self, search_id: UUID):
+        return super(CrossrefClient, self)._wait(search_id)
 
     # note: don't call this manually
     def send_kill_signal(self, search_id: UUID):

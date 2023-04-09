@@ -1,3 +1,4 @@
+import json
 import logging
 import os
 import time
@@ -113,6 +114,31 @@ class SemanticScholarClient(DatabaseClient):
 
             return Document(raw_data=dict(result_json), source=SupportedSources.SEMANTIC_SCHOLAR)
 
+    def get_papers_batch(self, ids):
+        api_endpoint = f'https://api.semanticscholar.org/graph/v1/paper/batch'
+        response = self._requests_manager.post(
+                api_endpoint,
+                params={
+                    'fields': 'externalIds,url,title,abstract,venue,publicationVenue,year,referenceCount,'
+                              'isOpenAccess,openAccessPdf,publicationDate,authors,journal'
+                },
+                data=json.dumps({"ids": ids}),
+                headers={
+                    'api-key': self._api_key
+                },
+                max_failures=0
+            )
+
+        if not isinstance(response, requests.Response):
+            return
+
+        if response.status_code == 200:
+            result_json = response.json()
+        else:
+            return
+
+        return [Document(raw, source=SupportedSources.SEMANTIC_SCHOLAR) for raw in result_json if raw]
+
     def __query_api(self, query: str = '', custom_endpoint: str = '', search_id: UUID = '') -> list:
         responses = []
         total_results = 0
@@ -164,18 +190,7 @@ class SemanticScholarClient(DatabaseClient):
                     logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                     counter = 0
 
-                    kill = False
-
-                    while True:
-                        if self._kill_signal_occurred(search_id):
-                            kill = True
-                            break
-                        if self.documents_to_pull(search_id) > 0:
-                            self._change_status(SearchStatus.WORKING, search_id)
-                            break
-
-                        time.sleep(5)
-
+                    kill = self._wait(search_id)
                     if kill:
                         logging.info(f'Kill signal for {self.name} occurred.')
                         break
@@ -210,6 +225,9 @@ class SemanticScholarClient(DatabaseClient):
 
     def _kill_signal_occurred(self, search_id: UUID):
         return super(SemanticScholarClient, self)._kill_signal_occurred(search_id)
+
+    def _wait(self, search_id: UUID):
+        return super(SemanticScholarClient, self)._wait(search_id)
 
     # note: don't call this manually
     def send_kill_signal(self, search_id: UUID):

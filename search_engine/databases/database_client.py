@@ -2,6 +2,7 @@ import logging
 import random
 import string
 import threading
+import time
 from copy import deepcopy
 from datetime import datetime
 from enum import Enum
@@ -139,6 +140,10 @@ class Document:
     def versions(self) -> list:
         return self._versions
 
+    # don't call it manually
+    def set_versions_raw(self, versions):
+        self._versions = versions
+
     # returns a dict to dump to csv for deduplication
     def to_csv(self) -> dict:
         return dict(
@@ -224,8 +229,6 @@ class Document:
                 self._load_from_internet_archive(raw_data)
             case SupportedSources.CROSSREF:
                 self._load_from_crossref(raw_data)
-            # case SupportedSources.DBLP:
-            #     self._load_from_dblp(raw_data)
             case SupportedSources.OPENALEX:
                 self._load_from_openalex(raw_data)
             case SupportedSources.PAPERS_WITH_CODE:
@@ -263,7 +266,6 @@ class Document:
                 oa_pdf_url = oa_pdf_url.get('url', '')
                 if oa_pdf_url:
                     self._urls.append(oa_pdf_url)
-
 
     def _load_from_core(self, raw_data: dict):
         self._source = SupportedSources.CORE
@@ -386,9 +388,6 @@ class Document:
             elif 'name' in raw_author:
                 self._authors.append(Author(raw_author['name']))
 
-    # def _load_from_dblp(self, raw_data: dict):
-    #     pass
-
     def _load_from_openalex(self, raw_data: dict):
         self._source = SupportedSources.OPENALEX
         self._title = raw_data.get('title')
@@ -446,7 +445,7 @@ class Document:
         return self._title
 
     def __repr__(self) -> str:
-        return self.title
+        return self._title
 
 
 class DatabaseClient:
@@ -513,6 +512,16 @@ class DatabaseClient:
             if not search_info:
                 return
             return search_info['status']
+
+    def _wait(self, search_id: UUID):
+        while True:
+            if self._kill_signal_occurred(search_id):
+                return True  # WAITING -> FINISHED
+            if self.documents_to_pull(search_id) > 0:
+                self._change_status(SearchStatus.WORKING, search_id)
+                return False  # WAITING -> WORKING
+
+            time.sleep(5)
 
     def search_publications(self, query: str, search_id: UUID, imit: int = 100) -> Iterator[Document]:
         pass

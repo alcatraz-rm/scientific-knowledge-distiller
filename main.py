@@ -52,10 +52,10 @@ top_1000 = [pub.to_dict() for pub in top_1000]
 for n in range(len(top_1000)):
     top_1000[n]['rank'] = n
 
-with open('results.json', 'w', encoding='utf-8') as file:
-    json.dump(top_1000, file, indent=4)
-
-logging.info(f'elapsed time: {end_time - start_time}')
+# with open('results.json', 'w', encoding='utf-8') as file:
+#     json.dump(top_1000, file, indent=4)
+#
+# logging.info(f'elapsed time: {end_time - start_time}')
 # res_json = [pub.to_dict() for pub in results]
 # config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
 # with open('deduplication/cases/case-1/result.json', 'w', encoding='utf-8') as file:

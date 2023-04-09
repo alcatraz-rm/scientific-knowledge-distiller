@@ -1,14 +1,9 @@
 import csv
-import json
 import os.path
 import subprocess
 from copy import deepcopy
 from itertools import chain
-from pprint import pprint
 from typing import Iterable, Dict
-
-import pdfkit
-from json2html import json2html
 
 from search_engine.databases.database_client import Document
 from utils.publications_graph import PublicationsGraph
@@ -41,44 +36,22 @@ class Deduplicator:
         possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
         true_duplicates_path = os.path.join(path_to_deduplication_module, '_true_pairs.csv')
 
-        true_positive = 0
-        true_negative = 0
+        # true_positive = 0
+        # true_negative = 0
 
         with open(true_duplicates_path, 'r', encoding='utf-8') as true_pairs_csv:
-            true_pairs_csv.readline()
-            reader = csv.DictReader(true_pairs_csv,
-                                    fieldnames=['id1', 'id2', 'author1', 'author2', 'author', 'title1', 'title2',
-                                                'title', 'abstract1', 'abstract2', 'abstract', 'year1', 'year2', 'year',
-                                                'number1', 'number2', 'number', 'pages1', 'pages2', 'pages', 'volume1',
-                                                'volume2', 'volume', 'journal1', 'journal2', 'journal', 'isbn', 'isbn1',
-                                                'isbn2', 'doi1', 'doi2', 'doi', 'record_id1', 'record_id2', 'label1',
-                                                'label2', 'source1', 'source2'
-                                                ]
-                                    )
-
-            rows = []
-            for row in reader:
-                rows.append(deepcopy(row))
+            headers = true_pairs_csv.readline().replace('"', '').replace('\n', '').split(',')
+            reader = csv.DictReader(true_pairs_csv, fieldnames=headers)
+            rows = [row for row in reader]
 
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
-            manual_dedup_csv.readline()
-            reader = csv.DictReader(manual_dedup_csv,
-                                    fieldnames=['id1', 'id2', 'author1', 'author2', 'author', 'title1', 'title2',
-                                                'title', 'abstract1', 'abstract2', 'abstract', 'year1', 'year2', 'year',
-                                                'number1', 'number2', 'number', 'pages1', 'pages2', 'pages', 'volume1',
-                                                'volume2', 'volume', 'journal1', 'journal2', 'journal', 'isbn', 'isbn1',
-                                                'isbn2', 'doi1', 'doi2', 'doi', 'record_id1', 'record_id2', 'label1',
-                                                'label2', 'source1', 'source2'
-                                                ]
-                                    )
-
-            rows = []
-            for row in reader:
-                rows.append(deepcopy(row))
+            headers = manual_dedup_csv.readline().replace('"', '').replace('\n', '').split(',')
+            reader = csv.DictReader(manual_dedup_csv, fieldnames=headers)
+            rows = [row for row in reader]
 
             for n, row in enumerate(rows):
                 id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
@@ -128,7 +101,6 @@ class Deduplicator:
         for component in connected_components:
             base_pub = self._merge_publications(*[publications_dict[pub_id] for pub_id in component])
             component.discard(base_pub.id)
-
             publications_dict[base_pub.id] = deepcopy(base_pub)
             unique_pubs_ids.add(base_pub.id)
 
@@ -137,8 +109,7 @@ class Deduplicator:
         # os.remove(possible_duplicates_path)
         # os.remove(os.path.join(path_to_deduplication_module, '_dump_tmp.csv'))
 
-        for pub_id in unique_pubs_ids:
-            yield publications_dict[pub_id]
+        return [publications_dict[pub_id] for pub_id in unique_pubs_ids]
 
     def _merge_publications(self, *pubs) -> Document:
         if len(pubs) == 1:
@@ -184,8 +155,6 @@ class Deduplicator:
             return True
         if row['title'] == '1' and row['abstract'] == '1' and row['year'] == '1':
             return True
-        # if float(row['author']) >= 0.5 and row['title'] == '1' and row['abstract'] == '1':
-        #     return True
 
         return False
 

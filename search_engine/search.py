@@ -2,10 +2,15 @@ import logging
 import threading
 import time
 import uuid
+from copy import deepcopy
 from typing import Iterable
+
+from progressbar import progressbar
+from semanticscholar import SemanticScholar
 
 from deduplication import Deduplicator
 from search_engine import databases
+from search_engine.databases import SemanticScholarClient
 from search_engine.databases.database_client import SupportedSources, Document, SearchStatus
 
 logging.basicConfig(
@@ -150,6 +155,68 @@ class Search:
 
         if self._remove_duplicates:
             self._deduplicate()
+
+        # trying to fill abstract
+        final_results = []
+        can_have_abstract_dict = {}
+        dois_list = []
+        semantic_scholar_client = SemanticScholarClient()
+        found = 0
+
+        for pub in list(self._results):
+            if pub.abstract or (not pub.doi) or pub.source == SupportedSources.SEMANTIC_SCHOLAR:
+                final_results.append(pub)
+            else:
+                ss_in_sources = False
+                for v in pub.versions:
+                    if v['source'] == SupportedSources.SEMANTIC_SCHOLAR:
+                        final_results.append(pub)
+                        ss_in_sources = True
+                        break
+
+                if ss_in_sources:
+                    continue
+                doi = pub.doi.lower()
+                can_have_abstract_dict[doi] = pub
+                dois_list.append(doi)
+
+        batches = []
+        if len(dois_list) >= 50:
+            batch_size = 50
+        else:
+            batch_size = len(dois_list)
+        batches_number = 0
+
+        for i in range(0, len(dois_list), batch_size):
+            rest = len(dois_list) - batches_number * batch_size
+            if rest < batch_size:
+                batch_size = rest
+                batches.append(dois_list[i:i + batch_size])
+                break
+            batches.append(dois_list[i:i + batch_size])
+            batches_number += 1
+
+        logging.info('Trying to find abstracts for papers on semantic scholar...')
+        retrieved_papers = []
+        for batch in progressbar(batches):
+            retrieved_papers += semantic_scholar_client.get_papers_batch(batch)
+
+        for paper in retrieved_papers:
+            doi = paper.doi.lower()
+            other_version = can_have_abstract_dict[doi]
+            if paper.abstract:
+                paper.set_versions_raw(other_version.versions)
+                paper.add_version(other_version)
+                final_results.append(deepcopy(paper))
+                found += 1
+                dois_list.remove(doi)
+                del can_have_abstract_dict[doi]
+            else:
+                other_version.add_version(deepcopy(paper))
+                final_results.append(other_version)
+
+        logging.info(f'Abstract was found for {found} papers.')
+        self._results = final_results
 
     def results(self) -> Iterable[Document]:
         return self._results

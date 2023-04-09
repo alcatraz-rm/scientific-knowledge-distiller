@@ -24,14 +24,16 @@ class PapersWithCodeClient(DatabaseClient):
 
         counter = 0
         documents_pulled = self._documents_pulled(search_id)
+        result = []
 
         for response in responses:
             for pub in response['results']:
-                yield Document(pub, source=SupportedSources.PAPERS_WITH_CODE)
+                result.append(Document(pub, source=SupportedSources.PAPERS_WITH_CODE))
                 counter += 1
 
                 if counter == documents_pulled:
-                    return
+                    break
+        return result
 
     def __query_api(self, query: str, search_id: UUID = '') -> list:
         responses = []
@@ -90,18 +92,7 @@ class PapersWithCodeClient(DatabaseClient):
                 logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                 counter = 0
 
-                kill = False
-
-                while True:
-                    if self._kill_signal_occurred(search_id):
-                        kill = True
-                        break
-                    if self.documents_to_pull(search_id) > 0:
-                        self._change_status(SearchStatus.WORKING, search_id)
-                        break
-
-                    time.sleep(5)
-
+                kill = self._wait(search_id)
                 if kill:
                     logging.info(f'Kill signal for {self.name} occurred.')
                     break
@@ -126,6 +117,9 @@ class PapersWithCodeClient(DatabaseClient):
 
     def _kill_signal_occurred(self, search_id: UUID):
         return super(PapersWithCodeClient, self)._kill_signal_occurred(search_id)
+
+    def _wait(self, search_id: UUID):
+        return super(PapersWithCodeClient, self)._wait(search_id)
 
     # note: don't call this manually
     def send_kill_signal(self, search_id: UUID):
