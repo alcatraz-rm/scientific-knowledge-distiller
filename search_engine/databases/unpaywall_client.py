@@ -29,7 +29,8 @@ class UnpaywallClient(DatabaseClient):
         counter = 0
         for response in responses:
             for pub in response['results']:
-                result.append(Document(pub['response'], source=SupportedSources.UNPAYWALL))
+                result.append(
+                    Document(pub['response'], source=SupportedSources.UNPAYWALL))
                 counter += 1
 
                 if counter == documents_pulled:
@@ -74,7 +75,8 @@ class UnpaywallClient(DatabaseClient):
                 total_results += results_size
                 counter += results_size
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
@@ -85,7 +87,8 @@ class UnpaywallClient(DatabaseClient):
             if counter >= self.documents_to_pull(search_id):
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.WAITING, search_id)
-                logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                logging.info(
+                    f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                 counter = 0
 
                 kill = self._wait(search_id)
@@ -95,7 +98,8 @@ class UnpaywallClient(DatabaseClient):
 
             time.sleep(2)
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

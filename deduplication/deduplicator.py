@@ -1,4 +1,5 @@
 import csv
+import logging
 import os.path
 import subprocess
 from copy import deepcopy
@@ -17,7 +18,8 @@ class Deduplicator:
             os.chdir(os.path.join(os.getcwd(), '..'))
 
         self._root_path = os.getcwd()
-        self._path_to_deduplication_script = os.path.join(self._root_path, 'deduplication', 'deduplicate.r')
+        self._path_to_deduplication_script = os.path.join(
+            self._root_path, 'deduplication', 'deduplicate.r')
         os.chdir(initial_wd)
 
     def deduplicate(self, remove_without_title=True, *iterables) -> Iterable[Document]:
@@ -32,29 +34,36 @@ class Deduplicator:
         self._dump_to_csv(publications_dict)
         self.__run_deduplication_script()
 
-        path_to_deduplication_module = os.path.join(self._root_path, 'deduplication')
-        possible_duplicates_path = os.path.join(path_to_deduplication_module, '_manual_dedup.csv')
-        true_duplicates_path = os.path.join(path_to_deduplication_module, '_true_pairs.csv')
+        path_to_deduplication_module = os.path.join(
+            self._root_path, 'deduplication')
+        possible_duplicates_path = os.path.join(
+            path_to_deduplication_module, '_manual_dedup.csv')
+        true_duplicates_path = os.path.join(
+            path_to_deduplication_module, '_true_pairs.csv')
 
         # true_positive = 0
         # true_negative = 0
 
         with open(true_duplicates_path, 'r', encoding='utf-8') as true_pairs_csv:
-            headers = true_pairs_csv.readline().replace('"', '').replace('\n', '').split(',')
+            headers = true_pairs_csv.readline().replace(
+                '"', '').replace('\n', '').split(',')
             reader = csv.DictReader(true_pairs_csv, fieldnames=headers)
             rows = [row for row in reader]
 
             for n, row in enumerate(rows):
-                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
+                id_1, id_2 = row['record_id1'].lower(
+                ), row['record_id2'].lower()
                 pubs_graph.add_edge(id_1, id_2)
 
         with open(possible_duplicates_path, 'r', encoding='utf-8') as manual_dedup_csv:
-            headers = manual_dedup_csv.readline().replace('"', '').replace('\n', '').split(',')
+            headers = manual_dedup_csv.readline().replace(
+                '"', '').replace('\n', '').split(',')
             reader = csv.DictReader(manual_dedup_csv, fieldnames=headers)
             rows = [row for row in reader]
 
             for n, row in enumerate(rows):
-                id_1, id_2 = row['record_id1'].lower(), row['record_id2'].lower()
+                id_1, id_2 = row['record_id1'].lower(
+                ), row['record_id2'].lower()
                 are_duplicates = Deduplicator.are_duplicates(row)
                 if are_duplicates:
                     pubs_graph.add_edge(id_1, id_2)
@@ -99,7 +108,8 @@ class Deduplicator:
 
         unique_pubs_ids = set()
         for component in connected_components:
-            base_pub = self._merge_publications(*[publications_dict[pub_id] for pub_id in component])
+            base_pub = self._merge_publications(
+                *[publications_dict[pub_id] for pub_id in component])
             component.discard(base_pub.id)
             publications_dict[base_pub.id] = deepcopy(base_pub)
             unique_pubs_ids.add(base_pub.id)
@@ -159,9 +169,8 @@ class Deduplicator:
         return False
 
     def _dump_to_csv(self, publications: Dict[int, Document]):
-        # TODO: add env variable for path to deduplication raw dump
-
-        path_to_dump = os.path.join(self._root_path, 'deduplication', '_dump_tmp.csv')
+        path_to_dump = os.path.join(
+            self._root_path, 'deduplication', '_dump_tmp.csv')
 
         with open(path_to_dump, 'w', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=Document.csv_keys())
@@ -171,7 +180,7 @@ class Deduplicator:
                 writer.writerow(publications[pub_id].to_csv())
 
     def __run_deduplication_script(self):
-        print('starting deduplication...')
+        logging.info('starting deduplication...')
         p = subprocess.run(['Rscript', self._path_to_deduplication_script], capture_output=True, text=True,
                            cwd=os.path.join(self._root_path, 'deduplication'))
         p.check_returncode()

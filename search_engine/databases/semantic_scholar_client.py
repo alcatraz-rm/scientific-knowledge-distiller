@@ -2,7 +2,6 @@ import json
 import logging
 import os
 import time
-import uuid
 from typing import Iterator
 from uuid import UUID
 
@@ -16,7 +15,6 @@ class SemanticScholarClient(DatabaseClient):
     MAX_LIMIT = 100
 
     def __init__(self):
-        # self._sch = SemanticScholar()
         self._requests_manager = RequestsManager()
         self._api_endpoint = 'https://api.semanticscholar.org/graph/v1/paper/search'
         self._api_key = os.getenv('SEMANTIC_SCHOLAR_API_KEY')
@@ -41,93 +39,20 @@ class SemanticScholarClient(DatabaseClient):
             if n + 1 == documents_pulled:
                 break
 
-    def get_citations(self, paper_id):
-        api_endpoint = f'{self._api_endpoint.replace("search", "")}{paper_id}/citations'
-        search_id = uuid.uuid4()
-        self._create_search(search_id, 1000)
-        responses = self.__query_api(custom_endpoint=api_endpoint, search_id=search_id)
-        results_ = []
-
-        for response in responses:
-            results_ += response.get('data', [])
-
-        results = []
-        for paper in results_:
-            results.append(paper['citingPaper'])
-
-        if not results:
-            return
-
-        documents_pulled = self._documents_pulled(search_id)
-
-        for n, result in enumerate(results):
-            yield Document(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
-
-            if n + 1 == documents_pulled:
-                break
-
-    def get_references(self, paper_id):
-        api_endpoint = f'{self._api_endpoint.replace("search", "")}{paper_id}/references'
-        search_id = uuid.uuid4()
-        self._create_search(search_id, 1000)
-        responses = self.__query_api(custom_endpoint=api_endpoint, search_id=search_id)
-        results_ = []
-
-        for response in responses:
-            results_ += response.get('data', [])
-
-        results = []
-        for paper in results_:
-            results.append(paper['citedPaper'])
-
-        if not results:
-            return
-
-        documents_pulled = self._documents_pulled(search_id)
-
-        for n, result in enumerate(results):
-            yield Document(raw_data=dict(result), source=SupportedSources.SEMANTIC_SCHOLAR)
-
-            if n + 1 == documents_pulled:
-                break
-
-    def get_paper(self, paper_id):
-        api_endpoint = f'{self._api_endpoint.replace("search", "")}{paper_id}'
-
-        response = self._requests_manager.get(
-                api_endpoint,
-                params={
-                    'fields': 'externalIds,url,title,abstract,venue,publicationVenue,year,referenceCount,'
-                              'isOpenAccess,openAccessPdf,publicationDate,authors,journal'
-                },
-                headers={
-                    'api-key': self._api_key
-                },
-                max_failures=10
-            )
-
-        if not isinstance(response, requests.Response):
-            return
-
-        if response.status_code == 200:
-            result_json = response.json()
-
-            return Document(raw_data=dict(result_json), source=SupportedSources.SEMANTIC_SCHOLAR)
-
     def get_papers_batch(self, ids):
         api_endpoint = f'https://api.semanticscholar.org/graph/v1/paper/batch'
         response = self._requests_manager.post(
-                api_endpoint,
-                params={
-                    'fields': 'externalIds,url,title,abstract,venue,publicationVenue,year,referenceCount,'
-                              'isOpenAccess,openAccessPdf,publicationDate,authors,journal'
-                },
-                data=json.dumps({"ids": ids}),
-                headers={
-                    'api-key': self._api_key
-                },
-                max_failures=0
-            )
+            api_endpoint,
+            params={
+                'fields': 'externalIds,url,title,abstract,venue,publicationVenue,year,referenceCount,'
+                          'isOpenAccess,openAccessPdf,publicationDate,authors,journal'
+            },
+            data=json.dumps({"ids": ids}),
+            headers={
+                'api-key': self._api_key
+            },
+            max_failures=0
+        )
 
         if not isinstance(response, requests.Response):
             return
@@ -146,7 +71,8 @@ class SemanticScholarClient(DatabaseClient):
         endpoint = custom_endpoint if custom_endpoint else self._api_endpoint
 
         while self.documents_to_pull(search_id) > 0:
-            limit_ = min(self.documents_to_pull(search_id) - counter, SemanticScholarClient.MAX_LIMIT)
+            limit_ = min(self.documents_to_pull(search_id) -
+                         counter, SemanticScholarClient.MAX_LIMIT)
 
             if total_results + limit_ >= 10000:
                 limit_ = 9999 - total_results
@@ -187,7 +113,8 @@ class SemanticScholarClient(DatabaseClient):
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
                     self._change_status(SearchStatus.WAITING, search_id)
-                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    logging.info(
+                        f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                     counter = 0
 
                     kill = self._wait(search_id)
@@ -199,7 +126,8 @@ class SemanticScholarClient(DatabaseClient):
                 print('Too many requests, waiting 15 secs...')
                 time.sleep(15)
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
@@ -207,7 +135,8 @@ class SemanticScholarClient(DatabaseClient):
             logging.debug(f'semantic scholar: {total_results}')
             time.sleep(1)
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

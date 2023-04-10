@@ -28,28 +28,32 @@ class Search:
             limit: int = 1000,
             remove_duplicates: bool = True,
             remove_without_title: bool = True,
+            fill_abstracts: bool = True,
             sources: tuple = (
-                    SupportedSources.ARXIV,
-                    SupportedSources.CORE,
-                    SupportedSources.INTERNET_ARCHIVE,
-                    SupportedSources.SEMANTIC_SCHOLAR,
-                    SupportedSources.UNPAYWALL,
-                    SupportedSources.CROSSREF,
-                    SupportedSources.OPENALEX,
-                    SupportedSources.PAPERS_WITH_CODE,
+                SupportedSources.ARXIV,
+                SupportedSources.CORE,
+                SupportedSources.INTERNET_ARCHIVE,
+                SupportedSources.SEMANTIC_SCHOLAR,
+                SupportedSources.UNPAYWALL,
+                SupportedSources.CROSSREF,
+                SupportedSources.OPENALEX,
+                SupportedSources.PAPERS_WITH_CODE,
             )
     ):
         assert query, 'Query cannot be empty'
-        assert limit >= len(sources), 'Limit must be greater then sources number'
+        assert limit >= len(
+            sources), 'Limit must be greater then sources number'
         assert sources, 'Pass at least one source'
 
         self._remove_without_title = remove_without_title
+        self._fill_abstracts = fill_abstracts
         self._search_id = uuid.uuid4()
 
         logging.info(f'Search {self._search_id} created.')
         logging.info(f'Search query: {query}')
         logging.info(f'Search limit: {limit}')
-        logging.info(f'Sources: {",".join([str(source) for source in sources])}')
+        logging.info(
+            f'Sources: {",".join([str(source) for source in sources])}')
 
         self._results = None
         self._results_list = []
@@ -85,7 +89,8 @@ class Search:
 
         for n, client in enumerate(self._clients):
             active_clients[n] = client
-            threads[n] = threading.Thread(target=self._search, args=(client,), name=str(client.name))
+            threads[n] = threading.Thread(
+                target=self._search, args=(client,), name=str(client.name))
 
         for thread_index in threads:
             threads[thread_index].start()
@@ -107,7 +112,8 @@ class Search:
                     all_active_clients_are_waiting = False
             if all_active_clients_are_waiting:
                 for client_index in active_clients:
-                    active_clients[client_index].send_kill_signal(self._search_id)
+                    active_clients[client_index].send_kill_signal(
+                        self._search_id)
 
                 for thread_index in threads:
                     while threads[thread_index].is_alive():
@@ -119,18 +125,21 @@ class Search:
                 status = active_clients[index].search_status(self._search_id)
 
                 if status == SearchStatus.FINISHED:
-                    docs_to_distribute += active_clients[index].documents_to_pull(self._search_id)
+                    docs_to_distribute += active_clients[index].documents_to_pull(
+                        self._search_id)
                     clients_to_remove.append(index)
             for index in clients_to_remove:
                 del active_clients[index]
 
             if docs_to_distribute > len(active_clients):
-                docs_for_active_client = docs_to_distribute // len(active_clients)
+                docs_for_active_client = docs_to_distribute // len(
+                    active_clients)
                 logging.info(
                     f'Found {docs_to_distribute} docs to distribute. Docs for each client: {docs_for_active_client}')
 
                 for client_index in active_clients:
-                    active_clients[client_index].change_limit(self._search_id, docs_for_active_client)
+                    active_clients[client_index].change_limit(
+                        self._search_id, docs_for_active_client)
 
             for thread_index in threads:
                 if not threads[thread_index].is_alive():
@@ -154,13 +163,15 @@ class Search:
             self._deduplicate()
 
         # trying to fill abstract
-        self._results = self._pull_abstracts()
+        if self._fill_abstracts:
+            self._results = self._pull_abstracts()
 
     def results(self) -> Iterable[Document]:
         return self._results
 
     def _search(self, client):
-        result = list(client.search_publications(self._query, self._search_id, self._limit_for_source))
+        result = list(client.search_publications(
+            self._query, self._search_id, self._limit_for_source))
         with threading.Lock():
             self._results_list.extend(result)
 
@@ -204,7 +215,8 @@ class Search:
             batches.append(dois_list[i:i + batch_size])
             batches_number += 1
 
-        logging.info('Trying to find abstracts for papers on semantic scholar...')
+        logging.info(
+            'Trying to find abstracts for papers on semantic scholar...')
         retrieved_papers = []
         for batch in progressbar(batches):
             retrieved_papers += semantic_scholar_client.get_papers_batch(batch)
@@ -228,4 +240,5 @@ class Search:
         return final_results
 
     def _deduplicate(self):
-        self._results = self._deduplicator.deduplicate(self._remove_without_title, self._results)
+        self._results = self._deduplicator.deduplicate(
+            self._remove_without_title, self._results)

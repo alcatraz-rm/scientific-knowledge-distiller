@@ -43,7 +43,8 @@ class CoreClient(DatabaseClient):
         scroll_id = None
         counter = 0
         while self.documents_to_pull(search_id) > 0:
-            query_data = {'q': query, 'limit': min(max_limit, self.documents_to_pull(search_id) - counter)}
+            query_data = {'q': query, 'limit': min(
+                max_limit, self.documents_to_pull(search_id) - counter)}
 
             if not scroll_id:
                 query_data['scroll'] = True
@@ -75,7 +76,8 @@ class CoreClient(DatabaseClient):
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
                     self._change_status(SearchStatus.WAITING, search_id)
-                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    logging.info(
+                        f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                     counter = 0
 
                     kill = self._wait(search_id)
@@ -84,13 +86,16 @@ class CoreClient(DatabaseClient):
                         break
 
             elif response.status_code == 429:
-                retry_after = response.headers.get('X-RateLimit-Retry-After', '')
+                retry_after = response.headers.get(
+                    'X-RateLimit-Retry-After', '')
                 sleep_time = 60
                 if retry_after:
                     retry_after = datetime.fromisoformat(retry_after.replace('+0000', '')).replace(
                         tzinfo=datetime.utcnow().tzinfo)
-                    sleep_time = (retry_after - datetime.utcnow()).seconds + 10  # 10 seconds just in case
-                logging.error(f'Too many requests on Core, waiting {sleep_time} secs...')
+                    sleep_time = (retry_after - datetime.utcnow()
+                                  ).seconds + 10  # 10 seconds just in case
+                logging.error(
+                    f'Too many requests on Core, waiting {sleep_time} secs...')
                 time.sleep(sleep_time)
             elif response.status_code == 500 and 'Error: Allowed memory size' in response.text:
                 if max_limit > 20:
@@ -102,7 +107,8 @@ class CoreClient(DatabaseClient):
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
 
                 if failures_number < 5:
                     failures_number += 1
@@ -115,7 +121,8 @@ class CoreClient(DatabaseClient):
 
             logging.debug(f'core: {total_results}')
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

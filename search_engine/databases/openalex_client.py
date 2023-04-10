@@ -39,7 +39,8 @@ class OpenAlexClient(DatabaseClient):
         while self.documents_to_pull(search_id) > 0:
             query_data = {'search': query, 'per-page': min(max_limit, self.documents_to_pull(search_id) - counter),
                           'cursor': cursor}
-            response = self._requests_manager.get(self._api_endpoint, params=query_data, max_failures=10)
+            response = self._requests_manager.get(
+                self._api_endpoint, params=query_data, max_failures=10)
 
             if not isinstance(response, requests.Response):
                 self.change_limit(search_id, -counter)
@@ -63,11 +64,11 @@ class OpenAlexClient(DatabaseClient):
                 if counter >= self.documents_to_pull(search_id):
                     self.change_limit(search_id, -counter)
                     self._change_status(SearchStatus.WAITING, search_id)
-                    logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                    logging.info(
+                        f'Pulled {counter} docs from {self.name}.'
+                        f'Total docs pulled: {self._documents_pulled(search_id)}'
+                    )
                     counter = 0
-
-                    kill = False
-
                     kill = self._wait(search_id)
                     if kill:
                         logging.info(f'Kill signal for {self.name} occurred.')
@@ -78,7 +79,8 @@ class OpenAlexClient(DatabaseClient):
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
 
                 if failures_number < 20:
                     failures_number += 1
@@ -91,7 +93,8 @@ class OpenAlexClient(DatabaseClient):
 
             logging.debug(f'openalex: {total_results}')
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

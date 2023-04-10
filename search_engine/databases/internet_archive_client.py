@@ -27,7 +27,8 @@ class InternetArchiveClient(DatabaseClient):
 
         for response in responses:
             for raw_pub in response.get('results'):
-                result.append(Document(raw_pub, source=SupportedSources.INTERNET_ARCHIVE))
+                result.append(
+                    Document(raw_pub, source=SupportedSources.INTERNET_ARCHIVE))
                 counter += 1
 
                 if counter == documents_pulled:
@@ -41,7 +42,8 @@ class InternetArchiveClient(DatabaseClient):
         counter = 0
 
         while self.documents_to_pull(search_id) > 0:
-            limit_ = min(InternetArchiveClient.MAX_LIMIT, self.documents_to_pull(search_id) - counter)
+            limit_ = min(InternetArchiveClient.MAX_LIMIT,
+                         self.documents_to_pull(search_id) - counter)
             query_params = {'q': query, 'limit': limit_, 'offset': offset}
 
             response = self._requests_manager.get(self._api_endpoint, params=query_params, headers=self._headers,
@@ -78,7 +80,8 @@ class InternetArchiveClient(DatabaseClient):
                         logging.info(f'Kill signal for {self.name} occurred.')
                         break
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
@@ -86,7 +89,10 @@ class InternetArchiveClient(DatabaseClient):
             time.sleep(2)
             logging.debug(f'internet archive: {offset}')
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}.'
+            f'Docs left: {self.documents_to_pull(search_id)}'
+        )
         self._terminate(search_id)
         return responses
 

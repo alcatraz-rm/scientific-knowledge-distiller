@@ -34,7 +34,8 @@ class CrossrefClient(DatabaseClient):
         counter = 0
 
         while self.documents_to_pull(search_id) > 0:
-            limit_ = min(CrossrefClient.MAX_LIMIT, self.documents_to_pull(search_id) - counter)
+            limit_ = min(CrossrefClient.MAX_LIMIT,
+                         self.documents_to_pull(search_id) - counter)
             response = self._requests_manager.get(
                 f'{self._api_endpoint}',
                 params={
@@ -52,7 +53,8 @@ class CrossrefClient(DatabaseClient):
 
             if response.status_code == 200:
                 result_json = response.json()
-                result_size = len(result_json.get('message', {}).get('items', []))
+                result_size = len(result_json.get(
+                    'message', {}).get('items', []))
 
                 if result_size == 0:
                     self.change_limit(search_id, -counter)
@@ -80,13 +82,15 @@ class CrossrefClient(DatabaseClient):
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.FINISHED, search_id)
 
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
                 break
 
             logging.debug(f'crossref: {total_results}')
             time.sleep(1)
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 

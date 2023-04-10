@@ -1,5 +1,4 @@
 import logging
-import time
 from typing import Iterator
 from uuid import UUID
 
@@ -22,7 +21,8 @@ class ArXivClient(DatabaseClient):
         total_results = 0
         try:
             for publication in client.results(search):
-                results.append(Document(publication, source=SupportedSources.ARXIV))
+                results.append(
+                    Document(publication, source=SupportedSources.ARXIV))
                 counter += 1
                 total_results += 1
                 logging.debug(f'arXiv: {total_results}')

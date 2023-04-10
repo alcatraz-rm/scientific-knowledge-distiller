@@ -28,7 +28,8 @@ class PapersWithCodeClient(DatabaseClient):
 
         for response in responses:
             for pub in response['results']:
-                result.append(Document(pub, source=SupportedSources.PAPERS_WITH_CODE))
+                result.append(
+                    Document(pub, source=SupportedSources.PAPERS_WITH_CODE))
                 counter += 1
 
                 if counter == documents_pulled:
@@ -43,7 +44,8 @@ class PapersWithCodeClient(DatabaseClient):
         counter = 0
 
         while self.documents_to_pull(search_id) > 0:
-            request_limit = min(self.documents_to_pull(search_id) - counter, PapersWithCodeClient.MAX_LIMIT)
+            request_limit = min(self.documents_to_pull(
+                search_id) - counter, PapersWithCodeClient.MAX_LIMIT)
             response = self._requests_manager.get(
                 self._api_endpoint,
                 headers={'accept': 'application/json'},
@@ -78,7 +80,8 @@ class PapersWithCodeClient(DatabaseClient):
                     self._change_status(SearchStatus.FINISHED, search_id)
                     break
             else:
-                logging.error(f'Error code {response.status_code}, {response.content}')
+                logging.error(
+                    f'Error code {response.status_code}, {response.content}')
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.FINISHED, search_id)
                 break
@@ -89,7 +92,8 @@ class PapersWithCodeClient(DatabaseClient):
             if counter >= self.documents_to_pull(search_id):
                 self.change_limit(search_id, -counter)
                 self._change_status(SearchStatus.WAITING, search_id)
-                logging.info(f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
+                logging.info(
+                    f'Pulled {counter} docs from {self.name}. Total docs pulled: {self._documents_pulled(search_id)}')
                 counter = 0
 
                 kill = self._wait(search_id)
@@ -99,7 +103,8 @@ class PapersWithCodeClient(DatabaseClient):
 
             time.sleep(2)
 
-        logging.info(f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
+        logging.info(
+            f'Terminating {self.name} client. Docs pulled: {self._documents_pulled(search_id)}. Docs left: {self.documents_to_pull(search_id)}')
         self._terminate(search_id)
         return responses
 
