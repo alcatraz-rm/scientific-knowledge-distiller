@@ -37,9 +37,8 @@ def __init__(
 
 To perform search, you should call `perform` method. To get results, you should call results `method`.
 
-Complete example:
+Example of using `Search`:
 ```python
-import json
 import os
 import time
 from pathlib import Path
@@ -57,29 +56,31 @@ query = 'bert for semantic textual similarity task'
 limit = 5000
 
 s = Search(
-  query,
-  limit=limit,
-  remove_duplicates=True,
-  remove_without_title=True,
-  fill_abstracts=True,
-  sources=(
-    SupportedSources.ARXIV,
-    SupportedSources.CORE,
-    SupportedSources.CROSSREF,
-    SupportedSources.INTERNET_ARCHIVE,
-    SupportedSources.SEMANTIC_SCHOLAR,
-    SupportedSources.UNPAYWALL,
-    SupportedSources.OPENALEX,
-    SupportedSources.PAPERS_WITH_CODE,
-  )
+    query,
+    limit=limit,
+    remove_duplicates=True,
+    remove_without_title=True,
+    fill_abstracts=True,
+    sources=(
+        SupportedSources.ARXIV,
+        SupportedSources.CORE,
+        SupportedSources.CROSSREF,
+        SupportedSources.INTERNET_ARCHIVE,
+        SupportedSources.SEMANTIC_SCHOLAR,
+        SupportedSources.UNPAYWALL,
+        SupportedSources.OPENALEX,
+        SupportedSources.PAPERS_WITH_CODE,
+    )
 )
 
 start_time = time.time()
 s.perform()
-results = s.results()
+results = list(s.results())
+end_time = time.time()
 print(f'elapsed time: {end_time - start_time}')
 print(f'total results after deduplication: {len(results)}')
 
 for paper in results:
-  print(paper.title)
+    print(paper.title)
+
 ```
