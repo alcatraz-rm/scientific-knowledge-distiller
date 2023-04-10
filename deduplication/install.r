@@ -1,7 +1,7 @@
 # install devtools
 
 install.packages("devtools", repos="http://cran.us.r-project.org")
-install.packages("snakecase")
+install.packages("snakecase", repos="http://cran.us.r-project.org")
 
 # remove.packages("ASySD")
 
