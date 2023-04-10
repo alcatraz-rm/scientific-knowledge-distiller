@@ -7,7 +7,6 @@ from copy import deepcopy
 from datetime import datetime
 from enum import Enum
 from typing import Iterator, Union
-# from googletrans import Translator
 from uuid import UUID
 
 import arxiv
