@@ -88,3 +88,12 @@ PAPERS_WITH_CODE_API_KEY=<YOUR-PAPERS_WITH_CODE-API-KEY>
 ```
 
 That's it!
+
+## Modules
+
+1. Search module is located in [search_engine](./search_engine) directory
+2. Deduplication module is located in [deduplication](./deduplication) directory
+3. Distiller is located in [distiller](./distiller) directory
+4. [ml_sandbox](./ml_sandbox) is used for testing and contains bunch of jupyter notebooks with some drafts
+
+Each module (except ml_sandbox) contains readme inside.
