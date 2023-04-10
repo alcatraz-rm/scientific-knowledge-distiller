@@ -6,7 +6,6 @@ from copy import deepcopy
 from typing import Iterable
 
 from progressbar import progressbar
-from semanticscholar import SemanticScholar
 
 from deduplication import Deduplicator
 from search_engine import databases
@@ -19,7 +18,7 @@ logging.basicConfig(
     handlers=[
         logging.FileHandler("debug.log"),
         logging.StreamHandler()
-])
+    ])
 
 
 class Search:
@@ -38,7 +37,6 @@ class Search:
                     SupportedSources.CROSSREF,
                     SupportedSources.OPENALEX,
                     SupportedSources.PAPERS_WITH_CODE,
-                    # SupportedSources.GOOGLE_SCHOLAR
             )
     ):
         assert query, 'Query cannot be empty'
@@ -73,8 +71,6 @@ class Search:
             self._clients.append(databases.UnpaywallClient())
         if SupportedSources.CROSSREF in sources:
             self._clients.append(databases.CrossrefClient())
-        # if SupportedSources.DBLP in sources:
-        #     self._clients.append(databases.DBLPClient())
         if SupportedSources.OPENALEX in sources:
             self._clients.append(databases.OpenAlexClient())
         if SupportedSources.PAPERS_WITH_CODE in sources:
@@ -130,7 +126,8 @@ class Search:
 
             if docs_to_distribute > len(active_clients):
                 docs_for_active_client = docs_to_distribute // len(active_clients)
-                logging.info(f'Found {docs_to_distribute} docs to distribute. Docs for each client: {docs_for_active_client}')
+                logging.info(
+                    f'Found {docs_to_distribute} docs to distribute. Docs for each client: {docs_for_active_client}')
 
                 for client_index in active_clients:
                     active_clients[client_index].change_limit(self._search_id, docs_for_active_client)
@@ -157,6 +154,17 @@ class Search:
             self._deduplicate()
 
         # trying to fill abstract
+        self._results = self._pull_abstracts()
+
+    def results(self) -> Iterable[Document]:
+        return self._results
+
+    def _search(self, client):
+        result = list(client.search_publications(self._query, self._search_id, self._limit_for_source))
+        with threading.Lock():
+            self._results_list.extend(result)
+
+    def _pull_abstracts(self) -> Iterable[Document]:
         final_results = []
         can_have_abstract_dict = {}
         dois_list = []
@@ -216,16 +224,8 @@ class Search:
                 final_results.append(other_version)
 
         logging.info(f'Abstract was found for {found} papers.')
-        self._results = final_results
 
-    def results(self) -> Iterable[Document]:
-        return self._results
-
-    def _search(self, client):
-        result = list(client.search_publications(self._query, self._search_id, self._limit_for_source))
-
-        with threading.Lock():
-            self._results_list.extend(result)
+        return final_results
 
     def _deduplicate(self):
         self._results = self._deduplicator.deduplicate(self._remove_without_title, self._results)

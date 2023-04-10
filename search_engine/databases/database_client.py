@@ -477,21 +477,17 @@ class DatabaseClient:
             self._searches[search_id]['status'] = SearchStatus.FINISHED
 
     def _documents_pulled(self, search_id: UUID) -> int:
-        with threading.Lock():
-            return self._searches[search_id]['documents_pulled']
+        return self._searches[search_id]['documents_pulled']
 
     def _kill_signal_occurred(self, search_id: UUID):
-        with threading.Lock():
-            return self._searches[search_id]['kill_signal_occurred']
+        return self._searches[search_id]['kill_signal_occurred']
 
     # note: don't call this manually
     def send_kill_signal(self, search_id: UUID):
-        with threading.Lock():
             self._searches[search_id]['kill_signal_occurred'] = True
 
     def documents_to_pull(self, search_id: UUID) -> int:
-        with threading.Lock():
-            return self._searches[search_id]['documents_to_pull']
+        return self._searches[search_id]['documents_to_pull']
 
     def change_limit(self, search_id: UUID, delta: int):
         with threading.Lock():
@@ -507,11 +503,10 @@ class DatabaseClient:
             logging.info(f'Limit for {self.name} increased for {delta} documents.')
 
     def search_status(self, search_id: UUID) -> Union[SearchStatus, None]:
-        with threading.Lock():
-            search_info = self._searches.get(search_id)
-            if not search_info:
-                return
-            return search_info['status']
+        search_info = self._searches.get(search_id)
+        if not search_info:
+            return
+        return search_info['status']
 
     def _wait(self, search_id: UUID):
         while True:
