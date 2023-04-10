@@ -55,7 +55,7 @@ or through ssh
 **2. Go to the project's directory and checkout to the `dev` branch**
 ```console
 > cd scientific-knowledge-distiller
-> git checkout dev
+scientific-knowledge-distiller> git checkout dev
 ```
 
 **3. Create Python 3.10 virtual environment**
