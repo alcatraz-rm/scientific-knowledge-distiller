@@ -52,9 +52,10 @@ or through ssh
 > git clone git@github.com:alcatraz-rm/scientific-knowledge-distiller.git
 ```
 
-**2. Go to the project's directory**
+**2. Go to the project's directory and checkout to the `dev` branch**
 ```console
 > cd scientific-knowledge-distiller
+> git checkout dev
 ```
 
 **3. Create Python 3.10 virtual environment**
