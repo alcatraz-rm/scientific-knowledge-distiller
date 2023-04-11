@@ -24,7 +24,7 @@ class Distiller:
     def get_top_n_specter(self, documents: Iterable[Document], query: str = '', n: int = 100):
         documents = list(documents)
         specter = SentenceTransformer('allenai-specter')
-        paper_texts = [p.title + '[SEP]' + p.abstract for p in documents]
+        paper_texts = [p.title + '[SEP]' + p.abstract for p in documents if p.abstract]
         corpus_embeddings = specter.encode(
             paper_texts, convert_to_tensor=True, batch_size=16)
         query_embedding = specter.encode(
