@@ -22,9 +22,13 @@ class Distiller:
         return [documents[hit['corpus_id']] for hit in search_hits]
 
     def get_top_n_specter(self, documents: Iterable[Document], query: str = '', n: int = 100):
-        documents = [p for p in documents if p.abstract]
+        documents = [p for p in documents]
         specter = SentenceTransformer('allenai-specter')
-        paper_texts = [p.title + '[SEP]' + p.abstract for p in documents]
+        paper_texts = []
+        for p in documents:
+            abstract = p.abstract if p.abstract else p.title
+            paper_texts.append(p.title + '[SEP]' + abstract)
+        # paper_texts = [p.title + '[SEP]' + p.abstract for p in documents]
         corpus_embeddings = specter.encode(
             paper_texts, convert_to_tensor=True, batch_size=16)
         query_embedding = specter.encode(
