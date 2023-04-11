@@ -28,7 +28,7 @@ class Distiller:
         corpus_embeddings = specter.encode(
             paper_texts, convert_to_tensor=True, batch_size=16)
         query_embedding = specter.encode(
-            query + '[SEP]', convert_to_tensor=True)
+            query + '[SEP]' + query, convert_to_tensor=True)
 
         search_hits = util.semantic_search(
             query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
