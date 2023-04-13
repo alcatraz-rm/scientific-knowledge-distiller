@@ -1,0 +1,3179 @@
+[
+    {
+        "authors": [
+            "Koch-Medina, P.",
+            "Munari, C."
+        ],
+        "title": "Fundamental Theorem of Asset Pricing",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-39724-1_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-39724-1_7",
+            "http://dx.doi.org/10.1007/978-3-030-39724-1_7"
+        ],
+        "id": "id-1774950922980208462",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Fundamental Theorem of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/45eae06e359652d3e6ae9eace4cf6201d547ed7a"
+                ],
+                "doi": "10.1007/978-3-030-39724-1_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Munk, C."
+        ],
+        "title": "A Review of General Asset Pricing Theory",
+        "publication_date": "2011-06-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/acprof:oso/9780199575084.003.0004",
+        "urls": [
+            "http://dx.doi.org/10.1093/acprof:oso/9780199575084.003.0004"
+        ],
+        "id": "id2179808341836157848",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Review of General Asset Pricing Theory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8f9189317e6b0081677f5292bad6109ec650249f"
+                ],
+                "doi": "10.1093/ACPROF:OSO/9780199575084.003.0004",
+                "publication_date": "2011-06-30 00:00:00"
+            }
+        ],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Back, K."
+        ],
+        "title": "Asset pricing for general processes",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4068(91)90037-t",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:030440689190037T?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:030440689190037T?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4068(91)90037-t"
+        ],
+        "id": "id-5140245393328104647",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing for general processes",
+                "journal": "Journal of Mathematical Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3ba21fc9c272f40f305d77244d8db142aba0e2a9"
+                ],
+                "doi": "10.1016/0304-4068(91)90037-T",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Dothan, U.",
+            "Williams, J."
+        ],
+        "title": "A general asset pricing model",
+        "publication_date": "1979-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0165-1765(79)90231-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0165176579902313?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0165176579902313?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0165-1765(79)90231-3"
+        ],
+        "id": "id-8942730055836081460",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A general asset pricing model",
+                "journal": "Economics Letters",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/44a533b77195f71b2c0458110be91f73c6e22023"
+                ],
+                "doi": "10.1016/0165-1765(79)90231-3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Merdan, H.",
+            "Alisen, M."
+        ],
+        "title": "A mathematical model for asset pricing",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.amc.2011.06.028",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0096300311008551?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0096300311008551?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.amc.2011.06.028"
+        ],
+        "id": "id6454674775408633957",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Mathematical Model for Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bba1cee9589ee38858bd1cec591810ab3726cda6"
+                ],
+                "doi": "10.1016/j.amc.2011.06.028",
+                "publication_date": "2011-10-15 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [],
+        "title": "Classical Asset Pricing",
+        "publication_date": "2015-09-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119202172.ch5",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119202172.ch5",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119202172.ch5/fullpdf",
+            "http://dx.doi.org/10.1002/9781119202172.ch5"
+        ],
+        "id": "id-3843209328526545921",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Classical Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/62df660ab8f0d3d7de3d37520f5cff274c963d0f"
+                ],
+                "doi": "10.1002/9781119202172.ch5",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Gupta, A.",
+            "Zeng, W.",
+            "Wu, Y."
+        ],
+        "title": "Asset Pricing Theory",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-8176-4987-6_10",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-0-8176-4987-6_10.pdf",
+            "http://dx.doi.org/10.1007/978-0-8176-4987-6_10"
+        ],
+        "id": "id7613562831696513178",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Theory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4535d8ff8f6ee69a162df9e3c77407c00143183c"
+                ],
+                "doi": "10.1007/978-0-8176-4987-6_10",
+                "publication_date": "2022-01-10 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Zeng, Q."
+        ],
+        "title": "Asset Pricing Theory",
+        "publication_date": "2011-08-19 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1111/j.1475-4932.2011.00756.x",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1475-4932.2011.00756.x",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1475-4932.2011.00756.x/fullpdf",
+            "http://dx.doi.org/10.1111/j.1475-4932.2011.00756.x"
+        ],
+        "id": "id2572022195069742156",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Theory: REVIEWS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e06687a25b683b6c378fd4c1f0ca3e7f7d5e3d67"
+                ],
+                "doi": "10.1111/j.1475-4932.2011.00756.x",
+                "publication_date": "2011-09-01 00:00:00"
+            }
+        ],
+        "rank": 7
+    },
+    {
+        "authors": [],
+        "title": "Asset Pricing Theory",
+        "publication_date": "2010-09-07 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118267790.ch17",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118267790.ch17",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118267790.ch17",
+            "http://dx.doi.org/10.1002/9781118267790.ch17"
+        ],
+        "id": "id-4337109109710226677",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Theory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/347ed6f27949bd9a1034d4be71ec8d84a8b59ce0"
+                ],
+                "doi": "10.1002/9781118267790.ch17",
+                "publication_date": "2011-12-01 00:00:00"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Gonz\u00e1lez-Rivera, G."
+        ],
+        "title": "Dynamic asset pricing and statistical properties of risk",
+        "publication_date": "1998-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0148-6195(98)00014-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0148619598000149?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0148619598000149?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0148-6195(98)00014-9"
+        ],
+        "id": "id-8000963895635309478",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Dynamic asset pricing and statistical properties of risk",
+                "journal": "Journal of Economics and Business",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/349728e29e3e53b4a25d3b9c001034d2ea952ba8"
+                ],
+                "doi": "10.1016/S0148-6195(98)00014-9",
+                "publication_date": "1998-09-01 00:00:00"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [],
+        "title": "Equilibrium Asset Pricing: A General Theory",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781848166332_0018",
+        "urls": [
+            "http://dx.doi.org/10.1142/9781848166332_0018"
+        ],
+        "id": "id7371314220124376594",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Equilibrium Asset Pricing: A General Theory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d08f1adba7eff3f9f79683c82cfc0fbd07daafb6"
+                ],
+                "doi": "10.1142/9781848166332_0018",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Tusset, G."
+        ],
+        "title": "Asset Pricing Dynamics",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-95612-1_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-95612-1_6",
+            "http://dx.doi.org/10.1007/978-3-319-95612-1_6"
+        ],
+        "id": "id-5534806923354646263",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Dynamics",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/38ae50fe16f6573914040a2ddf1aedafe8ca922d"
+                ],
+                "doi": "10.1007/978-3-319-95612-1_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "Elias, C."
+        ],
+        "title": "Asset pricing with expectation shocks",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jedc.2016.02.005",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188916300136?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188916300136?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jedc.2016.02.005"
+        ],
+        "id": "id4615944699108030986",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with expectation shocks",
+                "journal": "Journal of Economic Dynamics and Control",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/572cd9183d061cd8374c1ebdb3c4370d22c4fd4c"
+                ],
+                "doi": "10.1016/J.JEDC.2016.02.005",
+                "publication_date": "2016-04-01 00:00:00"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "Grauer, R."
+        ],
+        "title": "Generalized two parameter asset pricing models",
+        "publication_date": "1978-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-405x(78)90018-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304405X78900181?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304405X78900181?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-405x(78)90018-1"
+        ],
+        "id": "id4044393094234914998",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1978,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Generalized two parameter asset pricing models: Some empirical evidence",
+                "journal": "Journal of Financial Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7d67ef12ff32a9fe36def36f8582098d55fd15a8"
+                ],
+                "doi": "10.1016/0304-405X(78)90018-1",
+                "publication_date": "1978-03-01 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Jeng, J."
+        ],
+        "title": "Asset Pricing Models: Specification, Data and Theoretical Foundation",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-74192-5_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-74192-5_1",
+            "http://dx.doi.org/10.1007/978-3-319-74192-5_1"
+        ],
+        "id": "id2521955849722913836",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models: Specification, Data and Theoretical Foundation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/db903de5816d0c541740d742cdac7c5bce23bad9"
+                ],
+                "doi": "10.1007/978-3-319-74192-5_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "Platen, E.",
+            "Heath, D."
+        ],
+        "title": "Various Approaches to Asset Pricing",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-47856-0_9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-47856-0_9.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-47856-0_9"
+        ],
+        "id": "id5761106990830183877",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Various Approaches to Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1d3226a7d2b8f22539a41b29a70ec1877f79de58"
+                ],
+                "doi": "10.1007/978-3-540-47856-0_9",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Protter, P."
+        ],
+        "title": "A partial introduction to financial asset pricing theory",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0304-4149(00)00064-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304414900000648?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304414900000648?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0304-4149(00)00064-8"
+        ],
+        "id": "id7476453628575299756",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A partial introduction to financial asset pricing theory",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0304414900000648?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0304414900000648?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/s0304-4149(00)00064-8"
+                ],
+                "doi": "10.1016/s0304-4149(00)00064-8",
+                "publication_date": "2001-01-01 00:00:00"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A partial introduction to financial asset pricing theory",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a3ab09cd7217887048f80e737f09e460208ef997"
+                ],
+                "doi": "10.1016/S0304-4149(00)00064-8",
+                "publication_date": "2001-02-01 00:00:00"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [],
+        "title": "Mathematics of Asset Pricing",
+        "publication_date": "2004-01-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511806643.005",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/09E73193A422329BE9BDBEE246663A17",
+            "http://dx.doi.org/10.1017/cbo9780511806643.005"
+        ],
+        "id": "id5563272473300437937",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Mathematics of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d6a2a336b4d41ff3413c6e21f7632830ed6b4dd2"
+                ],
+                "doi": "10.1017/CBO9780511806643.005",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Fischer, B.",
+            "Wermers, R."
+        ],
+        "title": "An Introduction to Asset Pricing Models",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-08-092652-0.00001-7",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-0-08-092652-0.00001-7"
+        ],
+        "id": "id5610215203109351258",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "An Introduction to Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8fe8384c115cbeaeb508bf49bff8fff20aadcd4e"
+                ],
+                "doi": "10.1016/B978-0-08-092652-0.00001-7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [],
+        "title": "Asset Pricing under Uncertainty",
+        "publication_date": "2015-09-09 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118779712.ch20",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781118779712.ch20",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781118779712.ch20/fullpdf",
+            "http://dx.doi.org/10.1002/9781118779712.ch20"
+        ],
+        "id": "id-2794298127719438320",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing under Uncertainty",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/752f386554b684771270e21f1d2bf18123b8a75a",
+                    "http://arxiv.org/pdf/1203.5664.pdf"
+                ],
+                "doi": "10.1002/9781118779712.CH20",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "Gr\u00fcne, L.",
+            "Semmler, W."
+        ],
+        "title": "Asset pricing with dynamic programming",
+        "publication_date": "2007-01-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10614-006-9063-1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s10614-006-9063-1.pdf",
+            "https://link.springer.com/article/10.1007/s10614-006-9063-1/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10614-006-9063-1",
+            "https://link.springer.com/content/pdf/10.1007/s10614-006-9063-1.pdf",
+            "http://dx.doi.org/10.1007/s10614-006-9063-1"
+        ],
+        "id": "id2615916403732327745",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with dynamic programming",
+                "journal": "Computational Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/83acff22cdf5da9e2bebd15d208c03582408c29d",
+                    "https://epub.uni-bayreuth.de/5550/1/gruene_et_al_asset_pricing_comp_econ_2007.pdf"
+                ],
+                "doi": "10.1007/S10614-006-9063-1",
+                "publication_date": "2007-05-01 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [],
+        "title": "Principles of asset pricing",
+        "publication_date": "1998-05-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4324/9780203017463.pt2",
+        "urls": [
+            "http://www.crcnetbase.com/doi/pdf/10.4324/9780203017463.pt2",
+            "http://dx.doi.org/10.4324/9780203017463.pt2"
+        ],
+        "id": "id4229278443489689909",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Principles of asset pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/be6cede6959fbd5815727770c34471048e16ff90"
+                ],
+                "doi": "10.4324/9780203017463.PT2",
+                "publication_date": "1998-05-26 00:00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Walter Schachermayer"
+        ],
+        "title": "The Fundamental Theorem of Asset Pricing",
+        "publication_date": "2013-06-11 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "WORLD SCIENTIFIC",
+        "volume": "",
+        "doi": "10.1142/9789814417358_0002",
+        "urls": [
+            "https://web.archive.org/web/20110401114420/http://www.mat.univie.ac.at/~schachermayer/pubs/preprnts/prpr0141a.pdf"
+        ],
+        "id": "id4437084141763221463",
+        "abstract": "The subsequent theorem is one of the pillars supporting the modern theory of Mathematical Finance. Fundamental Theorem of Asset Pricing:",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.CROSSREF",
+                "title": "The Fundamental Theorem of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.worldscientific.com/doi/pdf/10.1142/9789814417358_0002",
+                    "http://dx.doi.org/10.1142/9789814417358_0002"
+                ],
+                "doi": "10.1142/9789814417358_0002",
+                "publication_date": "2013-06-11 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [],
+        "title": "Asset pricing with frictions",
+        "publication_date": "2008-09-11 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511753909.016",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FDCCE571A1CD3A9F0DC27B9BFB8D77AC",
+            "http://dx.doi.org/10.1017/cbo9780511753909.016"
+        ],
+        "id": "id1123315285435452542",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with frictions",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d0a9dfcefa5cf9b330a06693fc6b6c18bb6aa248"
+                ],
+                "doi": "10.1017/CBO9780511753909.016",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Lim, K."
+        ],
+        "title": "Theory and Econometrics of Financial Asset Pricing",
+        "publication_date": "2022-08-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9783110673951",
+        "urls": [
+            "http://dx.doi.org/10.1515/9783110673951"
+        ],
+        "id": "id-4242929460089874981",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Theory and Econometrics of Financial Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e590a52f5d2ec3f9b9a6f3da9688447341f3db1e"
+                ],
+                "doi": "10.1515/9783110673951",
+                "publication_date": "2022-08-02 00:00:00"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Hollstein, F."
+        ],
+        "title": "\u201cEmpirical Asset Pricing\u201d by Wayne Ferson",
+        "publication_date": "2021-05-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11408-021-00393-5",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s11408-021-00393-5.pdf",
+            "https://link.springer.com/article/10.1007/s11408-021-00393-5/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s11408-021-00393-5.pdf",
+            "http://dx.doi.org/10.1007/s11408-021-00393-5"
+        ],
+        "id": "id5972349159999332697",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "\u201cEmpirical Asset Pricing\u201d by Wayne Ferson",
+                "journal": "Financial Markets and Portfolio Management",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cb39f63002aa76a0e7a44b81840061340757a034",
+                    "https://link.springer.com/content/pdf/10.1007/s11408-021-00393-5.pdf"
+                ],
+                "doi": "10.1007/s11408-021-00393-5",
+                "publication_date": "2021-05-13 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [],
+        "title": "Asset Pricing Models",
+        "publication_date": "2004-06-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118673546.ch8",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673546.ch8",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673546.ch8",
+            "http://dx.doi.org/10.1002/9781118673546.ch8"
+        ],
+        "id": "id-2396418709993009529",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9f3739a670b02a9d52d3e294db3fdb7954d73c22"
+                ],
+                "doi": "10.1002/9781118673546.ch8",
+                "publication_date": "2013-04-15 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Arouri, M.",
+            "Jawadi, F.",
+            "Nguyen, D."
+        ],
+        "title": "Asset Pricing Models",
+        "publication_date": "2009-11-03 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-7908-2389-9_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-7908-2389-9_3.pdf",
+            "http://dx.doi.org/10.1007/978-3-7908-2389-9_3"
+        ],
+        "id": "id-7498496802309963455",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a2ebdbc21a6eb41964dd7e7b2235f4fb725c6a94"
+                ],
+                "doi": "10.1007/978-3-7908-2389-9_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Nyberg, P."
+        ],
+        "title": "Asset Pricing Models",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4135/9781412979290.n20",
+        "urls": [
+            "http://dx.doi.org/10.4135/9781412979290.n20"
+        ],
+        "id": "id-3856468897100966262",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c67b9ae068a43bb851f80cdcdc4daae006cd4b17"
+                ],
+                "doi": "10.4135/9781412979290.n20",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Glabadanidis, P."
+        ],
+        "title": "Asset Pricing Models",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1057/9781137372871_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1057/9781137372871_1",
+            "http://dx.doi.org/10.1057/9781137372871_1"
+        ],
+        "id": "id719273454451467639",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f3e907151eb85cd5346879bc66251f067d128e98"
+                ],
+                "doi": "10.1057/9781137372871_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "Ferson, W."
+        ],
+        "title": "Asset pricing models",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-387-26336-5_2234",
+        "urls": [
+            "http://dx.doi.org/10.1007/0-387-26336-5_2234"
+        ],
+        "id": "id-665864056818414835",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/af4db19d1101e05802adb36439e1e6bf7fdc9b68"
+                ],
+                "doi": "10.1007/0-387-26336-5_2234",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [],
+        "title": "Asset Pricing Models",
+        "publication_date": "2012-03-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118467336.ch6",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467336.ch6",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467336.ch6",
+            "http://dx.doi.org/10.1002/9781118467336.ch6"
+        ],
+        "id": "id-1038313054205070945",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467336.ch6",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467336.ch6",
+                    "http://dx.doi.org/10.1002/9781118467336.ch6"
+                ],
+                "doi": "10.1002/9781118467336.ch6",
+                "publication_date": "2012-03-12 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/952ad8b7b5095fea02b1dd1dc6f0bc053d1ef850"
+                ],
+                "doi": "10.1002/9781118467336.CH6",
+                "publication_date": "2012-05-24 00:00:00"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [],
+        "title": "Asset pricing models",
+        "publication_date": "2008-03-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4324/9780203932025.ch4",
+        "urls": [
+            "http://www.crcnetbase.com/doi/pdf/10.4324/9780203932025.ch4",
+            "http://dx.doi.org/10.4324/9780203932025.ch4"
+        ],
+        "id": "id-9052672248092751400",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/429b03e8d90a947b6f24bc7d14688f1c72a1ed05"
+                ],
+                "doi": "10.4324/9780203932025.ch4",
+                "publication_date": "2008-03-31 00:00:00"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Nishimura, K.",
+            "Ozaki, H."
+        ],
+        "title": "Dynamic Asset Pricing",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-4-431-55903-0_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-4-431-55903-0_8",
+            "http://dx.doi.org/10.1007/978-4-431-55903-0_8"
+        ],
+        "id": "id-8567311740011743888",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Dynamic Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0a3cfd134291aa658859db5fe37b3e8e645686b2"
+                ],
+                "doi": "10.1007/978-4-431-55903-0_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Shi, Z.",
+            "Zheng, H."
+        ],
+        "title": "Identification and Estimation of an Asset Pricing Model with Information-Driven Heterogeneity",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.2887029",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.2887029"
+        ],
+        "id": "id-4701766390793977090",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Identification and Estimation of an Asset Pricing Model with Information-Driven Heterogeneity",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/06580f73d12c0080ce3104e06d263cc10d23f231"
+                ],
+                "doi": "10.2139/SSRN.2887029",
+                "publication_date": "2016-12-18 00:00:00"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [],
+        "title": "Introduction to Modern Asset Pricing",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789812832504_0001",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789812832504_0001"
+        ],
+        "id": "id5216186707051820576",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introduction to Modern Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/62dd3c43f08bfa7a1325ba815d87977bc99711b4"
+                ],
+                "doi": "10.1142/9789812832504_0001",
+                "publication_date": "2008-07-01 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Brunnermeier, M."
+        ],
+        "title": "Asset Pricing under Asymmetric Information",
+        "publication_date": "2001-01-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/0198296983.001.0001",
+        "urls": [
+            "http://dx.doi.org/10.1093/0198296983.001.0001"
+        ],
+        "id": "id6638125308916596277",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing under Asymmetric Information",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/44daddb1577ddaf11b661eced341cb56530b6b5d"
+                ],
+                "doi": "10.1093/0198296983.001.0001",
+                "publication_date": "2001-01-25 00:00:00"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Kim, B."
+        ],
+        "title": "Three essays of empirical asset pricing",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.32657/10356/138331",
+        "urls": [
+            "http://dx.doi.org/10.32657/10356/138331"
+        ],
+        "id": "id-5342167217312414496",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Three essays of empirical asset pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/55fb7e165ac06de8007becd4d59af83f68560a7c",
+                    "https://dr.ntu.edu.sg/bitstream/10356/138331/2/Dissertation.pdf"
+                ],
+                "doi": "10.32657/10356/138331",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Hurn, S.",
+            "Siklos, P."
+        ],
+        "title": "Asset pricing puzzles in finance: Introduction",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.najef.2006.03.001",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1062940806000179?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1062940806000179?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.najef.2006.03.001"
+        ],
+        "id": "id-5540093984948981918",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing puzzles in finance: Introduction",
+                "journal": "The North American Journal of Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/df4dfcc36b60a60ce06ced89d573e64659b0c2fc"
+                ],
+                "doi": "10.1016/J.NAJEF.2006.03.001",
+                "publication_date": "2006-08-01 00:00:00"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "Madan, D."
+        ],
+        "title": "Asset pricing theory for two price economies",
+        "publication_date": "2014-09-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10436-014-0255-8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10436-014-0255-8.pdf",
+            "http://link.springer.com/article/10.1007/s10436-014-0255-8/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10436-014-0255-8",
+            "http://dx.doi.org/10.1007/s10436-014-0255-8"
+        ],
+        "id": "id-8978252333968458611",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing theory for two price economies",
+                "journal": "Annals of Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/28f0d015a69f1b859ae1a2e70fa4207580b7734f"
+                ],
+                "doi": "10.1007/s10436-014-0255-8",
+                "publication_date": "2014-09-04 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [],
+        "title": "SINGLE PERIOD ASSET PRICING MODELS",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814307949_0006",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814307949_0006"
+        ],
+        "id": "id-3667573863272872382",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "SINGLE PERIOD ASSET PRICING MODELS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e229ca7a0cb1a5e16357d6a4c565a00501a35137"
+                ],
+                "doi": "10.1142/9789814307949_0006",
+                "publication_date": "2011-05-01 00:00:00"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Giovannetti, B."
+        ],
+        "title": "Asset pricing under quantile utility maximization",
+        "publication_date": "2013-06-11 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.rfe.2013.05.008",
+        "urls": [
+            "http://api.elsevier.com/content/article/PII:S1058330013000438?httpAccept=text/xml",
+            "http://api.elsevier.com/content/article/PII:S1058330013000438?httpAccept=text/plain",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.rfe.2013.05.008",
+            "https://onlinelibrary.wiley.com/doi/full-xml/10.1016/j.rfe.2013.05.008",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.rfe.2013.05.008",
+            "http://dx.doi.org/10.1016/j.rfe.2013.05.008"
+        ],
+        "id": "id1007920346343109719",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Under Quantile Utility Maximization",
+                "journal": "Review of Financial Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0ac072f7f6ec04ca9b6a0d2e5fa2236fdf6c610a",
+                    "http://www.repec.eae.fea.usp.br/documentos/Giovannetti16WP.pdf"
+                ],
+                "doi": "10.1016/J.RFE.2013.05.008",
+                "publication_date": "2013-11-01 00:00:00"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [],
+        "title": "Asset Pricing",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-17885-1_100077",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-17885-1_100077",
+            "http://dx.doi.org/10.1007/978-3-319-17885-1_100077"
+        ],
+        "id": "id-7174567885148914335",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/76adc26090a70ab028ecc514677efda817379213",
+                    "https://link.springer.com/content/pdf/bfm%3A978-3-8349-8243-8%2F1"
+                ],
+                "doi": "10.1007/978-3-319-17885-1_100077",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "G\u00fcnd\u00fcz, G.",
+            "G\u00fcnd\u00fcz, Y."
+        ],
+        "title": "A thermodynamical view on asset pricing",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.irfa.2016.01.013",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1057521916000144?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1057521916000144?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.irfa.2016.01.013"
+        ],
+        "id": "id-6745767832188174035",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A thermodynamical view on asset pricing",
+                "journal": "International Review of Financial Analysis",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3dac3e91c329417738ff74ceb6597a7244c98937"
+                ],
+                "doi": "10.1016/J.IRFA.2016.01.013",
+                "publication_date": "2016-10-01 00:00:00"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "JIN, H.",
+            "ZHOU, X."
+        ],
+        "title": "A FUNDAMENTAL THEOREM OF ASSET PRICING IN CONTINUOUS TIME WITH SQUARE INTEGRABLE PORTFOLIOS",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789812790552_0008",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789812790552_0008"
+        ],
+        "id": "id-4217007744525897341",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A FUNDAMENTAL THEOREM OF ASSET PRICING IN CONTINUOUS TIME WITH SQUARE INTEGRABLE PORTFOLIOS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c1c645f556f6b8aedccc0bb74070dc76e1dfc088"
+                ],
+                "doi": "10.1142/9789812790552_0008",
+                "publication_date": "2007-09-01 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "Huang, C.",
+            "Taksar, M.",
+            "Zhu, S."
+        ],
+        "title": "A Verification Theorem in General Equilibrium Model of Asset Prices",
+        "publication_date": "1999-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4612-1784-8_35",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4612-1784-8_35",
+            "http://dx.doi.org/10.1007/978-1-4612-1784-8_35"
+        ],
+        "id": "id-4237354646228856017",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1996,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Verification Theorem in General Equilibrium Model of Asset Prices",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fc82efaaa11b63a92f8a6b0cb94f86390ae00a53"
+                ],
+                "doi": "10.1007/978-1-4612-1784-8_35",
+                "publication_date": "1996-08-11 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "Zong, X."
+        ],
+        "title": "Three Essays on Asset Pricing Studies",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4283808",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4283808"
+        ],
+        "id": "id-2795578236709154166",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Three Essays on Asset Pricing Studies",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/408183d8c260e7bc16f924b7211ec13ad94703a3"
+                ],
+                "doi": "10.2139/ssrn.4283808",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Poon, S.",
+            "Stapleton, R."
+        ],
+        "title": "Asset Pricing in Discrete Time",
+        "publication_date": "2005-01-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/0199271445.001.0001",
+        "urls": [
+            "http://dx.doi.org/10.1093/0199271445.001.0001"
+        ],
+        "id": "id-4529238404619448950",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing in Discrete Time",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/43713391fb358229f21561ffddac3e854dbe8ea4"
+                ],
+                "doi": "10.1093/0199271445.001.0001",
+                "publication_date": "2005-01-13 00:00:00"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Gr\u00fcne, L.",
+            "Semmler, W."
+        ],
+        "title": "Asset pricing with loss aversion",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jedc.2008.01.002",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188908000171?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188908000171?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jedc.2008.01.002"
+        ],
+        "id": "id-576372056615483053",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with loss aversion",
+                "journal": "Journal of Economic Dynamics and Control",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a6bfe4ee0284d79e44e8495c48e672492dce9ad5",
+                    "https://epub.uni-bayreuth.de/5568/1/gruene_et_al_jedc_2008.pdf"
+                ],
+                "doi": "10.1016/J.JEDC.2008.01.002",
+                "publication_date": "2008-10-01 00:00:00"
+            }
+        ],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "D\u00fcring, B."
+        ],
+        "title": "Asset Pricing under Information with Stochastic Volatility",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.1212323",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.1212323"
+        ],
+        "id": "id-4156824246572936190",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing under information with stochastic volatility",
+                "journal": "Review of Derivatives Research",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0648bd356e5347fecc232dd57e548a168f71220d",
+                    "https://kops.uni-konstanz.de/bitstream/123456789/12176/1/cofe_dp08_04.pdf"
+                ],
+                "doi": "10.2139/ssrn.1212323",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "Cai, Y."
+        ],
+        "title": "Three essays on empirical asset pricing",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.32657/10356/50618",
+        "urls": [
+            "http://dx.doi.org/10.32657/10356/50618"
+        ],
+        "id": "id-5537560232628496101",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Three essays on empirical asset pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d5b67b5bdabd0eb1d90cb57bd8c7a9994428bcab",
+                    "https://dr.ntu.edu.sg/bitstream/10356/50618/1/bG0700578A.pdf"
+                ],
+                "doi": "10.32657/10356/50618",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Burnside, C."
+        ],
+        "title": "Solving asset pricing models with Gaussian shocks",
+        "publication_date": "1998-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0165-1889(97)00075-4",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188997000754?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188997000754?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0165-1889(97)00075-4"
+        ],
+        "id": "id-6482077209465092824",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Solving asset pricing models with Gaussian shocks",
+                "journal": "Journal of Economic Dynamics and Control",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/13849d602a344178b5f783f8db8c131f0948feec"
+                ],
+                "doi": "10.1016/S0165-1889(97)00075-4",
+                "publication_date": "1998-03-01 00:00:00"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Dillschneider, Y."
+        ],
+        "title": "Standard Transform Analysis for Asset Pricing and Parameter Estimation",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4097097",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4097097"
+        ],
+        "id": "id6450912561884281917",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Standard Transform Analysis for Asset Pricing and Parameter Estimation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/37897960c9fa2f05e63d561376ba16eaa2683e38"
+                ],
+                "doi": "10.2139/ssrn.4097097",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Khorram, M."
+        ],
+        "title": "Essays in Empirical Asset Pricing",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.31390/gradschool_dissertations.5773",
+        "urls": [
+            "http://dx.doi.org/10.31390/gradschool_dissertations.5773"
+        ],
+        "id": "id5647417261688096318",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Essays in Empirical Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c71f9eeaab5e4652f47770dedb99e2fb4ceaedd9"
+                ],
+                "doi": "10.31390/gradschool_dissertations.5773",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Luo, D."
+        ],
+        "title": "Two essays on asset pricing",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.5353/th_b4819935",
+        "urls": [
+            "http://dx.doi.org/10.5353/th_b4819935"
+        ],
+        "id": "id1608753575418853609",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Two essays on asset pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fdb74d72080860e7203b63ee3f5af06c1947bd7a"
+                ],
+                "doi": "10.5353/TH_B4819935",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Jeng, J."
+        ],
+        "title": "Empirical Asset Pricing Models",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-74192-5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-74192-5.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-74192-5",
+            "http://dx.doi.org/10.1007/978-3-319-74192-5"
+        ],
+        "id": "id-2733173775546255155",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Empirical Asset Pricing Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/375a7ad4a62b689fc3f35bb78169f7635d86e790",
+                    "https://link.springer.com/content/pdf/bfm:978-3-319-74192-5/1?pdf=chapter%20toc"
+                ],
+                "doi": "10.1007/978-3-319-74192-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "Bossaerts, P."
+        ],
+        "title": "Chapter 42 Asset Pricing",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s1574-0722(07)00042-x",
+        "urls": [
+            "http://dx.doi.org/10.1016/s1574-0722(07)00042-x"
+        ],
+        "id": "id-6355064364625412444",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 42 Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/96ebf65b4d2ec7cd062c52a894d84b2f92eed7ee"
+                ],
+                "doi": "10.1016/S1574-0722(07)00042-X",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Gocek, G."
+        ],
+        "title": "Asset Pricing: A Tale of Two           Days",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2469/dig.v44.n7.10",
+        "urls": [
+            "http://dx.doi.org/10.2469/dig.v44.n7.10"
+        ],
+        "id": "id5273178420652276084",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing: A Tale of Two Days",
+                "journal": "Cfa Digest",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/adf303e350f956d6c3800f7ef005bc8a193a040c"
+                ],
+                "doi": "10.2469/DIG.V44.N7.10",
+                "publication_date": "2014-07-01 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Harvey, C."
+        ],
+        "title": "Asset Pricing: Emerging Markets",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b0-08-043076-7/02268-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B0080430767022683?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B0080430767022683?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b0-08-043076-7/02268-3"
+        ],
+        "id": "id3496282330381937653",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing: Emerging Markets",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dee982741615a6bf7cb48ea1211ea91da1e3c93a"
+                ],
+                "doi": "10.1016/B0-08-043076-7/02268-3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Delbaen, F.",
+            "Schachermayer, W."
+        ],
+        "title": "A General Version of the Fundamental Theorem of Asset Pricing (1994)",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-31299-4_9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-31299-4_9.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-31299-4_9"
+        ],
+        "id": "id-2227395175094624302",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1994,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A general version of the fundamental theorem of asset pricing",
+                "journal": "Mathematische Annalen",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fe3d28e7cc2d1559cefbb7adb98075cf44623a31"
+                ],
+                "doi": "10.1007/978-3-540-31299-4_9",
+                "publication_date": "1994-09-01 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Zhou, C."
+        ],
+        "title": "Dynamic portfolio choice and asset pricing with differential information",
+        "publication_date": "1998-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0165-1889(97)00099-7",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188997000997?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188997000997?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0165-1889(97)00099-7"
+        ],
+        "id": "id6611765821790027723",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Dynamic portfolio choice and asset pricing with differential information",
+                "journal": "Journal of Economic Dynamics and Control",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/982b8262cc65375dbd8a171ad811531afb5bef5b"
+                ],
+                "doi": "10.1016/S0165-1889(97)00099-7",
+                "publication_date": "1998-05-25 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Coenraad C. A. Labuschagnea",
+            "Theresa M. Offwooda"
+        ],
+        "title": "Fundamental Theorems of Asset Pricing",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789811209574_0003",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7186ff39a754b21b18b6f1ef69f9f2d93d54095c"
+        ],
+        "id": "id4530659657870304586",
+        "abstract": "Mathematics of Finance, which in general involves finding appropriate pricing models for all types of financial instruments, has its foundations in two theorems, called the fundamental theorems of asset pricing. The first fundamental theorem of asset pricing relates the concept of No Arbitrage to the existence of a risk-neutral pricing measure and the second links market completeness with the uniquness of a pricing measure. This paper gives a brief overview of both fundamental theorems of asset pricing.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Fundamental Theorems of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1142/9789811209574_0003"
+                ],
+                "doi": "10.1142/9789811209574_0003",
+                "publication_date": "2020-01-01 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "Singleton, K."
+        ],
+        "title": "Empirical Dynamic Asset Pricing",
+        "publication_date": "2009-12-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2307/j.ctv30pnvwk",
+        "urls": [
+            "http://dx.doi.org/10.2307/j.ctv30pnvwk"
+        ],
+        "id": "id-497891797593426989",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Empirical Dynamic Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/379a47b2e26d6ac5d7a28f8da9edd6ff5a65875c"
+                ],
+                "doi": "10.2307/j.ctv30pnvwk",
+                "publication_date": "2009-12-13 00:00:00"
+            }
+        ],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Jingrui Li"
+        ],
+        "title": "Empirical Asset Pricing with Equity Tail Risk",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.33915/etd.4123",
+        "urls": [
+            "https://www.semanticscholar.org/paper/66392102b3bfb4678502024ed13908f58df6da6f",
+            "https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=4985&context=etd"
+        ],
+        "id": "id4513025927897604649",
+        "abstract": "Empirical Asset Pricing with Equity Tail Risk",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Empirical Asset Pricing with Equity Tail Risk",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.33915/etd.4123"
+                ],
+                "doi": "10.33915/etd.4123",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Jarrow, R.",
+            "Protter, P."
+        ],
+        "title": "Chapter 1 An Introduction to Financial Asset Pricing",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0927-0507(07)15001-5",
+        "urls": [
+            "http://dx.doi.org/10.1016/s0927-0507(07)15001-5"
+        ],
+        "id": "id-3676198126725777506",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 1 An Introduction to Financial Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/665c1833103fd9c1b0599d53a5ee9b0aaaa60947"
+                ],
+                "doi": "10.1016/S0927-0507(07)15001-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "P. S\u00f6derlind"
+        ],
+        "title": "An extended Stein's lemma for asset pricing",
+        "publication_date": "2008-08-08 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Applied Economics Letters",
+        "volume": "16",
+        "doi": "10.1080/17446540802345422",
+        "urls": [
+            "https://www.semanticscholar.org/paper/216b7d4d84a2aaecb52d1f7218fc2bf20a29ba5f",
+            "http://www.alexandria.unisg.ch/49661/1/SteinExtended200705.pdf"
+        ],
+        "id": "id-8342281404847484641",
+        "abstract": "Stein's lemma is extended to the case where asset returns have skewed and leptokurtic distributions. The risk premium is still the negative of the covariance of the excess return with the log stochastic discount factor. The risk-neutral distribution has a simple form but is a nontrivial transformation of the physical distribution.",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.CROSSREF",
+                "title": "An extended Stein's lemma for asset pricing",
+                "journal": "",
+                "urls": [
+                    "http://www.tandfonline.com/doi/pdf/10.1080/17446540802345422",
+                    "http://dx.doi.org/10.1080/17446540802345422"
+                ],
+                "doi": "10.1080/17446540802345422",
+                "publication_date": "2009-06-23 00:00:00"
+            }
+        ],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Guermat, C.",
+            "Freeman, M."
+        ],
+        "title": "A net beta test of asset pricing models",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.irfa.2009.09.008",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1057521909000593?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1057521909000593?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.irfa.2009.09.008"
+        ],
+        "id": "id881076274293356066",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A net beta test of asset pricing models",
+                "journal": "International Review of Financial Analysis",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ccf828a3ad62eac7bf34ac191dc76051a6c12e3e",
+                    "https://figshare.com/articles/journal_contribution/A_net_beta_test_of_asset_pricing_models/9503447/1/files/17130215.pdf"
+                ],
+                "doi": "10.1016/J.IRFA.2009.09.008",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Vorfeld, M."
+        ],
+        "title": "Grundlagen des Asset Pricing",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-8349-8243-8_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-8349-8243-8_2.pdf",
+            "http://dx.doi.org/10.1007/978-3-8349-8243-8_2"
+        ],
+        "id": "id-650042670000116763",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Grundlagen des Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fecce115ac3799fdc41c8d8212b4b41d7710c5cc"
+                ],
+                "doi": "10.1007/978-3-8349-8243-8_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Tsionas, E."
+        ],
+        "title": "Exact solution of asset pricing models with arbitrary shock distributions",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0165-1889(02)00017-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188902000179?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188902000179?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0165-1889(02)00017-9"
+        ],
+        "id": "id4776257846157716818",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2003,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Exact solution of asset pricing models with arbitrary shock distributions",
+                "journal": "Journal of Economic Dynamics and Control",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3cb20c9f901e76435173f88f77a143fc7b176c69"
+                ],
+                "doi": "10.1016/S0165-1889(02)00017-9",
+                "publication_date": "2003-03-01 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "L\u00e9cuyer, E.",
+            "Martins-da-Rocha, V."
+        ],
+        "title": "Convex Asset Pricing",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.3940432",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.3940432"
+        ],
+        "id": "id8844719275837950022",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Convex Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a9f080d78be904d0d8953a46879cb2c28546622e"
+                ],
+                "doi": "10.2139/ssrn.3940432",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "Nadler, P.",
+            "Sancetta, A."
+        ],
+        "title": "Empirical Asset Pricing with Functional Factors",
+        "publication_date": "2022-04-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/jjfinec/nbac003",
+        "urls": [
+            "https://academic.oup.com/jfec/advance-article-pdf/doi/10.1093/jjfinec/nbac003/47758589/nbac003.pdf",
+            "https://academic.oup.com/jfec/advance-article-pdf/doi/10.1093/jjfinec/nbac003/47758589/nbac003.pdf",
+            "http://dx.doi.org/10.1093/jjfinec/nbac003"
+        ],
+        "id": "id-8708645022586749142",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "OUP accepted manuscript",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/344d5232a1e68d428bcad06904cd7be7c1a9f56c"
+                ],
+                "doi": "10.1093/jjfinec/nbac003",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Nielsen, M."
+        ],
+        "title": "Asset pricing with complexity",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4063721",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4063721"
+        ],
+        "id": "id7474518037671747017",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with complexity",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e7a962f9a80cec481554d18ec71f94add15f91d5"
+                ],
+                "doi": "10.2139/ssrn.4063721",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Hardouvelis, G.",
+            "Kim, D.",
+            "Wizman, T."
+        ],
+        "title": "Asset pricing models with and without consumption data: An empirical evaluation",
+        "publication_date": "1996-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0927-5398(96)00003-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0927539896000035?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0927539896000035?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0927-5398(96)00003-5"
+        ],
+        "id": "id8662233722115902156",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1996,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing models with and without consumption data: An empirical evaluation",
+                "journal": "Journal of Empirical Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c5a57117c9a95261ef0d9b94e15587423b0fb25a"
+                ],
+                "doi": "10.1016/0927-5398(96)00003-5",
+                "publication_date": "1996-09-01 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [],
+        "title": "A Model of Asset Pricing and Portfolio Allocation",
+        "publication_date": "2015-10-21 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781783267002_0009",
+        "urls": [
+            "http://dx.doi.org/10.1142/9781783267002_0009"
+        ],
+        "id": "id-8645839259950923284",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Model of Asset Pricing and Portfolio Allocation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/15afc4a89138be7f52727925e4f6f4758f1a8d9b"
+                ],
+                "doi": "10.1142/9781783267002_0009",
+                "publication_date": "2015-12-01 00:00:00"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Stapleton, R.",
+            "Subrahmanyam, M."
+        ],
+        "title": "A Multiperiod Equilibrium Asset Pricing Model",
+        "publication_date": "1978-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2307/1911437",
+        "urls": [
+            "http://dx.doi.org/10.2307/1911437"
+        ],
+        "id": "id-5805464840101098908",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1978,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Multiperiod Equilibrium Asset Pricing Model",
+                "journal": "Econometrica",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5227024b3ab257d14d030cdcaba6bb217cb72d60"
+                ],
+                "doi": "10.2307/1911437",
+                "publication_date": "1978-09-01 00:00:00"
+            }
+        ],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Noussair, C.",
+            "Tucker, S."
+        ],
+        "title": "Experimental Research on Asset Pricing",
+        "publication_date": "2013-11-15 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118790700.ch9",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118790700.ch9",
+            "http://dx.doi.org/10.1002/9781118790700.ch9"
+        ],
+        "id": "id5300504431333458524",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "9. Experimental Research on Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/399e60f27f03f72fa9c02ddc4c485b152d39f970",
+                    "https://pure.uvt.nl/ws/files/1510275/2013-020.pdf"
+                ],
+                "doi": "10.1002/9781118790700.CH9",
+                "publication_date": "2013-11-15 00:00:00"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Kallianpur, G.",
+            "Karandikar, R."
+        ],
+        "title": "Asset Pricing with Stochastic Volatility",
+        "publication_date": "2000-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4612-0511-1_13",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4612-0511-1_13.pdf",
+            "http://dx.doi.org/10.1007/978-1-4612-0511-1_13"
+        ],
+        "id": "id-4663367965778884021",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing with Stochastic Volatility",
+                "journal": "Applied Mathematics and Optimization",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ad266c0b05c3cf234eb948413361ae756ef1c2a7"
+                ],
+                "doi": "10.1007/978-1-4612-0511-1_13",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Choi, S.",
+            "Gorener, R.",
+            "Norsworthy, J."
+        ],
+        "title": "Conditional Asset Pricing Model",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-044452722-6/50007-2",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-044452722-6/50007-2"
+        ],
+        "id": "id-1597050182940538471",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Conditional Asset Pricing Model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a89a1885edf9ac928f00cab5af80f40579678215"
+                ],
+                "doi": "10.1016/B978-044452722-6/50007-2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "Brenner, M.",
+            "Izhakian, Y."
+        ],
+        "title": "Asset pricing and ambiguity: Empirical evidence",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jfineco.2018.07.007",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304405X18301831?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304405X18301831?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jfineco.2018.07.007"
+        ],
+        "id": "id-1312668189734500216",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing and Ambiguity: Empirical Evidence",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bcba0b647901b550c0e26131d8fe817e6d16c756",
+                    "http://archive.nyu.edu/bitstream/2451/31453/2/Izhakian-AssetPricingAmbiguity-Dec2011.pdf"
+                ],
+                "doi": "10.1016/J.JFINECO.2018.07.007",
+                "publication_date": "2017-11-16 00:00:00"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Luenberger, D."
+        ],
+        "title": "Pricing a Nontradeable Asset and Its Derivatives",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1023/b:jota.0000037600.85025.db",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1023/B:JOTA.0000037600.85025.db.pdf",
+            "http://link.springer.com/article/10.1023/B:JOTA.0000037600.85025.db/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1023/B:JOTA.0000037600.85025.db",
+            "http://dx.doi.org/10.1023/b:jota.0000037600.85025.db"
+        ],
+        "id": "id633896834016681929",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Pricing a Nontradeable Asset and Its Derivatives",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4104c036441611645bc1bdcf6b0073b3d31b3d2b"
+                ],
+                "doi": "10.1023/B:JOTA.0000037600.85025.DB",
+                "publication_date": "2004-06-01 00:00:00"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Nakamura, N."
+        ],
+        "title": "Numerical Approach to Asset Pricing Models with Stochastic Differential Utility",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10690-005-9003-4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10690-005-9003-4.pdf",
+            "http://link.springer.com/article/10.1007/s10690-005-9003-4/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10690-005-9003-4",
+            "http://dx.doi.org/10.1007/s10690-005-9003-4"
+        ],
+        "id": "id-4461441741350273474",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Numerical Approach to Asset Pricing Models with Stochastic Differential Utility",
+                "journal": "Asia-Pacific Financial Markets",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1d816339799f249557a02d969281915c4284d14c"
+                ],
+                "doi": "10.1007/S10690-005-9003-4",
+                "publication_date": "2004-09-01 00:00:00"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Shefrin, H."
+        ],
+        "title": "A Simple Asset Pricing Model Featuring Representativeness",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-012374356-5.50007-3",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-012374356-5.50007-3"
+        ],
+        "id": "id-1253541030291241297",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Simple Asset Pricing Model Featuring Representativeness",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7ca7f215d5570b19c0b7d00d2aca63611687fff8"
+                ],
+                "doi": "10.1016/B978-012374356-5.50007-3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Gamrowski, B.",
+            "Rachev, S."
+        ],
+        "title": "Stable Models in Testable Asset Pricing",
+        "publication_date": "1994-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4615-2494-6_17",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4615-2494-6_17",
+            "http://dx.doi.org/10.1007/978-1-4615-2494-6_17"
+        ],
+        "id": "id697094083677782261",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stable Models in Testable Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bb2b745bbcdbcfae902bb7c4b6a5a8696bc08459"
+                ],
+                "doi": "10.1007/978-1-4615-2494-6_17",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Borovi\u010dka, J.",
+            "Stachurski, J."
+        ],
+        "title": "Stability of equilibrium asset pricing models: A necessary and sufficient condition",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jet.2021.105227",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0022053121000442?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0022053121000442?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jet.2021.105227"
+        ],
+        "id": "id-519761358338901542",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stability of equilibrium asset pricing models: A necessary and sufficient condition",
+                "journal": "J. Econ. Theory",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6b84c9a39a271a8a667e8e919eeadbca6ceb6289",
+                    "http://arxiv.org/pdf/1910.00778"
+                ],
+                "doi": "10.1016/j.jet.2021.105227",
+                "publication_date": "2019-10-02 00:00:00"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Kumar, A."
+        ],
+        "title": "Stochastic correlation for asset pricing and credit derivative products",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.15476/elte.2020.179",
+        "urls": [
+            "http://dx.doi.org/10.15476/elte.2020.179"
+        ],
+        "id": "id-8428385350397567587",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic correlation for asset pricing and credit derivative products",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0422eeb01c2bc9d24fe2f3bb55bf5a848315f942",
+                    "https://edit.elte.hu/xmlui/bitstream/10831/61374/1/Kumar_Ashish_PhD_Thesis.pdf"
+                ],
+                "doi": "10.15476/elte.2020.179",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "Johnson, T."
+        ],
+        "title": "The Fundamental Theorem of Asset Pricing",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-61039-9_11",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-61039-9_11",
+            "http://dx.doi.org/10.1007/978-3-319-61039-9_11"
+        ],
+        "id": "id8980346387002065822",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Fundamental Theorem of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c39bd9f464a41f7757dcec3d8740a5fd9539201c"
+                ],
+                "doi": "10.1007/978-3-319-61039-9_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Elliott, R.",
+            "Kopp, P."
+        ],
+        "title": "The Fundamental Theorem of Asset Pricing",
+        "publication_date": "1999-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4757-7146-6_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4757-7146-6_3",
+            "http://dx.doi.org/10.1007/978-1-4757-7146-6_3"
+        ],
+        "id": "id9000781975771376373",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Fundamental Theorem of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b842b1302f1fe1aaf505f7310aa62b124cba4549"
+                ],
+                "doi": "10.1007/978-1-4757-7146-6_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [],
+        "title": "Portfolio Theory and Asset Pricing",
+        "publication_date": "2015-09-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119199328.ch7",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119199328.ch7",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119199328.ch7",
+            "http://dx.doi.org/10.1002/9781119199328.ch7"
+        ],
+        "id": "id3003376053975121549",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Portfolio Theory and Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3d2c4bc89c861e23f0e8c9e7eb52b6480df4efe3"
+                ],
+                "doi": "10.1002/9781119199328.CH7",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Brody, D."
+        ],
+        "title": "Information and asset pricing",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814313179_0049",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814313179_0049"
+        ],
+        "id": "id-5156225714259606381",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Information and asset pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b9e8889faacc1bc7baf43e9e2202918604e598ad"
+                ],
+                "doi": "10.1142/9789814313179_0049",
+                "publication_date": "2010-07-01 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Gospodinov, N.",
+            "Robotti, C."
+        ],
+        "title": "Common pricing across asset classes: Empirical evidence revisited",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jfineco.2020.12.001",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304405X20303287?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304405X20303287?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jfineco.2020.12.001"
+        ],
+        "id": "id-9005499196026833047",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Common pricing across asset classes: Empirical evidence revisited",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c6a41cfbdbb6d4c44e32413fd005c2fc574ca553",
+                    "http://wrap.warwick.ac.uk/136266/8/WRAP-common-pricing-across-asset-classes-empirical-evidence-revisited-Robotti-2020.pdf"
+                ],
+                "doi": "10.1016/j.jfineco.2020.12.001",
+                "publication_date": "2020-12-04 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [],
+        "title": "An asset pricing model with heterogeneous beliefs",
+        "publication_date": "2013-01-24 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139094276.007",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FA1387986AFD00A743C268B528D119C2",
+            "http://dx.doi.org/10.1017/cbo9781139094276.007"
+        ],
+        "id": "id1248582984846955384",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Behavioral Rationality and Heterogeneous Expectations in Complex Economic Systems: An asset pricing model with heterogeneous beliefs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f8ecf6ecc53440dee643efe8eea11990bcd604fd"
+                ],
+                "doi": "10.1017/CBO9781139094276.007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Bidarkota, P.",
+            "Dupoyet, B.",
+            "McCulloch, J."
+        ],
+        "title": "Asset pricing with incomplete information and fat tails",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jedc.2009.01.002",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188909000074?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188909000074?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jedc.2009.01.002"
+        ],
+        "id": "id-2200954183821101675",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing With Incomplete Information and Fat Tails",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7ed001ff043ec0c643b11b70a928a870d434d035"
+                ],
+                "doi": "10.1016/J.JEDC.2009.01.002",
+                "publication_date": "2009-03-23 00:00:00"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Crotty, K.",
+            "Teguia, A."
+        ],
+        "title": "Estimating asset pricing models with frictions",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.econlet.2017.02.016",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165176517300617?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165176517300617?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.econlet.2017.02.016"
+        ],
+        "id": "id1119343009421518886",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Estimating asset pricing models with frictions",
+                "journal": "Economics Letters",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9cf09a8a58a4ad6c4b9d1c0c647da18245943a49"
+                ],
+                "doi": "10.1016/J.ECONLET.2017.02.016",
+                "publication_date": "2017-05-01 00:00:00"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Hommes, C.",
+            "Sonnemans, J.",
+            "Tuinstra, J.",
+            "van de Velden, H."
+        ],
+        "title": "A strategy experiment in dynamic asset pricing",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jedc.2003.11.006",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165188904000685?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165188904000685?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jedc.2003.11.006"
+        ],
+        "id": "id-972309121433892978",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A strategy experiment in dynamic asset pricing",
+                "journal": "European Economic Review",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ff01fccc3baba33968167e63270f3dc702610231",
+                    "https://pure.uva.nl/ws/files/1976284/18_stratasset.pdf"
+                ],
+                "doi": "10.1016/J.JEDC.2003.11.006",
+                "publication_date": "2005-04-01 00:00:00"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "He, J.",
+            "Ng, L.",
+            "Zhang, C."
+        ],
+        "title": "Asset Pricing Specification Errors and Performance Evaluation",
+        "publication_date": "1999-08-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1023/a:1009803503148",
+        "urls": [
+            "http://academic.oup.com/rof/article-pdf/3/2/205/26321015/3-2-205.pdf",
+            "http://dx.doi.org/10.1023/a:1009803503148"
+        ],
+        "id": "id3739019636543594695",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Pricing Specification Errors and Performance Evaluation",
+                "journal": "Review of Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fb925878c9764b7e10db938e2bb4225e609d9b9e",
+                    "https://academic.oup.com/rof/article-pdf/3/2/205/26321015/3-2-205.pdf"
+                ],
+                "doi": "10.1023/A:1009803503148",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Liu, X.",
+            "Qiu, Z.",
+            "Xiong, Y."
+        ],
+        "title": "VaR constrained asset pricing with relative performance",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.econlet.2013.07.026",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0165176513003595?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0165176513003595?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.econlet.2013.07.026"
+        ],
+        "id": "id-8137044557042155502",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "VaR constrained asset pricing with relative performance",
+                "journal": "Economics Letters",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dcffda3f256db3fa042bc72047118954edcf10a6"
+                ],
+                "doi": "10.1016/J.ECONLET.2013.07.026",
+                "publication_date": "2013-11-01 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Geiger, F."
+        ],
+        "title": "Financial Markets and Asset Pricing",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-21575-9_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-21575-9_2.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-21575-9_2"
+        ],
+        "id": "id-7370720467644630331",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Financial Markets and Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8e0eadc4dca7ce3df3955e51d6cc6b959f501da5"
+                ],
+                "doi": "10.1007/978-3-642-21575-9_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Dybvig, H.",
+            "Ross, S."
+        ],
+        "title": "The Fundamental Theorems of Asset Pricing",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-0348-8041-1_11",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-0348-8041-1_11",
+            "http://dx.doi.org/10.1007/978-3-0348-8041-1_11"
+        ],
+        "id": "id-8972068532725476662",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Fundamental Theorems of Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/de1208167f0aa588e027b52c95b09c369edb3b83"
+                ],
+                "doi": "10.1007/978-3-0348-8041-1_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Geman, H."
+        ],
+        "title": "From measure changes to time changes in asset pricing",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jbankfin.2005.02.008",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0378426605000336?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0378426605000336?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jbankfin.2005.02.008"
+        ],
+        "id": "id7770801468000383436",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "From measure changes to time changes in asset pricing",
+                "journal": "Journal of Banking and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6e912e6ab2d4170be0185e7725bfc85301e61a9e"
+                ],
+                "doi": "10.1016/J.JBANKFIN.2005.02.008",
+                "publication_date": "2005-11-01 00:00:00"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Blume, L.",
+            "Easley, D."
+        ],
+        "title": "Market Selection and Asset Pricing",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-012374258-2.50011-7",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-012374258-2.50011-7"
+        ],
+        "id": "id-5443313827524982352",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Market Selection and Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e35ab35081b8c23309ac685357e1f8aacdc4beeb"
+                ],
+                "doi": "10.1016/B978-012374258-2.50011-7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 99
+    }
+]

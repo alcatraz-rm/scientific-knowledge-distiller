@@ -1,0 +1,3122 @@
+[
+    {
+        "authors": [
+            "B. Stemper"
+        ],
+        "title": "Rough volatility models",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.14279/DEPOSITONCE-8422",
+        "urls": [
+            "https://www.semanticscholar.org/paper/e93f0dae9a502077bc359e9408fe418eb1172b3d"
+        ],
+        "id": "id-5948982191964281427",
+        "abstract": null,
+        "versions": [],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Xiaoyan Zhang"
+        ],
+        "title": "Rough Volatility Modelling",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/eb86e79a913c424e185f2c7548b46036814482bc"
+        ],
+        "id": "id-2634083905490319993",
+        "abstract": null,
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Jun YU,",
+            "LIU, Xiaobin",
+            "SHI, Shuping"
+        ],
+        "title": "Persistent and rough volatility",
+        "publication_date": "2020-11-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/359403242.pdf"
+        ],
+        "id": "id6322771493497761054",
+        "abstract": null,
+        "versions": [],
+        "rank": 2
+    },
+    {
+        "authors": [],
+        "title": "Volatility Models: An Overview",
+        "publication_date": "2015-09-19 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119202141.ch10",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119202141.ch10",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119202141.ch10",
+            "http://dx.doi.org/10.1002/9781119202141.ch10"
+        ],
+        "id": "id-7789129253944373569",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Models: An Overview",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ece247a957edf0fb2ec9b44085b309b496ca0c1f"
+                ],
+                "doi": "10.1002/9781119202141.ch10",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 3
+    },
+    {
+        "authors": [],
+        "title": "Volatility Models",
+        "publication_date": "2017-01-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119192190.ch7",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119192190.ch7",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119192190.ch7",
+            "http://dx.doi.org/10.1002/9781119192190.ch7"
+        ],
+        "id": "id-3985337420277205321",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f48de67939833b9693c621d5021a58a2fb378958"
+                ],
+                "doi": "10.1002/9781119192190.ch7",
+                "publication_date": "2019-04-25 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Prof. Martino Grasselli"
+        ],
+        "title": "Stochastic volatility models",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-34604-3_11",
+        "urls": [
+            "https://www.semanticscholar.org/paper/8ba2926a26589c3e1173658aea0a25b6ad49b279"
+        ],
+        "id": "id-6423962759451600889",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Stochastic-Volatility Models",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-540-34604-3_11.pdf",
+                    "http://dx.doi.org/10.1007/978-3-540-34604-3_11"
+                ],
+                "doi": "10.1007/978-3-540-34604-3_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch21",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch21",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch21",
+            "http://dx.doi.org/10.1002/9781119289258.ch21"
+        ],
+        "id": "id-7880991344268180502",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models: The Smile for Zero Correlation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bf8ca6629db70349b74eb5f541f34c82f6db4546"
+                ],
+                "doi": "10.1002/9781119289258.CH21",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Ekstrand, C."
+        ],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-22155-2_7",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-22155-2_7",
+            "http://dx.doi.org/10.1007/978-3-642-22155-2_7"
+        ],
+        "id": "id-4450650329190474514",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/52f72d6f204e08d835a1ab22a666c860663e6058"
+                ],
+                "doi": "10.1007/978-3-642-22155-2_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Lutz, B."
+        ],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2009-08-05 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-02909-7_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-02909-7_4.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-02909-7_4"
+        ],
+        "id": "id6639818042650883809",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a5e8462caa00870fcaff24b75dbc93dc8e3b0bcc"
+                ],
+                "doi": "10.1007/978-3-642-02909-7_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2019-11-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118630006.ch10",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch10",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch10",
+            "http://dx.doi.org/10.1002/9781118630006.ch10"
+        ],
+        "id": "id1945213438312806245",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d29db619c9465dd642bf0c478ed331447314f4c4"
+                ],
+                "doi": "10.1002/9781118630006.ch10",
+                "publication_date": "2019-11-04 00:00:00"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Hilber, N.",
+            "Reichmann, O.",
+            "Schwab, C.",
+            "Winter, C."
+        ],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-35401-4_9",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-35401-4_9",
+            "http://dx.doi.org/10.1007/978-3-642-35401-4_9"
+        ],
+        "id": "id2237720423351196033",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5ff490175f399617295dceb97bbb377daadfb702"
+                ],
+                "doi": "10.1007/978-3-642-35401-4_9",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Zhu, J."
+        ],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2009-10-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-01808-4_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-01808-4_3.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-01808-4_3"
+        ],
+        "id": "id-6297791454127011160",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a2d66e1d79a13abe723aff2b212504d16e4e7926"
+                ],
+                "doi": "10.1007/978-3-642-01808-4_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2013-06-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814440134_0002",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814440134_0002"
+        ],
+        "id": "id-3003082802548210721",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dd170851673e9113a04d9efb86eb82e8cf5c2452"
+                ],
+                "doi": "10.1142/9789814440134_0002",
+                "publication_date": "2013-07-01 00:00:00"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2012-03-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118467398.ch12",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467398.ch12",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467398.ch12",
+            "http://dx.doi.org/10.1002/9781118467398.ch12"
+        ],
+        "id": "id-2582791592393884528",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c9553d3cadbb0388558df6cf882e77b3103cef9c"
+                ],
+                "doi": "10.1002/9781118467398.ch12",
+                "publication_date": "2012-05-24 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Bouchard, B.",
+            "Chassagneux, J."
+        ],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-38990-5_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-38990-5_8",
+            "http://dx.doi.org/10.1007/978-3-319-38990-5_8"
+        ],
+        "id": "id9158886318487271392",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/715e74158491bd7019a83e0e482436943d117ede"
+                ],
+                "doi": "10.1007/978-3-319-38990-5_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch22",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch22",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch22",
+            "http://dx.doi.org/10.1002/9781119289258.ch22"
+        ],
+        "id": "id-6755034487012111689",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models: The Smile with Mean Reversion and Correlation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d86d5db9e0224830b1cfd4e5b92bbeca219c0564"
+                ],
+                "doi": "10.1002/9781119289258.ch22",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [],
+        "title": "NLP models: volatility estimation",
+        "publication_date": "2006-12-21 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511753886.007",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FB81066E37806D68363F1D889163B0C",
+            "http://dx.doi.org/10.1017/cbo9780511753886.007"
+        ],
+        "id": "id-1772977776411298405",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "NLP models: volatility estimation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0f0bdaab21bef721b11c5dad3a45a66b2412fed3"
+                ],
+                "doi": "10.1017/CBO9780511753886.007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [],
+        "title": "Volatility Estimation Models",
+        "publication_date": "2015-08-21 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118371886.ch6",
+        "urls": [
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781118371886.ch6/fullpdf",
+            "http://dx.doi.org/10.1002/9781118371886.ch6"
+        ],
+        "id": "id4696041988170203968",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Estimation Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0a899fc8aad366b4b59cb570c2226c77a256ee20"
+                ],
+                "doi": "10.1002/9781118371886.ch6",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Walcott, R."
+        ],
+        "title": "Creating an Implied Volatility Surface with Rough Volatility Models",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4289148",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4289148"
+        ],
+        "id": "id2046007418071472101",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Creating an Implied Volatility Surface with Rough Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8c5132a140a04c7525081e96fee4c63bfa0be5c5"
+                ],
+                "doi": "10.2139/ssrn.4289148",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Creating an Implied Volatility Surface with Rough Volatility Models",
+                "journal": "SSRN Electronic Journal",
+                "urls": [
+                    "https://doi.org/10.2139/ssrn.4289148"
+                ],
+                "doi": "10.2139/ssrn.4289148",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "P. Friz",
+            "William Salkeld",
+            "T. Wagenhofer"
+        ],
+        "title": "Weak error estimates for rough volatility models",
+        "publication_date": "2022-12-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/85ae5096a43b379e32675d06cc2cdb8cbe8295c8"
+        ],
+        "id": "id-1893869700924523954",
+        "abstract": ",",
+        "versions": [],
+        "rank": 19
+    },
+    {
+        "authors": [],
+        "title": "Local Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch14",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch14",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch14",
+            "http://dx.doi.org/10.1002/9781119289258.ch14"
+        ],
+        "id": "id5984754024339258880",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2c67624a60ab09eeb5cebb07fa357e54ea6cab4a"
+                ],
+                "doi": "10.1002/9781119289258.CH14",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Ekstrand, C."
+        ],
+        "title": "Local Volatility Models",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-22155-2_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-22155-2_6.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-22155-2_6"
+        ],
+        "id": "id-3763526421150692216",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8e542bfbdf2de8ff6232ff6c55863a6b93f7cfc7"
+                ],
+                "doi": "10.1007/978-3-642-22155-2_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [],
+        "title": "Local Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch16",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch16",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch16",
+            "http://dx.doi.org/10.1002/9781119289258.ch16"
+        ],
+        "id": "id-1887102280246205350",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local Volatility Models: Hedge Ratios and Exotic Option Values",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5ee55d77f0cd8f4839a2d713336aab1634eb9333"
+                ],
+                "doi": "10.1002/9781119289258.CH16",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "Bouchard, B.",
+            "Chassagneux, J."
+        ],
+        "title": "Local Volatility Models",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-38990-5_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-38990-5_7",
+            "http://dx.doi.org/10.1007/978-3-319-38990-5_7"
+        ],
+        "id": "id2051757029008499616",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/78cfae54162d38d5ae516767c443b573aeb73a92"
+                ],
+                "doi": "10.1007/978-3-319-38990-5_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Neusser, K."
+        ],
+        "title": "Models of Volatility",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-32862-1_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-32862-1_8",
+            "http://dx.doi.org/10.1007/978-3-319-32862-1_8"
+        ],
+        "id": "id-1958233019846700756",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Models of Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fdfc68310ed1946c7a2273c5dae29712b8704252"
+                ],
+                "doi": "10.1007/978-3-319-32862-1_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [],
+        "title": "Introducing Stochastic Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch19",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch19",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch19",
+            "http://dx.doi.org/10.1002/9781119289258.ch19"
+        ],
+        "id": "id-8374367494784157713",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introducing Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/935b1312d41cf883853b3a3bae688394f53da8b0"
+                ],
+                "doi": "10.1002/9781119289258.CH19",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "A. Jacquier"
+        ],
+        "title": "Pricing and Hedging in rough volatility models",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.14288/1.0377057",
+        "urls": [
+            "https://www.semanticscholar.org/paper/ea5b0272cb6b81916e22e8bbe0138d08f56e439b"
+        ],
+        "id": "id5373216956103250094",
+        "abstract": null,
+        "versions": [],
+        "rank": 26
+    },
+    {
+        "authors": [],
+        "title": "Parameter-Driven Volatility Models",
+        "publication_date": "2019-03-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119313472.ch12",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119313472.ch12",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119313472.ch12/fullpdf",
+            "http://dx.doi.org/10.1002/9781119313472.ch12"
+        ],
+        "id": "id8571703818587252909",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Parameter-Driven Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c96bd9919d9a057898948523e46192f5db85f3be"
+                ],
+                "doi": "10.1002/9781119313472.ch12",
+                "publication_date": "2019-03-25 00:00:00"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Brandi, G.",
+            "Di Matteo, T."
+        ],
+        "title": "Multiscaling and rough volatility: An empirical investigation",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.irfa.2022.102324",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1057521922002757?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1057521922002757?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.irfa.2022.102324"
+        ],
+        "id": "id8734092444572431871",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multiscaling and rough volatility: An empirical investigation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a058961e6db09fcb3d483cbf1c42f74b55037315"
+                ],
+                "doi": "10.1016/j.irfa.2022.102324",
+                "publication_date": "2022-01-25 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Brockhaus, O."
+        ],
+        "title": "Short Volatility Models",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1057/9781137349491_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1057/9781137349491_6",
+            "http://dx.doi.org/10.1057/9781137349491_6"
+        ],
+        "id": "id2799466168347249596",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Short Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/72e4d92011f2540773fa58d936f5878521ad9bc1"
+                ],
+                "doi": "10.1057/9781137349491_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [],
+        "title": "Multivariate Volatility Models",
+        "publication_date": "2015-09-18 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119205869.ch3",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119205869.ch3",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119205869.ch3/fullpdf",
+            "http://dx.doi.org/10.1002/9781119205869.ch3"
+        ],
+        "id": "id2974622237598943736",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multivariate Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/107eb878bd2ff9c43e756be0202d12b3d1f99865",
+                    "http://arxiv.org/pdf/math/0702815v1.pdf"
+                ],
+                "doi": "10.1002/9781119205869.ch3",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Fengler, M.",
+            "Herwartz, H."
+        ],
+        "title": "Multivariate Volatility Models",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-69179-2_15",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-69179-2_15.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-69179-2_15"
+        ],
+        "id": "id5745869829096944563",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multivariate volatility models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8570d9eb050c2cacec9b7a10df40e9a23189f3d4",
+                    "https://edoc.hu-berlin.de/bitstream/18452/4278/1/74.pdf"
+                ],
+                "doi": "10.1007/978-3-540-69179-2_15",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "Felpel, M.",
+            "Kienitz, J.",
+            "McWalter, T."
+        ],
+        "title": "Effective Stochastic Local Volatility Models",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4016334",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4016334"
+        ],
+        "id": "id-2229602408654832725",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Effective Stochastic Local Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cb5e6f81c1260460633b012572599ceab2ec9160"
+                ],
+                "doi": "10.2139/ssrn.4016334",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Hol, E."
+        ],
+        "title": "Forecasting with Volatility Models",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4757-5129-1_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4757-5129-1_4",
+            "http://dx.doi.org/10.1007/978-1-4757-5129-1_4"
+        ],
+        "id": "id-3753752661141832206",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Forecasting with Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8b4670ac6bdf6a0b2083aba51fb0924e4a00007c"
+                ],
+                "doi": "10.1007/978-1-4757-5129-1_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Fourni\u00e9, E.",
+            "Lasry, J.",
+            "Touzi, N."
+        ],
+        "title": "Monte Carlo Methods for Stochastic Volatility Models",
+        "publication_date": "1997-06-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139173056.009",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C2E44BD543B93F10E56836684D64D818",
+            "http://dx.doi.org/10.1017/cbo9781139173056.009"
+        ],
+        "id": "id-2099626243889100832",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Numerical Methods in Finance: Monte Carlo Methods for Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0ac8b6ae7b19b31f6f37b102d92713e2325e1e26"
+                ],
+                "doi": "10.1017/CBO9781139173056.009",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [],
+        "title": "Implied Volatility Models",
+        "publication_date": "2012-03-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118467398.ch13",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467398.ch13",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467398.ch13",
+            "http://dx.doi.org/10.1002/9781118467398.ch13"
+        ],
+        "id": "id-8186420827840403202",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Implied Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/56fc0977dc16657db879c7ef25878991d34e032f"
+                ],
+                "doi": "10.1002/9781118467398.CH13",
+                "publication_date": "2012-05-24 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Buff, R."
+        ],
+        "title": "Uncertain Volatility Models \u2014 Theory and Application",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-56323-2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-56323-2.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-56323-2",
+            "http://dx.doi.org/10.1007/978-3-642-56323-2"
+        ],
+        "id": "id-3776583150743723302",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Uncertain Volatility Models - Theory and Application",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4fb86062a4d71744d4aa97a2b901793489c63269",
+                    "https://link.springer.com/content/pdf/bfm%3A978-3-642-56323-2%2F1"
+                ],
+                "doi": "10.1007/978-3-642-56323-2",
+                "publication_date": "2002-05-28 00:00:00"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Omori, Y.",
+            "Ishihara, T."
+        ],
+        "title": "Multivariate Stochastic Volatility Models",
+        "publication_date": "2012-03-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118272039.ch7",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118272039.ch7",
+            "http://dx.doi.org/10.1002/9781118272039.ch7"
+        ],
+        "id": "id-290753685470704693",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multivariate Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a1e5254743735dd4561a058cb9985c6ab58a8177"
+                ],
+                "doi": "10.1002/9781118272039.CH7",
+                "publication_date": "2012-03-27 00:00:00"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Volatility and Realized Stochastic Volatility Models",
+        "publication_date": "2015-05-21 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/b18502-28",
+        "urls": [
+            "http://dx.doi.org/10.1201/b18502-28"
+        ],
+        "id": "id4559775306962789628",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Some Aspects of Bayesian Inference in Skewed Mixed Logistic Regression Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/810376793b6c3bba4c485af0d21d7160944ba6f1"
+                ],
+                "doi": "10.1201/B18502-28",
+                "publication_date": "2015-05-21 00:00:00"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [],
+        "title": "Volatility Measurement and Forecasting",
+        "publication_date": "2012-01-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119197058.ch2",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119197058.ch2",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119197058.ch2",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119197058.ch2",
+            "http://dx.doi.org/10.1002/9781119197058.ch2"
+        ],
+        "id": "id-8279011982719213421",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Measurement and Forecasting",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3451166cba674a9880d3d8850fdab930b8de83eb"
+                ],
+                "doi": "10.1002/9781119197058.CH2",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Heinen, A.",
+            "Valdesogo, A."
+        ],
+        "title": "Copula-Based Volatility Models",
+        "publication_date": "2012-03-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118272039.ch12",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118272039.ch12",
+            "http://dx.doi.org/10.1002/9781118272039.ch12"
+        ],
+        "id": "id-7664254726475836234",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Copula\u2010Based Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b7b71a5875d0306957cee8e631820f29581c5535"
+                ],
+                "doi": "10.1002/9781118272039.CH12",
+                "publication_date": "2012-03-27 00:00:00"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Parent, L."
+        ],
+        "title": "The Rough Path-Dependent Volatility Model",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4270481",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4270481"
+        ],
+        "id": "id9129632077276496521",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Rough Path-Dependent Volatility Model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7cf809d0a249666a804bff5a95a0939248598059"
+                ],
+                "doi": "10.2139/ssrn.4270481",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "The Rough Path-Dependent Volatility Model",
+                "journal": "SSRN Electronic Journal",
+                "urls": [
+                    "https://doi.org/10.2139/ssrn.4270481"
+                ],
+                "doi": "10.2139/ssrn.4270481",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Kettani, O.",
+            "Reghai, A."
+        ],
+        "title": "Local Volatility Model",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-57496-3_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-57496-3_3",
+            "http://dx.doi.org/10.1007/978-3-030-57496-3_3"
+        ],
+        "id": "id-6036178120053189570",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local Volatility Model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/76455dfd95db89c46c08375ba184e657182c6daa"
+                ],
+                "doi": "10.1007/978-3-030-57496-3_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [],
+        "title": "Affine Stochastic Volatility Models",
+        "publication_date": "2015-10-17 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470685167.ch16",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9780470685167.ch16",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470685167.ch16",
+            "http://dx.doi.org/10.1002/9780470685167.ch16"
+        ],
+        "id": "id7881198695155330973",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Affine Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/353b51fb80ea8bc94f5163d47ec6037444c31a18"
+                ],
+                "doi": "10.1002/9780470685167.CH16",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Lazar, E.",
+            "Zhang, N."
+        ],
+        "title": "Model Risk of Volatility Models",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ecosta.2022.06.002",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S2452306222000764?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S2452306222000764?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ecosta.2022.06.002"
+        ],
+        "id": "id-7995203406698947538",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Model Risk of Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ba266f3c3a86492d076f33bdbc9fea1bb99deb05"
+                ],
+                "doi": "10.1016/j.ecosta.2022.06.002",
+                "publication_date": "2022-06-01 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "Valaityt\u0117, A.",
+            "Valakevi\u010dius, E."
+        ],
+        "title": "Stochastic Volatility Models and Option Prices",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11758549_51",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11758549_51",
+            "http://dx.doi.org/10.1007/11758549_51"
+        ],
+        "id": "id2811856019897541222",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models and Option Prices",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/df82a824dccfc1e090c23b28dd85e74aeacb3339",
+                    "https://link.springer.com/content/pdf/10.1007/11758549_51.pdf"
+                ],
+                "doi": "10.1007/11758549_51",
+                "publication_date": "2006-05-28 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "Peiris, S.",
+            "Thavaneswaran, A."
+        ],
+        "title": "An introduction to volatility models with indices",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.aml.2006.04.001",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0893965906001200?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0893965906001200?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.aml.2006.04.001"
+        ],
+        "id": "id-7844591187270387494",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "An introduction to volatility models with indices",
+                "journal": "Appl. Math. Lett.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7161d3eb492c921baba89e0b724b0ea08d1aa26a"
+                ],
+                "doi": "10.1016/j.aml.2006.04.001",
+                "publication_date": "2007-02-01 00:00:00"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Xi, Y.",
+            "Wong, H."
+        ],
+        "title": "Discrete variance swap in a rough volatility economy",
+        "publication_date": "2021-06-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/fut.22242",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/fut.22242",
+            "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/fut.22242",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/fut.22242",
+            "http://dx.doi.org/10.1002/fut.22242"
+        ],
+        "id": "id1145996112377489203",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Discrete variance swap in a rough volatility economy",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4b780be320f1b071b5eea7414cb185eb19bbbbe0"
+                ],
+                "doi": "10.1002/fut.22242",
+                "publication_date": "2021-06-30 00:00:00"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [],
+        "title": "Volatility",
+        "publication_date": "2019-02-21 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/9781316819302.012",
+        "urls": [
+            "http://dx.doi.org/10.1017/9781316819302.012"
+        ],
+        "id": "id1759082131002181014",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dc021e9428116d40089743e2c56911d322fde884"
+                ],
+                "doi": "10.1017/9781316819302.012",
+                "publication_date": "2019-02-21 00:00:00"
+            }
+        ],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Bag, D."
+        ],
+        "title": "Volatility",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-16-1135-3_2",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-981-16-1135-3_2",
+            "http://dx.doi.org/10.1007/978-981-16-1135-3_2"
+        ],
+        "id": "id-1713010422571832045",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/93e45d927b188d94324b72bc5932163764a1726d"
+                ],
+                "doi": "10.1007/978-981-16-1135-3_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "Zhu, J."
+        ],
+        "title": "Numerical Issues of Stochastic Volatility Models",
+        "publication_date": "2009-10-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-01808-4_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-01808-4_4.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-01808-4_4"
+        ],
+        "id": "id-4800909898621189719",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Numerical Issues of Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f680863e352dc2f360415c9b33c2ac2a7c771b31"
+                ],
+                "doi": "10.1007/978-3-642-01808-4_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Bartolucci, F.",
+            "De Luca, G."
+        ],
+        "title": "Estimation of Stochastic Volatility Models",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4757-3613-7_27",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4757-3613-7_27",
+            "http://dx.doi.org/10.1007/978-1-4757-3613-7_27"
+        ],
+        "id": "id4975274279998071307",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Estimation of Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c3868955c500e396e19c0c8c4ceedb5161bbec31"
+                ],
+                "doi": "10.1007/978-1-4757-3613-7_27",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Gong, H.",
+            "Thavaneswaran, A."
+        ],
+        "title": "Recursive estimation for continuous time stochastic volatility models",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.aml.2009.06.014",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S089396590900233X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S089396590900233X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.aml.2009.06.014"
+        ],
+        "id": "id4679399410093773770",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Recursive estimation for continuous time stochastic volatility models",
+                "journal": "Appl. Math. Lett.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bd4f223c0bffcbc9b8d61fdb13b83aac43721f3e"
+                ],
+                "doi": "10.1016/j.aml.2009.06.014",
+                "publication_date": "2009-11-01 00:00:00"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Gulisashvili, A."
+        ],
+        "title": "Stock Price Models with Stochastic Volatility",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-31214-4_2",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-31214-4_2",
+            "http://dx.doi.org/10.1007/978-3-642-31214-4_2"
+        ],
+        "id": "id427876626346552898",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stock Price Models with Stochastic Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9c90e70f5778701ac0316af29ecdfa166b184a1e"
+                ],
+                "doi": "10.1007/978-3-642-31214-4_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [],
+        "title": "Studying Volatility Charts",
+        "publication_date": "2012-09-11 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118531846.ch14",
+        "urls": [
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781118531846.ch14/fullpdf",
+            "http://dx.doi.org/10.1002/9781118531846.ch14"
+        ],
+        "id": "id-1041219854019467166",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Studying Volatility Charts",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b88d8b602b0484a47ba1c034b515de9fbffe5b90"
+                ],
+                "doi": "10.1002/9781118531846.ch14",
+                "publication_date": "2012-09-11 00:00:00"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [],
+        "title": "Volatility Time Scales",
+        "publication_date": "2011-09-29 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139020534.004",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0612E1A092A1B07D3632A7B5E0A54F22",
+            "http://dx.doi.org/10.1017/cbo9781139020534.004"
+        ],
+        "id": "id1259125223270874950",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multiscale Stochastic Volatility for Equity, Interest Rate, and Credit Derivatives: Volatility Time Scales",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/22ddc5fa35e369995d2090c8836a7313a05a8e02"
+                ],
+                "doi": "10.1017/CBO9781139020534.004",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [],
+        "title": "ARCH Volatility Specifications",
+        "publication_date": "2010-03-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470688014.ch2",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470688014.ch2",
+            "http://dx.doi.org/10.1002/9780470688014.ch2"
+        ],
+        "id": "id-8254271759632852824",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "ARCH Volatility Specifications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5696b233f9d5298872aa3b24b5e8309f000d870f"
+                ],
+                "doi": "10.1002/9780470688014.CH2",
+                "publication_date": "2010-03-31 00:00:00"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Amendola, A.",
+            "Braione, M.",
+            "Candila, V.",
+            "Storti, G."
+        ],
+        "title": "Combining Multivariate Volatility Models",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-89824-7_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-89824-7_7",
+            "http://dx.doi.org/10.1007/978-3-319-89824-7_7"
+        ],
+        "id": "id-3029084100996322971",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Combining Multivariate Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/96b5e01e02d2ee996fbf029854e8e3b833894e9d"
+                ],
+                "doi": "10.1007/978-3-319-89824-7_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Amendola, A.",
+            "Storti, G."
+        ],
+        "title": "A Thick Modeling Approach to Multivariate Volatility Prediction",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/10104_2014_18",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/10104_2014_18",
+            "http://dx.doi.org/10.1007/10104_2014_18"
+        ],
+        "id": "id-7797885195061180075",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Thick Modeling Approach to Multivariate Volatility Prediction",
+                "journal": "Advances in Latent Variables - Methods, Models and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/211c702a09d19c70312acc19f9d95e2a06651039"
+                ],
+                "doi": "10.1007/10104_2014_18",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Omar El Euch",
+            "Jim Gatheral",
+            "M. Rosenbaum"
+        ],
+        "title": "Roughening Heston",
+        "publication_date": "2019-03-25 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.3116887",
+        "urls": [
+            "https://www.semanticscholar.org/paper/9964b8ab911eb4147d1d6100e0e2504059d8c555"
+        ],
+        "id": "id4917051250750211189",
+        "abstract": "Rough volatility models are known to fit the volatility surface remarkably well with very few parameters. On the other hand, the classical Heston model is highly tractable allowing for fast calibration. We present here the rough Heston model which offers the best of both worlds. Even better, we find that we can accurately approximate rough Heston model values by scaling the volatility of volatility parameter of the classical Heston model.",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Roughening Heston",
+                "journal": "Social Science Research Network",
+                "urls": [
+                    "https://openalex.org/W4236558617",
+                    "https://doi.org/10.2139/ssrn.3116887"
+                ],
+                "doi": "10.2139/ssrn.3116887",
+                "publication_date": "2018-01-01 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [],
+        "title": "Time Series Models for Volatility",
+        "publication_date": "2019-08-15 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/9781108525947.021",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D8325BE9F7CF921371ECE95FD7473311",
+            "http://dx.doi.org/10.1017/9781108525947.021"
+        ],
+        "id": "id4887940230019821523",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Time Series Models for Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5fdab2cfa6abc2efa032e0b9bc1c66c8b1c0fc9a"
+                ],
+                "doi": "10.1017/9781108525947.021",
+                "publication_date": "2019-08-15 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Itkin, A."
+        ],
+        "title": "Fitting Local Volatility",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/11623",
+        "urls": [
+            "http://dx.doi.org/10.1142/11623"
+        ],
+        "id": "id4563048112810411214",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Fitting Local Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cf69eaca96be20472021df36a8a1b3bcdcb2793a"
+                ],
+                "doi": "10.1142/11623",
+                "publication_date": "2020-02-01 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "Keller-Ressel, Martin",
+            "Larsson, Martin",
+            "Pulido, Sergio"
+        ],
+        "title": "Affine Rough Models",
+        "publication_date": "2019-08-08 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/226788313.pdf"
+        ],
+        "id": "id8493555771590154659",
+        "abstract": "The goal of this survey article is to explain and elucidate the affine structure of recent models appearing in the rough volatility literature, and show how it leads to exponential-affine transform formulas",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.ARXIV",
+                "title": "Affine Rough Models",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1812.08486v1",
+                    "http://arxiv.org/abs/1812.08486v1",
+                    "http://arxiv.org/pdf/1812.08486v1"
+                ],
+                "doi": "",
+                "publication_date": "2018-12-20 11:18:21+00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Affine Rough Models",
+                "journal": "arXiv (Cornell University)",
+                "urls": [
+                    "https://openalex.org/W2903602584"
+                ],
+                "doi": null,
+                "publication_date": "2018-12-20 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Affine Rough Models",
+                "journal": "arXiv: Mathematical Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7d2e4aa1ba4a743122c17652185bb04d7fffea19"
+                ],
+                "doi": "",
+                "publication_date": "2018-12-20 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.CORE",
+                "title": "Affine Rough Models",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/226788313.pdf"
+                ],
+                "doi": null,
+                "publication_date": "2018-12-20 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Affine Rough Models",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20200929180052/https://arxiv.org/pdf/1812.08486v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2018-12-20 00:00:00"
+            }
+        ],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "A\u00eft-Sahalia, Y.",
+            "Amengual, D.",
+            "Manresa, E."
+        ],
+        "title": "Market-based estimation of stochastic volatility models",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jeconom.2015.02.028",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304407615000536?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304407615000536?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jeconom.2015.02.028"
+        ],
+        "id": "id-5186032194300019070",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Market-based estimation of stochastic volatility models",
+                "journal": "Journal of Econometrics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/18aed14007b6322a3429850d9d0f58fc288a3384",
+                    "http://manuscript.elsevier.com/S0304407615000536/pdf/S0304407615000536.pdf"
+                ],
+                "doi": "10.1016/J.JECONOM.2015.02.028",
+                "publication_date": "2015-08-01 00:00:00"
+            }
+        ],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Venter, J.",
+            "de Jongh, P."
+        ],
+        "title": "Extended stochastic volatility models incorporating realised measures",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.csda.2012.11.005",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167947312003969?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167947312003969?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.csda.2012.11.005"
+        ],
+        "id": "id-8356751966610307988",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Extended stochastic volatility models incorporating realised measures",
+                "journal": "Comput. Stat. Data Anal.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/176818ee3c982f38df3d7c1918a54acd4ecbec6c"
+                ],
+                "doi": "10.1016/j.csda.2012.11.005",
+                "publication_date": "2014-08-01 00:00:00"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "P. Foschi",
+            "A. Pascucci"
+        ],
+        "title": "Path dependent volatility",
+        "publication_date": "2008-05-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Decisions in Economics and Finance",
+        "volume": "31",
+        "doi": "10.1007/S10203-007-0076-6",
+        "urls": [
+            "https://www.semanticscholar.org/paper/54bfb78a6598992d2922d748e985b9943f639314",
+            "http://amsacta.unibo.it/2263/1/PDV.pdf"
+        ],
+        "id": "id-7934852395320671550",
+        "abstract": null,
+        "versions": [],
+        "rank": 65
+    },
+    {
+        "authors": [],
+        "title": "Volatility Forecasting: An Empirical Example using Eviews 6",
+        "publication_date": "2010-03-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470688014.ch4",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470688014.ch4",
+            "http://dx.doi.org/10.1002/9780470688014.ch4"
+        ],
+        "id": "id7231843307404664989",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Forecasting: An Empirical Example using Eviews 6",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ac3bc5decc3f1dca3c34f2b011993a3901f25501"
+                ],
+                "doi": "10.1002/9780470688014.CH4",
+                "publication_date": "2010-03-31 00:00:00"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Han, H.",
+            "Zhang, S."
+        ],
+        "title": "Nonstationary nonparametric volatility model",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1111/j.1368-423x.2012.00357.x",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1368-423X.2012.00357.x",
+            "http://dx.doi.org/10.1111/j.1368-423x.2012.00357.x"
+        ],
+        "id": "id-7994672981099609887",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Nonstationary nonparametric volatility model: Nonstationary nonparametric volatility model",
+                "journal": "Econometrics Journal",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3ce1765493f1c1190e2d5e0381f174610ecb7a06"
+                ],
+                "doi": "10.1111/J.1368-423X.2012.00357.X",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Linlan Xiao",
+            "Abdurrahman B. Aydemir"
+        ],
+        "title": "Volatility modelling and forecasting in finance",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/B978-075066942-9.50003-0",
+        "urls": [
+            "https://www.semanticscholar.org/paper/4c84da20b4c382c4289a92c7119a14ee4de4e443"
+        ],
+        "id": "id6537273265489280651",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility modelling and forecasting in finance",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4c84da20b4c382c4289a92c7119a14ee4de4e443"
+                ],
+                "doi": "10.1016/B978-075066942-9.50003-0",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Xiao, L.",
+            "Aydemir, A."
+        ],
+        "title": "Volatility modelling and forecasting in finance",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-075066942-9.50003-0",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-075066942-9.50003-0"
+        ],
+        "id": "id7341268274350843791",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility modelling and forecasting in finance",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4c84da20b4c382c4289a92c7119a14ee4de4e443"
+                ],
+                "doi": "10.1016/B978-075066942-9.50003-0",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [],
+        "title": "Implied Volatility Trees",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-387-31607-8_11",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/0-387-31607-8_11",
+            "http://dx.doi.org/10.1007/0-387-31607-8_11"
+        ],
+        "id": "id-6139113004972064669",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Implied Volatility Trees",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ef10173df602636c7e8d0ffc50c53b9a6670bb20"
+                ],
+                "doi": "10.1007/0-387-31607-8_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [],
+        "title": "Volatility Swap",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/springerreference_2807",
+        "urls": [
+            "http://dx.doi.org/10.1007/springerreference_2807"
+        ],
+        "id": "id4458806684972996869",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "I volatility swap",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a775abe0e924b9ac649ce2b1d22e12edf530db0f"
+                ],
+                "doi": "10.1007/springerreference_2807",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Solibakke, P."
+        ],
+        "title": "Stochastic Volatility Models Predictive Relevance for Equity Markets",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-56219-9_9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-56219-9_9",
+            "http://dx.doi.org/10.1007/978-3-030-56219-9_9"
+        ],
+        "id": "id1337274469948034863",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models Predictive Relevance for Equity Markets",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5790fe7e65f612235705b7fb9ec1fd93144e3f42"
+                ],
+                "doi": "10.1007/978-3-030-56219-9_9",
+                "publication_date": "2020-01-08 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Gulisashvili, A."
+        ],
+        "title": "More Formulas for Implied Volatility",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-31214-4_10",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-31214-4_10.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-31214-4_10"
+        ],
+        "id": "id7852945814310439581",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "More Formulas for Implied Volatility",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/47466186c2d1f6b5efe361686c04703899766995"
+                ],
+                "doi": "10.1007/978-3-642-31214-4_10",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Palm, F."
+        ],
+        "title": "7 GARCH models of volatility",
+        "publication_date": "1996-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0169-7161(96)14009-8",
+        "urls": [
+            "http://dx.doi.org/10.1016/s0169-7161(96)14009-8"
+        ],
+        "id": "id-6748869640054588063",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "7 GARCH models of volatility",
+                "journal": "Handbook of Statistics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/93d89862231525f199b8bfa2fa52c72cc5e1e8b8"
+                ],
+                "doi": "10.1016/S0169-7161(96)14009-8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Carmona, R.",
+            "Nadtochiy, S."
+        ],
+        "title": "Local volatility dynamic models",
+        "publication_date": "2008-10-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s00780-008-0078-4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s00780-008-0078-4.pdf",
+            "http://link.springer.com/article/10.1007/s00780-008-0078-4/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s00780-008-0078-4",
+            "http://dx.doi.org/10.1007/s00780-008-0078-4"
+        ],
+        "id": "id3719333046512631276",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local volatility dynamic models",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a54f7088d50333968dc99b73146a935942038fec"
+                ],
+                "doi": "10.1007/s00780-008-0078-4",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local volatility dynamic models",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a54f7088d50333968dc99b73146a935942038fec"
+                ],
+                "doi": "10.1007/s00780-008-0078-4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Ghysels, E.",
+            "Gouri\u00e9roux, C.",
+            "Jasiak, J."
+        ],
+        "title": "Stochastic volatility duration models",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0304-4076(03)00202-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304407603002021?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304407603002021?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0304-4076(03)00202-1"
+        ],
+        "id": "id-1456116451978360161",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Stochastic volatility duration models",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0304407603002021?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0304407603002021?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/s0304-4076(03)00202-1"
+                ],
+                "doi": "10.1016/s0304-4076(03)00202-1",
+                "publication_date": "2004-01-01 00:00:00"
+            },
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic volatility duration models",
+                "journal": "Journal of Econometrics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/15bed7b0e690ab60eca4b9f5c9aba992d48de3a5",
+                    "http://crest.science/RePEc/wpstorage/1997-46.pdf"
+                ],
+                "doi": "10.1016/S0304-4076(03)00202-1",
+                "publication_date": "2004-04-01 00:00:00"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Chong, T.",
+            "Lin, S."
+        ],
+        "title": "Predictive models for disaggregate stock market volatility",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11408-017-0291-2",
+        "urls": [
+            "http://link.springer.com/article/10.1007/s11408-017-0291-2/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s11408-017-0291-2.pdf",
+            "http://link.springer.com/content/pdf/10.1007/s11408-017-0291-2.pdf",
+            "http://dx.doi.org/10.1007/s11408-017-0291-2"
+        ],
+        "id": "id8914817740737485027",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Predictive models for disaggregate stock market volatility",
+                "journal": "Financial Markets and Portfolio Management",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c2e1330502a28d4a1683d1f6288e9f186551e230",
+                    "https://mpra.ub.uni-muenchen.de/68460/1/MPRA_paper_68460.pdf"
+                ],
+                "doi": "10.1007/s11408-017-0291-2",
+                "publication_date": "2017-08-01 00:00:00"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "P, H.",
+            "S, B."
+        ],
+        "title": "Volatility Forecasting - A Performance Measure of Garch Techniques with Different Distribution Models",
+        "publication_date": "2016-08-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.14810/ijscmc.2016.5301",
+        "urls": [
+            "http://dx.doi.org/10.14810/ijscmc.2016.5301"
+        ],
+        "id": "id-4429945799720423561",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Forecasting - A Performance Measure of Garch Techniques with Different Distribution Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/28d05e0baa10e3718fc4dc4a07497318ff32323c",
+                    "https://doi.org/10.14810/ijscmc.2016.5301"
+                ],
+                "doi": "10.14810/IJSCMC.2016.5301",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Ghysels, E.",
+            "Valkanov, R."
+        ],
+        "title": "Forecasting Volatility with MIDAS",
+        "publication_date": "2012-03-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118272039.ch16",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118272039.ch16",
+            "http://dx.doi.org/10.1002/9781118272039.ch16"
+        ],
+        "id": "id-6401881623920154480",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Forecasting Volatility with MIDAS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ddfc3867184d970f06ff49e2f917a7345b4a0a25"
+                ],
+                "doi": "10.1002/9781118272039.CH16",
+                "publication_date": "2012-03-27 00:00:00"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Zhu, J."
+        ],
+        "title": "Simulating Stochastic Volatility Models",
+        "publication_date": "2009-10-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-01808-4_5",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-01808-4_5",
+            "http://dx.doi.org/10.1007/978-3-642-01808-4_5"
+        ],
+        "id": "id-5197775313109649380",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Simulating Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d24cc23869b162a406f0c5e9870b5b728a2bf384"
+                ],
+                "doi": "10.1007/978-3-642-01808-4_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "F. Comte",
+            "L. Coutin",
+            "\u00c9. Renault"
+        ],
+        "title": "Affine fractional stochastic volatility models",
+        "publication_date": "2012-05-02 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Annals of Finance",
+        "volume": "8",
+        "doi": "10.1007/S10436-010-0165-3",
+        "urls": [
+            "https://www.semanticscholar.org/paper/86b049779215cf14ee8aba71982ba3e0df655b7a"
+        ],
+        "id": "id-6567755586484718012",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Affine fractional stochastic volatility models",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10436-010-0165-3.pdf",
+                    "http://link.springer.com/article/10.1007/s10436-010-0165-3/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10436-010-0165-3",
+                    "http://dx.doi.org/10.1007/s10436-010-0165-3"
+                ],
+                "doi": "10.1007/s10436-010-0165-3",
+                "publication_date": "2010-07-21 00:00:00"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "C. Schittenkopf",
+            "G. Dorffner",
+            "E. Dockner"
+        ],
+        "title": "Volatility Prediction with Mixture Density Networks",
+        "publication_date": "1998-09-02 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4471-1599-1_145",
+        "urls": [
+            "https://www.semanticscholar.org/paper/11dde325e59fc4d29a0d3941f1fb60b8103dc8aa",
+            "https://research.wu.ac.at/ws/files/18953649/document.pdf"
+        ],
+        "id": "id6892105881777898112",
+        "abstract": null,
+        "versions": [],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Grabchak, M.",
+            "Christou, E."
+        ],
+        "title": "A note on calculating expected shortfall for discrete time stochastic volatility models",
+        "publication_date": "2021-06-10 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1186/s40854-021-00254-0",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1186/s40854-021-00254-0.pdf",
+            "https://link.springer.com/article/10.1186/s40854-021-00254-0/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1186/s40854-021-00254-0.pdf",
+            "http://dx.doi.org/10.1186/s40854-021-00254-0"
+        ],
+        "id": "id-6048510379206071532",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A note on calculating expected shortfall for discrete time stochastic volatility models",
+                "journal": "Financial Innovation",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9e2e46c806a470ec26f57790897717fd4c2b2852",
+                    "https://jfin-swufe.springeropen.com/counter/pdf/10.1186/s40854-021-00254-0"
+                ],
+                "doi": "10.1186/s40854-021-00254-0",
+                "publication_date": "2021-06-10 00:00:00"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [],
+        "title": "Volatility Forecasting: An Empirical Example using G@RCH Ox",
+        "publication_date": "2010-03-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470688014.ch6",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470688014.ch6",
+            "http://dx.doi.org/10.1002/9780470688014.ch6"
+        ],
+        "id": "id2662077669996499551",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility Forecasting: An Empirical Example using G@RCH Ox",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4096ec3548a2864abb10ea3f32d4a764a485d286"
+                ],
+                "doi": "10.1002/9780470688014.CH6",
+                "publication_date": "2010-03-31 00:00:00"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [],
+        "title": "Intraday Realized Volatility Models",
+        "publication_date": "2010-03-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470688014.ch7",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470688014.ch7",
+            "http://dx.doi.org/10.1002/9780470688014.ch7"
+        ],
+        "id": "id1688435020827358222",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Intraday Realized Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/30ee807a2d7c01ed30e9f35d341287c8868f9af5"
+                ],
+                "doi": "10.1002/9780470688014.CH7",
+                "publication_date": "2010-03-31 00:00:00"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Renault, E."
+        ],
+        "title": "Moment\u2013Based Estimation of Stochastic Volatility Models",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-71297-8_12",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-540-71297-8_12",
+            "http://dx.doi.org/10.1007/978-3-540-71297-8_12"
+        ],
+        "id": "id-401632563938909994",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Moment\u2013Based Estimation of Stochastic Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4949cdd329a5c9d36d64cd28f360f3dd155fc7bc"
+                ],
+                "doi": "10.1007/978-3-540-71297-8_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Hol, E."
+        ],
+        "title": "Asset Return Volatility Models",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4757-5129-1_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4757-5129-1_2",
+            "http://dx.doi.org/10.1007/978-1-4757-5129-1_2"
+        ],
+        "id": "id1223971099580557202",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset Return Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/12e5f43fa24ee1e391faabe8ec11a5696a9f3315"
+                ],
+                "doi": "10.1007/978-1-4757-5129-1_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "S. Chib",
+            "Yasuhiro Omori",
+            "Manabu Asai"
+        ],
+        "title": "Multivariate stochastic volatility",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "CIRJE F-Series",
+        "volume": "",
+        "doi": "10.1007/978-3-540-71297-8_16",
+        "urls": [
+            "https://www.semanticscholar.org/paper/9db4e085f22d7f04d63ba5704a318fd027948c3d"
+        ],
+        "id": "id-923313340779893819",
+        "abstract": null,
+        "versions": [],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Tsiotas, G."
+        ],
+        "title": "On generalised asymmetric stochastic volatility models",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.csda.2011.06.031",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167947311002489?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167947311002489?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.csda.2011.06.031"
+        ],
+        "id": "id-3348930117212970189",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On generalised asymmetric stochastic volatility models",
+                "journal": "Comput. Stat. Data Anal.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4c27aa54e4dfe2e12b3fb6d7ddb3836288afb149"
+                ],
+                "doi": "10.1016/j.csda.2011.06.031",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Meddahi, N.",
+            "Renault, E."
+        ],
+        "title": "Temporal aggregation of volatility models",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0304-4076(03)00200-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304407603002008?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304407603002008?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0304-4076(03)00200-8"
+        ],
+        "id": "id-4905921111139916971",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2000,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Temporal Aggregation of Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2cf9bae617f396f167cbdbf7c17fc0aa0218c7e1",
+                    "https://cirano.qc.ca/files/publications/2000s-22.pdf"
+                ],
+                "doi": "10.1016/s0304-4076(03)00200-8",
+                "publication_date": "2000-07-01 00:00:00"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "F. Diebold",
+            "Jose A. Lopez"
+        ],
+        "title": "Modeling Volatility Dynamics",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-0669-6_11",
+        "urls": [
+            "https://www.semanticscholar.org/paper/20465b4324d937887b0c960b228056f835f701ac",
+            "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/research_papers/9522.pdf"
+        ],
+        "id": "id182027921438141917",
+        "abstract": null,
+        "versions": [],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Lin, E.",
+            "Chen, C.",
+            "Gerlach, R."
+        ],
+        "title": "Forecasting volatility with asymmetric smooth transition dynamic range models",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijforecast.2011.09.002",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0169207011001373?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0169207011001373?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijforecast.2011.09.002"
+        ],
+        "id": "id4652669586274531480",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Forecasting volatility with asymmetric smooth transition dynamic range models",
+                "journal": "International Journal of Forecasting",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c7dd8dec162a47b955bc5bfb4403f5d841dc8b73"
+                ],
+                "doi": "10.1016/J.IJFORECAST.2011.09.002",
+                "publication_date": "2012-05-10 00:00:00"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Pezzo, R.",
+            "Uberti, M."
+        ],
+        "title": "Approaches to forecasting volatility: Models and their performances for emerging equity markets",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.chaos.2005.08.070",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0960077905007253?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0960077905007253?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.chaos.2005.08.070"
+        ],
+        "id": "id-2635462488036161999",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Approaches to forecasting volatility: Models and their performances for emerging equity markets",
+                "journal": "Chaos Solitons & Fractals",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ef979e21aec0c5fcda8ea7ae4b1a9eeea95f694"
+                ],
+                "doi": "10.1016/J.CHAOS.2005.08.070",
+                "publication_date": "2006-08-01 00:00:00"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Lions, P.",
+            "Musiela, M."
+        ],
+        "title": "Correlations and bounds for stochastic volatility models",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.anihpc.2005.05.007",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0294144905000983?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0294144905000983?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.anihpc.2005.05.007"
+        ],
+        "id": "id737102289580509349",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Correlations and bounds for stochastic volatility models",
+                "journal": "Annales De L Institut Henri Poincare-analyse Non Lineaire",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/be16e8fe7185464d0648b1a08d3db76d02645170",
+                    "https://ems.press/content/serial-article-files/15951"
+                ],
+                "doi": "10.1016/J.ANIHPC.2005.05.007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Craioveanu, M.",
+            "Hillebrand, E."
+        ],
+        "title": "Level changes in volatility models",
+        "publication_date": "2010-06-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10436-010-0163-5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10436-010-0163-5.pdf",
+            "http://link.springer.com/article/10.1007/s10436-010-0163-5/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10436-010-0163-5",
+            "http://dx.doi.org/10.1007/s10436-010-0163-5"
+        ],
+        "id": "id4986803568535190162",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Level changes in volatility models",
+                "journal": "Annals of Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1e7dc60095613cb9dad89f8d17fd8487c4522ed9"
+                ],
+                "doi": "10.1007/s10436-010-0163-5",
+                "publication_date": "2010-06-30 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Svec, J.",
+            "Katrak, X."
+        ],
+        "title": "Forecasting volatility with interacting multiple models",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.frl.2016.10.005",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1544612316302215?httpAccept=text/plain",
+            "https://api.elsevier.com/content/article/PII:S1544612316302215?httpAccept=text/xml",
+            "http://dx.doi.org/10.1016/j.frl.2016.10.005"
+        ],
+        "id": "id616097858786234756",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Forecasting volatility with interacting multiple models",
+                "journal": "Finance Research Letters",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/83084a6645fd9b96f4d99ecbb4a5085168e97389"
+                ],
+                "doi": "10.1016/J.FRL.2016.10.005",
+                "publication_date": "2017-02-01 00:00:00"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [],
+        "title": "Some Final Remarks on Local Volatility Models",
+        "publication_date": "2016-08-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119289258.ch17",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119289258.ch17",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119289258.ch17",
+            "http://dx.doi.org/10.1002/9781119289258.ch17"
+        ],
+        "id": "id2574062699231798213",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Some Final Remarks on Local Volatility Models",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ccaf0b23b2e5467cb8ebbf7cc0b42e00569a83f"
+                ],
+                "doi": "10.1002/9781119289258.CH17",
+                "publication_date": "2016-08-31 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Rogers, L."
+        ],
+        "title": "Volatility forecasting in a tick data model",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-075066942-9.50015-7",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-075066942-9.50015-7"
+        ],
+        "id": "id1015286895812037352",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Volatility forecasting in a tick data model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ba206966436ff24c3bd4a1403ed30cc65e2c8da6"
+                ],
+                "doi": "10.1016/B978-075066942-9.50015-7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Hurvich, C.",
+            "Soulier, P."
+        ],
+        "title": "Stochastic Volatility Models with Long Memory",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-71297-8_14",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-540-71297-8_14",
+            "http://dx.doi.org/10.1007/978-3-540-71297-8_14"
+        ],
+        "id": "id4195085080158445932",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Volatility Models with Long Memory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ae161b695c4548a146d6450f7eea23d0641713e"
+                ],
+                "doi": "10.1007/978-3-540-71297-8_14",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 99
+    }
+]

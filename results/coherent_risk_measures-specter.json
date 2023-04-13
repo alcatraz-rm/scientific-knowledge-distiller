@@ -1,0 +1,3457 @@
+[
+    {
+        "authors": [
+            "Yuji Yoshida"
+        ],
+        "title": "Coherent Risk Measures Derived from Utility Functions",
+        "publication_date": "2018-10-15 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Lecture Notes in Computer Science",
+        "volume": "",
+        "doi": "10.1007/978-3-030-00202-2_2",
+        "urls": [
+            "https://openalex.org/W2890252705",
+            "https://doi.org/10.1007/978-3-030-00202-2_2"
+        ],
+        "id": "id-7266626134411314177",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-00202-2_2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-030-00202-2_2",
+                    "http://dx.doi.org/10.1007/978-3-030-00202-2_2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "2018-01-01 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6a542171fe109271f7adbb9783ea2e91912834f2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "2018-10-15 00:00:00"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [],
+        "title": "Coherent Risk Metrics",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1057/9781137448200.0031",
+        "urls": [
+            "http://dx.doi.org/10.1057/9781137448200.0031"
+        ],
+        "id": "id-342128376414018529",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Metrics",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74b05eed7560d0f17fb8b411c9007d061bd62e6e"
+                ],
+                "doi": "10.1057/9781137448200.0031",
+                "publication_date": "2015-04-28 00:00:00"
+            }
+        ],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Multivalued coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/0b5b7feb4799b520ca9741afa4596cf2a5edbd43"
+        ],
+        "id": "id-7640034099658333594",
+        "abstract": null,
+        "versions": [],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Panos M. Pardalos"
+        ],
+        "title": "On Some Aspects of Coherent Risk Measures and their Applications",
+        "publication_date": "2011-08-04 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2097512955"
+        ],
+        "id": "id5645531300989109174",
+        "abstract": "",
+        "versions": [],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "M. Dempster",
+            "G. Pflug",
+            "G. Mitra"
+        ],
+        "title": "Higher Moment Coherent Risk Measures",
+        "publication_date": "2008-12-22 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781420081923.ch13",
+        "urls": [
+            "https://www.semanticscholar.org/paper/741403103131c97e96d7977a178df5dee2957bcd"
+        ],
+        "id": "id3377498692569474257",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Higher Moment Coherent Risk Measures",
+                "journal": "Quantitative Fund Management",
+                "urls": [
+                    "https://doi.org/10.1201/9781420081923.ch13"
+                ],
+                "doi": "10.1201/9781420081923.ch13",
+                "publication_date": "None"
+            },
+            {
+                "year": 2008,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Higher Moment Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1201/9781420081923.ch13"
+                ],
+                "doi": "10.1201/9781420081923.ch13",
+                "publication_date": "2008-12-22 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Hans F\u00f6llmer",
+            "Alexander Schied"
+        ],
+        "title": "Coherent and convex risk measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2588440186"
+        ],
+        "id": "id-4398254771484564155",
+        "abstract": "",
+        "versions": [],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "H. F\u00f6llmer",
+            "A. Schied"
+        ],
+        "title": "Coherent and convex risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/33b55872f5f5642b9d2fc6152ae14e78e24e49be"
+        ],
+        "id": "id230602250950762926",
+        "abstract": null,
+        "versions": [],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Coherent Risk Measures in Multiperiod Models",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/94033a15a5f7cfc3bb98b3ae484633a2a75a9232"
+        ],
+        "id": "id7287651963004140746",
+        "abstract": null,
+        "versions": [],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "George Stoica"
+        ],
+        "title": "Relevant coherent measures of risk",
+        "publication_date": "2006-09-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Journal of Mathematical Economics",
+        "volume": "",
+        "doi": "10.1016/j.jmateco.2006.03.006",
+        "urls": [
+            "https://openalex.org/W1975969223",
+            "https://doi.org/10.1016/j.jmateco.2006.03.006"
+        ],
+        "id": "id-7244960857029078888",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Relevant coherent measures of risk",
+                "journal": "Journal of Mathematical Economics",
+                "urls": [
+                    "https://doi.org/10.1016/j.jmateco.2006.03.006"
+                ],
+                "doi": "10.1016/j.jmateco.2006.03.006",
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Relevant coherent measures of risk",
+                "journal": "Journal of Mathematical Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/15d28ab41caa4112cca7050be546e6f2030f16d6"
+                ],
+                "doi": "10.1016/J.JMATECO.2006.03.006",
+                "publication_date": "2006-09-01 00:00:00"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Relevant coherent measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0304406806000723?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0304406806000723?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.jmateco.2006.03.006"
+                ],
+                "doi": "10.1016/j.jmateco.2006.03.006",
+                "publication_date": "2006-01-01 00:00:00"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Stefano Benati"
+        ],
+        "title": "Coherent Risk Measures and Linear Programming",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Studies in fuzziness and soft computing",
+        "volume": "",
+        "doi": "10.1007/978-3-7908-1814-7_21",
+        "urls": [
+            "https://openalex.org/W2253720869",
+            "https://doi.org/10.1007/978-3-7908-1814-7_21"
+        ],
+        "id": "id6351617098129448145",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Measures and Linear Programming",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2d6e0cf1d6dbf328ea79617ed8e852e2b89385a6"
+                ],
+                "doi": "10.1007/978-3-7908-1814-7_21",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Risk Measures and Linear Programming",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-7908-1814-7_21.pdf",
+                    "http://dx.doi.org/10.1007/978-3-7908-1814-7_21"
+                ],
+                "doi": "10.1007/978-3-7908-1814-7_21",
+                "publication_date": "2001-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Risk Measures and Linear Programming",
+                "journal": "Studies in Fuzziness and Soft Computing",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-7908-1814-7_21"
+                ],
+                "doi": "10.1007/978-3-7908-1814-7_21",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Philippe Artzner",
+            "Freddy Delbaen",
+            "Jean-Marc Eber",
+            "David Heath"
+        ],
+        "title": "Coherent Measures of Risk",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Cambridge University Press eBooks",
+        "volume": "",
+        "doi": "10.1017/cbo9780511615337.007",
+        "urls": [
+            "https://openalex.org/W1568386005",
+            "https://doi.org/10.1017/cbo9780511615337.007"
+        ],
+        "id": "id7254719161187246455",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1CD8316F03C59B1DFEECAA0B87CA2820",
+                    "http://dx.doi.org/10.1017/cbo9780511615337.007"
+                ],
+                "doi": "10.1017/cbo9780511615337.007",
+                "publication_date": "2002-01-10 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Management: Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/123b4eb6b4c4ee1df8de02f5b35821685987b137"
+                ],
+                "doi": "10.1017/CBO9780511615337.007",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Measures of Risk",
+                "journal": "Risk Management",
+                "urls": [
+                    "https://doi.org/10.1017/cbo9780511615337.007"
+                ],
+                "doi": "10.1017/cbo9780511615337.007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [],
+        "title": "Coherent measures of risk",
+        "publication_date": "2014-08-07 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139017398.009",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/62425CFD8F05E65FBB54540115C04F79",
+            "http://dx.doi.org/10.1017/cbo9781139017398.009"
+        ],
+        "id": "id-9104477313880359849",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent measures of risk",
+                "journal": "Portfolio Theory and Risk Management",
+                "urls": [
+                    "https://doi.org/10.1017/cbo9781139017398.009"
+                ],
+                "doi": "10.1017/cbo9781139017398.009",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7b375842754bc0aefefea301618ab44efca0e147"
+                ],
+                "doi": "10.1017/CBO9781139017398.009",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "W. Ogryczak",
+            "M. Opolska-Rutkowska"
+        ],
+        "title": "Coherent Risk Measures and Stochastic Dominance",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a4251db4e810b44694609e4c2a8e6169cb90a830"
+        ],
+        "id": "id1171762917268391246",
+        "abstract": null,
+        "versions": [],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "Bonnans, J."
+        ],
+        "title": "Risk Measures",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-14977-2_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-14977-2_4",
+            "http://dx.doi.org/10.1007/978-3-030-14977-2_4"
+        ],
+        "id": "id7674582229428500126",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bc738734903a7459657e73ac18c06fb1eb7f7016"
+                ],
+                "doi": "10.1007/978-3-030-14977-2_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [],
+        "title": "Risk measures",
+        "publication_date": "2003-12-11 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511753893.012",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75BFE6C8C00EE5D4D625A983A17F40BB",
+            "http://dx.doi.org/10.1017/cbo9780511753893.012"
+        ],
+        "id": "id-6495200077010338714",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Theory of Financial Risk and Derivative Pricing: Risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7d62d2565afd16b6f892d2855cdfd8f33860a44f"
+                ],
+                "doi": "10.1017/CBO9780511753893.012",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [],
+        "title": "Risk measures",
+        "publication_date": "2009-09-17 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511812156.008",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CD9C7D982AA05A39D01C0B02737E7C1",
+            "http://dx.doi.org/10.1017/cbo9780511812156.008"
+        ],
+        "id": "id-3342031201141548727",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Nonlife Actuarial Models: Risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9c67b6974f7a6b57667a3b18538e2866dccf8b05"
+                ],
+                "doi": "10.1017/CBO9780511812156.008",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [],
+        "title": "Risk Measures",
+        "publication_date": "2015-09-28 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814641944_0015",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814641944_0015"
+        ],
+        "id": "id3576201782662797423",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/db96ee7bb9ca1e03886582d3bedce729d95c9f95"
+                ],
+                "doi": "10.1142/9789814641944_0015",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Shigeo Kusuoka"
+        ],
+        "title": "On law invariant coherent risk measures",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Advances in mathematical economics",
+        "volume": "",
+        "doi": "10.1007/978-4-431-67891-5_4",
+        "urls": [
+            "https://openalex.org/W1591570634",
+            "https://doi.org/10.1007/978-4-431-67891-5_4"
+        ],
+        "id": "id-3855917337921471978",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On law invariant coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-4-431-67891-5_4",
+                    "http://dx.doi.org/10.1007/978-4-431-67891-5_4"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "2001-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On law invariant coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/212bc185f08a2ab4404e1c244ba852c20bca3024"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "On law invariant coherent risk measures",
+                "journal": "Advances in Mathematical Economics",
+                "urls": [
+                    "https://doi.org/10.1007/978-4-431-67891-5_4"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "On law invariant coherent risk measures",
+                "journal": "Springer Japan",
+                "urls": [
+                    "https://web.archive.org/web/20170815152926/https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/41192/1/1215_14.pdf"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "2001-01-01 00:00:00"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [],
+        "title": "Alternative Risk Measures",
+        "publication_date": "2015-09-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119205937.ch9",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119205937.ch9",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119205937.ch9",
+            "http://dx.doi.org/10.1002/9781119205937.ch9"
+        ],
+        "id": "id4847264839969689250",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Alternative Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1d69e7fb528320f9945d778d536a2dba7635f9ab"
+                ],
+                "doi": "10.1002/9781119205937.CH9",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Hailiang Yang",
+            "T. Siu"
+        ],
+        "title": "Coherent Risk Measures for Derivatives",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "International Journal of Theoretical and Applied Finance",
+        "volume": "4",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/4bf733645d3a9a3d4a0e92ad4cb12ca6e507623e"
+        ],
+        "id": "id8503463408664795370",
+        "abstract": null,
+        "versions": [],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "Moix, P."
+        ],
+        "title": "Risk and Risk Measures",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-56481-9_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-56481-9_2",
+            "http://dx.doi.org/10.1007/978-3-642-56481-9_2"
+        ],
+        "id": "id5659403329463876730",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk and Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b4045326be1920dde9cb20ea6cc3e82336479ade"
+                ],
+                "doi": "10.1007/978-3-642-56481-9_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [],
+        "title": "Risk and Risk Measures",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781848166332_0003",
+        "urls": [
+            "http://dx.doi.org/10.1142/9781848166332_0003"
+        ],
+        "id": "id-799298432516891515",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk and Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cde7c889d8dae6668f8431c76d19b4765b9b9131"
+                ],
+                "doi": "10.1142/9781848166332_0003",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Roccioletti, S."
+        ],
+        "title": "Risk Measures and their Properties",
+        "publication_date": "2015-12-05 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-658-11908-9_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-658-11908-9_2",
+            "http://dx.doi.org/10.1007/978-3-658-11908-9_2"
+        ],
+        "id": "id3026657159325684116",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and their Properties",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0c07c243d7423a96d7545325989dc19630489993"
+                ],
+                "doi": "10.1007/978-3-658-11908-9_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [],
+        "title": "Simple Risk Measures",
+        "publication_date": "2012-11-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118673621.ch3",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.ch3",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.ch3",
+            "http://dx.doi.org/10.1002/9781118673621.ch3"
+        ],
+        "id": "id8142801313531693047",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Simple Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/da8775915deab21b22baa371de0c759f326c9274"
+                ],
+                "doi": "10.1002/9781118673621.ch3",
+                "publication_date": "2013-04-15 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Elisabet Gulevska",
+            "Tomas Westman",
+            "westman. tomas"
+        ],
+        "title": "Coherent Risk Measures Financial Risk , fall 2010",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/4a3e5a92c28e2093984fe07a9b645b20384442eb"
+        ],
+        "id": "id3036688930419904841",
+        "abstract": null,
+        "versions": [],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Proske, D."
+        ],
+        "title": "Objective Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-79555-1_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-79555-1_3.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-79555-1_3"
+        ],
+        "id": "id-3273904552548477865",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Objective Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/949c2fea8f924ec834d8b8ac9b1a1e4da89b177a"
+                ],
+                "doi": "10.1007/978-3-540-79555-1_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "Jaschke, S.",
+            "K\u00fcchler, U."
+        ],
+        "title": "Coherent risk measures and good-deal bounds",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/pl00013530",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/PL00013530.pdf",
+            "http://link.springer.com/article/10.1007/PL00013530/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/PL00013530",
+            "http://dx.doi.org/10.1007/pl00013530"
+        ],
+        "id": "id-8433841319923085523",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://doi.org/10.1007/pl00013530"
+                ],
+                "doi": "10.1007/pl00013530",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f94b271bd8a7e23dac54103e9997c1299b08c3cb"
+                ],
+                "doi": "10.1007/PL00013530",
+                "publication_date": "2001-04-10 00:00:00"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://openalex.org/W2058297600",
+                    "https://doi.org/10.1007/pl00013530"
+                ],
+                "doi": "10.1007/pl00013530",
+                "publication_date": "2001-04-01 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "R\u00fcschendorf, L."
+        ],
+        "title": "Risk Measures for Real Risks",
+        "publication_date": "2012-08-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-33590-7_7",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-33590-7_7",
+            "http://dx.doi.org/10.1007/978-3-642-33590-7_7"
+        ],
+        "id": "id7018085791713851270",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures for Real Risks",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dc6546c9e9620d4b7fad9339e09e2786365b7998"
+                ],
+                "doi": "10.1007/978-3-642-33590-7_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Zhiping Chen",
+            "Qianhui Hu"
+        ],
+        "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+        "publication_date": "2018-06-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Methodology and Computing in Applied Probability",
+        "volume": "",
+        "doi": "10.1007/s11009-017-9584-1",
+        "urls": [
+            "https://openalex.org/W2741147126",
+            "https://doi.org/10.1007/s11009-017-9584-1"
+        ],
+        "id": "id6116276804095298520",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "Methodology and Computing in Applied Probability",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74eafe10a9cc3ae8d79cbe6be5894e3fa0f55bcc"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "2017-08-02 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "Methodology and Computing in Applied Probability",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/54dfd60f1cb22612d159c26f1fbe0306d749170e"
+                ],
+                "doi": "10.1007/S11009-017-9584-1",
+                "publication_date": "2018-06-01 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/article/10.1007/s11009-017-9584-1/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s11009-017-9584-1.pdf",
+                    "http://link.springer.com/content/pdf/10.1007/s11009-017-9584-1.pdf",
+                    "http://dx.doi.org/10.1007/s11009-017-9584-1"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "2017-08-02 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "Methodology and Computing in Applied Probability",
+                "urls": [
+                    "https://doi.org/10.1007/s11009-017-9584-1"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Zio, E."
+        ],
+        "title": "Risk Importance Measures",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-85729-470-8_6",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-0-85729-470-8_6",
+            "http://dx.doi.org/10.1007/978-0-85729-470-8_6"
+        ],
+        "id": "id-4830366890107826927",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Importance Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8c0c11ad45d52a9b63286b781f90f72b01f5c588"
+                ],
+                "doi": "10.1007/978-0-85729-470-8_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "MacLean, L.",
+            "Ziemba, B."
+        ],
+        "title": "A Primer on Risk Measures",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/wilm.10288",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fwilm.10288",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/wilm.10288",
+            "http://dx.doi.org/10.1002/wilm.10288"
+        ],
+        "id": "id-6095181680233774151",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Primer on Risk Measures",
+                "journal": "Wilmott",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/793eb92d2da4bcd8398005e40ec08d04397e3c60"
+                ],
+                "doi": "10.1002/WILM.10288",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Giulianella Coletti",
+            "Davide Petturiti",
+            "Barbara Vantaggi"
+        ],
+        "title": "Conditional Submodular Coherent Risk Measures",
+        "publication_date": "2018-06-11 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Communications in computer and information science",
+        "volume": "",
+        "doi": "10.1007/978-3-319-91476-3_20",
+        "urls": [
+            "https://openalex.org/W2803397208",
+            "https://doi.org/10.1007/978-3-319-91476-3_20"
+        ],
+        "id": "id4304452522320659996",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Conditional Submodular Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8a752e433db157f437f13bd58403549da190ebae"
+                ],
+                "doi": "10.1007/978-3-319-91476-3_20",
+                "publication_date": "2018-06-11 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Conditional Submodular Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-319-91476-3_20",
+                    "http://dx.doi.org/10.1007/978-3-319-91476-3_20"
+                ],
+                "doi": "10.1007/978-3-319-91476-3_20",
+                "publication_date": "2018-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Conditional Submodular Coherent Risk Measures",
+                "journal": "Information Processing and Management of Uncertainty in Knowledge-Based Systems. Theory and Foundations",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-319-91476-3_20"
+                ],
+                "doi": "10.1007/978-3-319-91476-3_20",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "G. Meyers"
+        ],
+        "title": "Coherent Measures of Risk-An Exposition for the Lay Actu..",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c4e3b66776e464de574f1581aefb2f7a25934226"
+        ],
+        "id": "id8535640633642159877",
+        "abstract": null,
+        "versions": [],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Pichler, A.",
+            "Schlotter, R."
+        ],
+        "title": "Entropy based risk measures",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejor.2019.01.016",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0377221719300189?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0377221719300189?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejor.2019.01.016"
+        ],
+        "id": "id7421517577731953898",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Entropy based risk measures",
+                "journal": "Eur. J. Oper. Res.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0d277e5fae9e88ac38c912c7b4fb9def546e333e",
+                    "http://arxiv.org/pdf/1801.07220"
+                ],
+                "doi": "10.1016/J.EJOR.2019.01.016",
+                "publication_date": "2018-01-22 00:00:00"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "D. Hunter"
+        ],
+        "title": "An adaptive procedure for estimating coherent risk measures based on generalized scenarios",
+        "publication_date": "2008-06-18 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/18d39903b8278a5ae82f76664a061a3e8cf75708"
+        ],
+        "id": "id2118296562548120029",
+        "abstract": null,
+        "versions": [],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "Vazsonyi, A.",
+            "Chen, P.",
+            "Jenkins, D.",
+            "Burcu, E.",
+            "Torrente, G.",
+            "Sheu, C."
+        ],
+        "title": "Model Risk Measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1037/t09097-000",
+        "urls": [
+            "http://dx.doi.org/10.1037/t09097-000"
+        ],
+        "id": "id-4061272123914194366",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Model Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cef7c56a1ad030df57105137c0da21fec1a51b4e"
+                ],
+                "doi": "10.1037/T09097-000",
+                "publication_date": "2012-04-09 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Yanhong Chen",
+            "Yijun Hu"
+        ],
+        "title": "Multivariate coherent risk measures induced by multivariate convex risk measures",
+        "publication_date": "2020-07-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Positivity",
+        "volume": "24",
+        "doi": "10.1007/s11117-019-00703-2",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a6f0418f5690601d3f20ff5de71bc36d5d2b09c3"
+        ],
+        "id": "id-6658464576812646869",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Multivariate coherent risk measures induced by multivariate convex risk measures",
+                "journal": "Positivity",
+                "urls": [
+                    "https://doi.org/10.1007/s11117-019-00703-2"
+                ],
+                "doi": "10.1007/s11117-019-00703-2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Multivariate coherent risk measures induced by multivariate convex risk measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s11117-019-00703-2.pdf",
+                    "http://link.springer.com/article/10.1007/s11117-019-00703-2/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s11117-019-00703-2.pdf",
+                    "http://dx.doi.org/10.1007/s11117-019-00703-2"
+                ],
+                "doi": "10.1007/s11117-019-00703-2",
+                "publication_date": "2019-08-29 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multivariate coherent risk measures induced by multivariate convex risk measures",
+                "journal": "Positivity",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c1fc556f406e43c572e2545c2bfbde05f79999ea"
+                ],
+                "doi": "10.1007/s11117-019-00703-2",
+                "publication_date": "2019-08-29 00:00:00"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "B\u00e9n\u00e9planc, G.",
+            "Rochet, J."
+        ],
+        "title": "Statistical Risk Measures",
+        "publication_date": "2011-09-08 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/acprof:osobl/9780199774081.003.0006",
+        "urls": [
+            "http://dx.doi.org/10.1093/acprof:osobl/9780199774081.003.0006"
+        ],
+        "id": "id-8298635646615982574",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Statistical Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a5a0e02c959f39a11731c239824beaaa1e49b2db"
+                ],
+                "doi": "10.1093/acprof:osobl/9780199774081.003.0006",
+                "publication_date": "2011-09-08 00:00:00"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Tatyana A. Kustitskaya"
+        ],
+        "title": "Representation of Preferences by Generalized Coherent Risk Measures",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2184260568"
+        ],
+        "id": "id-7344154465936858574",
+        "abstract": "",
+        "versions": [],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "Assa, H."
+        ],
+        "title": "Natural risk measures",
+        "publication_date": "2016-03-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11579-016-0165-9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s11579-016-0165-9.pdf",
+            "http://link.springer.com/article/10.1007/s11579-016-0165-9/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s11579-016-0165-9",
+            "http://dx.doi.org/10.1007/s11579-016-0165-9"
+        ],
+        "id": "id-4355977411476908568",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Natural risk measures",
+                "journal": "Mathematics and Financial Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/97607978012951700c8d618cc302c8b73487639e"
+                ],
+                "doi": "10.1007/s11579-016-0165-9",
+                "publication_date": "2016-03-04 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Natural risk measures",
+                "journal": "Mathematics and Financial Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/df6a4dd6772a79900cce705f34deb723d24970c0"
+                ],
+                "doi": "10.1007/S11579-016-0165-9",
+                "publication_date": "2016-03-04 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [],
+        "title": "Granularity for Risk Measures",
+        "publication_date": "2014-10-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781107709393.007",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/813C1BB6F98737A20F20DCFF10F0FE97",
+            "http://dx.doi.org/10.1017/cbo9781107709393.007"
+        ],
+        "id": "id3262843699643673572",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Granularity Theory with Applications to Finance and Insurance: Granularity for Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cf2f551420d1a2c77c2daef7d8b9ca07b4501369"
+                ],
+                "doi": "10.1017/CBO9781107709393.007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Andreas Krause"
+        ],
+        "title": "Coherent risk measurement: an introduction",
+        "publication_date": "2002-12-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Balance Sheet",
+        "volume": "10",
+        "doi": "10.1108/09657960210450736",
+        "urls": [
+            "https://www.semanticscholar.org/paper/712cc1a4d5482d47ce0cebc834778ffc5939e8ef"
+        ],
+        "id": "id6411754310684644884",
+        "abstract": "It is shown that the widely used risk measures standard deviation and value at risk do not always reflect risk preferences accurately. To overcome these problems in risk measurement a class of coherent risk measures has been proposed. We introduce the idea behind these measures and provide an overview of suggested coherent risk measures. Finally it is shown where the limitations of such measures in practical applications are and how regulatory bodies responded to their introduction in the literature. We find that most contributions on coherent risk measurement come from the actuarial sciences and propagate a widening of the discussion among researchers and practitioners in other industries.",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "Balance sheet",
+                "urls": [
+                    "https://openalex.org/W2047502007",
+                    "https://doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "2002-12-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "Balance Sheet",
+                "urls": [
+                    "https://doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "None"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "",
+                "urls": [
+                    "http://www.emeraldinsight.com/doi/full-xml/10.1108/09657960210450736",
+                    "https://www.emerald.com/insight/content/doi/10.1108/09657960210450736/full/xml",
+                    "https://www.emerald.com/insight/content/doi/10.1108/09657960210450736/full/html",
+                    "http://dx.doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "2002-12-01 00:00:00"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Wigfield, R.",
+            "Gilbert, R.",
+            "Fleming, P."
+        ],
+        "title": "SIDS: Risk reduction measures",
+        "publication_date": "1994-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0378-3782(94)90208-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0378378294902089?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0378378294902089?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0378-3782(94)90208-9"
+        ],
+        "id": "id2483240797277010080",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1994,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "SIDS: risk reduction measures.",
+                "journal": "Early human development",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8916db87e48e7ed1708e415db79d5a9d101a558a"
+                ],
+                "doi": "10.1016/0378-3782(94)90208-9",
+                "publication_date": "1994-09-15 00:00:00"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "A. Quaranta"
+        ],
+        "title": "Robust Optimization of a Coherent Risk Measure",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/61d2b84f4a8adf51c80a030d2e68e2c2ac4e078d"
+        ],
+        "id": "id566887591883756056",
+        "abstract": null,
+        "versions": [],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Andreas Krause"
+        ],
+        "title": "Beyond VaR: Expected shortfall and other coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c158154433e2ecd00e126a394121f5be3e9b12aa"
+        ],
+        "id": "id4466259199377095740",
+        "abstract": null,
+        "versions": [],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "V. Kirilyuk"
+        ],
+        "title": "The Class of Polyhedral Coherent Risk Measures",
+        "publication_date": "2004-07-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Cybernetics and Systems Analysis",
+        "volume": "40",
+        "doi": "10.1023/B:CASA.0000047881.82280.E2",
+        "urls": [
+            "https://www.semanticscholar.org/paper/351d5f70e7d31a8115f3cc3683e3b74171fdbcc3"
+        ],
+        "id": "id-8694665066426245134",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.CROSSREF",
+                "title": "The Class of Polyhedral Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1023/b:casa.0000047881.82280.e2"
+                ],
+                "doi": "10.1023/b:casa.0000047881.82280.e2",
+                "publication_date": "2004-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "The Class of Polyhedral Coherent Risk Measures",
+                "journal": "Cybernetics and Systems Analysis",
+                "urls": [
+                    "https://doi.org/10.1023/b:casa.0000047881.82280.e2"
+                ],
+                "doi": "10.1023/b:casa.0000047881.82280.e2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2004,
+                "source": "SupportedSources.OPENALEX",
+                "title": "The Class of Polyhedral Coherent Risk Measures",
+                "journal": "Cybernetics and Systems Analysis",
+                "urls": [
+                    "https://openalex.org/W1981728548",
+                    "https://doi.org/10.1023/b:casa.0000047881.82280.e2"
+                ],
+                "doi": "10.1023/b:casa.0000047881.82280.e2",
+                "publication_date": "2004-07-01 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "E. Desli",
+            "A. Tsanakas"
+        ],
+        "title": "Coherent risk measures and premium calculation principles: Definition, properties and relationship FORTHCOMING",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/647e6cb54c2714a554bf56bb5344e7bccac05940"
+        ],
+        "id": "id-5372518749665462015",
+        "abstract": null,
+        "versions": [],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Gianin, E.",
+            "Sgarra, C."
+        ],
+        "title": "Risk Measures: Value at Risk and beyond",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-01357-2_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-01357-2_12",
+            "http://dx.doi.org/10.1007/978-3-319-01357-2_12"
+        ],
+        "id": "id3666258853166167847",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures: Value at Risk and beyond",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d4632ef4479a5bfc9b9e39fc242fca6e58194ef3"
+                ],
+                "doi": "10.1007/978-3-319-01357-2_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Nguyen, H.",
+            "Sriboonchitta, S."
+        ],
+        "title": "On Choquet Integral Risk Measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-11960-6_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11960-6_2.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-11960-6_2"
+        ],
+        "id": "id-5871319450825744273",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Choquet Integral Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6299a6df9583e1dd4bbbd92769736aa14ae8db96"
+                ],
+                "doi": "10.1007/978-3-642-11960-6_2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2010,
+                "source": "SupportedSources.OPENALEX",
+                "title": "On Choquet Integral Risk Measures",
+                "journal": "Advances in intelligent and soft computing",
+                "urls": [
+                    "https://openalex.org/W170348677",
+                    "https://doi.org/10.1007/978-3-642-11960-6_2"
+                ],
+                "doi": "10.1007/978-3-642-11960-6_2",
+                "publication_date": "2010-01-01 00:00:00"
+            }
+        ],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Goovaerts, M.",
+            "Kaas, R.",
+            "Laeven, R."
+        ],
+        "title": "Decision principles derived from risk measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.insmatheco.2010.07.004",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167668710000818?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167668710000818?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.insmatheco.2010.07.004"
+        ],
+        "id": "id1599251963744560812",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Decision principles derived from risk measures",
+                "journal": "Insurance Mathematics & Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a245442f8379199aa4a27332346329892b2dfbc7"
+                ],
+                "doi": "10.1016/J.INSMATHECO.2010.07.004",
+                "publication_date": "2010-12-01 00:00:00"
+            }
+        ],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Application of Coherent Distortion Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "15",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a3140e6326b7dc8fe832b4d10439b6ff83708b6d"
+        ],
+        "id": "id1274044468814156281",
+        "abstract": null,
+        "versions": [],
+        "rank": 50
+    },
+    {
+        "authors": [],
+        "title": "Risk Reducing Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9783527621606.ch10",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9783527621606.ch10",
+            "http://dx.doi.org/10.1002/9783527621606.ch10"
+        ],
+        "id": "id-3074324422635889699",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Reducing Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2e4da0f419aad15238902b3211438f68a06f4bb9"
+                ],
+                "doi": "10.1002/9783527621606.CH10",
+                "publication_date": "2008-03-03 00:00:00"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Gu\u00e9gan, D.",
+            "Hassani, B."
+        ],
+        "title": "Risk Measurement",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-02680-6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-02680-6.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-02680-6",
+            "http://dx.doi.org/10.1007/978-3-030-02680-6"
+        ],
+        "id": "id6387358375998452521",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measurement",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f0521ac7d28c931738a12b95f7a88892e0bf236c",
+                    "https://link.springer.com/content/pdf/bfm%3A978-3-030-02680-6%2F1"
+                ],
+                "doi": "10.1007/978-3-030-02680-6",
+                "publication_date": "2019-03-22 00:00:00"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Hoffmann, H.",
+            "Meyer-Brandis, T.",
+            "Svindland, G."
+        ],
+        "title": "Risk-consistent conditional systemic risk measures",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.spa.2016.01.002",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S030441491600003X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S030441491600003X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.spa.2016.01.002"
+        ],
+        "id": "id1795971417850627575",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk-consistent conditional systemic risk measures",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d2277fc321d1db4c913fc0441b8434c3e6b73e55",
+                    "http://arxiv.org/pdf/1609.07897"
+                ],
+                "doi": "10.1016/J.SPA.2016.01.002",
+                "publication_date": "2016-07-01 00:00:00"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Bonaccorso, L.",
+            "Greco, S.",
+            "Matarazzo, B.",
+            "Platania, P."
+        ],
+        "title": "Some New Properties of Risk Measures",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-08799-2_23",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-08799-2_23",
+            "http://dx.doi.org/10.1007/978-3-662-08799-2_23"
+        ],
+        "id": "id-6020906851274104229",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Some new properties of risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/22a30a0a8b6f635c19f295aa1038034b837bfddb"
+                ],
+                "doi": "10.1007/978-3-662-08799-2_23",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [],
+        "title": "Risk Measures with Applications in Finance and Economics",
+        "publication_date": "2019-07-23 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.3390/books978-3-03897-444-4",
+        "urls": [
+            "http://dx.doi.org/10.3390/books978-3-03897-444-4"
+        ],
+        "id": "id8646642751456725955",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures with Applications in Finance and Economics",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d8c5c3f5b12bea2d7f2bd7009f44639b7c83d9a8",
+                    "https://mdpi-res.com/bookfiles/book/1442/Risk_Measures_with_Applications_in_Finance_and_Economics.pdf"
+                ],
+                "doi": "10.3390/books978-3-03897-444-4",
+                "publication_date": "2019-07-23 00:00:00"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "V. Kirilyuk"
+        ],
+        "title": "Polyhedral Coherent Risk Measures and Robust Optimization",
+        "publication_date": "2019-11-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Cybernetics and Systems Analysis",
+        "volume": "55",
+        "doi": "10.1007/s10559-019-00210-y",
+        "urls": [
+            "https://www.semanticscholar.org/paper/9790c0703249a3602ec7013141a0e8803bf0dd6b"
+        ],
+        "id": "id6435266482116728803",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Polyhedral Coherent Risk Measures and Robust Optimization",
+                "journal": "Cybernetics and Systems Analysis",
+                "urls": [
+                    "https://doi.org/10.1007/s10559-019-00210-y"
+                ],
+                "doi": "10.1007/s10559-019-00210-y",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Polyhedral Coherent Risk Measures and Robust Optimization",
+                "journal": "Cybernetics and Systems Analysis",
+                "urls": [
+                    "https://openalex.org/W2990922271",
+                    "https://doi.org/10.1007/s10559-019-00210-y"
+                ],
+                "doi": "10.1007/s10559-019-00210-y",
+                "publication_date": "2019-11-01 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Polyhedral Coherent Risk Measures and Robust Optimization",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10559-019-00210-y.pdf",
+                    "http://link.springer.com/article/10.1007/s10559-019-00210-y/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10559-019-00210-y.pdf",
+                    "http://dx.doi.org/10.1007/s10559-019-00210-y"
+                ],
+                "doi": "10.1007/s10559-019-00210-y",
+                "publication_date": "2019-01-01 00:00:00"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Luce, R."
+        ],
+        "title": "Several possible measures of risk",
+        "publication_date": "1980-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bf00135033",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BF00135033.pdf",
+            "http://link.springer.com/article/10.1007/BF00135033/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/BF00135033",
+            "http://dx.doi.org/10.1007/bf00135033"
+        ],
+        "id": "id4635967119766902394",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1980,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Several possible measures of risk",
+                "journal": "Theory and Decision",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1f48d419977ad9133a60ff341081b8dd8c503ba5"
+                ],
+                "doi": "10.1007/BF00135033",
+                "publication_date": "1980-09-01 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Jha, A.",
+            "Stanton-Geddes, Z."
+        ],
+        "title": "Risk Reduction: Measures and Investments",
+        "publication_date": "2013-02-28 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1596/9780821398050_ch04",
+        "urls": [
+            "http://dx.doi.org/10.1596/9780821398050_ch04"
+        ],
+        "id": "id6148793379721787714",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Reduction: Measures and Investments",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/727ff12017146d8317d888c7cd425f6865a6dd6d"
+                ],
+                "doi": "10.1596/9780821398050_CH04",
+                "publication_date": "2013-02-28 00:00:00"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Embrechts, P.",
+            "Hofert, M."
+        ],
+        "title": "Risk Measures and Dependence Modeling",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4614-0155-1_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4614-0155-1_6",
+            "http://dx.doi.org/10.1007/978-1-4614-0155-1_6"
+        ],
+        "id": "id-5482055168573966616",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and Dependence Modeling",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c17ff50bf58f94ba501aaa5c76397ea12657cf9c"
+                ],
+                "doi": "10.1007/978-1-4614-0155-1_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [],
+        "title": "Financial Risk Measures",
+        "publication_date": "2009-10-19 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781420082678.ch4",
+        "urls": [
+            "http://www.crcnetbase.com/doi/pdf/10.1201/9781420082678.ch4",
+            "http://dx.doi.org/10.1201/9781420082678.ch4"
+        ],
+        "id": "id-3958307189438797692",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Financial Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/036a10ea07780ee4504f4ef551262668086158c5"
+                ],
+                "doi": "10.1201/9781420082678.CH4",
+                "publication_date": "2009-10-19 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Maccrimmon, K.",
+            "Wehrung, D."
+        ],
+        "title": "A portfolio of risk measures",
+        "publication_date": "1985-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bf00134352",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BF00134352.pdf",
+            "http://link.springer.com/article/10.1007/BF00134352/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/BF00134352",
+            "http://dx.doi.org/10.1007/bf00134352"
+        ],
+        "id": "id-7730718936157614705",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1985,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A portfolio of risk measures",
+                "journal": "Theory and Decision",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/47e10973acd88ff3203a151ae5251923f0556834"
+                ],
+                "doi": "10.1007/BF00134352",
+                "publication_date": "1985-07-01 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "A. Novosyolov"
+        ],
+        "title": "GENERALIZED COHERENT RISK MEASURES IN DECISION-MAKING UNDER RISK",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/dd87b86918af125cf76c0f44ef5a5c242a1d3c57"
+        ],
+        "id": "id4871013354931026937",
+        "abstract": "Coherent risk measures have lately become a hot topic in both theoretical research and practical applications. Since they possess a number of disadvantages, some generalizations and modifications have been proposed recently. In the present paper we propose one more generalization which holds a number of attractive properties. A representation theorem for the risk measures class has been obtained, properties of functionals have been established, partial cases and examples are also presented.",
+        "versions": [],
+        "rank": 62
+    },
+    {
+        "authors": [],
+        "title": "4 Monetary measures of risk",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9783110218053.175",
+        "urls": [
+            "https://www.degruyter.com/document/doi/10.1515/9783110218053.175/pdf",
+            "http://dx.doi.org/10.1515/9783110218053.175"
+        ],
+        "id": "id5999983498360360106",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "4 Monetary measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/826a3f6c168be62899c012b7bb416f015e2d90ec"
+                ],
+                "doi": "10.1515/9783110218053.175",
+                "publication_date": "2011-01-28 00:00:00"
+            }
+        ],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Xin Huang",
+            "Hao Zhou",
+            "Haibin Zhu"
+        ],
+        "title": "Systemic Risk Contributions",
+        "publication_date": "2011-10-05 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Journal of Financial Services Research",
+        "volume": "42",
+        "doi": "10.1007/s10693-011-0117-8",
+        "urls": [
+            "https://openalex.org/W2114111702",
+            "https://doi.org/10.1007/s10693-011-0117-8",
+            "http://www.bis.org/publ/bppdf/bispap60e.pdf"
+        ],
+        "id": "id6798669138229794942",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Systemic Risk Contributions",
+                "journal": "Journal of Financial Services Research",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0fa59ea14829b031c86e44178fb13a0cfb81079d",
+                    "http://www.bis.org/publ/bppdf/bispap60e.pdf"
+                ],
+                "doi": "10.1007/s10693-011-0117-8",
+                "publication_date": "2011-10-05 00:00:00"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Ma, H.",
+            "Tian, D."
+        ],
+        "title": "Generalized entropic risk measures and related BSDEs",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.spl.2021.109110",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167715221000729?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167715221000729?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.spl.2021.109110"
+        ],
+        "id": "id4266326752423959855",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Generalized entropic risk measures and related BSDEs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/488a58f3f848f8c47f795f3479cdb3781fab020c"
+                ],
+                "doi": "10.1016/J.SPL.2021.109110",
+                "publication_date": "2021-04-10 00:00:00"
+            }
+        ],
+        "rank": 65
+    },
+    {
+        "authors": [],
+        "title": "4 GlueVaR and other new risk measures",
+        "publication_date": "2017-12-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9789048534586-005",
+        "urls": [
+            "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/xml",
+            "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/pdf",
+            "http://dx.doi.org/10.1515/9789048534586-005"
+        ],
+        "id": "id-5517944326868241975",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "4 GlueVaR and other new risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7bdeab007ec340242f4818b4434b9a2e78856fa3",
+                    "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/pdf"
+                ],
+                "doi": "10.1515/9789048534586-005",
+                "publication_date": "2017-12-31 00:00:00"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "H. F\u00f6llmer"
+        ],
+        "title": "Consistency Properties of Systemic Risk Measures",
+        "publication_date": "2019-05-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781786341952_0004",
+        "urls": [
+            "https://www.semanticscholar.org/paper/e0c732ff5eb3339a8833fd98cb4c400a30886102"
+        ],
+        "id": "id7749540643355085086",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Consistency Properties of Systemic Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1142/9781786341952_0004"
+                ],
+                "doi": "10.1142/9781786341952_0004",
+                "publication_date": "2019-04-23 00:00:00"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [],
+        "title": "Risk Measures and Asset Allocation Problems",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789811225758_0008",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789811225758_0008"
+        ],
+        "id": "id-5527369507967774650",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and Asset Allocation Problems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f57b040e2a6ba983c7f22e9e0673506d016f1093"
+                ],
+                "doi": "10.1142/9789811225758_0008",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Yuji Yoshida"
+        ],
+        "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+        "publication_date": "2019-06-02 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Smart innovation, systems and technologies",
+        "volume": "",
+        "doi": "10.1007/978-981-13-8303-8_19",
+        "urls": [
+            "https://openalex.org/W2947205161",
+            "https://doi.org/10.1007/978-981-13-8303-8_19"
+        ],
+        "id": "id5264737080023350238",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "Smart Innovation, Systems and Technologies",
+                "urls": [
+                    "https://doi.org/10.1007/978-981-13-8303-8_19"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-981-13-8303-8_19",
+                    "http://dx.doi.org/10.1007/978-981-13-8303-8_19"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "2019-01-01 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d7dd195f5e61d4db37b422510ff57cf8e2b1a45c"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "2019-06-02 00:00:00"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "Yan, J."
+        ],
+        "title": "Static Risk Measures",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-13-1657-9_10",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-13-1657-9_10",
+            "http://dx.doi.org/10.1007/978-981-13-1657-9_10"
+        ],
+        "id": "id7746164140542355981",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Static Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/83823bf1840aef33471e29fd5221a75b0e8c4474"
+                ],
+                "doi": "10.1007/978-981-13-1657-9_10",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Landsman, Z.",
+            "Sherris, M."
+        ],
+        "title": "Risk measures and insurance premium principles",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-6687(01)00076-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167668701000762?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167668701000762?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-6687(01)00076-2"
+        ],
+        "id": "id-3803216015810156396",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk measures and insurance premium principles",
+                "journal": "Insurance Mathematics & Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/57aec60fbbd87e363b14fe807622af5de6d7b30c"
+                ],
+                "doi": "10.1016/S0167-6687(01)00076-2",
+                "publication_date": "2001-08-20 00:00:00"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Jun Yan"
+        ],
+        "title": "Deviations of convex and coherent entropic risk measures",
+        "publication_date": "2015-05-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Statistics & Probability Letters",
+        "volume": "100",
+        "doi": "10.1016/J.SPL.2015.01.035",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c2716083d72144976cf736a75f339fd43eb092e1"
+        ],
+        "id": "id-6514908087406895709",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Deviations of convex and coherent entropic risk measures",
+                "journal": "Statistics & Probability Letters",
+                "urls": [
+                    "https://doi.org/10.1016/j.spl.2015.01.035"
+                ],
+                "doi": "10.1016/j.spl.2015.01.035",
+                "publication_date": "None"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Deviations of convex and coherent entropic risk measures",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0167715215000516?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0167715215000516?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.spl.2015.01.035"
+                ],
+                "doi": "10.1016/j.spl.2015.01.035",
+                "publication_date": "2015-01-01 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Deviations of convex and coherent entropic risk measures",
+                "journal": "Statistics & Probability Letters",
+                "urls": [
+                    "https://openalex.org/W2027889110",
+                    "https://doi.org/10.1016/j.spl.2015.01.035"
+                ],
+                "doi": "10.1016/j.spl.2015.01.035",
+                "publication_date": "2015-05-01 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Liebrich, F.",
+            "Svindland, G."
+        ],
+        "title": "Model spaces for risk measures",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.insmatheco.2017.09.006",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167668717300860?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167668717300860?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.insmatheco.2017.09.006"
+        ],
+        "id": "id2626040988606932113",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Model Spaces for Risk Measures",
+                "journal": "Insurance Mathematics & Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c527cb908393c1d2630c6c936e1fdb8f8e4153f2",
+                    "http://arxiv.org/pdf/1703.01137"
+                ],
+                "doi": "10.1016/J.INSMATHECO.2017.09.006",
+                "publication_date": "2017-03-01 00:00:00"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Romanovski, Ivan"
+        ],
+        "title": "Time consistency in Risk measures",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/9403455.pdf"
+        ],
+        "id": "id-5059470235645097077",
+        "abstract": null,
+        "versions": [],
+        "rank": 74
+    },
+    {
+        "authors": [],
+        "title": "Model Risk in Risk Measures Calculations",
+        "publication_date": "2015-06-28 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814663410_0008",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814663410_0008"
+        ],
+        "id": "id-1575840413282686654",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Model Risk in Risk Measures Calculations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a70eab1cb4345504e0b1947437f05af627122a3c"
+                ],
+                "doi": "10.1142/9789814663410_0008",
+                "publication_date": "2015-07-01 00:00:00"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Livada, A.",
+            "Anagnostopoulou, M."
+        ],
+        "title": "Risk Measures and Inequality",
+        "publication_date": "2019-12-10 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.3389/fams.2019.00057",
+        "urls": [
+            "https://www.frontiersin.org/article/10.3389/fams.2019.00057/full",
+            "http://dx.doi.org/10.3389/fams.2019.00057"
+        ],
+        "id": "id-374075683315084492",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and Inequality",
+                "journal": "Frontiers in Applied Mathematics and Statistics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e11f24d3349bf1f1e6c744e3b7050e7406a32186",
+                    "https://www.frontiersin.org/articles/10.3389/fams.2019.00057/pdf"
+                ],
+                "doi": "10.3389/fams.2019.00057",
+                "publication_date": "2019-12-10 00:00:00"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Zang, X.",
+            "JIANG, F.",
+            "Xia, C.",
+            "Yang, J."
+        ],
+        "title": "Random Distortion Risk Measures",
+        "publication_date": "2023-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4394934",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4394934"
+        ],
+        "id": "id7185873104698655100",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Random Distortion Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2b2579848f62f96928e7f5da2b0accd63d8621ce"
+                ],
+                "doi": "10.2139/ssrn.4394934",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "Dudek, Z."
+        ],
+        "title": "From isotonic Banach functionals to coherent risk measures",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4064/am28-4-4",
+        "urls": [
+            "http://dx.doi.org/10.4064/am28-4-4"
+        ],
+        "id": "id8503689109531460939",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "From isotonic Banach functionals to coherent risk measures",
+                "journal": "Applicationes Mathematicae",
+                "urls": [
+                    "https://doi.org/10.4064/am28-4-4"
+                ],
+                "doi": "10.4064/am28-4-4",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "From isotonic Banach functionals to coherent risk measures",
+                "journal": "Institute of Mathematics, Polish Academy of Sciences",
+                "urls": [
+                    "https://web.archive.org/web/20180722103208/https://www.impan.pl/shop/publication/transaction/download/product/84465?download.pdf"
+                ],
+                "doi": "10.4064/am28-4-4",
+                "publication_date": "2001-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "From isotonic Banach functionals to coherent risk measures",
+                "journal": "Applicationes Mathematicae",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/43e9fcdd3c4783b21ed79b70f103992165bf468c",
+                    "https://www.impan.pl/shop/publication/transaction/download/product/84465?download.pdf"
+                ],
+                "doi": "10.4064/AM28-4-4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Amir Ahmadi-Javid"
+        ],
+        "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+        "publication_date": "2012-12-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Journal of Optimization Theory and Applications",
+        "volume": "155",
+        "doi": "10.1007/s10957-011-9968-2",
+        "urls": [
+            "https://openalex.org/W2031355801",
+            "https://doi.org/10.1007/s10957-011-9968-2"
+        ],
+        "id": "id-2955624992667671887",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1344fb268400254e2bf3ea65cacc1d666431f242"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "2011-12-17 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://doi.org/10.1007/s10957-011-9968-2"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2011,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10957-011-9968-2.pdf",
+                    "http://link.springer.com/article/10.1007/s10957-011-9968-2/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10957-011-9968-2",
+                    "http://dx.doi.org/10.1007/s10957-011-9968-2"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "2011-12-17 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2c53a2c052a7bd18af191f2d1fa3b317efcd70d3"
+                ],
+                "doi": "10.1007/S10957-011-9968-2",
+                "publication_date": "2012-12-01 00:00:00"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [],
+        "title": "Reliability of Risk Reducing Measures",
+        "publication_date": "2020-03-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9783527696918.ch17",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9783527696918.ch17",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527696918.ch17",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527696918.ch17",
+            "http://dx.doi.org/10.1002/9783527696918.ch17"
+        ],
+        "id": "id504664948770929535",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Reliability of Risk Reducing Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/565f1c854022d7e8d1117b906e4791f01758f6db"
+                ],
+                "doi": "10.1002/9783527696918.ch17",
+                "publication_date": "2020-03-13 00:00:00"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "A. Ahmadi-Javid"
+        ],
+        "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+        "publication_date": "2012-03-16 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Optimization Theory and Applications",
+        "volume": "155",
+        "doi": "10.1007/s10957-012-0014-9",
+        "urls": [
+            "https://www.semanticscholar.org/paper/09a992f9d432c3daaf406e160e5327729603a125"
+        ],
+        "id": "id-1160700370096219255",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://openalex.org/W2001626210",
+                    "https://doi.org/10.1007/s10957-012-0014-9"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10957-012-0014-9.pdf",
+                    "http://link.springer.com/article/10.1007/s10957-012-0014-9/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10957-012-0014-9",
+                    "http://dx.doi.org/10.1007/s10957-012-0014-9"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/328224a0d7a1a71b45bb4461d2cebaf748a3ce98"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [],
+        "title": "Limitations of Risk Importance Measures",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1115/1.861394_ch11",
+        "urls": [
+            "http://dx.doi.org/10.1115/1.861394_ch11"
+        ],
+        "id": "id2800290526786719826",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Limitations of Risk Importance Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8b06fb504e515cc60607eacef32cf3619fdcc294"
+                ],
+                "doi": "10.1115/1.861394_CH11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Massimiliano Amarante"
+        ],
+        "title": "A representation of risk measures",
+        "publication_date": "2016-01-28 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1007/s10203-016-0170-8",
+        "urls": [
+            "https://web.archive.org/web/20170815105539/https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/10088/2013-08-cah.pdf?sequence=1"
+        ],
+        "id": "id7120208005570032102",
+        "abstract": "A . We provide a representation theorem for risk measures satisfying (i) monotonicity; (ii) positive homogeneity; and (iii) translation invariance. As a simple corollary to our theorem, we obtain the usual representation of coherent risk measures (i.e., risk measures that are, in addition, sub-additive; see Artzner et al. [2] ).",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A representation of risk measures",
+                "journal": "Decisions in Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8bc921e786aca587edd5e18a89940c49ac746c84",
+                    "http://www.cireqmontreal.com/wp-content/uploads/cahiers/11-2013-cah.pdf"
+                ],
+                "doi": "10.1007/S10203-016-0170-8",
+                "publication_date": "2016-01-28 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A representation of risk measures",
+                "journal": "Decisions in Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/28405d3df334dd37c109f7037bfe67cc0243e9ff",
+                    "http://www.cireqmontreal.com/wp-content/uploads/cahiers/11-2013-cah.pdf"
+                ],
+                "doi": "10.1007/s10203-016-0170-8",
+                "publication_date": "2016-01-28 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.CORE",
+                "title": "A Representation of Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/10088/2013-08-cah.pdf?sequence=1&isAllowed=y"
+                ],
+                "doi": null,
+                "publication_date": "2013-10-01 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A representation of risk measures",
+                "journal": "Decisions in economics and finance",
+                "urls": [
+                    "https://openalex.org/W2291816112",
+                    "https://doi.org/10.1007/s10203-016-0170-8",
+                    "http://www.cireqmontreal.com/wp-content/uploads/cahiers/11-2013-cah.pdf"
+                ],
+                "doi": "10.1007/s10203-016-0170-8",
+                "publication_date": "2016-01-28 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A representation of risk measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10203-016-0170-8.pdf",
+                    "http://link.springer.com/article/10.1007/s10203-016-0170-8/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10203-016-0170-8",
+                    "http://dx.doi.org/10.1007/s10203-016-0170-8"
+                ],
+                "doi": "10.1007/s10203-016-0170-8",
+                "publication_date": "2016-01-28 00:00:00"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Bernard, C.",
+            "Brechmann, E.",
+            "Czado, C."
+        ],
+        "title": "Statistical Assessments of Systemic Risk Measures",
+        "publication_date": "2013-05-23 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139151184.009",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/01D825D3255B6E7E59475ADEA9B71672",
+            "http://dx.doi.org/10.1017/cbo9781139151184.009"
+        ],
+        "id": "id1842286948225370907",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Handbook on Systemic Risk: Statistical Assessments of Systemic Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bf8dd25983059c2ece1295a1436a27588c672c0f"
+                ],
+                "doi": "10.1017/CBO9781139151184.009",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "G. Szeg\u00f6"
+        ],
+        "title": "Risk measures for the 21st century",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/1d30bdff726aba88f42f608cd585b1624be855a2"
+        ],
+        "id": "id-8685485285037346964",
+        "abstract": null,
+        "versions": [],
+        "rank": 85
+    },
+    {
+        "authors": [],
+        "title": "Miscellaneous Risk Measures",
+        "publication_date": "2021-10-20 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119838883.ch10",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10",
+            "http://dx.doi.org/10.1002/9781119838883.ch10"
+        ],
+        "id": "id817087799421214250",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Miscellaneous Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/47affa2400ca4938bcf8ec645ff8d7feb800c55f"
+                ],
+                "doi": "10.1002/9781119838883.ch10",
+                "publication_date": "2021-10-20 00:00:00"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [],
+        "title": "Composite Internal Risk Measures",
+        "publication_date": "2012-11-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118673621.app1",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.app1",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.app1",
+            "http://dx.doi.org/10.1002/9781118673621.app1"
+        ],
+        "id": "id-8479104896975424784",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Composite Internal Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dc7ea25587f4b04ad661ff5bffdb7b80ece7f41d"
+                ],
+                "doi": "10.1002/9781118673621.APP1",
+                "publication_date": "2013-04-15 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "\u6960\u5ca1 \u6210\u96c4"
+        ],
+        "title": "On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics)",
+        "publication_date": "2001-06-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/53a15f9bff1beda2c13804d1019743bc3df0f4af"
+        ],
+        "id": "id6876034632929173673",
+        "abstract": null,
+        "versions": [],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Shigeo Kusuoka"
+        ],
+        "title": "On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics)",
+        "publication_date": "2001-06-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "\u6570\u7406\u89e3\u6790\u7814\u7a76\u6240\u8b1b\u7a76\u9332",
+        "volume": "1215",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2239623303"
+        ],
+        "id": "id2393151444278312277",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics)",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ebda81f0c0a34b3a35969e0cde5386ea51c03546"
+                ],
+                "doi": "",
+                "publication_date": "2001-06-01 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Georg Ch. Pflug"
+        ],
+        "title": "Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R)",
+        "publication_date": "2016-04-03 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Austrian Statistical Society",
+        "volume": "",
+        "doi": "10.17713/ajs.v31i1.471",
+        "urls": [
+            "https://web.archive.org/web/20180721183701/https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415"
+        ],
+        "id": "id3707583582532956916",
+        "abstract": "The conditional-value-at-risk (C V@R) has been widely used as a risk measure. It is well known, that C V@R is coherent in the sense of Artzner, Delbaen, Eber, Heath (1999). The class of coherent risk measures is convex. It was conjectured, that all coherent risk measures can be represented as convex combinations of C V@R's. In this note we show that this conjecture is wrong.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R)",
+                "journal": "Austrian Journal of Statistics",
+                "urls": [
+                    "https://doi.org/10.17713/ajs.v31i1.471"
+                ],
+                "doi": "10.17713/ajs.v31i1.471",
+                "publication_date": "None"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent risk measures and convex combinations of the conditional value at risk",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/33898028.pdf"
+                ],
+                "doi": "10.17713/ajs.v31i1.471",
+                "publication_date": "2002-01-01 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R)",
+                "journal": "",
+                "urls": [
+                    "https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415",
+                    "https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415",
+                    "http://dx.doi.org/10.17713/ajs.v31i1.471"
+                ],
+                "doi": "10.17713/ajs.v31i1.471",
+                "publication_date": "2016-04-03 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R)",
+                "journal": "Austrian Journal of Statistics",
+                "urls": [
+                    "https://openalex.org/W2339131734",
+                    "https://doi.org/10.17713/ajs.v31i1.471",
+                    "https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415"
+                ],
+                "doi": "10.17713/ajs.v31i1.471",
+                "publication_date": "2016-04-03 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R)",
+                "journal": "Austrian Journal of Statistics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bbae19d2883f8c6b0fdcfceccf179da30744352b",
+                    "https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415"
+                ],
+                "doi": "10.17713/AJS.V31I1.471",
+                "publication_date": "2016-04-03 00:00:00"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Hoel, D."
+        ],
+        "title": "Statistical Measures of Risk",
+        "publication_date": "1982-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.3109/03602538208991363",
+        "urls": [
+            "http://www.tandfonline.com/doi/pdf/10.3109/03602538208991363",
+            "http://dx.doi.org/10.3109/03602538208991363"
+        ],
+        "id": "id-6424308421251931159",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Statistical measures of risk.",
+                "journal": "Drug metabolism reviews",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d0d7e37452951a2a9f567d4aa83677004ff00c48"
+                ],
+                "doi": "10.3109/03602538208991363",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "F. Delbaen"
+        ],
+        "title": "Draft: Coherent Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7b27edc1900df998fd76bcbe40e816907bb97d41"
+        ],
+        "id": "id2964818752416672078",
+        "abstract": "Part of the course was devoted to an analysis of Value at Risk and its relation to quantiles. A detailed discussion of this can be found in two papers by Artzner, Delbaen, Eber and Heath, ADEH1 and ADEH2. It will not be repeated here. We will rather concentrate on the mathematics behind the concept of coherent risk measures. They were introduced in the two mentioned papers and the mathematical theory was further developped in Delbaen (1999), D2. Further use of coherent risk measures can be found in the papers (and their references) by Jaschke, Ja and JaK, Tasche, AT and F\u00f6llmer-Schied, FS. The reader should consult the cited web-sites to find several papers dealing with this subject. The paper by F\u00f6llmer and Schied introduces a generalisation of coherent risk measures.",
+        "versions": [],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Brachinger, H."
+        ],
+        "title": "From Variance to Value at Risk: A Unified Perspective on Standardized Risk Measures",
+        "publication_date": "1999-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-60187-3_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-60187-3_8.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-60187-3_8"
+        ],
+        "id": "id-1796569686936115414",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "From Variance to Value at Risk: A Unified Perspective on Standardized Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8c255956b1d5ea0ed5d0d993b185459d32f02ff5"
+                ],
+                "doi": "10.1007/978-3-642-60187-3_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Berkhouch, M.",
+            "M\u00fcller, F.",
+            "Lakhnati, G.",
+            "Righi, M."
+        ],
+        "title": "Deviation-Based Model Risk Measures",
+        "publication_date": "2021-01-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10614-021-10093-x",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s10614-021-10093-x.pdf",
+            "https://link.springer.com/article/10.1007/s10614-021-10093-x/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s10614-021-10093-x.pdf",
+            "http://dx.doi.org/10.1007/s10614-021-10093-x"
+        ],
+        "id": "id517074025366494982",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deviation-Based Model Risk Measures",
+                "journal": "Computational Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e7d539345dca599d5379c39e26d1b33d9b77f2af"
+                ],
+                "doi": "10.1007/s10614-021-10093-x",
+                "publication_date": "2021-01-27 00:00:00"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Armstrong, J.",
+            "Brigo, D."
+        ],
+        "title": "Coherent risk measures alone are ineffective in constraining portfolio losses",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jbankfin.2021.106315",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0378426621002673?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0378426621002673?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jbankfin.2021.106315"
+        ],
+        "id": "id-974110882832519108",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measures alone are ineffective in constraining portfolio losses",
+                "journal": "Journal of Banking &amp; Finance",
+                "urls": [
+                    "https://doi.org/10.1016/j.jbankfin.2021.106315"
+                ],
+                "doi": "10.1016/j.jbankfin.2021.106315",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent risk measures alone are ineffective in constraining portfolio losses",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dd3fb28f5ff39398adb95b384095cd85ec0cb9fe",
+                    "http://spiral.imperial.ac.uk/bitstream/10044/1/91696/2/rhoarbitrage_clean_final_submitted.pdf"
+                ],
+                "doi": "10.1016/j.jbankfin.2021.106315",
+                "publication_date": "2021-09-01 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Zhang Hui"
+        ],
+        "title": "Conditional g-expectation and coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Shandong University",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/70c6a45e6e938ac988a05446038d85f86f3c1296"
+        ],
+        "id": "id-3293468991512730889",
+        "abstract": "Conditional g-expectation is applied to define (dynamic) risk measures, which satisfies the axioms of coherent (dynamic) risk measures. Then, the representation theorems of the given (dynamic) coherent risk measures are provided. At the same time, some important properties of the (dynamic) coherent risk measures are followed.",
+        "versions": [],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Kr\u00e4tschmer, V."
+        ],
+        "title": "Robust representation of convex risk measures by probability measures",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s00780-005-0160-0",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s00780-005-0160-0.pdf",
+            "http://link.springer.com/article/10.1007/s00780-005-0160-0/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s00780-005-0160-0",
+            "http://dx.doi.org/10.1007/s00780-005-0160-0"
+        ],
+        "id": "id-232999072848402097",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Robust representation of convex risk measures by probability measures",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7fabbbce08909e74f5844dcc9e6f835f779b9782"
+                ],
+                "doi": "10.1007/s00780-005-0160-0",
+                "publication_date": "2005-10-01 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Andrew W. Lo",
+            "Joseph G. Haubrich"
+        ],
+        "title": "Quantifying Systemic Risk",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6722886.pdf"
+        ],
+        "id": "id7729700074205969636",
+        "abstract": null,
+        "versions": [],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Das, P."
+        ],
+        "title": "Risk Modeling by Coherent Measure Using Family of Generalized Hyperbolic Distributions",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-33-6973-3_11",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-981-33-6973-3_11",
+            "http://dx.doi.org/10.1007/978-981-33-6973-3_11"
+        ],
+        "id": "id-4059433028340700081",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Risk Modeling by Coherent Measure Using Family of Generalized Hyperbolic Distributions",
+                "journal": "Trade, Investment and Economic Growth",
+                "urls": [
+                    "https://doi.org/10.1007/978-981-33-6973-3_11"
+                ],
+                "doi": "10.1007/978-981-33-6973-3_11",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Modeling by Coherent Measure Using Family of Generalized Hyperbolic Distributions",
+                "journal": "Research Papers in Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c273c2079223b4f0de726ee494df4b150f8c6178"
+                ],
+                "doi": "10.1007/978-981-33-6973-3_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 99
+    }
+]

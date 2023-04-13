@@ -15,6 +15,7 @@ load_dotenv(dotenv_path=Path(os.path.join(root_path, '.env')))
 
 query = input('query: ')
 limit = int(input('limit: '))
+filename = input('filename: ')
 
 s = Search(
     query,
@@ -39,10 +40,19 @@ s.perform()
 results = list(s.results())
 logging.info(f'total results after deduplication: {len(results)}')
 
-top_1000 = d.get_top_n_specter(results, query, n=1000)
-top_1000 = [pub.to_dict() for pub in top_1000]
-for n in range(len(top_1000)):
-    top_1000[n]['rank'] = n
+top_roberta = d.get_top_n_roberta(results, query, n=100)
+top_roberta = [pub.to_dict() for pub in top_roberta]
+for n in range(len(top_roberta)):
+    top_roberta[n]['rank'] = n
 
-with open('results.json', 'w', encoding='utf-8') as file:
-    json.dump(top_1000, file, indent=4)
+with open(f'{filename}-roberta.json', 'w', encoding='utf-8') as file:
+    json.dump(top_roberta, file, indent=4)
+
+top_specter = d.get_top_n_specter(results, query, n=100)
+top_specter = [pub.to_dict() for pub in top_specter]
+for n in range(len(top_specter)):
+    top_specter[n]['rank'] = n
+
+with open(f'{filename}-specter.json', 'w', encoding='utf-8') as file:
+    json.dump(top_specter, file, indent=4)
+

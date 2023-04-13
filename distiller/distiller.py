@@ -14,7 +14,12 @@ class Distiller:
         roberta = SentenceTransformer('stsb-roberta-large')
         query_embedding = roberta.encode(query, convert_to_tensor=True, show_progress_bar=False,
                                          normalize_embeddings=True)
-        paper_titles = [p.title for p in documents]
+        paper_titles = []
+        for p in documents:
+            if p.abstract:
+                paper_titles.append(f'{p.title} {p.abstract}')
+            else:
+                paper_titles.append(p.title)
         corpus_embeddings = roberta.encode(
             paper_titles, convert_to_tensor=True, batch_size=16)
         search_hits = util.semantic_search(
