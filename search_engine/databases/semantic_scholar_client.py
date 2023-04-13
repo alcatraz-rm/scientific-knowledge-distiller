@@ -51,7 +51,7 @@ class SemanticScholarClient(DatabaseClient):
             headers={
                 'api-key': self._api_key
             },
-            max_failures=0
+            max_failures=10
         )
 
         if not isinstance(response, requests.Response):

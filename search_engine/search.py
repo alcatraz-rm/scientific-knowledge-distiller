@@ -219,7 +219,9 @@ class Search:
             'Trying to find abstracts for papers on semantic scholar...')
         retrieved_papers = []
         for batch in progressbar(batches):
-            retrieved_papers += semantic_scholar_client.get_papers_batch(batch)
+            new_batch = semantic_scholar_client.get_papers_batch(batch)
+            if new_batch:
+                retrieved_papers += new_batch
 
         for paper in retrieved_papers:
             doi = paper.doi.lower()
