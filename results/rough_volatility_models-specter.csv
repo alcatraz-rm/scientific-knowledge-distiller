@@ -1,0 +1,101 @@
+authors,title,pub_date,source,doi,abstract,rank
+B. Stemper,Rough volatility models,None,SupportedSources.SEMANTIC_SCHOLAR,10.14279/DEPOSITONCE-8422,,0
+Xiaoyan Zhang,Rough Volatility Modelling,None,SupportedSources.SEMANTIC_SCHOLAR,,,1
+"Jun YU,,LIU, Xiaobin,SHI, Shuping",Persistent and rough volatility,2020-11-01 00:00:00,SupportedSources.CORE,,,2
+,Volatility Models: An Overview,2015-09-19 00:00:00,SupportedSources.CROSSREF,10.1002/9781119202141.ch10,,3
+,Volatility Models,2017-01-04 00:00:00,SupportedSources.CROSSREF,10.1002/9781119192190.ch7,,4
+Prof. Martino Grasselli,Stochastic volatility models,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-540-34604-3_11,,5
+,Stochastic Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch21,,6
+"Ekstrand, C.",Stochastic Volatility Models,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-22155-2_7,,7
+"Lutz, B.",Stochastic Volatility Models,2009-08-05 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-02909-7_4,,8
+,Stochastic Volatility Models,2019-11-04 00:00:00,SupportedSources.CROSSREF,10.1002/9781118630006.ch10,,9
+"Hilber, N.,Reichmann, O.,Schwab, C.,Winter, C.",Stochastic Volatility Models,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-35401-4_9,,10
+"Zhu, J.",Stochastic Volatility Models,2009-10-02 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-01808-4_3,,11
+,Stochastic Volatility Models,2013-06-26 00:00:00,SupportedSources.CROSSREF,10.1142/9789814440134_0002,,12
+,Stochastic Volatility Models,2012-03-12 00:00:00,SupportedSources.CROSSREF,10.1002/9781118467398.ch12,,13
+"Bouchard, B.,Chassagneux, J.",Stochastic Volatility Models,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-38990-5_8,,14
+,Stochastic Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch22,,15
+,NLP models: volatility estimation,2006-12-21 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511753886.007,,16
+,Volatility Estimation Models,2015-08-21 00:00:00,SupportedSources.CROSSREF,10.1002/9781118371886.ch6,,17
+"Walcott, R.",Creating an Implied Volatility Surface with Rough Volatility Models,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4289148,,18
+"P. Friz,William Salkeld,T. Wagenhofer",Weak error estimates for rough volatility models,2022-12-03 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,",",19
+,Local Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch14,,20
+"Ekstrand, C.",Local Volatility Models,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-22155-2_6,,21
+,Local Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch16,,22
+"Bouchard, B.,Chassagneux, J.",Local Volatility Models,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-38990-5_7,,23
+"Neusser, K.",Models of Volatility,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-32862-1_8,,24
+,Introducing Stochastic Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch19,,25
+A. Jacquier,Pricing and Hedging in rough volatility models,None,SupportedSources.SEMANTIC_SCHOLAR,10.14288/1.0377057,,26
+,Parameter-Driven Volatility Models,2019-03-25 00:00:00,SupportedSources.CROSSREF,10.1002/9781119313472.ch12,,27
+"Brandi, G.,Di Matteo, T.",Multiscaling and rough volatility: An empirical investigation,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.irfa.2022.102324,,28
+"Brockhaus, O.",Short Volatility Models,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1057/9781137349491_6,,29
+,Multivariate Volatility Models,2015-09-18 00:00:00,SupportedSources.CROSSREF,10.1002/9781119205869.ch3,,30
+"Fengler, M.,Herwartz, H.",Multivariate Volatility Models,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-69179-2_15,,31
+"Felpel, M.,Kienitz, J.,McWalter, T.",Effective Stochastic Local Volatility Models,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4016334,,32
+"Hol, E.",Forecasting with Volatility Models,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4757-5129-1_4,,33
+"Fournié, E.,Lasry, J.,Touzi, N.",Monte Carlo Methods for Stochastic Volatility Models,1997-06-26 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139173056.009,,34
+,Implied Volatility Models,2012-03-12 00:00:00,SupportedSources.CROSSREF,10.1002/9781118467398.ch13,,35
+"Buff, R.",Uncertain Volatility Models — Theory and Application,2002-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-56323-2,,36
+"Omori, Y.,Ishihara, T.",Multivariate Stochastic Volatility Models,2012-03-27 00:00:00,SupportedSources.CROSSREF,10.1002/9781118272039.ch7,,37
+,Stochastic Volatility and Realized Stochastic Volatility Models,2015-05-21 00:00:00,SupportedSources.CROSSREF,10.1201/b18502-28,,38
+,Volatility Measurement and Forecasting,2012-01-02 00:00:00,SupportedSources.CROSSREF,10.1002/9781119197058.ch2,,39
+"Heinen, A.,Valdesogo, A.",Copula-Based Volatility Models,2012-03-27 00:00:00,SupportedSources.CROSSREF,10.1002/9781118272039.ch12,,40
+"Parent, L.",The Rough Path-Dependent Volatility Model,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4270481,,41
+"Kettani, O.,Reghai, A.",Local Volatility Model,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-57496-3_3,,42
+,Affine Stochastic Volatility Models,2015-10-17 00:00:00,SupportedSources.CROSSREF,10.1002/9780470685167.ch16,,43
+"Lazar, E.,Zhang, N.",Model Risk of Volatility Models,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ecosta.2022.06.002,,44
+"Valaitytė, A.,Valakevičius, E.",Stochastic Volatility Models and Option Prices,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11758549_51,,45
+"Peiris, S.,Thavaneswaran, A.",An introduction to volatility models with indices,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.aml.2006.04.001,,46
+"Xi, Y.,Wong, H.",Discrete variance swap in a rough volatility economy,2021-06-30 00:00:00,SupportedSources.CROSSREF,10.1002/fut.22242,,47
+,Volatility,2019-02-21 00:00:00,SupportedSources.CROSSREF,10.1017/9781316819302.012,,48
+"Bag, D.",Volatility,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-16-1135-3_2,,49
+"Zhu, J.",Numerical Issues of Stochastic Volatility Models,2009-10-02 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-01808-4_4,,50
+"Bartolucci, F.,De Luca, G.",Estimation of Stochastic Volatility Models,2002-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4757-3613-7_27,,51
+"Gong, H.,Thavaneswaran, A.",Recursive estimation for continuous time stochastic volatility models,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.aml.2009.06.014,,52
+"Gulisashvili, A.",Stock Price Models with Stochastic Volatility,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-31214-4_2,,53
+,Studying Volatility Charts,2012-09-11 00:00:00,SupportedSources.CROSSREF,10.1002/9781118531846.ch14,,54
+,Volatility Time Scales,2011-09-29 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139020534.004,,55
+,ARCH Volatility Specifications,2010-03-31 00:00:00,SupportedSources.CROSSREF,10.1002/9780470688014.ch2,,56
+"Amendola, A.,Braione, M.,Candila, V.,Storti, G.",Combining Multivariate Volatility Models,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-89824-7_7,,57
+"Amendola, A.,Storti, G.",A Thick Modeling Approach to Multivariate Volatility Prediction,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/10104_2014_18,,58
+"Omar El Euch,Jim Gatheral,M. Rosenbaum",Roughening Heston,2019-03-25 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.2139/ssrn.3116887,"Rough volatility models are known to fit the volatility surface remarkably well with very few parameters. On the other hand, the classical Heston model is highly tractable allowing for fast calibration. We present here the rough Heston model which offers the best of both worlds. Even better, we find that we can accurately approximate rough Heston model values by scaling the volatility of volatility parameter of the classical Heston model.",59
+,Time Series Models for Volatility,2019-08-15 00:00:00,SupportedSources.CROSSREF,10.1017/9781108525947.021,,60
+"Itkin, A.",Fitting Local Volatility,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/11623,,61
+"Keller-Ressel, Martin,Larsson, Martin,Pulido, Sergio",Affine Rough Models,2019-08-08 00:00:00,SupportedSources.CORE,,"The goal of this survey article is to explain and elucidate the affine structure of recent models appearing in the rough volatility literature, and show how it leads to exponential-affine transform formulas",62
+"Aït-Sahalia, Y.,Amengual, D.,Manresa, E.",Market-based estimation of stochastic volatility models,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jeconom.2015.02.028,,63
+"Venter, J.,de Jongh, P.",Extended stochastic volatility models incorporating realised measures,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.csda.2012.11.005,,64
+"P. Foschi,A. Pascucci",Path dependent volatility,2008-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/S10203-007-0076-6,,65
+,Volatility Forecasting: An Empirical Example using Eviews 6,2010-03-31 00:00:00,SupportedSources.CROSSREF,10.1002/9780470688014.ch4,,66
+"Han, H.,Zhang, S.",Nonstationary nonparametric volatility model,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1111/j.1368-423x.2012.00357.x,,67
+"Linlan Xiao,Abdurrahman B. Aydemir",Volatility modelling and forecasting in finance,None,SupportedSources.SEMANTIC_SCHOLAR,10.1016/B978-075066942-9.50003-0,,68
+"Xiao, L.,Aydemir, A.",Volatility modelling and forecasting in finance,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-075066942-9.50003-0,,69
+,Implied Volatility Trees,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/0-387-31607-8_11,,70
+,Volatility Swap,None,SupportedSources.CROSSREF,10.1007/springerreference_2807,,71
+"Solibakke, P.",Stochastic Volatility Models Predictive Relevance for Equity Markets,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-56219-9_9,,72
+"Gulisashvili, A.",More Formulas for Implied Volatility,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-31214-4_10,,73
+"Palm, F.",7 GARCH models of volatility,1996-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0169-7161(96)14009-8,,74
+"Carmona, R.,Nadtochiy, S.",Local volatility dynamic models,2008-10-30 00:00:00,SupportedSources.CROSSREF,10.1007/s00780-008-0078-4,,75
+"Ghysels, E.,Gouriéroux, C.,Jasiak, J.",Stochastic volatility duration models,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0304-4076(03)00202-1,,76
+"Chong, T.,Lin, S.",Predictive models for disaggregate stock market volatility,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/s11408-017-0291-2,,77
+"P, H.,S, B.",Volatility Forecasting - A Performance Measure of Garch Techniques with Different Distribution Models,2016-08-31 00:00:00,SupportedSources.CROSSREF,10.14810/ijscmc.2016.5301,,78
+"Ghysels, E.,Valkanov, R.",Forecasting Volatility with MIDAS,2012-03-27 00:00:00,SupportedSources.CROSSREF,10.1002/9781118272039.ch16,,79
+"Zhu, J.",Simulating Stochastic Volatility Models,2009-10-02 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-01808-4_5,,80
+"F. Comte,L. Coutin,É. Renault",Affine fractional stochastic volatility models,2012-05-02 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/S10436-010-0165-3,,81
+"C. Schittenkopf,G. Dorffner,E. Dockner",Volatility Prediction with Mixture Density Networks,1998-09-02 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-1-4471-1599-1_145,,82
+"Grabchak, M.,Christou, E.",A note on calculating expected shortfall for discrete time stochastic volatility models,2021-06-10 00:00:00,SupportedSources.CROSSREF,10.1186/s40854-021-00254-0,,83
+,Volatility Forecasting: An Empirical Example using G@RCH Ox,2010-03-31 00:00:00,SupportedSources.CROSSREF,10.1002/9780470688014.ch6,,84
+,Intraday Realized Volatility Models,2010-03-31 00:00:00,SupportedSources.CROSSREF,10.1002/9780470688014.ch7,,85
+"Renault, E.",Moment–Based Estimation of Stochastic Volatility Models,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-71297-8_12,,86
+"Hol, E.",Asset Return Volatility Models,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4757-5129-1_2,,87
+"S. Chib,Yasuhiro Omori,Manabu Asai",Multivariate stochastic volatility,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-540-71297-8_16,,88
+"Tsiotas, G.",On generalised asymmetric stochastic volatility models,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.csda.2011.06.031,,89
+"Meddahi, N.,Renault, E.",Temporal aggregation of volatility models,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0304-4076(03)00200-8,,90
+"F. Diebold,Jose A. Lopez",Modeling Volatility Dynamics,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-94-011-0669-6_11,,91
+"Lin, E.,Chen, C.,Gerlach, R.",Forecasting volatility with asymmetric smooth transition dynamic range models,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijforecast.2011.09.002,,92
+"Pezzo, R.,Uberti, M.",Approaches to forecasting volatility: Models and their performances for emerging equity markets,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.chaos.2005.08.070,,93
+"Lions, P.,Musiela, M.",Correlations and bounds for stochastic volatility models,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.anihpc.2005.05.007,,94
+"Craioveanu, M.,Hillebrand, E.",Level changes in volatility models,2010-06-30 00:00:00,SupportedSources.CROSSREF,10.1007/s10436-010-0163-5,,95
+"Svec, J.,Katrak, X.",Forecasting volatility with interacting multiple models,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.frl.2016.10.005,,96
+,Some Final Remarks on Local Volatility Models,2016-08-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781119289258.ch17,,97
+"Rogers, L.",Volatility forecasting in a tick data model,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-075066942-9.50015-7,,98
+"Hurvich, C.,Soulier, P.",Stochastic Volatility Models with Long Memory,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-71297-8_14,,99
