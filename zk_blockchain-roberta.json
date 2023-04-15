@@ -1,0 +1,3612 @@
+[
+    {
+        "authors": [
+            "Ke Huang",
+            "Yi Mu",
+            "Fatemeh Rezaeibagha",
+            "Xiaosong Zhang"
+        ],
+        "title": "Zero-Knowledge Proof for Blockchain",
+        "publication_date": "2021-08-15 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "CRC Press eBooks",
+        "volume": "",
+        "doi": "10.1201/9781003190127-8",
+        "urls": [
+            "https://openalex.org/W3203442351",
+            "https://doi.org/10.1201/9781003190127-8"
+        ],
+        "id": "id-5005429739763118392",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Zero-Knowledge Proof for Blockchain",
+                "journal": "Design and Analysis of Cryptographic Algorithms in Blockchain",
+                "urls": [
+                    "https://doi.org/10.1201/9781003190127-8"
+                ],
+                "doi": "10.1201/9781003190127-8",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Zero-Knowledge Proof for Blockchain",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1201/9781003190127-8"
+                ],
+                "doi": "10.1201/9781003190127-8",
+                "publication_date": "2021-08-15 00:00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proof for Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/40bbe041d81200b37a8fad7e8f84057e1f2725d2"
+                ],
+                "doi": "10.1201/9781003190127-8",
+                "publication_date": "2021-08-15 00:00:00"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Antti Tani"
+        ],
+        "title": "Zero-knowledge proofs in blockchain applications",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W3138660209"
+        ],
+        "id": "id-1120303039247790455",
+        "abstract": "",
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Lee, K."
+        ],
+        "title": "Blockchain-based Personal Information Authentication Method using Zero Knowledge Proofs",
+        "publication_date": "2021-09-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.30693/smj.2021.10.3.48",
+        "urls": [
+            "http://dx.doi.org/10.30693/smj.2021.10.3.48"
+        ],
+        "id": "id7494176596370510227",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Blockchain-based Personal Information Authentication Method using Zero Knowledge Proofs",
+                "journal": "Korean Institute of Smart Media",
+                "urls": [
+                    "https://doi.org/10.30693/smj.2021.10.3.48"
+                ],
+                "doi": "10.30693/smj.2021.10.3.48",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Blockchain-based Personal Information Authentication Method using Zero Knowledge Proofs",
+                "journal": "\uc2a4\ub9c8\ud2b8\ubbf8\ub514\uc5b4\uc800\ub110",
+                "urls": [
+                    "https://openalex.org/W3205115641",
+                    "https://doi.org/10.30693/smj.2021.10.3.48"
+                ],
+                "doi": "10.30693/smj.2021.10.3.48",
+                "publication_date": "2021-09-30 00:00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain-based Personal Information Authentication Method using Zero Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/161c5e2c4096e3ce39ba41545320de25f92a7a83"
+                ],
+                "doi": "10.30693/smj.2021.10.3.48",
+                "publication_date": "2021-09-30 00:00:00"
+            }
+        ],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Xiaohui Yang",
+            "Wenjie Li"
+        ],
+        "title": "A zero-knowledge-proof-based digital identity management scheme in blockchain",
+        "publication_date": "2020-12-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Computers & Security",
+        "volume": "99",
+        "doi": "10.1016/j.cose.2020.102050",
+        "urls": [
+            "https://openalex.org/W3089741453",
+            "https://doi.org/10.1016/j.cose.2020.102050"
+        ],
+        "id": "id-5307922880126169014",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A zero-knowledge-proof-based digital identity management scheme in blockchain",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0167404820303230?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0167404820303230?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.cose.2020.102050"
+                ],
+                "doi": "10.1016/j.cose.2020.102050",
+                "publication_date": "2020-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "A zero-knowledge-proof-based digital identity management scheme in blockchain",
+                "journal": "Computers &amp; Security",
+                "urls": [
+                    "https://doi.org/10.1016/j.cose.2020.102050"
+                ],
+                "doi": "10.1016/j.cose.2020.102050",
+                "publication_date": "None"
+            },
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A zero-knowledge-proof-based digital identity management scheme in blockchain",
+                "journal": "Comput. Secur.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2b8269e8fc475c3e208cc32c658ad3111d49f493"
+                ],
+                "doi": "10.1016/J.COSE.2020.102050",
+                "publication_date": "2020-12-01 00:00:00"
+            }
+        ],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Capraz, S.",
+            "Ozsoy, A."
+        ],
+        "title": "Personal Data Protection in Blockchain with Zero-Knowledge Proof",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-33-6470-7_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-33-6470-7_7",
+            "http://dx.doi.org/10.1007/978-981-33-6470-7_7"
+        ],
+        "id": "id-1851143920648573733",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Personal Data Protection in Blockchain with Zero-Knowledge Proof",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c11f40f79a93fb2310e6ead9992e510b23a8fbdd"
+                ],
+                "doi": "10.1007/978-981-33-6470-7_7",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Personal Data Protection in Blockchain with Zero-Knowledge Proof",
+                "journal": "Smart Innovation, Systems and Technologies",
+                "urls": [
+                    "https://doi.org/10.1007/978-981-33-6470-7_7"
+                ],
+                "doi": "10.1007/978-981-33-6470-7_7",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Personal Data Protection in Blockchain with Zero-Knowledge Proof",
+                "journal": "Smart innovation, systems and technologies",
+                "urls": [
+                    "https://openalex.org/W3136521687",
+                    "https://doi.org/10.1007/978-981-33-6470-7_7"
+                ],
+                "doi": "10.1007/978-981-33-6470-7_7",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "K. Lee"
+        ],
+        "title": "Implementation of Personal Information Authentication Using Blockchain-Based Zero Knowledge Proofs",
+        "publication_date": "2022-10-31 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.7840/kics.2022.47.10.1598",
+        "urls": [
+            "https://www.semanticscholar.org/paper/6c81dfe174da8cb1a8a3669472b62050d2cd507e"
+        ],
+        "id": "id-8336785545988933822",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Implementation of Personal Information Authentication Using Blockchain-Based Zero Knowledge Proofs",
+                "journal": "The Journal of Korean Institute of Communications and Information Sciences",
+                "urls": [
+                    "https://doi.org/10.7840/kics.2022.47.10.1598"
+                ],
+                "doi": "10.7840/kics.2022.47.10.1598",
+                "publication_date": "None"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Implementation of Personal Information Authentication Using Blockchain-Based Zero Knowledge Proofs",
+                "journal": "The Journal of Korean Institute of Communications and Information Sciences",
+                "urls": [
+                    "https://openalex.org/W4307865394",
+                    "https://doi.org/10.7840/kics.2022.47.10.1598"
+                ],
+                "doi": "10.7840/kics.2022.47.10.1598",
+                "publication_date": "2022-10-31 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Implementation of Personal Information Authentication Using Blockchain-Based Zero Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.7840/kics.2022.47.10.1598"
+                ],
+                "doi": "10.7840/kics.2022.47.10.1598",
+                "publication_date": "2022-10-31 00:00:00"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "L\u00eddia Andrade Lourinho",
+            "Stefan Kendzierskyj",
+            "Hamid Jahankhani"
+        ],
+        "title": "Securing the digital witness identity using blockchain and zero-knowledge proofs",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Elsevier eBooks",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-821442-8.00010-0",
+        "urls": [
+            "https://openalex.org/W3127026570",
+            "https://doi.org/10.1016/b978-0-12-821442-8.00010-0"
+        ],
+        "id": "id7294097778396654281",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Securing the digital witness identity using blockchain and zero-knowledge proofs",
+                "journal": "Strategy, Leadership, and AI in the Cyber Ecosystem",
+                "urls": [
+                    "https://doi.org/10.1016/b978-0-12-821442-8.00010-0"
+                ],
+                "doi": "10.1016/b978-0-12-821442-8.00010-0",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Securing the digital witness identity using blockchain and zero-knowledge proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7cf80c9f9c8859dae17b51ee949134391f96016e"
+                ],
+                "doi": "10.1016/B978-0-12-821442-8.00010-0",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Securing the digital witness identity using blockchain and zero-knowledge proofs",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:B9780128214428000100?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:B9780128214428000100?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/b978-0-12-821442-8.00010-0"
+                ],
+                "doi": "10.1016/b978-0-12-821442-8.00010-0",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Sepehr Damavandi",
+            "Sadegh Dorri Nogoorani"
+        ],
+        "title": "An Electronic Voting Scheme Based on Blockchain Technology and Zero-Knowledge Proofs",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "ISC Int. J. Inf. Secur.",
+        "volume": "14",
+        "doi": "10.22042/isecure.2022.14.3.13",
+        "urls": [
+            "https://www.semanticscholar.org/paper/8c3aa664bdf71c1ca85c057d921953b5de6ee171"
+        ],
+        "id": "id2628059542910584634",
+        "abstract": null,
+        "versions": [],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Pieprzyk, J.",
+            "Hardjono, T.",
+            "Seberry, J."
+        ],
+        "title": "Zero-Knowledge Proof Systems",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-07324-7_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-07324-7_12",
+            "http://dx.doi.org/10.1007/978-3-662-07324-7_12"
+        ],
+        "id": "id2605254888923241730",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proof Systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7a2870c354f4d306065a1ce2086dae2f47145f2c"
+                ],
+                "doi": "10.1007/978-3-662-07324-7_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [],
+        "title": "Zero-Knowledge Proof Systems",
+        "publication_date": "2001-08-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511546891.005",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/18C36EBE57010ECA942D52C5304FE59E",
+            "http://dx.doi.org/10.1017/cbo9780511546891.005"
+        ],
+        "id": "id4909715506938289413",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Foundations of Cryptography: Zero-Knowledge Proof Systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c7915b3aa283eb272c7dfb3530a3864a674c2fe1"
+                ],
+                "doi": "10.1017/CBO9780511546891.005",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Jeong, S.",
+            "Ahn, B."
+        ],
+        "title": "Implementation of real estate contract system using zero knowledge proof algorithm based blockchain",
+        "publication_date": "2021-03-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11227-021-03728-1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s11227-021-03728-1.pdf",
+            "https://link.springer.com/article/10.1007/s11227-021-03728-1/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s11227-021-03728-1.pdf",
+            "http://dx.doi.org/10.1007/s11227-021-03728-1"
+        ],
+        "id": "id3623797623020988817",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Implementation of real estate contract system using zero knowledge proof algorithm based blockchain",
+                "journal": "The Journal of Supercomputing",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8c372d6acbee6380c2663ac2a1cb3224d7a22cc9"
+                ],
+                "doi": "10.1007/s11227-021-03728-1",
+                "publication_date": "2021-03-30 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Implementation of real estate contract system using zero knowledge proof algorithm based blockchain",
+                "journal": "The Journal of Supercomputing",
+                "urls": [
+                    "https://doi.org/10.1007/s11227-021-03728-1"
+                ],
+                "doi": "10.1007/s11227-021-03728-1",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Implementation of real estate contract system using zero knowledge proof algorithm based blockchain",
+                "journal": "The Journal of Supercomputing",
+                "urls": [
+                    "https://openalex.org/W3151669409",
+                    "https://doi.org/10.1007/s11227-021-03728-1"
+                ],
+                "doi": "10.1007/s11227-021-03728-1",
+                "publication_date": "2021-10-01 00:00:00"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Konkin, A.",
+            "Zapechnikov, S."
+        ],
+        "title": "Zero knowledge proof and ZK-SNARK for private blockchains",
+        "publication_date": "2023-03-09 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11416-023-00466-1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s11416-023-00466-1.pdf",
+            "https://link.springer.com/article/10.1007/s11416-023-00466-1/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s11416-023-00466-1.pdf",
+            "http://dx.doi.org/10.1007/s11416-023-00466-1"
+        ],
+        "id": "id708813811142405445",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2023,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Zero knowledge proof and ZK-SNARK for private blockchains",
+                "journal": "Journal of computer virology and hacking techniques",
+                "urls": [
+                    "https://openalex.org/W4360978743",
+                    "https://doi.org/10.1007/s11416-023-00466-1"
+                ],
+                "doi": "10.1007/s11416-023-00466-1",
+                "publication_date": "2023-03-09 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Zero knowledge proof and ZK-SNARK for private blockchains",
+                "journal": "Journal of Computer Virology and Hacking Techniques",
+                "urls": [
+                    "https://doi.org/10.1007/s11416-023-00466-1"
+                ],
+                "doi": "10.1007/s11416-023-00466-1",
+                "publication_date": "None"
+            },
+            {
+                "year": 2023,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero knowledge proof and ZK-SNARK for private blockchains",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/15a2633e3b519a0a863d3368d1f4c36f19e309f9"
+                ],
+                "doi": "10.1007/s11416-023-00466-1",
+                "publication_date": "2023-03-09 00:00:00"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "van Rijmenam, M.",
+            "Ryan, P."
+        ],
+        "title": "What is the Blockchain?",
+        "publication_date": "2018-09-03 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4324/9780429457715-2",
+        "urls": [
+            "http://dx.doi.org/10.4324/9780429457715-2"
+        ],
+        "id": "id8077144742473215130",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "What is the Blockchain?",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/63379c6208cf006d399fbdfd07e008042faf29bc"
+                ],
+                "doi": "10.4324/9780429457715-2",
+                "publication_date": "2018-09-03 00:00:00"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "Smart, N."
+        ],
+        "title": "Zero-Knowledge Proofs",
+        "publication_date": "2015-11-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-21936-3_21",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-21936-3_21",
+            "http://dx.doi.org/10.1007/978-3-319-21936-3_21"
+        ],
+        "id": "id8839862294761592362",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/65f8db99fb23955ddb6490b9059669b7588da821"
+                ],
+                "doi": "10.1007/978-3-319-21936-3_21",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Rubinstein-Salzedo, S."
+        ],
+        "title": "Zero-Knowledge Proofs",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-94818-8_16",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-94818-8_16",
+            "http://dx.doi.org/10.1007/978-3-319-94818-8_16"
+        ],
+        "id": "id302987908039488887",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a4abced1852677a7182cb4ea71db5b3d102353dd"
+                ],
+                "doi": "10.1007/978-3-319-94818-8_16",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "Collin, S."
+        ],
+        "title": "Zero knowledge proofs",
+        "publication_date": "1988-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0142-0496(88)90021-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain",
+            "https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0142-0496(88)90021-5"
+        ],
+        "id": "id-3237255705756036513",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1988,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero knowledge proofs",
+                "journal": "Computer Fraud & Security Bulletin",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3a5448ccde5a0b9d5b9b088e02377101583bf605"
+                ],
+                "doi": "10.1016/0142-0496(88)90021-5",
+                "publication_date": "1988-08-01 00:00:00"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Xiaojun Wen",
+            "Yong-Zhi Chen",
+            "Xincan Fan",
+            "Wei Zhang",
+            "Zhengzhong Yi",
+            "Jun Fang"
+        ],
+        "title": "Blockchain consensus mechanism based on quantum zero-knowledge proof",
+        "publication_date": "2022-03-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Optics and Laser Technology",
+        "volume": "147",
+        "doi": "10.1016/j.optlastec.2021.107693",
+        "urls": [
+            "https://openalex.org/W3215201505",
+            "https://doi.org/10.1016/j.optlastec.2021.107693"
+        ],
+        "id": "id3741935415258753664",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain consensus mechanism based on quantum zero-knowledge proof",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e8d6fe7bdf78667b223233d6eff09d79aec9e140"
+                ],
+                "doi": "10.1016/j.optlastec.2021.107693",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Blockchain consensus mechanism based on quantum zero-knowledge proof",
+                "journal": "Optics &amp; Laser Technology",
+                "urls": [
+                    "https://doi.org/10.1016/j.optlastec.2021.107693"
+                ],
+                "doi": "10.1016/j.optlastec.2021.107693",
+                "publication_date": "None"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Blockchain consensus mechanism based on quantum zero-knowledge proof",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0030399221007817?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0030399221007817?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.optlastec.2021.107693"
+                ],
+                "doi": "10.1016/j.optlastec.2021.107693",
+                "publication_date": "2022-01-01 00:00:00"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Kilian, J.",
+            "Micali, S.",
+            "Ostrovsky, R."
+        ],
+        "title": "Minimum Resource Zero-Knowledge Proofs",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-387-34805-0_47",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/0-387-34805-0_47.pdf",
+            "http://dx.doi.org/10.1007/0-387-34805-0_47"
+        ],
+        "id": "id-4109471425049054085",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1989,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Minimum Resource Zero-Knowledge Proofs (Extended Abstract)",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6220f76240eed6223c1898c9bd72cf93ac502e95",
+                    "https://link.springer.com/content/pdf/10.1007/0-387-34805-0_47.pdf"
+                ],
+                "doi": "10.1007/0-387-34805-0_47",
+                "publication_date": "1989-08-20 00:00:00"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "De Santis, A.",
+            "Micali, S.",
+            "Persiano, G."
+        ],
+        "title": "Non-Interactive Zero-Knowledge Proof Systems",
+        "publication_date": "1988-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/3-540-48184-2_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/3-540-48184-2_5",
+            "http://dx.doi.org/10.1007/3-540-48184-2_5"
+        ],
+        "id": "id-803717807038467543",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1987,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Non-Interactive Zero-Knowledge Proof Systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6d1259b13c8c49d307292683b1905654e0feb4cf",
+                    "https://link.springer.com/content/pdf/10.1007/3-540-48184-2_5.pdf"
+                ],
+                "doi": "10.1007/3-540-48184-2_5",
+                "publication_date": "1987-08-16 00:00:00"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Zheng, H.",
+            "You, L.",
+            "Hu, G."
+        ],
+        "title": "A Novel Insurance Claim Blockchain Scheme Based on Zero-Knowledge Proof Technology",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4092906",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4092906"
+        ],
+        "id": "id-2946095722350062888",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A novel insurance claim blockchain scheme based on zero-knowledge proof technology",
+                "journal": "Comput. Commun.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c98c43f756d64b9e5e3af3b88722d1555372e272"
+                ],
+                "doi": "10.2139/ssrn.4092906",
+                "publication_date": "2022-08-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "A Novel Insurance Claim Blockchain Scheme Based on Zero-Knowledge Proof Technology",
+                "journal": "SSRN Electronic Journal",
+                "urls": [
+                    "https://doi.org/10.2139/ssrn.4092906"
+                ],
+                "doi": "10.2139/ssrn.4092906",
+                "publication_date": "None"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A Novel Insurance Claim Blockchain Scheme Based on Zero-Knowledge Proof Technology",
+                "journal": "Social Science Research Network",
+                "urls": [
+                    "https://openalex.org/W4226156442",
+                    "https://doi.org/10.2139/ssrn.4092906"
+                ],
+                "doi": "10.2139/ssrn.4092906",
+                "publication_date": "2022-01-01 00:00:00"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [],
+        "title": "Zero-Knowledge Proof Technology",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781786348210_0007",
+        "urls": [
+            "http://dx.doi.org/10.1142/9781786348210_0007"
+        ],
+        "id": "id3400306926822237725",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proof Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/baca32001dfefc63db79e9eac25e34fda903e2d7"
+                ],
+                "doi": "10.1142/9781786348210_0007",
+                "publication_date": "2020-04-01 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Jayapriya, J.",
+            "Jeyanthi, N."
+        ],
+        "title": "Proof of Virtue: Nonce-Free Hash Generation in Blockchain",
+        "publication_date": "2020-12-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003034049-4",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003034049-4"
+        ],
+        "id": "id175970308471803057",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Proof of Virtue: Nonce-Free Hash Generation in Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c82224821e01fb8cb1f745240c3e2283335eb95b"
+                ],
+                "doi": "10.1201/9781003034049-4",
+                "publication_date": "2020-12-30 00:00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Ratseev, S.",
+            "Ulyanovsk State University",
+            "Rostov, M.",
+            "Ulyanovsk State University"
+        ],
+        "title": "Zero-Knowledge Proof Authentication Protocols",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.18500/1816-9791-2019-19-1-114-121",
+        "urls": [
+            "http://dx.doi.org/10.18500/1816-9791-2019-19-1-114-121"
+        ],
+        "id": "id-2251204287252137696",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-Knowledge Proof Authentication Protocols",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1c78a804d91a66c1e2d7fc7bd8d766a46e17cca3"
+                ],
+                "doi": "10.18500/1816-9791-2019-19-1-114-121",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [],
+        "title": "Zero knowledge proof protocol from Multivariate Public Key Cryptosystems",
+        "publication_date": "2015-07-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/b18660-5",
+        "urls": [
+            "http://dx.doi.org/10.1201/b18660-5"
+        ],
+        "id": "id-2235090145609857744",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Protect the semantic network identity: Attribute-based searchable encryption over routing in named data network",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7c2ca907025053cf42598ec0d190d48bfdc57902"
+                ],
+                "doi": "10.1201/b18660-5",
+                "publication_date": "2015-07-13 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Dhillon, V.",
+            "Metcalf, D.",
+            "Hooper, M."
+        ],
+        "title": "Foundations of Blockchain",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4842-3081-7_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4842-3081-7_3",
+            "http://dx.doi.org/10.1007/978-1-4842-3081-7_3"
+        ],
+        "id": "id-1277261837444076739",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Foundations of Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/657bf984737f8e2a31d1e731b62911a12b9308d8"
+                ],
+                "doi": "10.1007/978-1-4842-3081-7_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "White, M."
+        ],
+        "title": "How to use blockchain",
+        "publication_date": "2022-10-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.47330/cbc.2022.ofxs7060",
+        "urls": [
+            "http://dx.doi.org/10.47330/cbc.2022.ofxs7060"
+        ],
+        "id": "id2799370629362227096",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "How to use blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c2ba9229e2a43b9592a2bde36b0d4915ecea0af0"
+                ],
+                "doi": "10.47330/cbc.2022.ofxs7060",
+                "publication_date": "2022-10-30 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "Goldreich, O.",
+            "Teichner, L."
+        ],
+        "title": "Super-Perfect Zero-Knowledge Proofs",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-43662-9_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-43662-9_8",
+            "http://dx.doi.org/10.1007/978-3-030-43662-9_8"
+        ],
+        "id": "id-5326868377505491180",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Super-Perfect Zero-Knowledge Proofs",
+                "journal": "Electron. Colloquium Comput. Complex.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9e4ebc9b1b50ec6e25314eb8579a00100bec8509",
+                    "http://www.wisdom.weizmann.ac.il/~oded/VO/spzk.pdf"
+                ],
+                "doi": "10.1007/978-3-030-43662-9_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Bermejo Higuera, J.",
+            "Bermejo Higuer, J.",
+            "Sicilia Montalvo, J.",
+            "Gonz\u00e1lez Crespo, R."
+        ],
+        "title": "Introduction to Cryptography in Blockchain",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-16-3412-3_1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-981-16-3412-3_1",
+            "http://dx.doi.org/10.1007/978-981-16-3412-3_1"
+        ],
+        "id": "id-6458430604121167666",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introduction to Cryptography in Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aec298d420c7b49a50206f8e8c3411abb2afdf86"
+                ],
+                "doi": "10.1007/978-981-16-3412-3_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Yi-Ting Huang",
+            "Yong Yu",
+            "Huilin Li",
+            "Yannan Li",
+            "Aikui Tian"
+        ],
+        "title": "Blockchain-based continuous data integrity checking protocol with zero-knowledge privacy protection",
+        "publication_date": "2022-04-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Digital Communications and Networks",
+        "volume": "8",
+        "doi": "10.1016/j.dcan.2022.04.017",
+        "urls": [
+            "https://openalex.org/W4224920801",
+            "https://doi.org/10.1016/j.dcan.2022.04.017",
+            "https://doi.org/10.1016/j.dcan.2022.04.017"
+        ],
+        "id": "id-1439760439434795362",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Blockchain-based continuous data integrity checking protocol with zero-knowledge privacy protection",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S2352864822000669?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S2352864822000669?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.dcan.2022.04.017"
+                ],
+                "doi": "10.1016/j.dcan.2022.04.017",
+                "publication_date": "2022-01-01 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain-based continuous data integrity checking protocol with zero-knowledge privacy protection",
+                "journal": "Digit. Commun. Networks",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1b4e57af234b0f2d3b957c8a2d553beecdec466b"
+                ],
+                "doi": "10.1016/j.dcan.2022.04.017",
+                "publication_date": "2022-04-01 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Subramanian, N.",
+            "Chaudhuri, A.",
+            "Kayikci, Y."
+        ],
+        "title": "Basics of Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-47531-4_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-47531-4_2",
+            "http://dx.doi.org/10.1007/978-3-030-47531-4_2"
+        ],
+        "id": "id1859518881770096628",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Basics of Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/719f94e4a28b59a13a687b4759855577998d5ad3"
+                ],
+                "doi": "10.1007/978-3-030-47531-4_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "Damg\u00e5rd, I.",
+            "Fazio, N.",
+            "Nicolosi, A."
+        ],
+        "title": "Non-interactive Zero-Knowledge from Homomorphic Encryption",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11681878_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11681878_3.pdf",
+            "http://dx.doi.org/10.1007/11681878_3"
+        ],
+        "id": "id-2005665526528972167",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Non-interactive Zero-Knowledge from Homomorphic Encryption",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/36db48cca22838d34d581225d2d8450e9fdcc9e5",
+                    "https://link.springer.com/content/pdf/10.1007%2F11681878_3.pdf"
+                ],
+                "doi": "10.1007/11681878_3",
+                "publication_date": "2006-03-04 00:00:00"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Brakerski, Z.",
+            "Katz, J.",
+            "Segev, G.",
+            "Yerukhimovich, A."
+        ],
+        "title": "Limits on the Power of Zero-Knowledge Proofs in Cryptographic Constructions",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-19571-6_34",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-19571-6_34.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-19571-6_34"
+        ],
+        "id": "id-2414992077833331706",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Limits on the Power of Zero-Knowledge Proofs in Cryptographic Constructions",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2378b9c3d4b881e2fb7deedcbafe67b0dc54869a",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-642-19571-6_34.pdf"
+                ],
+                "doi": "10.1007/978-3-642-19571-6_34",
+                "publication_date": "2011-03-28 00:00:00"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "Dhillon, V.",
+            "Metcalf, D.",
+            "Hooper, M."
+        ],
+        "title": "Foundations of a Blockchain",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4842-6534-5_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4842-6534-5_3",
+            "http://dx.doi.org/10.1007/978-1-4842-6534-5_3"
+        ],
+        "id": "id-7506287519203987908",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Foundations of a Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c1fdf9defc8e60b22ce07b7e8029c82a9f533506"
+                ],
+                "doi": "10.1007/978-1-4842-6534-5_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Groth, J."
+        ],
+        "title": "Efficient Zero-Knowledge Proofs",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-21969-6_24",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-21969-6_24",
+            "http://dx.doi.org/10.1007/978-3-642-21969-6_24"
+        ],
+        "id": "id4493015988628874192",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Efficient Zero-Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b8d289615c6966896a3cffe8a7717d7125e4bdcb",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-642-21969-6_24.pdf"
+                ],
+                "doi": "10.1007/978-3-642-21969-6_24",
+                "publication_date": "2011-07-05 00:00:00"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Gray, G."
+        ],
+        "title": "Why Blockchain?",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-85716-5_1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-85716-5_1",
+            "http://dx.doi.org/10.1007/978-3-030-85716-5_1"
+        ],
+        "id": "id-63685500164978480",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Why Blockchain?",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/59a91ec79f5953d1820ed9092090519cc7ec5944"
+                ],
+                "doi": "10.1007/978-3-030-85716-5_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "Million, C."
+        ],
+        "title": "1 Blockchain Fundamentals",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.34157/9783648123478-11",
+        "urls": [
+            "http://dx.doi.org/10.34157/9783648123478-11"
+        ],
+        "id": "id-341818080084126505",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "1 Blockchain Fundamentals",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8d760011e0cc0ed06d5770836e7f94690c254cf1"
+                ],
+                "doi": "10.34157/9783648123478-11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Alessandra Scafuro",
+            "Luisa Siniscalchi",
+            "Ivan Visconti"
+        ],
+        "title": "Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20210710182129/https://eprint.iacr.org/2020/1435.pdf"
+        ],
+        "id": "id8502519000992916671",
+        "abstract": "Publicly Verifiable Zero-Knowledge proofs are known to exist only from setup assumptions such as a trusted Common Reference String (CRS) or a Random Oracle. Unfortunately, the former requires a trusted party while the latter does not exist. Blockchains are distributed systems that already exist and provide certain security properties (under some honest majority assumption), hence, a natural recent research direction has been to use a blockchain as an alternative setup assumption. In TCC 2017 Goyal and Goyal proposed a construction of a publicly verifiable zero-knowledge (pvZK) proof system for some proof-of-stake blockchains. The zero-knowledge property of their construction however relies on some additional and not fully specified assumptions about the current and future behavior of honest blockchain players. In this paper we provide several contributions. First, we show that when using a blockchain to design a provably secure protocol, it is dangerous to rely on demanding additional requirements on behaviors of the blockchain players. We do so by showing an \"attack of the clones\" whereby a malicious verifier can use a smart contract to slyly (not through bribing) clone capabilities of honest stakeholders and use those to invalidate the zero-knowledge property of the proof system by Goyal and Goyal. Second, we propose a new publicly verifiable zero-knowledge proof system that relies on noninteractive commitments and on an assumption on the min-entropy of some blocks appearing on the blockchain. Third, motivated by the fact that blockchains are a recent innovation and their resilience in the long run is still controversial, we introduce the concept of collapsing blockchain, and we prove that the zero-knowledge property of our scheme holds even if the blockchain eventually becomes insecure and all blockchain players eventually become dishonest.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a966eb54e5041b0dbd869c9a60563901e26d7e16"
+                ],
+                "doi": "10.1007/978-3-030-75248-4_17",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Liu Jiyao",
+            "Yunhua He",
+            "Chao Wang",
+            "Yan Hu",
+            "Hong Li",
+            "Limin Sun"
+        ],
+        "title": "An Anonymous Blockchain-Based Logging System for Cloud Computing",
+        "publication_date": "2019-12-07 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Communications in computer and information science",
+        "volume": "",
+        "doi": "10.1007/978-981-15-2777-7_24",
+        "urls": [
+            "https://openalex.org/W3001666980",
+            "https://doi.org/10.1007/978-981-15-2777-7_24"
+        ],
+        "id": "id-6049382005904538868",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "An Anonymous Blockchain-Based Logging System for Cloud Computing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b176489957b758ebe351eda1556198377cc3ca65"
+                ],
+                "doi": "10.1007/978-981-15-2777-7_24",
+                "publication_date": "2019-12-07 00:00:00"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Peng, B.",
+            "Zhu, Y.",
+            "Jing, N.",
+            "Zheng, X.",
+            "Zhou, Y."
+        ],
+        "title": "Design of a Hardware Accelerator for Zero-Knowledge Proof in Blockchains",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-74717-6_15",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-74717-6_15",
+            "http://dx.doi.org/10.1007/978-3-030-74717-6_15"
+        ],
+        "id": "id-1459075919367786632",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Design of a Hardware Accelerator for Zero-Knowledge Proof in Blockchains",
+                "journal": "Smart Computing and Communication",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-74717-6_15"
+                ],
+                "doi": "10.1007/978-3-030-74717-6_15",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Design of a Hardware Accelerator for Zero-Knowledge Proof in Blockchains",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7f201743ae388b5d0c6f50773aa3d013b497a500"
+                ],
+                "doi": "10.1007/978-3-030-74717-6_15",
+                "publication_date": "None"
+            },
+            {
+                "year": 2020,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Design of a Hardware Accelerator for Zero-Knowledge Proof in Blockchains",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://openalex.org/W3156857064",
+                    "https://doi.org/10.1007/978-3-030-74717-6_15"
+                ],
+                "doi": "10.1007/978-3-030-74717-6_15",
+                "publication_date": "2020-12-29 00:00:00"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "Lin, H.",
+            "Pass, R.",
+            "Tseng, W.",
+            "Venkitasubramaniam, M."
+        ],
+        "title": "Concurrent Non-Malleable Zero Knowledge Proofs",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-14623-7_23",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-14623-7_23.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-14623-7_23"
+        ],
+        "id": "id-5757109908733255797",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Concurrent Non-Malleable Zero Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/49457c124e673409bdd9b4c1c8085df2df261364",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-642-14623-7_23.pdf"
+                ],
+                "doi": "10.1007/978-3-642-14623-7_23",
+                "publication_date": "2010-08-15 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Goldreich, O.",
+            "Krawczyk, H."
+        ],
+        "title": "On the composition of zero-knowledge proof systems",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bfb0032038",
+        "urls": [
+            "http://www.springerlink.com/index/pdf/10.1007/BFb0032038",
+            "http://dx.doi.org/10.1007/bfb0032038"
+        ],
+        "id": "id3639242801324656215",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1990,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On the Composition of Zero-Knowledge Proof Systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/db4519cf5921274d47cc331f059b457c8f6950fc"
+                ],
+                "doi": "10.1007/BFb0032038",
+                "publication_date": "1990-07-01 00:00:00"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Li, F.",
+            "McMillin, B."
+        ],
+        "title": "A Survey on Zero-Knowledge Proofs",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-800161-5.00002-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780128001615000025?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780128001615000025?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-12-800161-5.00002-5"
+        ],
+        "id": "id2392843867054168920",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Survey on Zero-Knowledge Proofs",
+                "journal": "Adv. Comput.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4adbe60132383e874194e5cfc853aba0b74fc84c"
+                ],
+                "doi": "10.1016/B978-0-12-800161-5.00002-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Bendlin, R.",
+            "Damg\u00e5rd, I."
+        ],
+        "title": "Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-11799-2_13",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11799-2_13",
+            "http://dx.doi.org/10.1007/978-3-642-11799-2_13"
+        ],
+        "id": "id5033639660047347508",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2faae40c96377ff1c74f01ba718d7bbea70d4d8e",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-642-11799-2_13.pdf"
+                ],
+                "doi": "10.1007/978-3-642-11799-2_13",
+                "publication_date": "2010-02-09 00:00:00"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [],
+        "title": "The Technology of the Blockchain",
+        "publication_date": "2020-01-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/9781108687294.004",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2731E06B872DA633FC5F75AF78BE425A",
+            "http://dx.doi.org/10.1017/9781108687294.004"
+        ],
+        "id": "id-1144837632453581112",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Technology of the Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/05cdb087e1efee7f40cf5ea04020d63ca3e3c660"
+                ],
+                "doi": "10.1017/9781108687294.004",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Wang, J.",
+            "Sun, G.",
+            "Gu, Y.",
+            "Liu, K."
+        ],
+        "title": "Distributed Electronic Data Storage and Proof System Based on Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-15-3278-8_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-15-3278-8_4",
+            "http://dx.doi.org/10.1007/978-981-15-3278-8_4"
+        ],
+        "id": "id-4449580388028186637",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Distributed Electronic Data Storage and Proof System Based on Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/728e91c5210c555ba6756d054f8747c59bee7e6c"
+                ],
+                "doi": "10.1007/978-981-15-3278-8_4",
+                "publication_date": "2019-10-11 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "Cui, H.",
+            "Zhang, K."
+        ],
+        "title": "A Simple Post-Quantum Non-interactive Zero-Knowledge Proof from Garbled Circuits",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-88323-2_14",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-88323-2_14",
+            "http://dx.doi.org/10.1007/978-3-030-88323-2_14"
+        ],
+        "id": "id8497901337073763009",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Simple Post-Quantum Non-Interactive Zero-Knowledge Proof from Garbled Circuits",
+                "journal": "IACR Cryptol. ePrint Arch.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3368af4a600630595d1c9ccebeaaf59f6b964b2a"
+                ],
+                "doi": "10.1007/978-3-030-88323-2_14",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [],
+        "title": "What is Blockchain and what should you know about it?",
+        "publication_date": "2020-12-29 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.18356/9789210052542c004",
+        "urls": [
+            "http://dx.doi.org/10.18356/9789210052542c004"
+        ],
+        "id": "id-6424119834421803868",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "What is Blockchain and what should you know about it?",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e3a5b21a90ab984952fef9950f6c02c5a6ac4bec"
+                ],
+                "doi": "10.18356/9789210052542c004",
+                "publication_date": "2020-12-29 00:00:00"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Gao, S.",
+            "Peng, Z.",
+            "Tan, F.",
+            "Zheng, Y.",
+            "Xiao, B."
+        ],
+        "title": "SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/tdsc.2022.3179913",
+        "urls": [
+            "http://xplorestaging.ieee.org/ielx7/8858/4358699/09786741.pdf?arnumber=9786741",
+            "http://dx.doi.org/10.1109/tdsc.2022.3179913"
+        ],
+        "id": "id-131902787083472644",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions",
+                "journal": "IEEE Transactions on Dependable and Secure Computing",
+                "urls": [
+                    "https://openalex.org/W4285255710",
+                    "https://doi.org/10.1109/tdsc.2022.3179913"
+                ],
+                "doi": "10.1109/tdsc.2022.3179913",
+                "publication_date": "2022-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3297283b60fa4f6f9e0667c009adead889870f64"
+                ],
+                "doi": "10.1109/tdsc.2022.3179913",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Ameen, Shazad",
+            "Arulselvan, Ashwin",
+            "Boumghar, Redouane",
+            "Bui Long, AnhToan",
+            "Minisci, Edmondo",
+            "Pizarro De La Iglesia, Jos\u00e9",
+            "Riccardi, Annalisa"
+        ],
+        "title": "Decentralized trust management in concurrent design using blockchain",
+        "publication_date": "2022-10-05 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/554438076.pdf"
+        ],
+        "id": "id-3432517883935026197",
+        "abstract": "[Abstract unavailable",
+        "versions": [],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Shen, M.",
+            "Zhu, L.",
+            "Xu, K."
+        ],
+        "title": "Secure Homogeneous Data Sharing Using Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-15-5939-6_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_4",
+            "http://dx.doi.org/10.1007/978-981-15-5939-6_4"
+        ],
+        "id": "id2126046811587483411",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Secure Homogeneous Data Sharing Using Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9ef0adf45af950047f91be348697e0d38a274cb2"
+                ],
+                "doi": "10.1007/978-981-15-5939-6_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "Singhal, B.",
+            "Dhameja, G.",
+            "Panda, P."
+        ],
+        "title": "How Blockchain Works",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4842-3444-0_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4842-3444-0_2",
+            "http://dx.doi.org/10.1007/978-1-4842-3444-0_2"
+        ],
+        "id": "id587966903472285850",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "How Blockchain Works",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ab56eb658573d0c5b0276648401fdafcc95cf10a"
+                ],
+                "doi": "10.1007/978-1-4842-3444-0_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Miguel D'iaz Montiel",
+            "R. Guerraoui",
+            "Pierre-Louis Roman"
+        ],
+        "title": "SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs",
+        "publication_date": "2022-10-24 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "ArXiv",
+        "volume": "abs/2210.13242",
+        "doi": "10.48550/arXiv.2210.13242",
+        "urls": [
+            "https://www.semanticscholar.org/paper/de4166f575497d48b1cec1cf32e9668404978907"
+        ],
+        "id": "id6147811032047140072",
+        "abstract": "1 2",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication   System via Zero Knowledge Proofs",
+                "journal": "arXiv (Cornell University)",
+                "urls": [
+                    "https://openalex.org/W4307320313",
+                    "https://doi.org/10.48550/arxiv.2210.13242",
+                    "http://arxiv.org/pdf/2210.13242"
+                ],
+                "doi": "10.48550/arxiv.2210.13242",
+                "publication_date": "2022-10-24 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20221106073439/https://arxiv.org/pdf/2210.13242v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2022-10-24 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.ARXIV",
+                "title": "SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/2210.13242v1",
+                    "http://arxiv.org/abs/2210.13242v1",
+                    "http://arxiv.org/pdf/2210.13242v1"
+                ],
+                "doi": "",
+                "publication_date": "2022-10-24 13:43:04+00:00"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Peikert, C.",
+            "Vaikuntanathan, V."
+        ],
+        "title": "Noninteractive Statistical Zero-Knowledge Proofs for Lattice Problems",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-85174-5_30",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-85174-5_30.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-85174-5_30"
+        ],
+        "id": "id928200763757324796",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Noninteractive Statistical Zero-Knowledge Proofs for Lattice Problems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a3c4aa85ff7c20ec78a806999427c75ec5e5d1fa",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-540-85174-5_30.pdf"
+                ],
+                "doi": "10.1007/978-3-540-85174-5_30",
+                "publication_date": "2008-08-17 00:00:00"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Suresh Kumar, K.",
+            "Ananth Kumar, T.",
+            "Radhamani, A.",
+            "Sundaresan, S."
+        ],
+        "title": "Blockchain Technology",
+        "publication_date": "2020-11-09 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003004998-3",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003004998-3"
+        ],
+        "id": "id-6585869081825342171",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/219c96071fd132f61162f8d821f1c3e390a85f49"
+                ],
+                "doi": "10.1201/9781003004998-3",
+                "publication_date": "2020-11-09 00:00:00"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Ramasamy, L.",
+            "Kadry, S."
+        ],
+        "title": "Blockchain technology",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1088/978-0-7503-3663-5ch3",
+        "urls": [
+            "http://dx.doi.org/10.1088/978-0-7503-3663-5ch3"
+        ],
+        "id": "id-1424168767489340752",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/45f5c024f4d702cda0f458872ba409e444259133"
+                ],
+                "doi": "10.1088/978-0-7503-3663-5ch3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Peng, S."
+        ],
+        "title": "Blockchain Technology",
+        "publication_date": "2021-07-16 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003201670-2",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003201670-2"
+        ],
+        "id": "id7508542461310774761",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/32ce364db5b756c29f857ca8b7288f44f91e4653"
+                ],
+                "doi": "10.1201/9781003201670-2",
+                "publication_date": "2021-07-16 00:00:00"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "Sathya, A.",
+            "Jena, A."
+        ],
+        "title": "Blockchain Technology",
+        "publication_date": "2020-09-18 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003032588-3",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003032588-3"
+        ],
+        "id": "id1124124766933567646",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c842baa49d83f52536d87923eaa6ac20b8749fd3"
+                ],
+                "doi": "10.1201/9781003032588-3",
+                "publication_date": "2020-09-18 00:00:00"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Persiano, G.",
+            "Visconti, I."
+        ],
+        "title": "On Non-Interactive Zero-Knowledge Proofs of Knowledge in the Shared Random String Model",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11821069_65",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11821069_65.pdf",
+            "http://dx.doi.org/10.1007/11821069_65"
+        ],
+        "id": "id1224279970169139332",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Non-Interactive Zero-Knowledge Proofs of Knowledge in the Shared Random String Model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/672409a3c8cbc849e669c768b123b0d185c2d2d2"
+                ],
+                "doi": "10.1007/11821069_65",
+                "publication_date": "2006-08-28 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Zheng, W.",
+            "Chen, D.",
+            "Tang, J.",
+            "Jin, X.",
+            "Wei, Y."
+        ],
+        "title": "An Energy Trading Privacy Protection Scheme Based on Blockchain and Non-interactive Zero-Knowledge Proof",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-89698-0_52",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-89698-0_52",
+            "http://dx.doi.org/10.1007/978-3-030-89698-0_52"
+        ],
+        "id": "id4498448939573296806",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "An Energy Trading Privacy Protection Scheme Based on Blockchain and Non-interactive Zero-Knowledge Proof",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8b84565b79295bd0a20c7a1e09f7115685843ab3"
+                ],
+                "doi": "10.1007/978-3-030-89698-0_52",
+                "publication_date": "None"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "An Energy Trading Privacy Protection Scheme Based on Blockchain and Non-interactive Zero-Knowledge Proof",
+                "journal": "Lecture notes on data engineering and communications technologies",
+                "urls": [
+                    "https://openalex.org/W4205910378",
+                    "https://doi.org/10.1007/978-3-030-89698-0_52"
+                ],
+                "doi": "10.1007/978-3-030-89698-0_52",
+                "publication_date": "2022-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "An Energy Trading Privacy Protection Scheme Based on Blockchain and Non-interactive Zero-Knowledge Proof",
+                "journal": "Lecture Notes on Data Engineering and Communications Technologies",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-89698-0_52"
+                ],
+                "doi": "10.1007/978-3-030-89698-0_52",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Di Francesco Maesa, D.",
+            "Lisi, A.",
+            "Mori, P.",
+            "Ricci, L.",
+            "Boschi, G."
+        ],
+        "title": "Self sovereign and blockchain based access control: Supporting attributes privacy with zero knowledge",
+        "publication_date": "2023-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jnca.2022.103577",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1084804522002181?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1084804522002181?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jnca.2022.103577"
+        ],
+        "id": "id5597704742129482377",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2023,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Self sovereign and blockchain based access control: Supporting attributes privacy with zero knowledge",
+                "journal": "J. Netw. Comput. Appl.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/82deac8a0768bbc03a112a49185f2c036eebf1c4"
+                ],
+                "doi": "10.1016/j.jnca.2022.103577",
+                "publication_date": "2023-01-01 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Miguel A. Prada-Delgado",
+            "Iluminada Baturone",
+            "Gero Dittmann",
+            "Jens Jelitto",
+            "Andreas Kind"
+        ],
+        "title": "PUF-derived IoT identities in a zero-knowledge protocol for blockchain",
+        "publication_date": "2020-03-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Internet of things",
+        "volume": "9",
+        "doi": "10.1016/j.iot.2019.100057",
+        "urls": [
+            "https://openalex.org/W2944585002",
+            "https://doi.org/10.1016/j.iot.2019.100057"
+        ],
+        "id": "id2483390305642614291",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "PUF-derived IoT identities in a zero-knowledge protocol for blockchain",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S2542660518301124?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S2542660518301124?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.iot.2019.100057"
+                ],
+                "doi": "10.1016/j.iot.2019.100057",
+                "publication_date": "2020-01-01 00:00:00"
+            },
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PUF-derived IoT identities in a zero-knowledge protocol for blockchain",
+                "journal": "Internet Things",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/91133472138af955057b156cb8e67a6844df7a11"
+                ],
+                "doi": "10.1016/J.IOT.2019.100057",
+                "publication_date": "2020-03-01 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Shen, M.",
+            "Zhu, L.",
+            "Xu, K."
+        ],
+        "title": "Secure Heterogeneous Data Sharing Using Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-15-5939-6_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_5",
+            "http://dx.doi.org/10.1007/978-981-15-5939-6_5"
+        ],
+        "id": "id5660848423229240128",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Secure Heterogeneous Data Sharing Using Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/65e90a836c1e3e209f5b741fa0fcde7c3397d8ef"
+                ],
+                "doi": "10.1007/978-981-15-5939-6_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "Fu, S.",
+            "Gong, G."
+        ],
+        "title": "Pisces: A New Zero-Knowledge Protocol for Blockchain Privacy",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-70881-8_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-70881-8_12",
+            "http://dx.doi.org/10.1007/978-3-030-70881-8_12"
+        ],
+        "id": "id-1131104742339109052",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Pisces: A New Zero-Knowledge Protocol for Blockchain Privacy",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://openalex.org/W3134710142",
+                    "https://doi.org/10.1007/978-3-030-70881-8_12"
+                ],
+                "doi": "10.1007/978-3-030-70881-8_12",
+                "publication_date": "2020-12-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Pisces: A New Zero-Knowledge Protocol for Blockchain Privacy",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/35c3c8cf5c98472c4960e2969b163940cfdcf685"
+                ],
+                "doi": "10.1007/978-3-030-70881-8_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Shen, M.",
+            "Gou, G.",
+            "Xuan, Q."
+        ],
+        "title": "Security and privacy of blockchain",
+        "publication_date": "2023-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.bcra.2023.100130",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S2096720923000052?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S2096720923000052?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.bcra.2023.100130"
+        ],
+        "id": "id817762092254380209",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2023,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Security and Privacy of Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ecea4fe4f2acbdfe8a0b6b02086b0926760528e7"
+                ],
+                "doi": "10.1016/j.bcra.2023.100130",
+                "publication_date": "2023-01-01 00:00:00"
+            }
+        ],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Dumas, J.",
+            "Lafourcade, P.",
+            "Miyahara, D.",
+            "Mizuki, T.",
+            "Sasaki, T.",
+            "Sone, H."
+        ],
+        "title": "Interactive Physical Zero-Knowledge Proof for Norinori",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-26176-4_14",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_14",
+            "http://dx.doi.org/10.1007/978-3-030-26176-4_14"
+        ],
+        "id": "id4339214889755962308",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Interactive Physical Zero-Knowledge Proof for Norinori",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/867387ff85aff7432ff2688a36642b4cb1db985a",
+                    "https://hal.archives-ouvertes.fr/hal-02150062/file/main.pdf"
+                ],
+                "doi": "10.1007/978-3-030-26176-4_14",
+                "publication_date": "2019-07-29 00:00:00"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Karkeraa, S."
+        ],
+        "title": "Decoding a Real-Life Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4842-5043-3_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4842-5043-3_2",
+            "http://dx.doi.org/10.1007/978-1-4842-5043-3_2"
+        ],
+        "id": "id8237337872467611906",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Decoding a Real-Life Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a9f5e503dec581cff5a987736893e82277d49abd"
+                ],
+                "doi": "10.1007/978-1-4842-5043-3_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Wagner, Matthew Edward"
+        ],
+        "title": "Secure blockchains for cyber-physical systems",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/352884838.pdf"
+        ],
+        "id": "id-1159718499210566526",
+        "abstract": "\u201cBlockchains are a data structure used to perform state agreement in a distributed system across an entire network. One unique trait of blockchains is the lack of a centralized trusted third-party to control the system. This prevents a corrupted trusted third party from being able to control the entire blockchain. All nodes can reach agreement in an untrusted network where nodes do not need to trust one another to believe the accuracy of the information stored. Two main issues occur when trying to apply this technology to other applications: verifiability and scalability. In previous blockchain architectures, there is no way to validate off-chain data i.e. sensor reading. Some have purposed the use of a trusted third-party. Unfortunately, using a trusted third-party undoes a main advantage of blockchains and allows corruption to become a concerning possibility. Other challenges to applying blockchains to cyber-physical systems include keeping a single ledger up-to-date in real-time. The drawbacks of Bitcoin, a popular application of blockchains, have been very well documented in terms of speed.\nThe main purpose of this work is to address the verifiability and scalability issues of blockchains for cyber-physical systems. It proposes a solution that expands the application of blockchains to cyber-physical systems while maintaining the benefits. If the use of blockchains is to be expanded to off-chain data, they need to have the capability to securely encapsulate the physical world in a verifiable way. The following is a list of major contributions by the work: 1) propose a framework for verifying physical transactions in a blockchain, 2) propose a method to increase scalability and allow the use of blockchains in a disconnected network, 3) propose a truncation mechanism for cyber-physical transactions that allow for real-time speed. With these three contributions, this work introduces some additional ideas to blockchains and expands their applications\u201d--Abstract, page iii",
+        "versions": [],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Ashurst, S.",
+            "Tempesta, S."
+        ],
+        "title": "The Blockchain Age",
+        "publication_date": "2021-07-14 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4324/9781003132592-1",
+        "urls": [
+            "http://dx.doi.org/10.4324/9781003132592-1"
+        ],
+        "id": "id522798064645650221",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Blockchain Age",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1540616af17322c05f56022c600334ce92e42c8b"
+                ],
+                "doi": "10.4324/9781003132592-1",
+                "publication_date": "2021-07-14 00:00:00"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Chaidos, P.",
+            "Couteau, G."
+        ],
+        "title": "Efficient Designated-Verifier Non-interactive Zero-Knowledge Proofs of Knowledge",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-78372-7_7",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-319-78372-7_7",
+            "http://dx.doi.org/10.1007/978-3-319-78372-7_7"
+        ],
+        "id": "id7798767371707697842",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Efficient Designated-Verifier Non-Interactive Zero-Knowledge Proofs of Knowledge",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/66134d2c4c49340a30ad24700e39a5a3e5f19bde"
+                ],
+                "doi": "10.1007/978-3-319-78372-7_7",
+                "publication_date": "2018-04-29 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Akoramurthy, B.",
+            "Kumar, T."
+        ],
+        "title": "Digital Linked Information System Using Blockchain Technology",
+        "publication_date": "2020-11-09 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003004998-10",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003004998-10"
+        ],
+        "id": "id-7495676368448021373",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Digital Linked Information System Using Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c5a97d6ef761032db55b11bb5ca3d5007683c3aa"
+                ],
+                "doi": "10.1201/9781003004998-10",
+                "publication_date": "2020-10-22 00:00:00"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "Nuta, S.",
+            "Schuldt, J.",
+            "Nishide, T."
+        ],
+        "title": "Forward-Secure Public Key Encryption Without Key Update from\u00a0Proof-of-Stake Blockchain",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-92518-5_20",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-92518-5_20",
+            "http://dx.doi.org/10.1007/978-3-030-92518-5_20"
+        ],
+        "id": "id4113195054234218733",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Forward-Secure Public Key Encryption Without Key Update from Proof-of-Stake Blockchain",
+                "journal": "IACR Cryptol. ePrint Arch.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f879286fbe504e8348fe73bcd491f41d937cbe4d"
+                ],
+                "doi": "10.1007/978-3-030-92518-5_20",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Quinten Stokkink",
+            "Johan Pouwelse"
+        ],
+        "title": "Deployment of a Blockchain-Based Self-Sovereign Identity",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "IEEE",
+        "volume": "",
+        "doi": "10.1109/cybermatics_2018.2018.00230",
+        "urls": [
+            "https://web.archive.org/web/20200505123745/https://repository.tudelft.nl/islandora/object/uuid%3A789e5f26-1266-4547-a8ba-684d67d519e2/datastream/OBJ/download"
+        ],
+        "id": "id-7900554503522753406",
+        "abstract": "Digital identity is unsolved: after many years of research there is still no trusted communication over the Internet. To provide identity within the context of mutual distrust, this paper presents a blockchain-based digital identity solution. Without depending upon a single trusted third party, the proposed solution achieves passport-level legally valid identity. This solution for making identities Self-Sovereign, builds on a generic provable claim model for which attestations of truth from third parties need to be collected. The claim model is then shown to be both blockchain structure and proof method agnostic. Four different implementations in support of these two claim model properties are shown to offer sub-second performance for claim creation and claim verification. Through the properties of Self-Sovereign Identity, legally valid status and acceptable performance, our solution is considered to be fit for adoption by the general public.",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.ARXIV",
+                "title": "Deployment of a Blockchain-Based Self-Sovereign Identity",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1806.01926v1",
+                    "http://arxiv.org/abs/1806.01926v1",
+                    "http://arxiv.org/pdf/1806.01926v1"
+                ],
+                "doi": "",
+                "publication_date": "2018-06-05 20:19:17+00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Deployment of a Blockchain-Based Self-Sovereign Identity",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20200903061914/https://arxiv.org/pdf/1806.01926v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2018-06-05 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Deployment of a Blockchain-Based Self-Sovereign Identity",
+                "journal": "Green Computing and Communications",
+                "urls": [
+                    "https://openalex.org/W2807661999",
+                    "https://doi.org/10.1109/cybermatics_2018.2018.00230",
+                    "http://arxiv.org/pdf/1806.01926"
+                ],
+                "doi": "10.1109/cybermatics_2018.2018.00230",
+                "publication_date": "2018-08-30 00:00:00"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Chien, Y.",
+            "Hon, W."
+        ],
+        "title": "Cryptographic and Physical Zero-Knowledge Proof: From Sudoku to Nonogram",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-13122-6_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-13122-6_12.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-13122-6_12"
+        ],
+        "id": "id-731844960854729285",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Cryptographic and Physical Zero-Knowledge Proof: From Sudoku to Nonogram",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4987eda12c5426065a3fb98a0f114357a9d52213"
+                ],
+                "doi": "10.1007/978-3-642-13122-6_12",
+                "publication_date": "2010-06-02 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Laroiya, C.",
+            "Saxena, D.",
+            "Komalavalli, C."
+        ],
+        "title": "Applications of Blockchain Technology",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-819816-2.00009-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780128198162000095?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780128198162000095?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-12-819816-2.00009-5"
+        ],
+        "id": "id-8956063367366608128",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Applications of Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/499137d2dba7587479f6aef629b62c8341dc249b"
+                ],
+                "doi": "10.1016/b978-0-12-819816-2.00009-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Peng, S."
+        ],
+        "title": "Applications of Blockchain Technology",
+        "publication_date": "2021-07-16 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003201670-5",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003201670-5"
+        ],
+        "id": "id-60866986164435093",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Applications of Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/283bda0ac7655b2110fa132a9b5e1d79fbf2025c"
+                ],
+                "doi": "10.1201/9781003201670-5",
+                "publication_date": "2021-07-16 00:00:00"
+            }
+        ],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Sardar, A.",
+            "Y.V., S.",
+            "N., R."
+        ],
+        "title": "Zero Knowledge Proof in Secret Sharing Scheme Using Elliptic Curve Cryptography",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-29219-4_26",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-29219-4_26.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-29219-4_26"
+        ],
+        "id": "id3459925508043371883",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero Knowledge Proof in Secret Sharing Scheme Using Elliptic Curve Cryptography",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/57f6668cc860bf57321a260d8e56a3a37457b0e5"
+                ],
+                "doi": "10.1007/978-3-642-29219-4_26",
+                "publication_date": "2011-12-09 00:00:00"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Wei Ou",
+            "Mingwei Deng",
+            "Entao Luo"
+        ],
+        "title": "A Decentralized and Anonymous Data Transaction Scheme Based on Blockchain and Zero-Knowledge Proof in Vehicle Networking (Workshop Paper)",
+        "publication_date": "2019-08-19 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-30146-0_48",
+        "urls": [
+            "https://www.semanticscholar.org/paper/694e0e8b4c53df21e6cd4083d36ba05629f648cd"
+        ],
+        "id": "id24082993092473574",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A Decentralized and Anonymous Data Transaction Scheme Based on Blockchain and Zero-Knowledge Proof in Vehicle Networking (Workshop Paper)",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-030-30146-0_48",
+                    "http://dx.doi.org/10.1007/978-3-030-30146-0_48"
+                ],
+                "doi": "10.1007/978-3-030-30146-0_48",
+                "publication_date": "2019-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "A Decentralized and Anonymous Data Transaction Scheme Based on Blockchain and Zero-Knowledge Proof in Vehicle Networking (Workshop Paper)",
+                "journal": "Collaborative Computing: Networking, Applications and Worksharing",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-30146-0_48"
+                ],
+                "doi": "10.1007/978-3-030-30146-0_48",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A Decentralized and Anonymous Data Transaction Scheme Based on Blockchain and Zero-Knowledge Proof in Vehicle Networking (Workshop Paper)",
+                "journal": "Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",
+                "urls": [
+                    "https://openalex.org/W2968287833",
+                    "https://doi.org/10.1007/978-3-030-30146-0_48"
+                ],
+                "doi": "10.1007/978-3-030-30146-0_48",
+                "publication_date": "2019-08-19 00:00:00"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Bootle, J.",
+            "Cerulli, A.",
+            "Chaidos, P.",
+            "Groth, J."
+        ],
+        "title": "Efficient Zero-Knowledge Proof Systems",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-43005-8_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-43005-8_1",
+            "http://dx.doi.org/10.1007/978-3-319-43005-8_1"
+        ],
+        "id": "id-7740180658696492819",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Efficient Zero-Knowledge Proof Systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f489081ee61fbad15e8ebe1d522d90f0f2dfcaf1"
+                ],
+                "doi": "10.1007/978-3-319-43005-8_1",
+                "publication_date": "2016-06-01 00:00:00"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "J. K. Solomon Doss",
+            "S. Kamalakkannan"
+        ],
+        "title": "IoT System Accomplishment using BlockChain in Validating and Data Security with Cloud",
+        "publication_date": "2020-10-07 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/I-SMAC49090.2020.9243412",
+        "urls": [
+            "https://www.semanticscholar.org/paper/77a3b4f688033a48c20e53684dc675666d377a4f"
+        ],
+        "id": "id-87402910208114604",
+        "abstract": "In a block channel IoT system, sensitive details can be leaked by means of the proof of work or address check, as data or application Validation data is applied on the blockchain. In this, the zero-knowledge evidence is applied to a smart metering system to show how to improve the anonymity of the blockchain for privacy safety without disclosing information as a public key. Within this article, a blockchain has been implemented to deter security risks such as data counterfeiting by utilizing intelligent meters. Zero-Knowledge Proof, an anonymity blockchain technology, has been implemented through block inquiry to prevent threats to security like personal information infringement. It was suggested that intelligent contracts would be used to avoid falsification of intelligent meter data and abuse of personal details.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.OPENALEX",
+                "title": "IoT System Accomplishment using BlockChain in Validating and Data Security with Cloud",
+                "journal": "2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)",
+                "urls": [
+                    "https://openalex.org/W3099290777",
+                    "https://doi.org/10.1109/i-smac49090.2020.9243412"
+                ],
+                "doi": "10.1109/i-smac49090.2020.9243412",
+                "publication_date": "2020-10-07 00:00:00"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Liu, H.",
+            "Han, D."
+        ],
+        "title": "Non-interactive Zero Knowledge Proof Based Access Control in Information-Centric Internet of\u00a0Things",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-95388-1_41",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-95388-1_41",
+            "http://dx.doi.org/10.1007/978-3-030-95388-1_41"
+        ],
+        "id": "id-4002487621150466500",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Non-interactive Zero Knowledge Proof Based Access Control in Information-Centric Internet of Things",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://openalex.org/W4213051497",
+                    "https://doi.org/10.1007/978-3-030-95388-1_41"
+                ],
+                "doi": "10.1007/978-3-030-95388-1_41",
+                "publication_date": "2022-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Non-interactive Zero Knowledge Proof Based Access Control in Information-Centric Internet of Things",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1525087bc4fd018a5c1f3eda5fe25bb339d8d7c5"
+                ],
+                "doi": "10.1007/978-3-030-95388-1_41",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Elrom, E."
+        ],
+        "title": "Creating Your Own Blockchain",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4842-4847-8_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4842-4847-8_3",
+            "http://dx.doi.org/10.1007/978-1-4842-4847-8_3"
+        ],
+        "id": "id2938487061263935004",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Creating Your Own Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1845a6f2be998c3468d9e76d87b137ad8ffa6105"
+                ],
+                "doi": "10.1007/978-1-4842-4847-8_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Shobha Tyagi",
+            "Madhumita Kathuria"
+        ],
+        "title": "Role of Zero-Knowledge Proof in Blockchain Security",
+        "publication_date": "2022-05-26 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "2022 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",
+        "volume": "1",
+        "doi": "10.1109/com-it-con54601.2022.9850714",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a78b33faa16bb5be0007f474dce03051ce14c3f8"
+        ],
+        "id": "id-6582362364347306590",
+        "abstract": "Distributed Ledger Technology is also known as blockchain technology. It brings the characteristics like transparency, decentralization, immutability, and the distributed ledger in one package. The user identity of the public blockchain is anonymous on the network and cannot control the confidentiality and privacy of their data. The Anonymity of a user does not mean privacy. The importance of user and data privacy and confidentiality in blockchain technology is realized and is yet to be addressed by blockchain protocols. Zero-Knowledge-Proof can be the best solution to this problem. It is relatively new and is developing very rapidly. Zero-Knowledge-Proof can provide strong privacy if the security model is well understood and used carefully. Zero-Knowledge-Proof makes sure that no one accesses the secured data except the user. Paper discusses the types and the various applications of the Zero-Knowledge-Proof in the blockchain.",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Role of Zero-Knowledge Proof in Blockchain Security",
+                "journal": "",
+                "urls": [
+                    "http://xplorestaging.ieee.org/ielx7/9850394/9850440/09850714.pdf?arnumber=9850714",
+                    "http://dx.doi.org/10.1109/com-it-con54601.2022.9850714"
+                ],
+                "doi": "10.1109/com-it-con54601.2022.9850714",
+                "publication_date": "2022-05-26 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Role of Zero-Knowledge Proof in Blockchain Security",
+                "journal": "2022 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",
+                "urls": [
+                    "https://openalex.org/W4291700791",
+                    "https://doi.org/10.1109/com-it-con54601.2022.9850714"
+                ],
+                "doi": "10.1109/com-it-con54601.2022.9850714",
+                "publication_date": "2022-05-26 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Role of Zero-Knowledge Proof in Blockchain Security",
+                "journal": "2022 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",
+                "urls": [
+                    "https://doi.org/10.1109/com-it-con54601.2022.9850714"
+                ],
+                "doi": "10.1109/com-it-con54601.2022.9850714",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Bragadeesh, S.",
+            "Narendran, S.",
+            "Umamakeswari, A."
+        ],
+        "title": "Securing the Internet of Things Using Blockchain",
+        "publication_date": "2021-05-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781003097990-6",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781003097990-6"
+        ],
+        "id": "id2644901415814757735",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Securing the Internet of Things Using Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ce74cf9a9c882645cbb0a6b0786d24f36c30a886"
+                ],
+                "doi": "10.1201/9781003097990-6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Xiangbin Xian",
+            "Zhenguo Yang",
+            "Guipeng Zhang",
+            "S Tucua Miro de Nelio",
+            "Wenyin Liu"
+        ],
+        "title": "A Complete Anti-collusion Mechanism in Blockchain",
+        "publication_date": "2020-08-06 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "Communications in computer and information science",
+        "volume": "",
+        "doi": "10.1007/978-981-15-9213-3_3",
+        "urls": [
+            "https://openalex.org/W3104580704",
+            "https://doi.org/10.1007/978-981-15-9213-3_3"
+        ],
+        "id": "id29943492853529924",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Complete Anti-collusion Mechanism in Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aa9d68b2e371f7b4ea4c6fe993ade365d9d89f90"
+                ],
+                "doi": "10.1007/978-981-15-9213-3_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Chowdhury, N."
+        ],
+        "title": "Applications of Blockchain",
+        "publication_date": "2019-08-16 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9780429325533-11",
+        "urls": [
+            "http://dx.doi.org/10.1201/9780429325533-11"
+        ],
+        "id": "id3860198732298403936",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Applications of Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e1a5d961a9b2523cfa2d07d70a3a6bb0ec31357b"
+                ],
+                "doi": "10.1201/9780429325533-11",
+                "publication_date": "2019-08-16 00:00:00"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "Hashim, M.",
+            "G., S.",
+            "A., S."
+        ],
+        "title": "Authentication in Wireless Sensor Networks Using Zero Knowledge Protocol",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-22786-8_52",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-22786-8_52",
+            "http://dx.doi.org/10.1007/978-3-642-22786-8_52"
+        ],
+        "id": "id6786544203367370712",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Authentication in Wireless Sensor Networks Using Zero Knowledge Protocol",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6e27830cdbaf9eccf470ac8b8167a1cd444168ad"
+                ],
+                "doi": "10.1007/978-3-642-22786-8_52",
+                "publication_date": "2011-08-05 00:00:00"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Singh, S.",
+            "Manjhi, P.",
+            "Tiwari, R."
+        ],
+        "title": "Cloud Computing Security Using Blockchain Technology",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-33-6858-3_2",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-981-33-6858-3_2",
+            "http://dx.doi.org/10.1007/978-981-33-6858-3_2"
+        ],
+        "id": "id-8711297290431909331",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Cloud Computing Security Using Blockchain Technology",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9bfe4d9d1728c1ce87494cd6ce0d1a3ec2667ddb"
+                ],
+                "doi": "10.1007/978-981-33-6858-3_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Dylan Yaga",
+            "Peter Mell",
+            "Nik Roby",
+            "Karen Scarfone"
+        ],
+        "title": "Blockchain Technology Overview",
+        "publication_date": "2019-06-26 13:20:44+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.6028/NIST.IR.8202",
+        "urls": [
+            "http://arxiv.org/pdf/1906.11078v1",
+            "http://dx.doi.org/10.6028/NIST.IR.8202",
+            "http://arxiv.org/abs/1906.11078v1",
+            "http://arxiv.org/pdf/1906.11078v1"
+        ],
+        "id": "id-8778558241804769396",
+        "abstract": "Blockchains are tamper evident and tamper resistant digital ledgers\nimplemented in a distributed fashion (i.e., without a central repository) and\nusually without a central authority (i.e., a bank, company, or government). At\ntheir basic level, they enable a community of users to record transactions in a\nshared ledger within that community, such that under normal operation of the\nblockchain network no transaction can be changed once published. This document\nprovides a high-level technical overview of blockchain technology. The purpose\nis to help readers understand how blockchain technology works.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Blockchain Technology Overview",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20191222030001/https://arxiv.org/pdf/1906.11078v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2019-06-26 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Chen, F.",
+            "Liu, Z.",
+            "Long, Y.",
+            "Liu, Z.",
+            "Ding, N."
+        ],
+        "title": "Secure Scheme Against Compromised Hash in Proof-of-Work Blockchain",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-02744-5_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-02744-5_1",
+            "http://dx.doi.org/10.1007/978-3-030-02744-5_1"
+        ],
+        "id": "id7767018517626967572",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Secure Scheme Against Compromised Hash in Proof-of-Work Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5b1fb117cc953af3c9032dc36879bf220c7af9c7"
+                ],
+                "doi": "10.1007/978-3-030-02744-5_1",
+                "publication_date": "2018-08-27 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Volkan Dedeoglu",
+            "Raja Jurdak",
+            "Guntur D. Putra",
+            "Ali Dorri",
+            "Salil S. Kanhere"
+        ],
+        "title": "A Trust Architecture for Blockchain in IoT",
+        "publication_date": "2019-06-27 07:11:43+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1906.11461v1",
+            "http://arxiv.org/abs/1906.11461v1",
+            "http://arxiv.org/pdf/1906.11461v1"
+        ],
+        "id": "id7712539910240941895",
+        "abstract": "Blockchain is a promising technology for establishing trust in IoT networks,\nwhere network nodes do not necessarily trust each other. Cryptographic hash\nlinks and distributed consensus mechanisms ensure that the data stored on an\nimmutable blockchain can not be altered or deleted. However, blockchain\nmechanisms do not guarantee the trustworthiness of data at the origin. We\npropose a layered architecture for improving the end-to-end trust that can be\napplied to a diverse range of blockchain-based IoT applications. Our\narchitecture evaluates the trustworthiness of sensor observations at the data\nlayer and adapts block verification at the blockchain layer through the\nproposed data trust and gateway reputation modules. We present the performance\nevaluation of the data trust module using a simulated indoor target\nlocalization and the gateway reputation module using an end-to-end blockchain\nimplementation, together with a qualitative security analysis for the\narchitecture.",
+        "versions": [],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Hui Wang",
+            "Jian Yu",
+            "Dalin Zhang"
+        ],
+        "title": "A Blockchain Consensus Protocol Based on Quantum Attack Algorithm",
+        "publication_date": "2022-08-22 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Hindawi Limited",
+        "volume": "",
+        "doi": "10.1155/2022/1431967",
+        "urls": [
+            "https://web.archive.org/web/20220823031040/https://downloads.hindawi.com/journals/cin/2022/1431967.pdf"
+        ],
+        "id": "id8582013240135685254",
+        "abstract": "The blockchain is a distributed storage system of digital assets. This decentralized, non-copyable technology stems from universal standard password algorithm and the consensus mechanism of the game theory. The development of quantum computing poses threat to traditional algorithms of blockchain encryption, including symmetric encryption and hash encryption. Focusing on the traditional blockchain consensus mechanism, this paper designs a new blockchain consensus mechanism, based on the stochasticity, irreversibility, and uncertainty of quantum measurement. In the proposed consensus mechanism, complex calculations and intractability mathematical problems are abandoned. In this way, a huge amount of computing resources is saved, less energy is consumed, the time delay is shortened, and the throughput is increased. The proposed quantum consensus mechanism can withstand 51% attacks.",
+        "versions": [],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "\u041e\u043d\u0430\u0446\u043a\u0438\u0439, \u0410.",
+            "O.S. Popov Odessa national academy of telecommunication",
+            "\u0416\u0430\u0440\u043e\u0432\u0430, \u041e."
+        ],
+        "title": "Cryptographic protocol zero-knowledge proof on elliptic curves using one-way hash-function",
+        "publication_date": "2018-05-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.33243/2518-7139-2018-1-1-84-92",
+        "urls": [
+            "http://dx.doi.org/10.33243/2518-7139-2018-1-1-84-92"
+        ],
+        "id": "id-517762962576817843",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Cryptographic protocol zero-knowledge proof on elliptic curves using one-way hash-function",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aaaaace212fec32bd512b2745cf8e811a3bb403d",
+                    "https://ojs.onat.edu.ua/index.php/sbornik_onat/article/download/1076/1031"
+                ],
+                "doi": "10.33243/2518-7139-2018-1-1-84-92",
+                "publication_date": "2018-05-31 00:00:00"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "John Scheid, Eder"
+        ],
+        "title": "An intent-based blockchain-agnostic interaction environment",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://www.zora.uzh.ch/id/eprint/220698/1/220698.pdf"
+        ],
+        "id": "id6490894372084741272",
+        "abstract": null,
+        "versions": [],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Gebeyehu, W.",
+            "Ambaw, L.",
+            "Reddy, M.",
+            "Avadhani, P."
+        ],
+        "title": "Authenticating Grid Using Graph Isomorphism Based Zero Knowledge Proof",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-03107-1_2",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-319-03107-1_2",
+            "http://dx.doi.org/10.1007/978-3-319-03107-1_2"
+        ],
+        "id": "id1565119886371479421",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Authenticating Grid Using Graph Isomorphism Based Zero Knowledge Proof",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ba4e7e45eed6e456b2bd61da877b20cc6ed0cacc"
+                ],
+                "doi": "10.1007/978-3-319-03107-1_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Shen, M.",
+            "Zhu, L.",
+            "Xu, K."
+        ],
+        "title": "Secure Data Retrieval Using Blockchain",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-15-5939-6_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_6",
+            "http://dx.doi.org/10.1007/978-981-15-5939-6_6"
+        ],
+        "id": "id-85288702563439825",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Secure Data Retrieval Using Blockchain",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c3318cab298ee50fcb8ae6f388aa9dbf1150e526"
+                ],
+                "doi": "10.1007/978-981-15-5939-6_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Liskov, M."
+        ],
+        "title": "Updatable Zero-Knowledge Databases",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11593447_10",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11593447_10.pdf",
+            "http://dx.doi.org/10.1007/11593447_10"
+        ],
+        "id": "id5068251395732116025",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Updatable Zero-Knowledge Databases",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c5ee68598ac8a092670d0c1bfa3af87a79f2131d",
+                    "https://link.springer.com/content/pdf/10.1007%2F11593447_10.pdf"
+                ],
+                "doi": "10.1007/11593447_10",
+                "publication_date": "2005-12-04 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Maurer, U."
+        ],
+        "title": "Zero-knowledge proofs of knowledge for group homomorphisms",
+        "publication_date": "2015-06-03 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10623-015-0103-5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10623-015-0103-5.pdf",
+            "http://link.springer.com/article/10.1007/s10623-015-0103-5/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10623-015-0103-5",
+            "http://dx.doi.org/10.1007/s10623-015-0103-5"
+        ],
+        "id": "id7069001089191669750",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Zero-knowledge proofs of knowledge for group homomorphisms",
+                "journal": "Designs, Codes and Cryptography",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/79d1bb6cee715592ee2443549542d6cdb8b5db50",
+                    "https://www.research-collection.ethz.ch/bitstream/20.500.11850/101696/2/s10623-015-0103-5.pdf"
+                ],
+                "doi": "10.1007/s10623-015-0103-5",
+                "publication_date": "2015-06-03 00:00:00"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Riya Sapra",
+            "Parneeta Dhaliwal"
+        ],
+        "title": "Blockchain: The new era of Technology",
+        "publication_date": "2018-12-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/PDGC.2018.8745811",
+        "urls": [
+            "https://www.semanticscholar.org/paper/2ba97aef2654bede472a6d2c08bace1f068a3714"
+        ],
+        "id": "id-8546131531294632114",
+        "abstract": "Now a days many applications are being built using the immutability and robustness of blockchain. Blockchain is a new class of information technology which combines cryptography and distributed ledger that already exists. The model is composed of a group of computers that collaborate towards maintaining a secured database, without storing the data at any central unit. It is the technology behind all the crypto currencies like Bitcoin, Litecoin, Etherum and now finding its way to record everything possible. This paper focuses on the basic framework of blockchain model, its development history, prerequisites and challenges of blockchain. Finally, various current real time applications of the technology are discussed.",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Blockchain: The new era of Technology",
+                "journal": "Grid Computing",
+                "urls": [
+                    "https://openalex.org/W2955240356",
+                    "https://doi.org/10.1109/pdgc.2018.8745811"
+                ],
+                "doi": "10.1109/pdgc.2018.8745811",
+                "publication_date": "2018-12-01 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Laur, S.",
+            "Zhang, B."
+        ],
+        "title": "Lightweight Zero-Knowledge Proofs for Crypto-Computing Protocols",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-13257-0_9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-13257-0_9",
+            "http://dx.doi.org/10.1007/978-3-319-13257-0_9"
+        ],
+        "id": "id4957641597240438277",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Lightweight Zero-Knowledge Proofs for Crypto-Computing Protocols",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1792360d132ae7fe751e3fd29914646a37885685",
+                    "http://eprint.iacr.org/2013/064.pdf"
+                ],
+                "doi": "10.1007/978-3-319-13257-0_9",
+                "publication_date": "2014-10-12 00:00:00"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Midha, M.",
+            "Gupta, A.",
+            "Mathur, P."
+        ],
+        "title": "Review on Zero-Knowledge Proof Method",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-15-9689-6_33",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-15-9689-6_33",
+            "http://dx.doi.org/10.1007/978-981-15-9689-6_33"
+        ],
+        "id": "id7056439599287332465",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Review on Zero-Knowledge Proof Method",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/726cb6fcdbec9e63f9ee2f3002fa39889a593bfd"
+                ],
+                "doi": "10.1007/978-981-15-9689-6_33",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 99
+    }
+]
