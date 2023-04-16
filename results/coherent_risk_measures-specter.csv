@@ -1,101 +1,186 @@
-authors,title,pub_date,source,doi,abstract,rank
-Yuji Yoshida,Coherent Risk Measures Derived from Utility Functions,2018-10-15 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-030-00202-2_2,,0
-,Coherent Risk Metrics,None,SupportedSources.CROSSREF,10.1057/9781137448200.0031,,1
-G. Trzpiot,Multivalued coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,2
-Panos M. Pardalos,On Some Aspects of Coherent Risk Measures and their Applications,2011-08-04 00:00:00,SupportedSources.OPENALEX,,,3
-"M. Dempster,G. Pflug,G. Mitra",Higher Moment Coherent Risk Measures,2008-12-22 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1201/9781420081923.ch13,,4
-"Hans Föllmer,Alexander Schied",Coherent and convex risk measures,2010-01-01 00:00:00,SupportedSources.OPENALEX,,,5
-"H. Föllmer,A. Schied",Coherent and convex risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,6
-G. Trzpiot,Coherent Risk Measures in Multiperiod Models,None,SupportedSources.SEMANTIC_SCHOLAR,,,7
-George Stoica,Relevant coherent measures of risk,2006-09-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.jmateco.2006.03.006,,8
-Stefano Benati,Coherent Risk Measures and Linear Programming,2001-01-01 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-7908-1814-7_21,,9
-"Philippe Artzner,Freddy Delbaen,Jean-Marc Eber,David Heath",Coherent Measures of Risk,2002-01-01 00:00:00,SupportedSources.OPENALEX,10.1017/cbo9780511615337.007,,10
-,Coherent measures of risk,2014-08-07 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139017398.009,,11
-"W. Ogryczak,M. Opolska-Rutkowska",Coherent Risk Measures and Stochastic Dominance,None,SupportedSources.SEMANTIC_SCHOLAR,,,12
-"Bonnans, J.",Risk Measures,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-14977-2_4,,13
-,Risk measures,2003-12-11 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511753893.012,,14
-,Risk measures,2009-09-17 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511812156.008,,15
-,Risk Measures,2015-09-28 00:00:00,SupportedSources.CROSSREF,10.1142/9789814641944_0015,,16
-Shigeo Kusuoka,On law invariant coherent risk measures,2001-01-01 00:00:00,SupportedSources.OPENALEX,10.1007/978-4-431-67891-5_4,,17
-,Alternative Risk Measures,2015-09-12 00:00:00,SupportedSources.CROSSREF,10.1002/9781119205937.ch9,,18
-"Hailiang Yang,T. Siu",Coherent Risk Measures for Derivatives,None,SupportedSources.SEMANTIC_SCHOLAR,,,19
-"Moix, P.",Risk and Risk Measures,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-56481-9_2,,20
-,Risk and Risk Measures,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9781848166332_0003,,21
-"Roccioletti, S.",Risk Measures and their Properties,2015-12-05 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-658-11908-9_2,,22
-,Simple Risk Measures,2012-11-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781118673621.ch3,,23
-"Elisabet Gulevska,Tomas Westman,westman. tomas","Coherent Risk Measures Financial Risk , fall 2010",None,SupportedSources.SEMANTIC_SCHOLAR,,,24
-"Proske, D.",Objective Risk Measures,None,SupportedSources.CROSSREF,10.1007/978-3-540-79555-1_3,,25
-"Jaschke, S.,Küchler, U.",Coherent risk measures and good-deal bounds,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/pl00013530,,26
-"Rüschendorf, L.",Risk Measures for Real Risks,2012-08-30 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-33590-7_7,,27
-"Zhiping Chen,Qianhui Hu",On Coherent Risk Measures Induced by Convex Risk Measures,2018-06-01 00:00:00,SupportedSources.OPENALEX,10.1007/s11009-017-9584-1,,28
-"Zio, E.",Risk Importance Measures,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-85729-470-8_6,,29
-"MacLean, L.,Ziemba, B.",A Primer on Risk Measures,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1002/wilm.10288,,30
-"Giulianella Coletti,Davide Petturiti,Barbara Vantaggi",Conditional Submodular Coherent Risk Measures,2018-06-11 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-319-91476-3_20,,31
-G. Meyers,Coherent Measures of Risk-An Exposition for the Lay Actu..,None,SupportedSources.SEMANTIC_SCHOLAR,,,32
-"Pichler, A.,Schlotter, R.",Entropy based risk measures,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejor.2019.01.016,,33
-D. Hunter,An adaptive procedure for estimating coherent risk measures based on generalized scenarios,2008-06-18 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,34
-"Vazsonyi, A.,Chen, P.,Jenkins, D.,Burcu, E.,Torrente, G.,Sheu, C.",Model Risk Measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1037/t09097-000,,35
-"Yanhong Chen,Yijun Hu",Multivariate coherent risk measures induced by multivariate convex risk measures,2020-07-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11117-019-00703-2,,36
-"Bénéplanc, G.,Rochet, J.",Statistical Risk Measures,2011-09-08 00:00:00,SupportedSources.CROSSREF,10.1093/acprof:osobl/9780199774081.003.0006,,37
-Tatyana A. Kustitskaya,Representation of Preferences by Generalized Coherent Risk Measures,2012-01-01 00:00:00,SupportedSources.OPENALEX,,,38
-"Assa, H.",Natural risk measures,2016-03-04 00:00:00,SupportedSources.CROSSREF,10.1007/s11579-016-0165-9,,39
-,Granularity for Risk Measures,2014-10-06 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781107709393.007,,40
-Andreas Krause,Coherent risk measurement: an introduction,2002-12-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1108/09657960210450736,It is shown that the widely used risk measures standard deviation and value at risk do not always reflect risk preferences accurately. To overcome these problems in risk measurement a class of coherent risk measures has been proposed. We introduce the idea behind these measures and provide an overview of suggested coherent risk measures. Finally it is shown where the limitations of such measures in practical applications are and how regulatory bodies responded to their introduction in the literature. We find that most contributions on coherent risk measurement come from the actuarial sciences and propagate a widening of the discussion among researchers and practitioners in other industries.,41
-"Wigfield, R.,Gilbert, R.,Fleming, P.",SIDS: Risk reduction measures,1994-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0378-3782(94)90208-9,,42
-A. Quaranta,Robust Optimization of a Coherent Risk Measure,None,SupportedSources.SEMANTIC_SCHOLAR,,,43
-Andreas Krause,Beyond VaR: Expected shortfall and other coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,44
-V. Kirilyuk,The Class of Polyhedral Coherent Risk Measures,2004-07-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1023/B:CASA.0000047881.82280.E2,,45
-"E. Desli,A. Tsanakas","Coherent risk measures and premium calculation principles: Definition, properties and relationship FORTHCOMING",None,SupportedSources.SEMANTIC_SCHOLAR,,,46
-"Gianin, E.,Sgarra, C.",Risk Measures: Value at Risk and beyond,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-01357-2_12,,47
-"Nguyen, H.,Sriboonchitta, S.",On Choquet Integral Risk Measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11960-6_2,,48
-"Goovaerts, M.,Kaas, R.,Laeven, R.",Decision principles derived from risk measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.insmatheco.2010.07.004,,49
-G. Trzpiot,Application of Coherent Distortion Risk Measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,50
-,Risk Reducing Measures,None,SupportedSources.CROSSREF,10.1002/9783527621606.ch10,,51
-"Guégan, D.,Hassani, B.",Risk Measurement,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-02680-6,,52
-"Hoffmann, H.,Meyer-Brandis, T.,Svindland, G.",Risk-consistent conditional systemic risk measures,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.spa.2016.01.002,,53
-"Bonaccorso, L.,Greco, S.,Matarazzo, B.,Platania, P.",Some New Properties of Risk Measures,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-08799-2_23,,54
-,Risk Measures with Applications in Finance and Economics,2019-07-23 00:00:00,SupportedSources.CROSSREF,10.3390/books978-3-03897-444-4,,55
-V. Kirilyuk,Polyhedral Coherent Risk Measures and Robust Optimization,2019-11-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10559-019-00210-y,,56
-"Luce, R.",Several possible measures of risk,1980-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/bf00135033,,57
-"Jha, A.,Stanton-Geddes, Z.",Risk Reduction: Measures and Investments,2013-02-28 00:00:00,SupportedSources.CROSSREF,10.1596/9780821398050_ch04,,58
-"Embrechts, P.,Hofert, M.",Risk Measures and Dependence Modeling,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4614-0155-1_6,,59
-,Financial Risk Measures,2009-10-19 00:00:00,SupportedSources.CROSSREF,10.1201/9781420082678.ch4,,60
-"Maccrimmon, K.,Wehrung, D.",A portfolio of risk measures,1985-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/bf00134352,,61
-A. Novosyolov,GENERALIZED COHERENT RISK MEASURES IN DECISION-MAKING UNDER RISK,None,SupportedSources.SEMANTIC_SCHOLAR,,"Coherent risk measures have lately become a hot topic in both theoretical research and practical applications. Since they possess a number of disadvantages, some generalizations and modifications have been proposed recently. In the present paper we propose one more generalization which holds a number of attractive properties. A representation theorem for the risk measures class has been obtained, properties of functionals have been established, partial cases and examples are also presented.",62
-,4 Monetary measures of risk,None,SupportedSources.CROSSREF,10.1515/9783110218053.175,,63
-"Xin Huang,Hao Zhou,Haibin Zhu",Systemic Risk Contributions,2011-10-05 00:00:00,SupportedSources.OPENALEX,10.1007/s10693-011-0117-8,,64
-"Ma, H.,Tian, D.",Generalized entropic risk measures and related BSDEs,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.spl.2021.109110,,65
-,4 GlueVaR and other new risk measures,2017-12-31 00:00:00,SupportedSources.CROSSREF,10.1515/9789048534586-005,,66
-H. Föllmer,Consistency Properties of Systemic Risk Measures,2019-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1142/9781786341952_0004,,67
-,Risk Measures and Asset Allocation Problems,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9789811225758_0008,,68
-Yuji Yoshida,Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures,2019-06-02 00:00:00,SupportedSources.OPENALEX,10.1007/978-981-13-8303-8_19,,69
-"Yan, J.",Static Risk Measures,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-13-1657-9_10,,70
-"Landsman, Z.,Sherris, M.",Risk measures and insurance premium principles,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-6687(01)00076-2,,71
-Jun Yan,Deviations of convex and coherent entropic risk measures,2015-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1016/J.SPL.2015.01.035,,72
-"Liebrich, F.,Svindland, G.",Model spaces for risk measures,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.insmatheco.2017.09.006,,73
-"Romanovski, Ivan",Time consistency in Risk measures,2012-01-01 00:00:00,SupportedSources.CORE,,,74
-,Model Risk in Risk Measures Calculations,2015-06-28 00:00:00,SupportedSources.CROSSREF,10.1142/9789814663410_0008,,75
-"Livada, A.,Anagnostopoulou, M.",Risk Measures and Inequality,2019-12-10 00:00:00,SupportedSources.CROSSREF,10.3389/fams.2019.00057,,76
-"Zang, X.,JIANG, F.,Xia, C.,Yang, J.",Random Distortion Risk Measures,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4394934,,77
-"Dudek, Z.",From isotonic Banach functionals to coherent risk measures,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.4064/am28-4-4,,78
-Amir Ahmadi-Javid,Entropic Value-at-Risk: A New Coherent Risk Measure,2012-12-01 00:00:00,SupportedSources.OPENALEX,10.1007/s10957-011-9968-2,,79
-,Reliability of Risk Reducing Measures,2020-03-13 00:00:00,SupportedSources.CROSSREF,10.1002/9783527696918.ch17,,80
-A. Ahmadi-Javid,Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure,2012-03-16 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10957-012-0014-9,,81
-,Limitations of Risk Importance Measures,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1115/1.861394_ch11,,82
-Massimiliano Amarante,A representation of risk measures,2016-01-28 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1007/s10203-016-0170-8,"A . We provide a representation theorem for risk measures satisfying (i) monotonicity; (ii) positive homogeneity; and (iii) translation invariance. As a simple corollary to our theorem, we obtain the usual representation of coherent risk measures (i.e., risk measures that are, in addition, sub-additive; see Artzner et al. [2] ).",83
-"Bernard, C.,Brechmann, E.,Czado, C.",Statistical Assessments of Systemic Risk Measures,2013-05-23 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139151184.009,,84
-G. Szegö,Risk measures for the 21st century,None,SupportedSources.SEMANTIC_SCHOLAR,,,85
-,Miscellaneous Risk Measures,2021-10-20 00:00:00,SupportedSources.CROSSREF,10.1002/9781119838883.ch10,,86
-,Composite Internal Risk Measures,2012-11-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781118673621.app1,,87
-楠岡 成雄,On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics),2001-06-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,88
-Shigeo Kusuoka,On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics),2001-06-01 00:00:00,SupportedSources.OPENALEX,,,89
-Georg Ch. Pflug,Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R),2016-04-03 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.17713/ajs.v31i1.471,"The conditional-value-at-risk (C V@R) has been widely used as a risk measure. It is well known, that C V@R is coherent in the sense of Artzner, Delbaen, Eber, Heath (1999). The class of coherent risk measures is convex. It was conjectured, that all coherent risk measures can be represented as convex combinations of C V@R's. In this note we show that this conjecture is wrong.",90
-"Hoel, D.",Statistical Measures of Risk,1982-01-01 00:00:00,SupportedSources.CROSSREF,10.3109/03602538208991363,,91
-F. Delbaen,Draft: Coherent Risk Measures,None,SupportedSources.SEMANTIC_SCHOLAR,,"Part of the course was devoted to an analysis of Value at Risk and its relation to quantiles. A detailed discussion of this can be found in two papers by Artzner, Delbaen, Eber and Heath, ADEH1 and ADEH2. It will not be repeated here. We will rather concentrate on the mathematics behind the concept of coherent risk measures. They were introduced in the two mentioned papers and the mathematical theory was further developped in Delbaen (1999), D2. Further use of coherent risk measures can be found in the papers (and their references) by Jaschke, Ja and JaK, Tasche, AT and Föllmer-Schied, FS. The reader should consult the cited web-sites to find several papers dealing with this subject. The paper by Föllmer and Schied introduces a generalisation of coherent risk measures.",92
-"Brachinger, H.",From Variance to Value at Risk: A Unified Perspective on Standardized Risk Measures,1999-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-60187-3_8,,93
-"Berkhouch, M.,Müller, F.,Lakhnati, G.,Righi, M.",Deviation-Based Model Risk Measures,2021-01-27 00:00:00,SupportedSources.CROSSREF,10.1007/s10614-021-10093-x,,94
-"Armstrong, J.,Brigo, D.",Coherent risk measures alone are ineffective in constraining portfolio losses,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jbankfin.2021.106315,,95
-Zhang Hui,Conditional g-expectation and coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,"Conditional g-expectation is applied to define (dynamic) risk measures, which satisfies the axioms of coherent (dynamic) risk measures. Then, the representation theorems of the given (dynamic) coherent risk measures are provided. At the same time, some important properties of the (dynamic) coherent risk measures are followed.",96
-"Krätschmer, V.",Robust representation of convex risk measures by probability measures,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/s00780-005-0160-0,,97
-"Andrew W. Lo,Joseph G. Haubrich",Quantifying Systemic Risk,None,SupportedSources.CORE,,,98
-"Das, P.",Risk Modeling by Coherent Measure Using Family of Generalized Hyperbolic Distributions,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-33-6973-3_11,,99
+authors,title,pub_date,source,doi,abstract,rank,url
+Yuji Yoshida,Coherent Risk Measures Derived from Utility Functions,2018-10-15 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-030-00202-2_2,,0,"https://openalex.org/W2890252705
+https://doi.org/10.1007/978-3-030-00202-2_2"
+,Coherent Risk Metrics,None,SupportedSources.CROSSREF,10.1057/9781137448200.0031,,1,http://dx.doi.org/10.1057/9781137448200.0031
+G. Trzpiot,Multivalued coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,2,https://www.semanticscholar.org/paper/0b5b7feb4799b520ca9741afa4596cf2a5edbd43
+Panos M. Pardalos,On Some Aspects of Coherent Risk Measures and their Applications,2011-08-04 00:00:00,SupportedSources.OPENALEX,,,3,https://openalex.org/W2097512955
+"M. Dempster,G. Pflug,G. Mitra",Higher Moment Coherent Risk Measures,2008-12-22 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1201/9781420081923.ch13,,4,https://www.semanticscholar.org/paper/741403103131c97e96d7977a178df5dee2957bcd
+"Hans Föllmer,Alexander Schied",Coherent and convex risk measures,2010-01-01 00:00:00,SupportedSources.OPENALEX,,,5,https://openalex.org/W2588440186
+"H. Föllmer,A. Schied",Coherent and convex risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,6,https://www.semanticscholar.org/paper/33b55872f5f5642b9d2fc6152ae14e78e24e49be
+G. Trzpiot,Coherent Risk Measures in Multiperiod Models,None,SupportedSources.SEMANTIC_SCHOLAR,,,7,https://www.semanticscholar.org/paper/94033a15a5f7cfc3bb98b3ae484633a2a75a9232
+George Stoica,Relevant coherent measures of risk,2006-09-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.jmateco.2006.03.006,,8,"https://openalex.org/W1975969223
+https://doi.org/10.1016/j.jmateco.2006.03.006"
+Stefano Benati,Coherent Risk Measures and Linear Programming,2001-01-01 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-7908-1814-7_21,,9,"https://openalex.org/W2253720869
+https://doi.org/10.1007/978-3-7908-1814-7_21"
+"Philippe Artzner,Freddy Delbaen,Jean-Marc Eber,David Heath",Coherent Measures of Risk,2002-01-01 00:00:00,SupportedSources.OPENALEX,10.1017/cbo9780511615337.007,,10,"https://openalex.org/W1568386005
+https://doi.org/10.1017/cbo9780511615337.007"
+,Coherent measures of risk,2014-08-07 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139017398.009,,11,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/62425CFD8F05E65FBB54540115C04F79
+http://dx.doi.org/10.1017/cbo9781139017398.009"
+"W. Ogryczak,M. Opolska-Rutkowska",Coherent Risk Measures and Stochastic Dominance,None,SupportedSources.SEMANTIC_SCHOLAR,,,12,https://www.semanticscholar.org/paper/a4251db4e810b44694609e4c2a8e6169cb90a830
+"Bonnans, J.",Risk Measures,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-14977-2_4,,13,"http://link.springer.com/content/pdf/10.1007/978-3-030-14977-2_4
+http://dx.doi.org/10.1007/978-3-030-14977-2_4"
+,Risk measures,2003-12-11 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511753893.012,,14,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75BFE6C8C00EE5D4D625A983A17F40BB
+http://dx.doi.org/10.1017/cbo9780511753893.012"
+,Risk measures,2009-09-17 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511812156.008,,15,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CD9C7D982AA05A39D01C0B02737E7C1
+http://dx.doi.org/10.1017/cbo9780511812156.008"
+,Risk Measures,2015-09-28 00:00:00,SupportedSources.CROSSREF,10.1142/9789814641944_0015,,16,http://dx.doi.org/10.1142/9789814641944_0015
+Shigeo Kusuoka,On law invariant coherent risk measures,2001-01-01 00:00:00,SupportedSources.OPENALEX,10.1007/978-4-431-67891-5_4,,17,"https://openalex.org/W1591570634
+https://doi.org/10.1007/978-4-431-67891-5_4"
+,Alternative Risk Measures,2015-09-12 00:00:00,SupportedSources.CROSSREF,10.1002/9781119205937.ch9,,18,"http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119205937.ch9
+https://onlinelibrary.wiley.com/doi/full/10.1002/9781119205937.ch9
+http://dx.doi.org/10.1002/9781119205937.ch9"
+"Hailiang Yang,T. Siu",Coherent Risk Measures for Derivatives,None,SupportedSources.SEMANTIC_SCHOLAR,,,19,https://www.semanticscholar.org/paper/4bf733645d3a9a3d4a0e92ad4cb12ca6e507623e
+"Moix, P.",Risk and Risk Measures,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-56481-9_2,,20,"http://link.springer.com/content/pdf/10.1007/978-3-642-56481-9_2
+http://dx.doi.org/10.1007/978-3-642-56481-9_2"
+,Risk and Risk Measures,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9781848166332_0003,,21,http://dx.doi.org/10.1142/9781848166332_0003
+"Roccioletti, S.",Risk Measures and their Properties,2015-12-05 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-658-11908-9_2,,22,"http://link.springer.com/content/pdf/10.1007/978-3-658-11908-9_2
+http://dx.doi.org/10.1007/978-3-658-11908-9_2"
+,Simple Risk Measures,2012-11-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781118673621.ch3,,23,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.ch3
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.ch3
+http://dx.doi.org/10.1002/9781118673621.ch3"
+"Elisabet Gulevska,Tomas Westman,westman. tomas","Coherent Risk Measures Financial Risk , fall 2010",None,SupportedSources.SEMANTIC_SCHOLAR,,,24,https://www.semanticscholar.org/paper/4a3e5a92c28e2093984fe07a9b645b20384442eb
+"Proske, D.",Objective Risk Measures,None,SupportedSources.CROSSREF,10.1007/978-3-540-79555-1_3,,25,"http://link.springer.com/content/pdf/10.1007/978-3-540-79555-1_3.pdf
+http://dx.doi.org/10.1007/978-3-540-79555-1_3"
+"Jaschke, S.,Küchler, U.",Coherent risk measures and good-deal bounds,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/pl00013530,,26,"http://link.springer.com/content/pdf/10.1007/PL00013530.pdf
+http://link.springer.com/article/10.1007/PL00013530/fulltext.html
+http://link.springer.com/content/pdf/10.1007/PL00013530
+http://dx.doi.org/10.1007/pl00013530"
+"Rüschendorf, L.",Risk Measures for Real Risks,2012-08-30 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-33590-7_7,,27,"https://link.springer.com/content/pdf/10.1007/978-3-642-33590-7_7
+http://dx.doi.org/10.1007/978-3-642-33590-7_7"
+"Zhiping Chen,Qianhui Hu",On Coherent Risk Measures Induced by Convex Risk Measures,2018-06-01 00:00:00,SupportedSources.OPENALEX,10.1007/s11009-017-9584-1,,28,"https://openalex.org/W2741147126
+https://doi.org/10.1007/s11009-017-9584-1"
+"Zio, E.",Risk Importance Measures,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-85729-470-8_6,,29,"https://link.springer.com/content/pdf/10.1007/978-0-85729-470-8_6
+http://dx.doi.org/10.1007/978-0-85729-470-8_6"
+"MacLean, L.,Ziemba, B.",A Primer on Risk Measures,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1002/wilm.10288,,30,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fwilm.10288
+https://onlinelibrary.wiley.com/doi/full/10.1002/wilm.10288
+http://dx.doi.org/10.1002/wilm.10288"
+"Giulianella Coletti,Davide Petturiti,Barbara Vantaggi",Conditional Submodular Coherent Risk Measures,2018-06-11 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-319-91476-3_20,,31,"https://openalex.org/W2803397208
+https://doi.org/10.1007/978-3-319-91476-3_20"
+G. Meyers,Coherent Measures of Risk-An Exposition for the Lay Actu..,None,SupportedSources.SEMANTIC_SCHOLAR,,,32,https://www.semanticscholar.org/paper/c4e3b66776e464de574f1581aefb2f7a25934226
+"Pichler, A.,Schlotter, R.",Entropy based risk measures,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejor.2019.01.016,,33,"https://api.elsevier.com/content/article/PII:S0377221719300189?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0377221719300189?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejor.2019.01.016"
+D. Hunter,An adaptive procedure for estimating coherent risk measures based on generalized scenarios,2008-06-18 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,34,https://www.semanticscholar.org/paper/18d39903b8278a5ae82f76664a061a3e8cf75708
+"Vazsonyi, A.,Chen, P.,Jenkins, D.,Burcu, E.,Torrente, G.,Sheu, C.",Model Risk Measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1037/t09097-000,,35,http://dx.doi.org/10.1037/t09097-000
+"Yanhong Chen,Yijun Hu",Multivariate coherent risk measures induced by multivariate convex risk measures,2020-07-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11117-019-00703-2,,36,https://www.semanticscholar.org/paper/a6f0418f5690601d3f20ff5de71bc36d5d2b09c3
+"Bénéplanc, G.,Rochet, J.",Statistical Risk Measures,2011-09-08 00:00:00,SupportedSources.CROSSREF,10.1093/acprof:osobl/9780199774081.003.0006,,37,http://dx.doi.org/10.1093/acprof:osobl/9780199774081.003.0006
+Tatyana A. Kustitskaya,Representation of Preferences by Generalized Coherent Risk Measures,2012-01-01 00:00:00,SupportedSources.OPENALEX,,,38,https://openalex.org/W2184260568
+"Assa, H.",Natural risk measures,2016-03-04 00:00:00,SupportedSources.CROSSREF,10.1007/s11579-016-0165-9,,39,"http://link.springer.com/content/pdf/10.1007/s11579-016-0165-9.pdf
+http://link.springer.com/article/10.1007/s11579-016-0165-9/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s11579-016-0165-9
+http://dx.doi.org/10.1007/s11579-016-0165-9"
+,Granularity for Risk Measures,2014-10-06 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781107709393.007,,40,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/813C1BB6F98737A20F20DCFF10F0FE97
+http://dx.doi.org/10.1017/cbo9781107709393.007"
+Andreas Krause,Coherent risk measurement: an introduction,2002-12-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1108/09657960210450736,It is shown that the widely used risk measures standard deviation and value at risk do not always reflect risk preferences accurately. To overcome these problems in risk measurement a class of coherent risk measures has been proposed. We introduce the idea behind these measures and provide an overview of suggested coherent risk measures. Finally it is shown where the limitations of such measures in practical applications are and how regulatory bodies responded to their introduction in the literature. We find that most contributions on coherent risk measurement come from the actuarial sciences and propagate a widening of the discussion among researchers and practitioners in other industries.,41,https://www.semanticscholar.org/paper/712cc1a4d5482d47ce0cebc834778ffc5939e8ef
+"Wigfield, R.,Gilbert, R.,Fleming, P.",SIDS: Risk reduction measures,1994-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0378-3782(94)90208-9,,42,"https://api.elsevier.com/content/article/PII:0378378294902089?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0378378294902089?httpAccept=text/plain
+http://dx.doi.org/10.1016/0378-3782(94)90208-9"
+A. Quaranta,Robust Optimization of a Coherent Risk Measure,None,SupportedSources.SEMANTIC_SCHOLAR,,,43,https://www.semanticscholar.org/paper/61d2b84f4a8adf51c80a030d2e68e2c2ac4e078d
+Andreas Krause,Beyond VaR: Expected shortfall and other coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,44,https://www.semanticscholar.org/paper/c158154433e2ecd00e126a394121f5be3e9b12aa
+V. Kirilyuk,The Class of Polyhedral Coherent Risk Measures,2004-07-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1023/B:CASA.0000047881.82280.E2,,45,https://www.semanticscholar.org/paper/351d5f70e7d31a8115f3cc3683e3b74171fdbcc3
+"E. Desli,A. Tsanakas","Coherent risk measures and premium calculation principles: Definition, properties and relationship FORTHCOMING",None,SupportedSources.SEMANTIC_SCHOLAR,,,46,https://www.semanticscholar.org/paper/647e6cb54c2714a554bf56bb5344e7bccac05940
+"Gianin, E.,Sgarra, C.",Risk Measures: Value at Risk and beyond,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-01357-2_12,,47,"http://link.springer.com/content/pdf/10.1007/978-3-319-01357-2_12
+http://dx.doi.org/10.1007/978-3-319-01357-2_12"
+"Nguyen, H.,Sriboonchitta, S.",On Choquet Integral Risk Measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11960-6_2,,48,"http://link.springer.com/content/pdf/10.1007/978-3-642-11960-6_2.pdf
+http://dx.doi.org/10.1007/978-3-642-11960-6_2"
+"Goovaerts, M.,Kaas, R.,Laeven, R.",Decision principles derived from risk measures,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.insmatheco.2010.07.004,,49,"https://api.elsevier.com/content/article/PII:S0167668710000818?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167668710000818?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.insmatheco.2010.07.004"
+G. Trzpiot,Application of Coherent Distortion Risk Measures,None,SupportedSources.SEMANTIC_SCHOLAR,,,50,https://www.semanticscholar.org/paper/a3140e6326b7dc8fe832b4d10439b6ff83708b6d
+,Risk Reducing Measures,None,SupportedSources.CROSSREF,10.1002/9783527621606.ch10,,51,"https://onlinelibrary.wiley.com/doi/full/10.1002/9783527621606.ch10
+http://dx.doi.org/10.1002/9783527621606.ch10"
+"Guégan, D.,Hassani, B.",Risk Measurement,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-02680-6,,52,"http://link.springer.com/content/pdf/10.1007/978-3-030-02680-6.pdf
+http://link.springer.com/content/pdf/10.1007/978-3-030-02680-6
+http://dx.doi.org/10.1007/978-3-030-02680-6"
+"Hoffmann, H.,Meyer-Brandis, T.,Svindland, G.",Risk-consistent conditional systemic risk measures,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.spa.2016.01.002,,53,"https://api.elsevier.com/content/article/PII:S030441491600003X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S030441491600003X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.spa.2016.01.002"
+"Bonaccorso, L.,Greco, S.,Matarazzo, B.,Platania, P.",Some New Properties of Risk Measures,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-08799-2_23,,54,"http://link.springer.com/content/pdf/10.1007/978-3-662-08799-2_23
+http://dx.doi.org/10.1007/978-3-662-08799-2_23"
+,Risk Measures with Applications in Finance and Economics,2019-07-23 00:00:00,SupportedSources.CROSSREF,10.3390/books978-3-03897-444-4,,55,http://dx.doi.org/10.3390/books978-3-03897-444-4
+V. Kirilyuk,Polyhedral Coherent Risk Measures and Robust Optimization,2019-11-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10559-019-00210-y,,56,https://www.semanticscholar.org/paper/9790c0703249a3602ec7013141a0e8803bf0dd6b
+"Luce, R.",Several possible measures of risk,1980-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/bf00135033,,57,"http://link.springer.com/content/pdf/10.1007/BF00135033.pdf
+http://link.springer.com/article/10.1007/BF00135033/fulltext.html
+http://link.springer.com/content/pdf/10.1007/BF00135033
+http://dx.doi.org/10.1007/bf00135033"
+"Jha, A.,Stanton-Geddes, Z.",Risk Reduction: Measures and Investments,2013-02-28 00:00:00,SupportedSources.CROSSREF,10.1596/9780821398050_ch04,,58,http://dx.doi.org/10.1596/9780821398050_ch04
+"Embrechts, P.,Hofert, M.",Risk Measures and Dependence Modeling,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4614-0155-1_6,,59,"http://link.springer.com/content/pdf/10.1007/978-1-4614-0155-1_6
+http://dx.doi.org/10.1007/978-1-4614-0155-1_6"
+,Financial Risk Measures,2009-10-19 00:00:00,SupportedSources.CROSSREF,10.1201/9781420082678.ch4,,60,"http://www.crcnetbase.com/doi/pdf/10.1201/9781420082678.ch4
+http://dx.doi.org/10.1201/9781420082678.ch4"
+"Maccrimmon, K.,Wehrung, D.",A portfolio of risk measures,1985-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/bf00134352,,61,"http://link.springer.com/content/pdf/10.1007/BF00134352.pdf
+http://link.springer.com/article/10.1007/BF00134352/fulltext.html
+http://link.springer.com/content/pdf/10.1007/BF00134352
+http://dx.doi.org/10.1007/bf00134352"
+A. Novosyolov,GENERALIZED COHERENT RISK MEASURES IN DECISION-MAKING UNDER RISK,None,SupportedSources.SEMANTIC_SCHOLAR,,"Coherent risk measures have lately become a hot topic in both theoretical research and practical applications. Since they possess a number of disadvantages, some generalizations and modifications have been proposed recently. In the present paper we propose one more generalization which holds a number of attractive properties. A representation theorem for the risk measures class has been obtained, properties of functionals have been established, partial cases and examples are also presented.",62,https://www.semanticscholar.org/paper/dd87b86918af125cf76c0f44ef5a5c242a1d3c57
+,4 Monetary measures of risk,None,SupportedSources.CROSSREF,10.1515/9783110218053.175,,63,"https://www.degruyter.com/document/doi/10.1515/9783110218053.175/pdf
+http://dx.doi.org/10.1515/9783110218053.175"
+"Xin Huang,Hao Zhou,Haibin Zhu",Systemic Risk Contributions,2011-10-05 00:00:00,SupportedSources.OPENALEX,10.1007/s10693-011-0117-8,,64,"https://openalex.org/W2114111702
+https://doi.org/10.1007/s10693-011-0117-8
+http://www.bis.org/publ/bppdf/bispap60e.pdf"
+"Ma, H.,Tian, D.",Generalized entropic risk measures and related BSDEs,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.spl.2021.109110,,65,"https://api.elsevier.com/content/article/PII:S0167715221000729?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167715221000729?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.spl.2021.109110"
+,4 GlueVaR and other new risk measures,2017-12-31 00:00:00,SupportedSources.CROSSREF,10.1515/9789048534586-005,,66,"https://www.degruyter.com/document/doi/10.1515/9789048534586-005/xml
+https://www.degruyter.com/document/doi/10.1515/9789048534586-005/pdf
+http://dx.doi.org/10.1515/9789048534586-005"
+H. Föllmer,Consistency Properties of Systemic Risk Measures,2019-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1142/9781786341952_0004,,67,https://www.semanticscholar.org/paper/e0c732ff5eb3339a8833fd98cb4c400a30886102
+,Risk Measures and Asset Allocation Problems,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9789811225758_0008,,68,http://dx.doi.org/10.1142/9789811225758_0008
+Yuji Yoshida,Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures,2019-06-02 00:00:00,SupportedSources.OPENALEX,10.1007/978-981-13-8303-8_19,,69,"https://openalex.org/W2947205161
+https://doi.org/10.1007/978-981-13-8303-8_19"
+"Yan, J.",Static Risk Measures,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-13-1657-9_10,,70,"http://link.springer.com/content/pdf/10.1007/978-981-13-1657-9_10
+http://dx.doi.org/10.1007/978-981-13-1657-9_10"
+"Landsman, Z.,Sherris, M.",Risk measures and insurance premium principles,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-6687(01)00076-2,,71,"https://api.elsevier.com/content/article/PII:S0167668701000762?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167668701000762?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-6687(01)00076-2"
+Jun Yan,Deviations of convex and coherent entropic risk measures,2015-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1016/J.SPL.2015.01.035,,72,https://www.semanticscholar.org/paper/c2716083d72144976cf736a75f339fd43eb092e1
+"Liebrich, F.,Svindland, G.",Model spaces for risk measures,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.insmatheco.2017.09.006,,73,"https://api.elsevier.com/content/article/PII:S0167668717300860?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167668717300860?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.insmatheco.2017.09.006"
+"Romanovski, Ivan",Time consistency in Risk measures,2012-01-01 00:00:00,SupportedSources.CORE,,,74,https://core.ac.uk/download/pdf/9403455.pdf
+,Model Risk in Risk Measures Calculations,2015-06-28 00:00:00,SupportedSources.CROSSREF,10.1142/9789814663410_0008,,75,http://dx.doi.org/10.1142/9789814663410_0008
+"Livada, A.,Anagnostopoulou, M.",Risk Measures and Inequality,2019-12-10 00:00:00,SupportedSources.CROSSREF,10.3389/fams.2019.00057,,76,"https://www.frontiersin.org/article/10.3389/fams.2019.00057/full
+http://dx.doi.org/10.3389/fams.2019.00057"
+"Zang, X.,JIANG, F.,Xia, C.,Yang, J.",Random Distortion Risk Measures,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4394934,,77,http://dx.doi.org/10.2139/ssrn.4394934
+"Dudek, Z.",From isotonic Banach functionals to coherent risk measures,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.4064/am28-4-4,,78,http://dx.doi.org/10.4064/am28-4-4
+Amir Ahmadi-Javid,Entropic Value-at-Risk: A New Coherent Risk Measure,2012-12-01 00:00:00,SupportedSources.OPENALEX,10.1007/s10957-011-9968-2,,79,"https://openalex.org/W2031355801
+https://doi.org/10.1007/s10957-011-9968-2"
+,Reliability of Risk Reducing Measures,2020-03-13 00:00:00,SupportedSources.CROSSREF,10.1002/9783527696918.ch17,,80,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9783527696918.ch17
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527696918.ch17
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527696918.ch17
+http://dx.doi.org/10.1002/9783527696918.ch17"
+A. Ahmadi-Javid,Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure,2012-03-16 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10957-012-0014-9,,81,https://www.semanticscholar.org/paper/09a992f9d432c3daaf406e160e5327729603a125
+,Limitations of Risk Importance Measures,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1115/1.861394_ch11,,82,http://dx.doi.org/10.1115/1.861394_ch11
+Massimiliano Amarante,A representation of risk measures,2016-01-28 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1007/s10203-016-0170-8,"A . We provide a representation theorem for risk measures satisfying (i) monotonicity; (ii) positive homogeneity; and (iii) translation invariance. As a simple corollary to our theorem, we obtain the usual representation of coherent risk measures (i.e., risk measures that are, in addition, sub-additive; see Artzner et al. [2] ).",83,https://web.archive.org/web/20170815105539/https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/10088/2013-08-cah.pdf?sequence=1
+"Bernard, C.,Brechmann, E.,Czado, C.",Statistical Assessments of Systemic Risk Measures,2013-05-23 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139151184.009,,84,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/01D825D3255B6E7E59475ADEA9B71672
+http://dx.doi.org/10.1017/cbo9781139151184.009"
+G. Szegö,Risk measures for the 21st century,None,SupportedSources.SEMANTIC_SCHOLAR,,,85,https://www.semanticscholar.org/paper/1d30bdff726aba88f42f608cd585b1624be855a2
+,Miscellaneous Risk Measures,2021-10-20 00:00:00,SupportedSources.CROSSREF,10.1002/9781119838883.ch10,,86,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10
+http://dx.doi.org/10.1002/9781119838883.ch10"
+,Composite Internal Risk Measures,2012-11-26 00:00:00,SupportedSources.CROSSREF,10.1002/9781118673621.app1,,87,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.app1
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118673621.app1
+http://dx.doi.org/10.1002/9781118673621.app1"
+楠岡 成雄,On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics),2001-06-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,88,https://www.semanticscholar.org/paper/53a15f9bff1beda2c13804d1019743bc3df0f4af
+Shigeo Kusuoka,On Law Invariant Coherent Risk Measures : Mathematical Finance (Mathematical Economics),2001-06-01 00:00:00,SupportedSources.OPENALEX,,,89,https://openalex.org/W2239623303
+Georg Ch. Pflug,Coherent Risk Measures and Convex Combinations of the Conditional Value at Risk (C V@R),2016-04-03 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.17713/ajs.v31i1.471,"The conditional-value-at-risk (C V@R) has been widely used as a risk measure. It is well known, that C V@R is coherent in the sense of Artzner, Delbaen, Eber, Heath (1999). The class of coherent risk measures is convex. It was conjectured, that all coherent risk measures can be represented as convex combinations of C V@R's. In this note we show that this conjecture is wrong.",90,https://web.archive.org/web/20180721183701/https://www.ajs.or.at/index.php/ajs/article/download/vol31%2C%20no1%20-%206/415
+"Hoel, D.",Statistical Measures of Risk,1982-01-01 00:00:00,SupportedSources.CROSSREF,10.3109/03602538208991363,,91,"http://www.tandfonline.com/doi/pdf/10.3109/03602538208991363
+http://dx.doi.org/10.3109/03602538208991363"
+F. Delbaen,Draft: Coherent Risk Measures,None,SupportedSources.SEMANTIC_SCHOLAR,,"Part of the course was devoted to an analysis of Value at Risk and its relation to quantiles. A detailed discussion of this can be found in two papers by Artzner, Delbaen, Eber and Heath, ADEH1 and ADEH2. It will not be repeated here. We will rather concentrate on the mathematics behind the concept of coherent risk measures. They were introduced in the two mentioned papers and the mathematical theory was further developped in Delbaen (1999), D2. Further use of coherent risk measures can be found in the papers (and their references) by Jaschke, Ja and JaK, Tasche, AT and Föllmer-Schied, FS. The reader should consult the cited web-sites to find several papers dealing with this subject. The paper by Föllmer and Schied introduces a generalisation of coherent risk measures.",92,https://www.semanticscholar.org/paper/7b27edc1900df998fd76bcbe40e816907bb97d41
+"Brachinger, H.",From Variance to Value at Risk: A Unified Perspective on Standardized Risk Measures,1999-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-60187-3_8,,93,"http://link.springer.com/content/pdf/10.1007/978-3-642-60187-3_8.pdf
+http://dx.doi.org/10.1007/978-3-642-60187-3_8"
+"Berkhouch, M.,Müller, F.,Lakhnati, G.,Righi, M.",Deviation-Based Model Risk Measures,2021-01-27 00:00:00,SupportedSources.CROSSREF,10.1007/s10614-021-10093-x,,94,"https://link.springer.com/content/pdf/10.1007/s10614-021-10093-x.pdf
+https://link.springer.com/article/10.1007/s10614-021-10093-x/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s10614-021-10093-x.pdf
+http://dx.doi.org/10.1007/s10614-021-10093-x"
+"Armstrong, J.,Brigo, D.",Coherent risk measures alone are ineffective in constraining portfolio losses,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jbankfin.2021.106315,,95,"https://api.elsevier.com/content/article/PII:S0378426621002673?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0378426621002673?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.jbankfin.2021.106315"
+Zhang Hui,Conditional g-expectation and coherent risk measures,None,SupportedSources.SEMANTIC_SCHOLAR,,"Conditional g-expectation is applied to define (dynamic) risk measures, which satisfies the axioms of coherent (dynamic) risk measures. Then, the representation theorems of the given (dynamic) coherent risk measures are provided. At the same time, some important properties of the (dynamic) coherent risk measures are followed.",96,https://www.semanticscholar.org/paper/70c6a45e6e938ac988a05446038d85f86f3c1296
+"Krätschmer, V.",Robust representation of convex risk measures by probability measures,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/s00780-005-0160-0,,97,"http://link.springer.com/content/pdf/10.1007/s00780-005-0160-0.pdf
+http://link.springer.com/article/10.1007/s00780-005-0160-0/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s00780-005-0160-0
+http://dx.doi.org/10.1007/s00780-005-0160-0"
+"Andrew W. Lo,Joseph G. Haubrich",Quantifying Systemic Risk,None,SupportedSources.CORE,,,98,https://core.ac.uk/download/pdf/6722886.pdf
+"Das, P.",Risk Modeling by Coherent Measure Using Family of Generalized Hyperbolic Distributions,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-33-6973-3_11,,99,"https://link.springer.com/content/pdf/10.1007/978-981-33-6973-3_11
+http://dx.doi.org/10.1007/978-981-33-6973-3_11"

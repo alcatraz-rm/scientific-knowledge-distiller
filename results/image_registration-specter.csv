@@ -1,0 +1,210 @@
+authors,title,pub_date,source,doi,abstract,rank,url
+Elizabeth McKenzie,A Neural Network Approach to Deformable Image Registration,None,SupportedSources.SEMANTIC_SCHOLAR,,,0,https://www.semanticscholar.org/paper/05a25d08a3118d65237b5d9c50dc9f4bd215498a
+"Gadde, P.",AFFINE IMAGE REGISTRATION USING ARTIFICIAL NEURAL NETWORKS,None,SupportedSources.CROSSREF,10.15368/theses.2013.133,,1,http://dx.doi.org/10.15368/theses.2013.133
+"Anbang Xu,Ping Guo",Image Registration with Regularized Neural Network,2006-10-03 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/11893257_32,,2,https://www.semanticscholar.org/paper/5b765d411c0e0ca192bf5beea5a2ddf32d4a7c14
+"D. Banarse,A. Duller",Vision Experiments with Neural Deformable Template Matching,1997-04-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1023/A:1009661908220,,3,https://www.semanticscholar.org/paper/d8e75a9c1660780637a5884adae96cec85a61127
+"Ameneh Sheikhjafari,Michelle Noga,Kumaradevan Punithakumar,Nilanjan Ray",Unsupervised deformable image registration with fully connected generative neural network,2018-04-11 00:00:00,SupportedSources.OPENALEX,,,4,https://openalex.org/W2902335457
+"H. Sarnel,Y. Senol",Accurate affine image registration using radial basis neural networks,2008-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.21608/ICEENG.2008.34357,,5,"https://www.semanticscholar.org/paper/afbae8c22437bdcd6558486a1b0b200f65d2bfcd
+http://iceeng.journals.ekb.eg/article_34357_80c1e83071ce81dc54ec011880d0c763.pdf"
+"Chen, Y.,Ye, X.",Inverse Consistent Deformable Image Registration,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4419-6263-8_26,,6,"http://link.springer.com/content/pdf/10.1007/978-1-4419-6263-8_26
+http://dx.doi.org/10.1007/978-1-4419-6263-8_26"
+"Heng Liu,Jingqi Yan,D. Zhang",A Neural Network Strategy for 3D Surface Registration,2006-05-08 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/11751540_56,,7,https://www.semanticscholar.org/paper/f2731c4a391bef683803c26f7e616a001bd0c839
+"Liu, J.",Deformable Model-Based Image Registration,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-387-68413-0_15,,8,"http://link.springer.com/content/pdf/10.1007/978-0-387-68413-0_15.pdf
+http://dx.doi.org/10.1007/978-0-387-68413-0_15"
+"Xu, A.,Guo, P.",Isomap and Neural Networks Based Image Registration Scheme,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11760023_71,,9,"http://link.springer.com/content/pdf/10.1007/11760023_71.pdf
+http://dx.doi.org/10.1007/11760023_71"
+Chi Wing Mok,Unsupervised affine and deformable medical image registration with convolutional neural networks,None,SupportedSources.SEMANTIC_SCHOLAR,10.14711/thesis-991013106358203412,,10,https://www.semanticscholar.org/paper/9daae223cd9c1b757b2336a8a1b1428898090d1f
+"Lei Qu,Wan Wan,Kaixuan Guo,Yu Liu,Jun Tang,Xiaolei Li,Jun Wu",Triple-Input-Unsupervised neural Networks for deformable image registration,2021-11-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1016/j.patrec.2021.08.032,,11,https://www.semanticscholar.org/paper/51bf2cc2e5085ba8e958eddfceffd85a00e3bfb1
+"Sarnel, H.,Senol, Y.",Accurate and robust image registration based on radial basis neural networks,2011-03-01 00:00:00,SupportedSources.CROSSREF,10.1007/s00521-011-0564-z,,12,"http://link.springer.com/content/pdf/10.1007/s00521-011-0564-z.pdf
+http://link.springer.com/article/10.1007/s00521-011-0564-z/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s00521-011-0564-z
+http://dx.doi.org/10.1007/s00521-011-0564-z"
+"Lei, Y.,Fu, Y.,Harms, J.,Wang, T.,Curran, W.,Liu, T.,Higgins, K.,Yang, X.",4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-32486-5_4,,13,"http://link.springer.com/content/pdf/10.1007/978-3-030-32486-5_4
+http://dx.doi.org/10.1007/978-3-030-32486-5_4"
+"Srikanchana, R.,Xuan, J.,Freedman, M.,Nguyen, C.,Wang, Y.",Non-Rigid Image Registration by Neural Computation,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1023/b:vlsi.0000027488.23703.ba,,14,http://dx.doi.org/10.1023/b:vlsi.0000027488.23703.ba
+"Cheng, Q.,Li, H.,Wu, Q.,Ma, L.,Ngan, K.",Parametric Deformable Exponential Linear Units for deep neural networks,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neunet.2020.02.012,,15,"https://api.elsevier.com/content/article/PII:S0893608020300575?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0893608020300575?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neunet.2020.02.012"
+"Pekar, V.,Gladilin, E.",Deformable Image Registration by Adaptive Gaussian Forces,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-27816-0_27,,16,"http://link.springer.com/content/pdf/10.1007/978-3-540-27816-0_27.pdf
+http://dx.doi.org/10.1007/978-3-540-27816-0_27"
+"Muenzing, S.,van Ginneken, B.,Pluim, J.",On Combining Algorithms for Deformable Image Registration,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-31340-0_27,,17,"http://link.springer.com/content/pdf/10.1007/978-3-642-31340-0_27
+http://dx.doi.org/10.1007/978-3-642-31340-0_27"
+"Shah, K.",Improving Precision of Deformable Image Registration,None,SupportedSources.CROSSREF,10.17918/00001347,,18,http://dx.doi.org/10.17918/00001347
+"Cobzas, D.,Sen, A.",Random Walks for Deformable Image Registration,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-23629-7_68,,19,"http://link.springer.com/content/pdf/10.1007/978-3-642-23629-7_68
+http://dx.doi.org/10.1007/978-3-642-23629-7_68"
+,Image Registration,2010-10-12 00:00:00,SupportedSources.CROSSREF,10.1002/9780470872093.ch11,,20,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470872093.ch11
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470872093.ch11
+http://dx.doi.org/10.1002/9780470872093.ch11"
+National Cancer Institute,Image Registration,2020-02-07 00:00:00,SupportedSources.CROSSREF,10.32388/6o7zgt,,21,http://dx.doi.org/10.32388/6o7zgt
+,Image Registration,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1002/9780470918548.ch12,,22,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470918548.ch12
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470918548.ch12
+http://dx.doi.org/10.1002/9780470918548.ch12"
+"Dongming Wei,Wenlong Yang,P. Paysan,Hefeng Liu",An Unsupervised Learning Based Deformable Registration Network for 4D-CT Images,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-70123-9_5,,23,https://www.semanticscholar.org/paper/4002c7e49df80baf797c6dd1bc75dafe7628acce
+"Goshtasby, A.",Image Registration Methods,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4471-2458-0_11,,24,"http://link.springer.com/content/pdf/10.1007/978-1-4471-2458-0_11.pdf
+http://dx.doi.org/10.1007/978-1-4471-2458-0_11"
+"Veress, A.,Phatak, N.,Weiss, J.",Deformable Image Registration with Hyperelastic Warping,None,SupportedSources.CROSSREF,10.1007/0-306-48608-3_12,,25,"http://link.springer.com/content/pdf/10.1007/0-306-48608-3_12.pdf
+http://dx.doi.org/10.1007/0-306-48608-3_12"
+"LI, X.",An Evaluation Method for Image Registration by Machine Learning,2008-05-14 00:00:00,SupportedSources.CROSSREF,10.3724/sp.j.1004.2008.00007,,26,"http://www.aas.net.cn/article/exportPdf?id=16016
+http://dx.doi.org/10.3724/sp.j.1004.2008.00007"
+"Y. Xing,Jing Sun,B. Li",New method for medical image registration based on neural networks,None,SupportedSources.SEMANTIC_SCHOLAR,,,27,https://www.semanticscholar.org/paper/9b64affa58aaf53812d6df883fb2f7081c31e604
+"Ali, S.,Rittscher, J.",Conv2Warp: An Unsupervised Deformable Image Registration with Continuous Convolution and Warping,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-32692-0_56,,28,"http://link.springer.com/content/pdf/10.1007/978-3-030-32692-0_56
+http://dx.doi.org/10.1007/978-3-030-32692-0_56"
+"Tang, S.,Cong, W.,Yang, J.,Fu, T.,Song, H.,Ai, D.,Wang, Y.",Local statistical deformation models for deformable image registration,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neucom.2018.03.039,,29,"https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neucom.2018.03.039"
+"Cai, Y.,Guo, X.,Zhong, Z.,Mao, W.",Dynamic meshing for deformable image registration,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.cad.2014.08.009,,30,"https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.cad.2014.08.009"
+,- Parametric Image Registration,2016-04-19 00:00:00,SupportedSources.CROSSREF,10.1201/b15359-12,,31,http://dx.doi.org/10.1201/b15359-12
+"N. Gunnarsson,Jens Sjölund,Thomas Bo Schön",Learning a Deformable Registration Pyramid,2021-02-23 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-71827-5_10,,32,"https://www.semanticscholar.org/paper/805b09ed8bf29750252698325a075c1bda615f53
+http://uu.diva-portal.org/smash/get/diva2:1559190/FULLTEXT01"
+"Ahmad, S.,Khan, M.",Deformable image registration based on elastodynamics,2015-05-27 00:00:00,SupportedSources.CROSSREF,10.1007/s00138-015-0690-1,,33,"http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1.pdf
+http://link.springer.com/article/10.1007/s00138-015-0690-1/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1
+http://dx.doi.org/10.1007/s00138-015-0690-1"
+"Farnebäck, G.,Westin, C.",Affine and Deformable Registration Based on Polynomial Expansion,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11866565_105,,34,"http://link.springer.com/content/pdf/10.1007/11866565_105.pdf
+http://dx.doi.org/10.1007/11866565_105"
+"Calusi, S.,Labanca, G.,Noferini, L.,Talamonti, C.,Simontacchi, G.,Pallotta, S.",Accuracy of a deformable image registration algorithm,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2016.01.032,,35,"https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2016.01.032"
+"Hui Tang,Mehdi Moradi,Ken C. L. Wong,Hongzhi Wang,A. Harouni,T. Syeda-Mahmood",Integrating Deformable Modeling with 3D Deep Neural Network Segmentation,2018-09-20 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-00889-5_43,,36,https://www.semanticscholar.org/paper/aab4cadb59b3ffcb02c72c8a078561a90b61b7ac
+"Sotiras, A.,Ou, Y.,Paragios, N.,Davatzikos, C.",Graph-based Deformable Image Registration,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-387-09749-7_18,,37,"https://link.springer.com/content/pdf/10.1007/978-0-387-09749-7_18
+http://dx.doi.org/10.1007/978-0-387-09749-7_18"
+"Karaçali, B.",Information Theoretic Deformable Registration Using Local Image Information,2006-07-23 00:00:00,SupportedSources.CROSSREF,10.1007/s11263-006-8704-0,,38,"http://link.springer.com/content/pdf/10.1007/s11263-006-8704-0.pdf
+http://link.springer.com/article/10.1007/s11263-006-8704-0/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s11263-006-8704-0
+http://dx.doi.org/10.1007/s11263-006-8704-0"
+"V. Deshpande,Jignesh S. Bhatt",Bayesian Deep Learning for Deformable Medical Image Registration,2019-12-17 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-34872-4_5,,39,https://www.semanticscholar.org/paper/3fd7a902494b16a7e1c216021b3b082bff8cf380
+"Shang, L.,Cheng Lv, J.,Yi, Z.",Rigid medical image registration using PCA neural network,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neucom.2006.01.007,,40,"https://api.elsevier.com/content/article/PII:S092523120600083X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S092523120600083X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neucom.2006.01.007"
+"Zhang, J.,Ge, Y.,Ong, S.,Chui, C.,Teoh, S.,Yan, C.",Rapid surface registration of 3D volumes using a neural network approach,2008-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.imavis.2007.04.003,,41,"https://api.elsevier.com/content/article/PII:S0262885607000844?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0262885607000844?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.imavis.2007.04.003"
+"I. Elhanany,M. Sheinfeld,A. Beck,Y. Kadmon,N. Tal,D. Tirosh",Robust image registration based on feedforward neural networks,2000-10-08 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/ICSMC.2000.886068,"A novel approach to accurate and robust image registration using feedforward neural networks is presented. Common registration schemes utilize some form of similarity measures in order to evaluate affine transformation parameters. In the proposed scheme, feedforward neural networks are employed as a means of providing translation, rotation and scaling parameters with respect to reference and observed image sets. Discrete cosine transform (DCT) features are extracted as inputs to the network. Experimental results with several deformed and noisy images indicate that the proposed algorithm is both accurate and remarkably robust to diverse noisy conditions.",42,https://www.semanticscholar.org/paper/aca05b6972117368750c9a8c2172e0033b8e4eeb
+"Nie, Z.,Li, C.,Liu, H.,Yang, X.",Deformable Image Registration Based on Functions of Bounded Generalized Deformation,2021-02-04 00:00:00,SupportedSources.CROSSREF,10.1007/s11263-021-01439-x,,43,"https://link.springer.com/content/pdf/10.1007/s11263-021-01439-x.pdf
+https://link.springer.com/article/10.1007/s11263-021-01439-x/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s11263-021-01439-x.pdf
+http://dx.doi.org/10.1007/s11263-021-01439-x"
+"Zhiyong Qiu,Jiyang Dong,Zhong Chen",MR Image Registration Based on Pulse-Coupled Neural Networks,2007-06-03 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-540-72395-0_112,,44,https://www.semanticscholar.org/paper/fab9a1ed10aa0c4d0c26295e1a263e4f774547d9
+"Zheng, Z.,Cao, W.,He, Z.,Luo, Y.",Progressive anatomically constrained deep neural network for 3D deformable medical image registration,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neucom.2021.08.097,,45,"https://api.elsevier.com/content/article/PII:S0925231221012947?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0925231221012947?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neucom.2021.08.097"
+"Yingjun Ma,Dongmei Niu,Jinshuo Zhang,Xiuyang Zhao,Bo Yang,Caiming Zhang",Unsupervised deformable image registration network for 3D medical images,2021-05-10 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10489-021-02196-7,,46,https://www.semanticscholar.org/paper/602afdf582d736824a2b5e90c767b53643b1b5de
+"Antink, C.,Singh, T.,Singla, P.,Podgorsak, M.",Advanced Lucas Kanada optical flow for deformable image registration,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jcrc.2012.01.039,,47,"https://api.elsevier.com/content/article/PII:S0883944112000548?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0883944112000548?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.jcrc.2012.01.039"
+"S. Phandi,C. Velayutham",Neural Network Based Image Registration Using Synthetic Reference Image Rotation,2018-05-16 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-00665-5_88,,48,https://www.semanticscholar.org/paper/dd4935366f229eab3de4a89fbd7e07065f0f8df2
+"Jorge Rivera-Rovelo,E. Bayro-Corrochano,R. Dillmann",Geometric Neural Computing for 2D Contour and 3D Surface Reconstruction,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-1-84996-108-0_10,,49,https://www.semanticscholar.org/paper/673953a3cd0818c7304d017feaaeef7c206af0de
+"König, L.,Derksen, A.,Heldmann, S.,Papenberg, N.,Modersitzki, J.,Haas, B.",OC-0409: Deformable image registration with guaranteed local rigidity,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(15)40405-0,,50,"https://api.elsevier.com/content/article/PII:S0167814015404050?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814015404050?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(15)40405-0"
+"Foskey, M.,Davis, B.,Goyal, L.,Chang, S.,Rosenman, J.,Joshi, S.",Automatic Contouring via Deformable Image Registration,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2005.07.885,,51,"https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2005.07.885"
+"Xiaodong Yang,Daping Li,Qiaolin He,Zhu Wang,Ying Fu,Jiliu Zhou,Jinrong Hu",A Novel Keypoints-Based Image Registration Method with Fully Convolutional Neural Network,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-981-15-8083-3_9,,52,https://www.semanticscholar.org/paper/c11a917a3c393fb2c851ce7fcfee19c185eaeda9
+,Image Registration Software,2017-07-07 00:00:00,SupportedSources.CROSSREF,10.1002/9781119171744.app1,,53,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119171744.app1
+http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119171744.app1/fullpdf
+http://dx.doi.org/10.1002/9781119171744.app1"
+,Image Detection and Registration,None,SupportedSources.CROSSREF,10.1002/9780470097434.ch19,,54,"https://onlinelibrary.wiley.com/doi/full/10.1002/9780470097434.ch19
+http://dx.doi.org/10.1002/9780470097434.ch19"
+"Duan, J.,Jia, X.,Bartlett, J.,Lu, W.,Qiu, Z.",Arbitrary Order Total Variation for Deformable Image Registration,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.patcog.2023.109318,,55,"https://api.elsevier.com/content/article/PII:S0031320323000195?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0031320323000195?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.patcog.2023.109318"
+"Kabus, S.,Franz, A.,Fischer, B.",Variational Image Registration with Local Properties,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11784012_12,,56,"http://link.springer.com/content/pdf/10.1007/11784012_12.pdf
+http://dx.doi.org/10.1007/11784012_12"
+"Watanabe, T.",Neural networks for vision and image processing,1993-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0893-6080(93)90012-l,,57,"https://api.elsevier.com/content/article/PII:089360809390012L?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:089360809390012L?httpAccept=text/plain
+http://dx.doi.org/10.1016/0893-6080(93)90012-l"
+"Huang, Y.,Ahmad, S.,Fan, J.,Shen, D.,Yap, P.",Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.media.2020.101817,,58,"https://api.elsevier.com/content/article/PII:S136184152030181X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S136184152030181X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.media.2020.101817"
+"Deng, Y.,Wang, X.,Chen, L.",Learning visual-based deformable object rearrangement with local graph neural networks,2023-04-12 00:00:00,SupportedSources.CROSSREF,10.1007/s40747-023-01048-w,,59,"https://link.springer.com/content/pdf/10.1007/s40747-023-01048-w.pdf
+https://link.springer.com/article/10.1007/s40747-023-01048-w/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s40747-023-01048-w.pdf
+http://dx.doi.org/10.1007/s40747-023-01048-w"
+"Modersitzki, J.",SUMMARY OF PARAMETRIC IMAGE REGISTRATION,2003-12-04 00:00:00,SupportedSources.CROSSREF,10.1093/acprof:oso/9780198528418.003.0007,,60,"https://academic.oup.com/book/1500/chapter/140921192
+http://dx.doi.org/10.1093/acprof:oso/9780198528418.003.0007"
+,Variational Image Registration Models,2015-11-18 00:00:00,SupportedSources.CROSSREF,10.1201/b19554-16,,61,http://dx.doi.org/10.1201/b19554-16
+"A. Sheikhjafari,M. Noga,K. Punithakumar,Nilanjan Ray",Unsupervised deformable image registration with fully connected generative neural network,2018-04-11 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,"In this paper, a new deformable image registration method based on a fully connected neural network is proposed. Even though a deformation field related to the point correspondence between fixed and moving images are high-dimensional in nature, we assume that these deformation fields form a low dimensional manifold in many real world applications. Thus, in our method, a neural network generates an embedding of the deformation field from a low dimensional vector. This lowdimensional manifold formulation avoids the intractability associated with the high dimensional search space that most other methods face during image registration. As a result, while most methods rely on explicit and handcrafted regularization of the deformation fields, our algorithm relies on implicitly regularizing the network parameters. The proposed method generates deformation fields from latent low dimensional space by minimizing a dissimilarity metric between a fixed image and a warped moving image. Our method removes the need for a large dataset to optimize the proposed network. The proposed method is quantitatively evaluated using images from the MICCAI ACDC challenge. The results demonstrate that the proposed method improves performance in comparison with a moving mesh registration algorithm, and also it correlates well with independent manual segmentations by an expert.",62,https://www.semanticscholar.org/paper/c2a684f7f24e8f1448204b3f9f00b26d34e9a03b
+"Eckstein, I.,Joshi, A.,Kuo, C.,Leahy, R.,Desbrun, M.",Generalized Surface Flows for Deformable Registration and Cortical Matching,None,SupportedSources.CROSSREF,10.1007/978-3-540-75757-3_84,,63,"http://link.springer.com/content/pdf/10.1007/978-3-540-75757-3_84.pdf
+http://dx.doi.org/10.1007/978-3-540-75757-3_84"
+"Schmidt-Richberg, A.",Variational image registration,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-658-01662-3_3,,64,"https://link.springer.com/content/pdf/10.1007/978-3-658-01662-3_3
+http://dx.doi.org/10.1007/978-3-658-01662-3_3"
+"Hellier, P.,Barillot, C.",A hierarchical parametric algorithm for deformable multimodal image registration,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.cmpb.2004.01.002,,65,"https://api.elsevier.com/content/article/PII:S0169260704000124?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0169260704000124?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.cmpb.2004.01.002"
+"Rangarajan, A.,Chui, H.",Applications of Optimizing Neural Networks in Medical Image Registration,2000-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4471-0513-8_13,,66,"http://link.springer.com/content/pdf/10.1007/978-1-4471-0513-8_13
+http://dx.doi.org/10.1007/978-1-4471-0513-8_13"
+"Choi, H.",Medical Image Registration Using Artificial Neural Network,None,SupportedSources.CROSSREF,10.15368/theses.2015.171,,67,http://dx.doi.org/10.15368/theses.2015.171
+"Fanfani, M.,Piva, A.,Colombo, C.",PRNU registration under scale and rotation transform based on convolutional neural networks,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.patcog.2021.108413,,68,"https://api.elsevier.com/content/article/PII:S0031320321005896?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0031320321005896?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.patcog.2021.108413"
+"Junfen Chen,I. Liao,B. Belaton,M. Zaman",A neural network-based point registration method for 3D rigid face image,2015-03-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11280-013-0213-9,,69,https://www.semanticscholar.org/paper/53673081874249b9f5adb49c0a0d02c04ea14e7d
+"Schnabel, J.,Heinrich, M.,Papież, B.,Brady, S.",Advances and challenges in deformable image registration: From image fusion to complex motion modelling,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.media.2016.06.031,,70,"https://api.elsevier.com/content/article/PII:S1361841516301086?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1361841516301086?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.media.2016.06.031"
+"Stefan Huwer,Jürgen Rahmel,Aldo von Wangenheim",Data-driven registration for local deformations,1996-08-01 00:00:00,SupportedSources.OPENALEX,10.1016/0167-8655(96)00052-9,,71,"https://openalex.org/W1982218503
+https://doi.org/10.1016/0167-8655(96)00052-9"
+"Cierniak, R.",A Practical Approach To Image Reconstruction From Projections Using Neural Networks Structure,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-7908-1902-1_69,,72,"http://link.springer.com/content/pdf/10.1007/978-3-7908-1902-1_69
+http://dx.doi.org/10.1007/978-3-7908-1902-1_69"
+"MCINERNEY, T.",Deformable Models,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-012373904-9.50016-7,,73,http://dx.doi.org/10.1016/b978-012373904-9.50016-7
+"Tim McInerney,Demetri Terzopoulos",Deformable Models,2000-01-01 00:00:00,SupportedSources.OPENALEX,10.1016/b978-012077790-7/50012-6,,74,"https://openalex.org/W3023913994
+https://doi.org/10.1016/b978-012077790-7/50012-6"
+"Van Kranen, S.,Kanehira, T.,Rozendaal, R.,Sonke, J.",OC-0514 Unsupervised deep learning for fast and accurate CBCT to CT deformable image registration,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(19)30934-x,,75,"https://api.elsevier.com/content/article/PII:S016781401930934X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S016781401930934X?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(19)30934-x"
+"Pace, D.,Niethammer, M.,Aylward, S.",Sliding Geometries in Deformable Image Registration,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-28557-8_18,,76,"http://link.springer.com/content/pdf/10.1007/978-3-642-28557-8_18
+http://dx.doi.org/10.1007/978-3-642-28557-8_18"
+"Labonté, F.,Cohen, P.",Finding Correspondences between Smoothly Deformable Contours by Means of an Elastic Neural Network,1994-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4471-2097-1_102,,77,"http://link.springer.com/content/pdf/10.1007/978-1-4471-2097-1_102
+http://dx.doi.org/10.1007/978-1-4471-2097-1_102"
+"WISMUELLER, A.",Segmentation with Neural Networks,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-012373904-9.50015-5,,78,http://dx.doi.org/10.1016/b978-012373904-9.50015-5
+"Cole-Rhodes, A.,Varshney, P.",Image registration using mutual information,2011-03-24 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511777684.007,,79,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1C15E0B14A112E893C1B903306E810B7
+http://dx.doi.org/10.1017/cbo9780511777684.007"
+"Fedorov, A.,Risholm, P.,Wells, W.",Deformable Registration for IGT,2013-11-25 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4614-7657-3_14,,80,"http://link.springer.com/content/pdf/10.1007/978-1-4614-7657-3_14
+http://dx.doi.org/10.1007/978-1-4614-7657-3_14"
+"Spinko, V.,Shi, D.,Ng, W.,Leong, J.",Gabor Neural Network for Endoscopic Image Registration,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11760023_70,,81,"http://link.springer.com/content/pdf/10.1007/11760023_70.pdf
+http://dx.doi.org/10.1007/11760023_70"
+"Kwok-Wai Cheung,Dit-Yan Yeung,Roland T. Chin",On deformable models for visual pattern recognition,2002-07-01 00:00:00,SupportedSources.OPENALEX,10.1016/s0031-3203(01)00135-2,,82,"https://openalex.org/W2105233605
+https://doi.org/10.1016/s0031-3203(01)00135-2
+http://repository.ust.hk/ir/bitstream/1783.1-2116/1/1_4ondef.pdf"
+"Murino, V.,Vernazza, G.",Artificial Neural Networks for Image Analysis and Computer Vision,2001-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0262-8856(00)00112-8,,83,"https://api.elsevier.com/content/article/PII:S0262885600001128?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0262885600001128?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0262-8856(00)00112-8"
+"Modersitzki, J.",OPTIMAL LINEAR REGISTRATION,2003-12-04 00:00:00,SupportedSources.CROSSREF,10.1093/acprof:oso/9780198528418.003.0006,,84,"https://academic.oup.com/book/1500/chapter/140919523
+http://dx.doi.org/10.1093/acprof:oso/9780198528418.003.0006"
+"S. Miao,Z. J. Wang,Rui Liao",A Convolutional Neural Network Approach for 2D/3D Medical Image Registration,2015-07-27 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,85,https://www.semanticscholar.org/paper/448afb10d14e3ca19d2baff52c0b8877d46225ec
+"Hessam Sokooti,B. D. Vos,F. Berendsen,B. Lelieveldt,I. Išgum,M. Staring",Nonrigid Image Registration Using Multi-scale 3D Convolutional Neural Networks,2017-09-10 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-319-66182-7_27,,86,https://www.semanticscholar.org/paper/bbee923434518e92ee9c03dcd487e7f0b6042b78
+"Tony C. W. Mok,Albert C. S. Chung",Large Deformation Image Registration with Anatomy-Aware Laplacian Pyramid Networks,2021-02-23 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-71827-5_7,,87,https://www.semanticscholar.org/paper/73de54c344b9c0e4195bd22700af0f4a8a7687ec
+"Teverovsky, L.,Lopez, O.,Aizenstein, H.,Butters, M.,Price, J.,Becker, J.",IC‐P‐145: Image processing pipeline for deformable registration,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jalz.2011.05.159,,88,"https://api.elsevier.com/content/article/PII:S1552526011002986?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1552526011002986?httpAccept=text/plain
+https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1016%2Fj.jalz.2011.05.159
+https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.jalz.2011.05.159
+https://onlinelibrary.wiley.com/doi/full-xml/10.1016/j.jalz.2011.05.159
+https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.jalz.2011.05.159
+http://dx.doi.org/10.1016/j.jalz.2011.05.159"
+"Paulsen, K.,Miga, M.",Biomechanical Modeling for Image Registration,2001-06-27 00:00:00,SupportedSources.CROSSREF,10.1201/9781420042474.ch15,,89,http://dx.doi.org/10.1201/9781420042474.ch15
+"Sang, Y.,McNitt-Gray, M.,Yang, Y.,Cao, M.,Low, D.,Ruan, D.",Inference-Time Adaptation for Improved Transfer Ability and Generalization in Deformable Image Registration Deep Learning,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2022.07.902,,90,"https://api.elsevier.com/content/article/PII:S0360301622016236?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301622016236?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2022.07.902"
+"Guorong Wu,Minjeong Kim,Qian Wang,Yaozong Gao,Shu Liao,D. Shen",Unsupervised Deep Feature Learning for Deformable Registration of MR Brain Images,2013-09-22 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-642-40763-5_80,,91,"https://www.semanticscholar.org/paper/0833dbc789a35660a596ace1342245e531fa0cd4
+https://link.springer.com/content/pdf/10.1007/978-3-642-40763-5_80.pdf"
+"Datta, A.,Pal, S.,Chakraborti, S.",Image Thinning by Neural Networks,2002-10-23 00:00:00,SupportedSources.CROSSREF,10.1007/s005210200024,,92,"http://link.springer.com/content/pdf/10.1007/s005210200024.pdf
+http://link.springer.com/article/10.1007/s005210200024/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s005210200024
+http://dx.doi.org/10.1007/s005210200024"
+"Molina, E.,Khoo, W.,Tang, H.,Zhu, Z.",Video Image Registration,2017-07-07 00:00:00,SupportedSources.CROSSREF,10.1002/9781119171744.ch10,,93,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119171744.ch10
+http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119171744.ch10/fullpdf
+http://dx.doi.org/10.1002/9781119171744.ch10"
+"Govindu, V.,Chellappa, R.",Feature-based image to image registration,2011-03-24 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511777684.011,,94,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EEB8A03CFB16C1C80E865CDEB6C55859
+http://dx.doi.org/10.1017/cbo9780511777684.011"
+"Behnke, S.",Hierarchical Neural Networks for Image Interpretation,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/b11963,,95,"http://link.springer.com/content/pdf/10.1007/b11963.pdf
+http://link.springer.com/content/pdf/10.1007/b11963
+http://dx.doi.org/10.1007/b11963"
+"Jianzhen Wu,Jianying Xie",Zernike moment-based image registration scheme utilizing feedforward neural networks,2004-06-15 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/WCICA.2004.1342260,"A novel image registration scheme is proposed. Low order Zernike moments are used as image global pattern features and feed into feedforward neural networks to provide translation, rotation and scaling parameters. Experimental results show that the proposed registration scheme is accurate and robust to noise.",96,https://www.semanticscholar.org/paper/4fad3b35314a79c706d9d5a623be61518fa2fa41
+"Lakhili, Z.,El Alami, A.,Mesbah, A.,Berrahou, A.,Qjidaa, H.",Deformable 3D Shape Classification Using 3D Racah Moments and Deep Neural Networks,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.procs.2019.01.002,,97,"https://api.elsevier.com/content/article/PII:S187705091930002X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S187705091930002X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.procs.2019.01.002"
+"Mingrui Ma,G. Liu,Lei Song,Yuanbo Xu",SEN-FCB: an unsupervised twinning neural network for image registration,2022-09-23 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s10489-022-04109-8,,98,https://www.semanticscholar.org/paper/a62cfa12cb68d3380c72f8179f46c48201d2e8e0
+"Kainmueller, D.",Deformable Meshes for Automatic Segmentation,2014-08-19 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-658-07015-1_3,,99,"http://link.springer.com/content/pdf/10.1007/978-3-658-07015-1_3
+http://dx.doi.org/10.1007/978-3-658-07015-1_3"
