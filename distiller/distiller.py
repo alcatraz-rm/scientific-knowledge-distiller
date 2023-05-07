@@ -79,8 +79,13 @@ class Distiller:
         output = model(**inputs)
         corpus_embeddings = output.last_hidden_state[:, 0, :]
 
+        inputs = tokenizer(query + tokenizer.sep_token, padding=True, truncation=True,
+                           return_tensors="pt", return_token_type_ids=False, max_length=512)
+        output = model(**inputs)
+        query_embedding = output.last_hidden_state[:, 0, :]
+
         search_hits = util.semantic_search(
-            corpus_embeddings, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
+            query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
 
         return [documents[hit['corpus_id']] for hit in search_hits]
 
