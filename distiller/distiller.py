@@ -5,8 +5,8 @@ from typing import Iterable
 import numpy as np
 import torch
 from gensim.models import Doc2Vec
-from scipy import spatial
 from sentence_transformers import SentenceTransformer, util
+from transformers import AutoTokenizer, AutoModel
 
 from search_engine.databases.database_client import Document
 
@@ -42,7 +42,6 @@ class Distiller:
         return [documents[hit['corpus_id']] for hit in search_hits]
 
     def get_top_n_specter(self, documents: Iterable[Document], query: str = '', n: int = 100):
-        print(os.getcwd())
         documents = [p for p in documents]
         specter = SentenceTransformer('allenai-specter')
         paper_texts = []
@@ -60,12 +59,34 @@ class Distiller:
 
         return [documents[hit['corpus_id']] for hit in search_hits]
 
+    def get_top_n_specter2(self, documents: Iterable[Document], query: str = '', n: int = 100):
+        documents = [p for p in documents]
+
+        tokenizer = AutoTokenizer.from_pretrained('allenai/specter2')
+        model = AutoModel.from_pretrained('allenai/specter2')
+        model.load_adapter("allenai/specter2_proximity", source="hf", load_as="proximity", set_active=True)
+
+        text_batch = []
+        for p in documents:
+            abstract = p.abstract if p.abstract else ''
+            text_batch.append(p.title + tokenizer.sep_token + abstract)
+
+        inputs = tokenizer(text_batch, padding=True, truncation=True,
+                           return_tensors="pt", return_token_type_ids=False, max_length=512)
+        output = model(**inputs)
+        corpus_embeddings = output.last_hidden_state[:, 0, :]
+
+        search_hits = util.semantic_search(
+            corpus_embeddings, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
+
+        return [documents[hit['corpus_id']] for hit in search_hits]
+
     def get_top_n_doc2vec(self, documents: Iterable[Document], query: str = '', n: int = 100):
         d2v_model = Doc2Vec.load(self._path_to_doc2vec)
         query_embedding = torch.Tensor(d2v_model.infer_vector(query.lower().split()))
         corpus_embeddings = torch.Tensor(np.array([d2v_model.infer_vector(
             f'{paper.title} {paper.abstract}'.translate(str.maketrans('', '', string.punctuation)).lower().split()) for
-                             paper in documents]))
+            paper in documents]))
 
         search_hits = util.semantic_search(
             query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
