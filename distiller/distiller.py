@@ -72,15 +72,22 @@ class Distiller:
             text_batch.append(p.title + tokenizer.sep_token + abstract)
 
         device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        tokenizer = tokenizer.to()
         model = model.to(device)
 
         inputs = tokenizer(text_batch, padding=True, truncation=True,
                            return_tensors="pt", return_token_type_ids=False, max_length=512)
+
+        if device != 'cpu':
+            inputs = inputs.cuda()
+
         output = model(**inputs)
         corpus_embeddings = output.last_hidden_state[:, 0, :]
 
         inputs = tokenizer(query + tokenizer.sep_token, padding=True, truncation=True,
                            return_tensors="pt", return_token_type_ids=False, max_length=512)
+        if device != 'cpu':
+            inputs = inputs.cuda()
         output = model(**inputs)
         query_embedding = output.last_hidden_state[:, 0, :]
 
