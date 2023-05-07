@@ -49,7 +49,7 @@ class SemanticScholarClient(DatabaseClient):
             },
             data=json.dumps({"ids": ids}),
             headers={
-                'api-key': self._api_key
+                'x-api-key': self._api_key
             },
             max_failures=10
         )

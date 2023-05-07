@@ -40,14 +40,6 @@ s.perform()
 results = list(s.results())
 logging.info(f'total results after deduplication: {len(results)}')
 
-top_roberta = d.get_top_n_roberta(results, query, n=100)
-top_roberta = [pub.to_dict() for pub in top_roberta]
-for n in range(len(top_roberta)):
-    top_roberta[n]['rank'] = n
-
-with open(f'{filename}-roberta.json', 'w', encoding='utf-8') as file:
-    json.dump(top_roberta, file, indent=4)
-
 top_specter = d.get_top_n_specter(results, query, n=100)
 top_specter = [pub.to_dict() for pub in top_specter]
 for n in range(len(top_specter)):
