@@ -71,6 +71,9 @@ class Distiller:
             abstract = p.abstract if p.abstract else ''
             text_batch.append(p.title + tokenizer.sep_token + abstract)
 
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        model = model.to(device)
+
         inputs = tokenizer(text_batch, padding=True, truncation=True,
                            return_tensors="pt", return_token_type_ids=False, max_length=512)
         output = model(**inputs)

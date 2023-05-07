@@ -134,12 +134,6 @@ spacy-loggers==1.0.4
 srsly==2.4.6
 stack-data==0.6.2
 sympy==1.11.1
-tensorboard==2.12.2
-tensorboard-data-server==0.7.0
-tensorboard-plugin-wit==1.8.1
-tensorflow-estimator==2.12.0
-tensorflow-hub==0.13.0
-tensorflow-macos==2.12.0
 termcolor==2.2.0
 terminado==0.17.1
 thinc==8.1.9
