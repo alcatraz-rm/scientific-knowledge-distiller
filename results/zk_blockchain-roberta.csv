@@ -1,0 +1,204 @@
+authors,title,pub_date,source,doi,abstract,rank,url
+"Ke Huang,Yi Mu,Fatemeh Rezaeibagha,Xiaosong Zhang",Zero-Knowledge Proof for Blockchain,2021-08-15 00:00:00,SupportedSources.OPENALEX,10.1201/9781003190127-8,,0,"https://openalex.org/W3203442351
+https://doi.org/10.1201/9781003190127-8"
+Antti Tani,Zero-knowledge proofs in blockchain applications,2020-01-01 00:00:00,SupportedSources.OPENALEX,,,1,https://openalex.org/W3138660209
+"Lee, K.",Blockchain-based Personal Information Authentication Method using Zero Knowledge Proofs,2021-09-30 00:00:00,SupportedSources.CROSSREF,10.30693/smj.2021.10.3.48,,2,http://dx.doi.org/10.30693/smj.2021.10.3.48
+"Xiaohui Yang,Wenjie Li",A zero-knowledge-proof-based digital identity management scheme in blockchain,2020-12-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.cose.2020.102050,,3,"https://openalex.org/W3089741453
+https://doi.org/10.1016/j.cose.2020.102050"
+"Capraz, S.,Ozsoy, A.",Personal Data Protection in Blockchain with Zero-Knowledge Proof,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-33-6470-7_7,,4,"http://link.springer.com/content/pdf/10.1007/978-981-33-6470-7_7
+http://dx.doi.org/10.1007/978-981-33-6470-7_7"
+K. Lee,Implementation of Personal Information Authentication Using Blockchain-Based Zero Knowledge Proofs,2022-10-31 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.7840/kics.2022.47.10.1598,,5,https://www.semanticscholar.org/paper/6c81dfe174da8cb1a8a3669472b62050d2cd507e
+"Lídia Andrade Lourinho,Stefan Kendzierskyj,Hamid Jahankhani",Securing the digital witness identity using blockchain and zero-knowledge proofs,2021-01-01 00:00:00,SupportedSources.OPENALEX,10.1016/b978-0-12-821442-8.00010-0,,6,"https://openalex.org/W3127026570
+https://doi.org/10.1016/b978-0-12-821442-8.00010-0"
+"Sepehr Damavandi,Sadegh Dorri Nogoorani",An Electronic Voting Scheme Based on Blockchain Technology and Zero-Knowledge Proofs,None,SupportedSources.SEMANTIC_SCHOLAR,10.22042/isecure.2022.14.3.13,,7,https://www.semanticscholar.org/paper/8c3aa664bdf71c1ca85c057d921953b5de6ee171
+"Pieprzyk, J.,Hardjono, T.,Seberry, J.",Zero-Knowledge Proof Systems,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-07324-7_12,,8,"http://link.springer.com/content/pdf/10.1007/978-3-662-07324-7_12
+http://dx.doi.org/10.1007/978-3-662-07324-7_12"
+,Zero-Knowledge Proof Systems,2001-08-06 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511546891.005,,9,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/18C36EBE57010ECA942D52C5304FE59E
+http://dx.doi.org/10.1017/cbo9780511546891.005"
+"Jeong, S.,Ahn, B.",Implementation of real estate contract system using zero knowledge proof algorithm based blockchain,2021-03-30 00:00:00,SupportedSources.CROSSREF,10.1007/s11227-021-03728-1,,10,"https://link.springer.com/content/pdf/10.1007/s11227-021-03728-1.pdf
+https://link.springer.com/article/10.1007/s11227-021-03728-1/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s11227-021-03728-1.pdf
+http://dx.doi.org/10.1007/s11227-021-03728-1"
+"Konkin, A.,Zapechnikov, S.",Zero knowledge proof and ZK-SNARK for private blockchains,2023-03-09 00:00:00,SupportedSources.CROSSREF,10.1007/s11416-023-00466-1,,11,"https://link.springer.com/content/pdf/10.1007/s11416-023-00466-1.pdf
+https://link.springer.com/article/10.1007/s11416-023-00466-1/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s11416-023-00466-1.pdf
+http://dx.doi.org/10.1007/s11416-023-00466-1"
+"van Rijmenam, M.,Ryan, P.",What is the Blockchain?,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.4324/9780429457715-2,,12,http://dx.doi.org/10.4324/9780429457715-2
+"Smart, N.",Zero-Knowledge Proofs,2015-11-13 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-21936-3_21,,13,"http://link.springer.com/content/pdf/10.1007/978-3-319-21936-3_21
+http://dx.doi.org/10.1007/978-3-319-21936-3_21"
+"Rubinstein-Salzedo, S.",Zero-Knowledge Proofs,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-94818-8_16,,14,"http://link.springer.com/content/pdf/10.1007/978-3-319-94818-8_16
+http://dx.doi.org/10.1007/978-3-319-94818-8_16"
+"Collin, S.",Zero knowledge proofs,1988-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0142-0496(88)90021-5,,15,"https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain
+https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain
+http://dx.doi.org/10.1016/0142-0496(88)90021-5"
+"Xiaojun Wen,Yong-Zhi Chen,Xincan Fan,Wei Zhang,Zhengzhong Yi,Jun Fang",Blockchain consensus mechanism based on quantum zero-knowledge proof,2022-03-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.optlastec.2021.107693,,16,"https://openalex.org/W3215201505
+https://doi.org/10.1016/j.optlastec.2021.107693"
+"Kilian, J.,Micali, S.,Ostrovsky, R.",Minimum Resource Zero-Knowledge Proofs,None,SupportedSources.CROSSREF,10.1007/0-387-34805-0_47,,17,"http://link.springer.com/content/pdf/10.1007/0-387-34805-0_47.pdf
+http://dx.doi.org/10.1007/0-387-34805-0_47"
+"De Santis, A.,Micali, S.,Persiano, G.",Non-Interactive Zero-Knowledge Proof Systems,1988-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/3-540-48184-2_5,,18,"http://link.springer.com/content/pdf/10.1007/3-540-48184-2_5
+http://dx.doi.org/10.1007/3-540-48184-2_5"
+"Zheng, H.,You, L.,Hu, G.",A Novel Insurance Claim Blockchain Scheme Based on Zero-Knowledge Proof Technology,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.4092906,,19,http://dx.doi.org/10.2139/ssrn.4092906
+,Zero-Knowledge Proof Technology,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9781786348210_0007,,20,http://dx.doi.org/10.1142/9781786348210_0007
+"Jayapriya, J.,Jeyanthi, N.",Proof of Virtue: Nonce-Free Hash Generation in Blockchain,2020-12-30 00:00:00,SupportedSources.CROSSREF,10.1201/9781003034049-4,,21,http://dx.doi.org/10.1201/9781003034049-4
+"Ratseev, S.,Ulyanovsk State University,Rostov, M.,Ulyanovsk State University",Zero-Knowledge Proof Authentication Protocols,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.18500/1816-9791-2019-19-1-114-121,,22,http://dx.doi.org/10.18500/1816-9791-2019-19-1-114-121
+,Zero knowledge proof protocol from Multivariate Public Key Cryptosystems,2015-07-06 00:00:00,SupportedSources.CROSSREF,10.1201/b18660-5,,23,http://dx.doi.org/10.1201/b18660-5
+"Dhillon, V.,Metcalf, D.,Hooper, M.",Foundations of Blockchain,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-3081-7_3,,24,"http://link.springer.com/content/pdf/10.1007/978-1-4842-3081-7_3
+http://dx.doi.org/10.1007/978-1-4842-3081-7_3"
+"White, M.",How to use blockchain,2022-10-30 00:00:00,SupportedSources.CROSSREF,10.47330/cbc.2022.ofxs7060,,25,http://dx.doi.org/10.47330/cbc.2022.ofxs7060
+"Goldreich, O.,Teichner, L.",Super-Perfect Zero-Knowledge Proofs,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-43662-9_8,,26,"http://link.springer.com/content/pdf/10.1007/978-3-030-43662-9_8
+http://dx.doi.org/10.1007/978-3-030-43662-9_8"
+"Bermejo Higuera, J.,Bermejo Higuer, J.,Sicilia Montalvo, J.,González Crespo, R.",Introduction to Cryptography in Blockchain,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-16-3412-3_1,,27,"https://link.springer.com/content/pdf/10.1007/978-981-16-3412-3_1
+http://dx.doi.org/10.1007/978-981-16-3412-3_1"
+"Yi-Ting Huang,Yong Yu,Huilin Li,Yannan Li,Aikui Tian",Blockchain-based continuous data integrity checking protocol with zero-knowledge privacy protection,2022-04-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.dcan.2022.04.017,,28,"https://openalex.org/W4224920801
+https://doi.org/10.1016/j.dcan.2022.04.017
+https://doi.org/10.1016/j.dcan.2022.04.017"
+"Subramanian, N.,Chaudhuri, A.,Kayikci, Y.",Basics of Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-47531-4_2,,29,"http://link.springer.com/content/pdf/10.1007/978-3-030-47531-4_2
+http://dx.doi.org/10.1007/978-3-030-47531-4_2"
+"Damgård, I.,Fazio, N.,Nicolosi, A.",Non-interactive Zero-Knowledge from Homomorphic Encryption,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11681878_3,,30,"http://link.springer.com/content/pdf/10.1007/11681878_3.pdf
+http://dx.doi.org/10.1007/11681878_3"
+"Brakerski, Z.,Katz, J.,Segev, G.,Yerukhimovich, A.",Limits on the Power of Zero-Knowledge Proofs in Cryptographic Constructions,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-19571-6_34,,31,"http://link.springer.com/content/pdf/10.1007/978-3-642-19571-6_34.pdf
+http://dx.doi.org/10.1007/978-3-642-19571-6_34"
+"Dhillon, V.,Metcalf, D.,Hooper, M.",Foundations of a Blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-6534-5_3,,32,"http://link.springer.com/content/pdf/10.1007/978-1-4842-6534-5_3
+http://dx.doi.org/10.1007/978-1-4842-6534-5_3"
+"Groth, J.",Efficient Zero-Knowledge Proofs,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-21969-6_24,,33,"http://link.springer.com/content/pdf/10.1007/978-3-642-21969-6_24
+http://dx.doi.org/10.1007/978-3-642-21969-6_24"
+"Gray, G.",Why Blockchain?,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-85716-5_1,,34,"https://link.springer.com/content/pdf/10.1007/978-3-030-85716-5_1
+http://dx.doi.org/10.1007/978-3-030-85716-5_1"
+"Million, C.",1 Blockchain Fundamentals,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.34157/9783648123478-11,,35,http://dx.doi.org/10.34157/9783648123478-11
+"Alessandra Scafuro,Luisa Siniscalchi,Ivan Visconti",Publicly Verifiable Zero Knowledge from (Collapsing) Blockchains,2020-01-01 00:00:00,SupportedSources.INTERNET_ARCHIVE,,"Publicly Verifiable Zero-Knowledge proofs are known to exist only from setup assumptions such as a trusted Common Reference String (CRS) or a Random Oracle. Unfortunately, the former requires a trusted party while the latter does not exist. Blockchains are distributed systems that already exist and provide certain security properties (under some honest majority assumption), hence, a natural recent research direction has been to use a blockchain as an alternative setup assumption. In TCC 2017 Goyal and Goyal proposed a construction of a publicly verifiable zero-knowledge (pvZK) proof system for some proof-of-stake blockchains. The zero-knowledge property of their construction however relies on some additional and not fully specified assumptions about the current and future behavior of honest blockchain players. In this paper we provide several contributions. First, we show that when using a blockchain to design a provably secure protocol, it is dangerous to rely on demanding additional requirements on behaviors of the blockchain players. We do so by showing an ""attack of the clones"" whereby a malicious verifier can use a smart contract to slyly (not through bribing) clone capabilities of honest stakeholders and use those to invalidate the zero-knowledge property of the proof system by Goyal and Goyal. Second, we propose a new publicly verifiable zero-knowledge proof system that relies on noninteractive commitments and on an assumption on the min-entropy of some blocks appearing on the blockchain. Third, motivated by the fact that blockchains are a recent innovation and their resilience in the long run is still controversial, we introduce the concept of collapsing blockchain, and we prove that the zero-knowledge property of our scheme holds even if the blockchain eventually becomes insecure and all blockchain players eventually become dishonest.",36,https://web.archive.org/web/20210710182129/https://eprint.iacr.org/2020/1435.pdf
+"Liu Jiyao,Yunhua He,Chao Wang,Yan Hu,Hong Li,Limin Sun",An Anonymous Blockchain-Based Logging System for Cloud Computing,2019-12-07 00:00:00,SupportedSources.OPENALEX,10.1007/978-981-15-2777-7_24,,37,"https://openalex.org/W3001666980
+https://doi.org/10.1007/978-981-15-2777-7_24"
+"Peng, B.,Zhu, Y.,Jing, N.,Zheng, X.,Zhou, Y.",Design of a Hardware Accelerator for Zero-Knowledge Proof in Blockchains,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-74717-6_15,,38,"https://link.springer.com/content/pdf/10.1007/978-3-030-74717-6_15
+http://dx.doi.org/10.1007/978-3-030-74717-6_15"
+"Lin, H.,Pass, R.,Tseng, W.,Venkitasubramaniam, M.",Concurrent Non-Malleable Zero Knowledge Proofs,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-14623-7_23,,39,"http://link.springer.com/content/pdf/10.1007/978-3-642-14623-7_23.pdf
+http://dx.doi.org/10.1007/978-3-642-14623-7_23"
+"Goldreich, O.,Krawczyk, H.",On the composition of zero-knowledge proof systems,None,SupportedSources.CROSSREF,10.1007/bfb0032038,,40,"http://www.springerlink.com/index/pdf/10.1007/BFb0032038
+http://dx.doi.org/10.1007/bfb0032038"
+"Li, F.,McMillin, B.",A Survey on Zero-Knowledge Proofs,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-800161-5.00002-5,,41,"https://api.elsevier.com/content/article/PII:B9780128001615000025?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780128001615000025?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-12-800161-5.00002-5"
+"Bendlin, R.,Damgård, I.",Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11799-2_13,,42,"http://link.springer.com/content/pdf/10.1007/978-3-642-11799-2_13
+http://dx.doi.org/10.1007/978-3-642-11799-2_13"
+,The Technology of the Blockchain,2020-01-02 00:00:00,SupportedSources.CROSSREF,10.1017/9781108687294.004,,43,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2731E06B872DA633FC5F75AF78BE425A
+http://dx.doi.org/10.1017/9781108687294.004"
+"Wang, J.,Sun, G.,Gu, Y.,Liu, K.",Distributed Electronic Data Storage and Proof System Based on Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-15-3278-8_4,,44,"http://link.springer.com/content/pdf/10.1007/978-981-15-3278-8_4
+http://dx.doi.org/10.1007/978-981-15-3278-8_4"
+"Cui, H.,Zhang, K.",A Simple Post-Quantum Non-interactive Zero-Knowledge Proof from Garbled Circuits,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-88323-2_14,,45,"https://link.springer.com/content/pdf/10.1007/978-3-030-88323-2_14
+http://dx.doi.org/10.1007/978-3-030-88323-2_14"
+,What is Blockchain and what should you know about it?,2020-12-29 00:00:00,SupportedSources.CROSSREF,10.18356/9789210052542c004,,46,http://dx.doi.org/10.18356/9789210052542c004
+"Gao, S.,Peng, Z.,Tan, F.,Zheng, Y.,Xiao, B.",SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1109/tdsc.2022.3179913,,47,"http://xplorestaging.ieee.org/ielx7/8858/4358699/09786741.pdf?arnumber=9786741
+http://dx.doi.org/10.1109/tdsc.2022.3179913"
+"Ameen, Shazad,Arulselvan, Ashwin,Boumghar, Redouane,Bui Long, AnhToan,Minisci, Edmondo,Pizarro De La Iglesia, José,Riccardi, Annalisa",Decentralized trust management in concurrent design using blockchain,2022-10-05 00:00:00,SupportedSources.CORE,,[Abstract unavailable,48,https://core.ac.uk/download/554438076.pdf
+"Shen, M.,Zhu, L.,Xu, K.",Secure Homogeneous Data Sharing Using Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-15-5939-6_4,,49,"http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_4
+http://dx.doi.org/10.1007/978-981-15-5939-6_4"
+"Singhal, B.,Dhameja, G.,Panda, P.",How Blockchain Works,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-3444-0_2,,50,"http://link.springer.com/content/pdf/10.1007/978-1-4842-3444-0_2
+http://dx.doi.org/10.1007/978-1-4842-3444-0_2"
+"Miguel D'iaz Montiel,R. Guerraoui,Pierre-Louis Roman",SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs,2022-10-24 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.48550/arXiv.2210.13242,1 2,51,https://www.semanticscholar.org/paper/de4166f575497d48b1cec1cf32e9668404978907
+"Peikert, C.,Vaikuntanathan, V.",Noninteractive Statistical Zero-Knowledge Proofs for Lattice Problems,None,SupportedSources.CROSSREF,10.1007/978-3-540-85174-5_30,,52,"http://link.springer.com/content/pdf/10.1007/978-3-540-85174-5_30.pdf
+http://dx.doi.org/10.1007/978-3-540-85174-5_30"
+"Suresh Kumar, K.,Ananth Kumar, T.,Radhamani, A.,Sundaresan, S.",Blockchain Technology,2020-11-09 00:00:00,SupportedSources.CROSSREF,10.1201/9781003004998-3,,53,http://dx.doi.org/10.1201/9781003004998-3
+"Ramasamy, L.,Kadry, S.",Blockchain technology,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1088/978-0-7503-3663-5ch3,,54,http://dx.doi.org/10.1088/978-0-7503-3663-5ch3
+"Peng, S.",Blockchain Technology,2021-07-16 00:00:00,SupportedSources.CROSSREF,10.1201/9781003201670-2,,55,http://dx.doi.org/10.1201/9781003201670-2
+"Sathya, A.,Jena, A.",Blockchain Technology,2020-09-18 00:00:00,SupportedSources.CROSSREF,10.1201/9781003032588-3,,56,http://dx.doi.org/10.1201/9781003032588-3
+"Persiano, G.,Visconti, I.",On Non-Interactive Zero-Knowledge Proofs of Knowledge in the Shared Random String Model,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11821069_65,,57,"http://link.springer.com/content/pdf/10.1007/11821069_65.pdf
+http://dx.doi.org/10.1007/11821069_65"
+"Zheng, W.,Chen, D.,Tang, J.,Jin, X.,Wei, Y.",An Energy Trading Privacy Protection Scheme Based on Blockchain and Non-interactive Zero-Knowledge Proof,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-89698-0_52,,58,"https://link.springer.com/content/pdf/10.1007/978-3-030-89698-0_52
+http://dx.doi.org/10.1007/978-3-030-89698-0_52"
+"Di Francesco Maesa, D.,Lisi, A.,Mori, P.,Ricci, L.,Boschi, G.",Self sovereign and blockchain based access control: Supporting attributes privacy with zero knowledge,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jnca.2022.103577,,59,"https://api.elsevier.com/content/article/PII:S1084804522002181?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1084804522002181?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.jnca.2022.103577"
+"Miguel A. Prada-Delgado,Iluminada Baturone,Gero Dittmann,Jens Jelitto,Andreas Kind",PUF-derived IoT identities in a zero-knowledge protocol for blockchain,2020-03-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.iot.2019.100057,,60,"https://openalex.org/W2944585002
+https://doi.org/10.1016/j.iot.2019.100057"
+"Shen, M.,Zhu, L.,Xu, K.",Secure Heterogeneous Data Sharing Using Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-15-5939-6_5,,61,"http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_5
+http://dx.doi.org/10.1007/978-981-15-5939-6_5"
+"Fu, S.,Gong, G.",Pisces: A New Zero-Knowledge Protocol for Blockchain Privacy,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-70881-8_12,,62,"http://link.springer.com/content/pdf/10.1007/978-3-030-70881-8_12
+http://dx.doi.org/10.1007/978-3-030-70881-8_12"
+"Shen, M.,Gou, G.,Xuan, Q.",Security and privacy of blockchain,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.bcra.2023.100130,,63,"https://api.elsevier.com/content/article/PII:S2096720923000052?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S2096720923000052?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.bcra.2023.100130"
+"Dumas, J.,Lafourcade, P.,Miyahara, D.,Mizuki, T.,Sasaki, T.,Sone, H.",Interactive Physical Zero-Knowledge Proof for Norinori,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-26176-4_14,,64,"http://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_14
+http://dx.doi.org/10.1007/978-3-030-26176-4_14"
+"Karkeraa, S.",Decoding a Real-Life Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-5043-3_2,,65,"http://link.springer.com/content/pdf/10.1007/978-1-4842-5043-3_2
+http://dx.doi.org/10.1007/978-1-4842-5043-3_2"
+"Wagner, Matthew Edward",Secure blockchains for cyber-physical systems,2020-01-01 00:00:00,SupportedSources.CORE,,"“Blockchains are a data structure used to perform state agreement in a distributed system across an entire network. One unique trait of blockchains is the lack of a centralized trusted third-party to control the system. This prevents a corrupted trusted third party from being able to control the entire blockchain. All nodes can reach agreement in an untrusted network where nodes do not need to trust one another to believe the accuracy of the information stored. Two main issues occur when trying to apply this technology to other applications: verifiability and scalability. In previous blockchain architectures, there is no way to validate off-chain data i.e. sensor reading. Some have purposed the use of a trusted third-party. Unfortunately, using a trusted third-party undoes a main advantage of blockchains and allows corruption to become a concerning possibility. Other challenges to applying blockchains to cyber-physical systems include keeping a single ledger up-to-date in real-time. The drawbacks of Bitcoin, a popular application of blockchains, have been very well documented in terms of speed.
+The main purpose of this work is to address the verifiability and scalability issues of blockchains for cyber-physical systems. It proposes a solution that expands the application of blockchains to cyber-physical systems while maintaining the benefits. If the use of blockchains is to be expanded to off-chain data, they need to have the capability to securely encapsulate the physical world in a verifiable way. The following is a list of major contributions by the work: 1) propose a framework for verifying physical transactions in a blockchain, 2) propose a method to increase scalability and allow the use of blockchains in a disconnected network, 3) propose a truncation mechanism for cyber-physical transactions that allow for real-time speed. With these three contributions, this work introduces some additional ideas to blockchains and expands their applications”--Abstract, page iii",66,https://core.ac.uk/download/352884838.pdf
+"Ashurst, S.,Tempesta, S.",The Blockchain Age,2021-07-14 00:00:00,SupportedSources.CROSSREF,10.4324/9781003132592-1,,67,http://dx.doi.org/10.4324/9781003132592-1
+"Chaidos, P.,Couteau, G.",Efficient Designated-Verifier Non-interactive Zero-Knowledge Proofs of Knowledge,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-78372-7_7,,68,"https://link.springer.com/content/pdf/10.1007/978-3-319-78372-7_7
+http://dx.doi.org/10.1007/978-3-319-78372-7_7"
+"Akoramurthy, B.,Kumar, T.",Digital Linked Information System Using Blockchain Technology,2020-11-09 00:00:00,SupportedSources.CROSSREF,10.1201/9781003004998-10,,69,http://dx.doi.org/10.1201/9781003004998-10
+"Nuta, S.,Schuldt, J.,Nishide, T.",Forward-Secure Public Key Encryption Without Key Update from Proof-of-Stake Blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-92518-5_20,,70,"https://link.springer.com/content/pdf/10.1007/978-3-030-92518-5_20
+http://dx.doi.org/10.1007/978-3-030-92518-5_20"
+"Quinten Stokkink,Johan Pouwelse",Deployment of a Blockchain-Based Self-Sovereign Identity,2018-01-01 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1109/cybermatics_2018.2018.00230,"Digital identity is unsolved: after many years of research there is still no trusted communication over the Internet. To provide identity within the context of mutual distrust, this paper presents a blockchain-based digital identity solution. Without depending upon a single trusted third party, the proposed solution achieves passport-level legally valid identity. This solution for making identities Self-Sovereign, builds on a generic provable claim model for which attestations of truth from third parties need to be collected. The claim model is then shown to be both blockchain structure and proof method agnostic. Four different implementations in support of these two claim model properties are shown to offer sub-second performance for claim creation and claim verification. Through the properties of Self-Sovereign Identity, legally valid status and acceptable performance, our solution is considered to be fit for adoption by the general public.",71,https://web.archive.org/web/20200505123745/https://repository.tudelft.nl/islandora/object/uuid%3A789e5f26-1266-4547-a8ba-684d67d519e2/datastream/OBJ/download
+"Chien, Y.,Hon, W.",Cryptographic and Physical Zero-Knowledge Proof: From Sudoku to Nonogram,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-13122-6_12,,72,"http://link.springer.com/content/pdf/10.1007/978-3-642-13122-6_12.pdf
+http://dx.doi.org/10.1007/978-3-642-13122-6_12"
+"Laroiya, C.,Saxena, D.,Komalavalli, C.",Applications of Blockchain Technology,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-819816-2.00009-5,,73,"https://api.elsevier.com/content/article/PII:B9780128198162000095?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780128198162000095?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-12-819816-2.00009-5"
+"Peng, S.",Applications of Blockchain Technology,2021-07-16 00:00:00,SupportedSources.CROSSREF,10.1201/9781003201670-5,,74,http://dx.doi.org/10.1201/9781003201670-5
+"Sardar, A.,Y.V., S.,N., R.",Zero Knowledge Proof in Secret Sharing Scheme Using Elliptic Curve Cryptography,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-29219-4_26,,75,"http://link.springer.com/content/pdf/10.1007/978-3-642-29219-4_26.pdf
+http://dx.doi.org/10.1007/978-3-642-29219-4_26"
+"Wei Ou,Mingwei Deng,Entao Luo",A Decentralized and Anonymous Data Transaction Scheme Based on Blockchain and Zero-Knowledge Proof in Vehicle Networking (Workshop Paper),2019-08-19 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-3-030-30146-0_48,,76,https://www.semanticscholar.org/paper/694e0e8b4c53df21e6cd4083d36ba05629f648cd
+"Bootle, J.,Cerulli, A.,Chaidos, P.,Groth, J.",Efficient Zero-Knowledge Proof Systems,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-43005-8_1,,77,"http://link.springer.com/content/pdf/10.1007/978-3-319-43005-8_1
+http://dx.doi.org/10.1007/978-3-319-43005-8_1"
+"J. K. Solomon Doss,S. Kamalakkannan",IoT System Accomplishment using BlockChain in Validating and Data Security with Cloud,2020-10-07 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/I-SMAC49090.2020.9243412,"In a block channel IoT system, sensitive details can be leaked by means of the proof of work or address check, as data or application Validation data is applied on the blockchain. In this, the zero-knowledge evidence is applied to a smart metering system to show how to improve the anonymity of the blockchain for privacy safety without disclosing information as a public key. Within this article, a blockchain has been implemented to deter security risks such as data counterfeiting by utilizing intelligent meters. Zero-Knowledge Proof, an anonymity blockchain technology, has been implemented through block inquiry to prevent threats to security like personal information infringement. It was suggested that intelligent contracts would be used to avoid falsification of intelligent meter data and abuse of personal details.",78,https://www.semanticscholar.org/paper/77a3b4f688033a48c20e53684dc675666d377a4f
+"Liu, H.,Han, D.",Non-interactive Zero Knowledge Proof Based Access Control in Information-Centric Internet of Things,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-95388-1_41,,79,"https://link.springer.com/content/pdf/10.1007/978-3-030-95388-1_41
+http://dx.doi.org/10.1007/978-3-030-95388-1_41"
+"Elrom, E.",Creating Your Own Blockchain,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-4847-8_3,,80,"http://link.springer.com/content/pdf/10.1007/978-1-4842-4847-8_3
+http://dx.doi.org/10.1007/978-1-4842-4847-8_3"
+"Shobha Tyagi,Madhumita Kathuria",Role of Zero-Knowledge Proof in Blockchain Security,2022-05-26 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/com-it-con54601.2022.9850714,"Distributed Ledger Technology is also known as blockchain technology. It brings the characteristics like transparency, decentralization, immutability, and the distributed ledger in one package. The user identity of the public blockchain is anonymous on the network and cannot control the confidentiality and privacy of their data. The Anonymity of a user does not mean privacy. The importance of user and data privacy and confidentiality in blockchain technology is realized and is yet to be addressed by blockchain protocols. Zero-Knowledge-Proof can be the best solution to this problem. It is relatively new and is developing very rapidly. Zero-Knowledge-Proof can provide strong privacy if the security model is well understood and used carefully. Zero-Knowledge-Proof makes sure that no one accesses the secured data except the user. Paper discusses the types and the various applications of the Zero-Knowledge-Proof in the blockchain.",81,https://www.semanticscholar.org/paper/a78b33faa16bb5be0007f474dce03051ce14c3f8
+"Bragadeesh, S.,Narendran, S.,Umamakeswari, A.",Securing the Internet of Things Using Blockchain,2021-05-01 00:00:00,SupportedSources.CROSSREF,10.1201/9781003097990-6,,82,http://dx.doi.org/10.1201/9781003097990-6
+"Xiangbin Xian,Zhenguo Yang,Guipeng Zhang,S Tucua Miro de Nelio,Wenyin Liu",A Complete Anti-collusion Mechanism in Blockchain,2020-08-06 00:00:00,SupportedSources.OPENALEX,10.1007/978-981-15-9213-3_3,,83,"https://openalex.org/W3104580704
+https://doi.org/10.1007/978-981-15-9213-3_3"
+"Chowdhury, N.",Applications of Blockchain,2019-08-16 00:00:00,SupportedSources.CROSSREF,10.1201/9780429325533-11,,84,http://dx.doi.org/10.1201/9780429325533-11
+"Hashim, M.,G., S.,A., S.",Authentication in Wireless Sensor Networks Using Zero Knowledge Protocol,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-22786-8_52,,85,"http://link.springer.com/content/pdf/10.1007/978-3-642-22786-8_52
+http://dx.doi.org/10.1007/978-3-642-22786-8_52"
+"Singh, S.,Manjhi, P.,Tiwari, R.",Cloud Computing Security Using Blockchain Technology,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-33-6858-3_2,,86,"https://link.springer.com/content/pdf/10.1007/978-981-33-6858-3_2
+http://dx.doi.org/10.1007/978-981-33-6858-3_2"
+"Dylan Yaga,Peter Mell,Nik Roby,Karen Scarfone",Blockchain Technology Overview,2019-06-26 13:20:44+00:00,SupportedSources.ARXIV,10.6028/NIST.IR.8202,"Blockchains are tamper evident and tamper resistant digital ledgers
+implemented in a distributed fashion (i.e., without a central repository) and
+usually without a central authority (i.e., a bank, company, or government). At
+their basic level, they enable a community of users to record transactions in a
+shared ledger within that community, such that under normal operation of the
+blockchain network no transaction can be changed once published. This document
+provides a high-level technical overview of blockchain technology. The purpose
+is to help readers understand how blockchain technology works.",87,"http://arxiv.org/pdf/1906.11078v1
+http://dx.doi.org/10.6028/NIST.IR.8202
+http://arxiv.org/abs/1906.11078v1
+http://arxiv.org/pdf/1906.11078v1"
+"Chen, F.,Liu, Z.,Long, Y.,Liu, Z.,Ding, N.",Secure Scheme Against Compromised Hash in Proof-of-Work Blockchain,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-02744-5_1,,88,"http://link.springer.com/content/pdf/10.1007/978-3-030-02744-5_1
+http://dx.doi.org/10.1007/978-3-030-02744-5_1"
+"Volkan Dedeoglu,Raja Jurdak,Guntur D. Putra,Ali Dorri,Salil S. Kanhere",A Trust Architecture for Blockchain in IoT,2019-06-27 07:11:43+00:00,SupportedSources.ARXIV,,"Blockchain is a promising technology for establishing trust in IoT networks,
+where network nodes do not necessarily trust each other. Cryptographic hash
+links and distributed consensus mechanisms ensure that the data stored on an
+immutable blockchain can not be altered or deleted. However, blockchain
+mechanisms do not guarantee the trustworthiness of data at the origin. We
+propose a layered architecture for improving the end-to-end trust that can be
+applied to a diverse range of blockchain-based IoT applications. Our
+architecture evaluates the trustworthiness of sensor observations at the data
+layer and adapts block verification at the blockchain layer through the
+proposed data trust and gateway reputation modules. We present the performance
+evaluation of the data trust module using a simulated indoor target
+localization and the gateway reputation module using an end-to-end blockchain
+implementation, together with a qualitative security analysis for the
+architecture.",89,"http://arxiv.org/pdf/1906.11461v1
+http://arxiv.org/abs/1906.11461v1
+http://arxiv.org/pdf/1906.11461v1"
+"Hui Wang,Jian Yu,Dalin Zhang",A Blockchain Consensus Protocol Based on Quantum Attack Algorithm,2022-08-22 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1155/2022/1431967,"The blockchain is a distributed storage system of digital assets. This decentralized, non-copyable technology stems from universal standard password algorithm and the consensus mechanism of the game theory. The development of quantum computing poses threat to traditional algorithms of blockchain encryption, including symmetric encryption and hash encryption. Focusing on the traditional blockchain consensus mechanism, this paper designs a new blockchain consensus mechanism, based on the stochasticity, irreversibility, and uncertainty of quantum measurement. In the proposed consensus mechanism, complex calculations and intractability mathematical problems are abandoned. In this way, a huge amount of computing resources is saved, less energy is consumed, the time delay is shortened, and the throughput is increased. The proposed quantum consensus mechanism can withstand 51% attacks.",90,https://web.archive.org/web/20220823031040/https://downloads.hindawi.com/journals/cin/2022/1431967.pdf
+"Онацкий, А.,O.S. Popov Odessa national academy of telecommunication,Жарова, О.",Cryptographic protocol zero-knowledge proof on elliptic curves using one-way hash-function,2018-05-31 00:00:00,SupportedSources.CROSSREF,10.33243/2518-7139-2018-1-1-84-92,,91,http://dx.doi.org/10.33243/2518-7139-2018-1-1-84-92
+"John Scheid, Eder",An intent-based blockchain-agnostic interaction environment,2022-01-01 00:00:00,SupportedSources.CORE,,,92,https://www.zora.uzh.ch/id/eprint/220698/1/220698.pdf
+"Gebeyehu, W.,Ambaw, L.,Reddy, M.,Avadhani, P.",Authenticating Grid Using Graph Isomorphism Based Zero Knowledge Proof,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-03107-1_2,,93,"https://link.springer.com/content/pdf/10.1007/978-3-319-03107-1_2
+http://dx.doi.org/10.1007/978-3-319-03107-1_2"
+"Shen, M.,Zhu, L.,Xu, K.",Secure Data Retrieval Using Blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-15-5939-6_6,,94,"http://link.springer.com/content/pdf/10.1007/978-981-15-5939-6_6
+http://dx.doi.org/10.1007/978-981-15-5939-6_6"
+"Liskov, M.",Updatable Zero-Knowledge Databases,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11593447_10,,95,"http://link.springer.com/content/pdf/10.1007/11593447_10.pdf
+http://dx.doi.org/10.1007/11593447_10"
+"Maurer, U.",Zero-knowledge proofs of knowledge for group homomorphisms,2015-06-03 00:00:00,SupportedSources.CROSSREF,10.1007/s10623-015-0103-5,,96,"http://link.springer.com/content/pdf/10.1007/s10623-015-0103-5.pdf
+http://link.springer.com/article/10.1007/s10623-015-0103-5/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s10623-015-0103-5
+http://dx.doi.org/10.1007/s10623-015-0103-5"
+"Riya Sapra,Parneeta Dhaliwal",Blockchain: The new era of Technology,2018-12-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/PDGC.2018.8745811,"Now a days many applications are being built using the immutability and robustness of blockchain. Blockchain is a new class of information technology which combines cryptography and distributed ledger that already exists. The model is composed of a group of computers that collaborate towards maintaining a secured database, without storing the data at any central unit. It is the technology behind all the crypto currencies like Bitcoin, Litecoin, Etherum and now finding its way to record everything possible. This paper focuses on the basic framework of blockchain model, its development history, prerequisites and challenges of blockchain. Finally, various current real time applications of the technology are discussed.",97,https://www.semanticscholar.org/paper/2ba97aef2654bede472a6d2c08bace1f068a3714
+"Laur, S.,Zhang, B.",Lightweight Zero-Knowledge Proofs for Crypto-Computing Protocols,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-13257-0_9,,98,"http://link.springer.com/content/pdf/10.1007/978-3-319-13257-0_9
+http://dx.doi.org/10.1007/978-3-319-13257-0_9"
+"Midha, M.,Gupta, A.,Mathur, P.",Review on Zero-Knowledge Proof Method,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-15-9689-6_33,,99,"http://link.springer.com/content/pdf/10.1007/978-981-15-9689-6_33
+http://dx.doi.org/10.1007/978-981-15-9689-6_33"

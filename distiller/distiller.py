@@ -21,7 +21,7 @@ class Distiller:
         self._root_path = os.getcwd()
         os.chdir(initial_wd)
         self._path_to_doc2vec = os.path.join(
-            self._root_path, 'distiller', 'models', 'dbow_arxiv', 'dbow_arxiv')
+            self._root_path, 'distiller', 'models', 'dm_arxiv', 'dm_arxiv')
 
     def get_top_n_roberta(self, documents: Iterable[Document], query: str, n: int):
         documents = list(documents)

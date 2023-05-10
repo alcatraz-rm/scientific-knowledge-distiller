@@ -1,6 +1,6 @@
-coherent risk measures
-fundamental theorem of asset pricing (FTAP) and its extensions
-rough volatility models
-zero knowledge proof in blockchain
-stochastic differential equations in finance
-deformable image registration with neural networks
+1 coherent risk measures
+2 fundamental theorem of asset pricing (FTAP) and its extensions
+3 rough volatility models
+4 zero knowledge proof in blockchain
+5 stochastic differential equations in finance
+6 deformable image registration with neural networks
