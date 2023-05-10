@@ -1,0 +1,6 @@
+coherent risk measures
+fundamental theorem of asset pricing (FTAP) and its extensions
+rough volatility models
+zero knowledge proof in blockchain
+stochastic differential equations in finance
+deformable image registration with neural networks
