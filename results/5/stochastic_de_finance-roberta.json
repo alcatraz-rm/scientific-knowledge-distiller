@@ -1,0 +1,3063 @@
+[
+    {
+        "authors": [
+            "Keith P. Sharp"
+        ],
+        "title": "Stochastic differential equations in finance",
+        "publication_date": "1990-05-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Applied Mathematics and Computation",
+        "volume": "37",
+        "doi": "10.1016/0096-3003(90)90041-Z",
+        "urls": [
+            "https://www.semanticscholar.org/paper/b9d83ab239e095de42c99270b17a330c085f0eb2"
+        ],
+        "id": "id3441194472525272367",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Stochastic differential equations in finance",
+                "journal": "Applied Mathematics and Computation",
+                "urls": [
+                    "https://doi.org/10.1016/0096-3003(90)90041-z"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-z",
+                "publication_date": "None"
+            },
+            {
+                "year": 1990,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Stochastic differential equations in finance",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:009630039090041Z?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:009630039090041Z?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/0096-3003(90)90041-z"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-z",
+                "publication_date": "1990-01-01 00:00:00"
+            },
+            {
+                "year": 1990,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Stochastic differential equations in finance",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2007434528",
+                    "https://doi.org/10.1016/0096-3003(90)90041-z"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-z",
+                "publication_date": "1990-05-01 00:00:00"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "M. Richter"
+        ],
+        "title": "Stochastic differential equations with applications in economics and finance",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/022094bd2978c4e308e3f9a63e9369c675d335b5"
+        ],
+        "id": "id-3610234618326627507",
+        "abstract": null,
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "\u4e2d\u5c71 \u5b63\u4e4b"
+        ],
+        "title": "Stochastic differential equations and mathematical finance = \u78ba\u7387\u5fae\u5206\u65b9\u7a0b\u5f0f\u3068\u6570\u7406\u30d5\u30a1\u30a4\u30ca\u30f3\u30b9",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/048ca54577c1d4fab6371de8f97cc8fb0c79e75f"
+        ],
+        "id": "id2651458565633140663",
+        "abstract": null,
+        "versions": [],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Wolf, D."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bfb0105462",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BFb0105462.pdf",
+            "http://dx.doi.org/10.1007/bfb0105462"
+        ],
+        "id": "id125806856865678807",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9a989a31c15584bd0db05a1e2d7b31631b55e3fc"
+                ],
+                "doi": "10.1007/BFB0105462",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Van Kampen, N."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "1976-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0370-1573(76)90029-6",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0370157376900296?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0370157376900296?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0370-1573(76)90029-6"
+        ],
+        "id": "id6604322563536679003",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1976,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "Physics Reports",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a2a9929d230d75d2ddd9b96b370b8293788ed3b9"
+                ],
+                "doi": "10.1016/0370-1573(76)90029-6",
+                "publication_date": "1976-03-01 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Borz\u00ec, A."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "2020-04-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781351190398-13",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781351190398-13"
+        ],
+        "id": "id-7577218900048345259",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ffdf16132bb95c87fb080cb9665da7bc16f70cee"
+                ],
+                "doi": "10.1201/9781351190398-13",
+                "publication_date": "2020-04-13 00:00:00"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Haba, Z."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "1999-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-4716-3_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-4716-3_3.pdf",
+            "http://dx.doi.org/10.1007/978-94-011-4716-3_3"
+        ],
+        "id": "id-7450237367218067476",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/eefc28fe1becd128ded1dc8819d0778141ed9a3a"
+                ],
+                "doi": "10.1007/978-94-011-4716-3_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2004-07-05 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511755323.009",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4D637C32DE60634F50F83993800C2B67",
+            "http://dx.doi.org/10.1017/cbo9780511755323.009"
+        ],
+        "id": "id-2622635792230293586",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/73aff915c36366c212c862025435c548dec3ce67"
+                ],
+                "doi": "10.1017/CBO9780511755323.009",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Rota, G."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "1976-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0001-8708(76)90054-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0001870876900542?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0001870876900542?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0001-8708(76)90054-2"
+        ],
+        "id": "id-8368280503027119331",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1976,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations: L. Arnold, Wiley, 1974, 228 pp",
+                "journal": "Advances in Mathematics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8f6c59a810eb953f6ce9ceadeed530cd9229947c"
+                ],
+                "doi": "10.1016/0001-8708(76)90054-2",
+                "publication_date": "1976-03-01 00:00:00"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2009-04-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511809781.010",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFDA410BA5697E948BE7F5C1A92BB6DD",
+            "http://dx.doi.org/10.1017/cbo9780511809781.010"
+        ],
+        "id": "id6897994318477223693",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "L\u00e9vy Processes and Stochastic Calculus: Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3c54fe16616b71f4626033e348cf27003326d1d9"
+                ],
+                "doi": "10.1017/CBO9780511809781.010",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2011-10-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511997044.026",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D94C6F8C43458D305370036BB2DA03DB",
+            "http://dx.doi.org/10.1017/cbo9780511997044.026"
+        ],
+        "id": "id-8881263652565483779",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Processes: Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/87a26333c784e5ae8963a6855d611be4743a87fe"
+                ],
+                "doi": "10.1017/CBO9780511997044.026",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Lindstr\u00f6m, E.",
+            "Madsen, H.",
+            "Nielsen, J."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "2018-09-03 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781315372204-8",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781315372204-8"
+        ],
+        "id": "id-8031558255312071022",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a6ab408d24b7eded418548e9636eaf0118520f08"
+                ],
+                "doi": "10.1201/9781315372204-8",
+                "publication_date": "2018-09-03 00:00:00"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "McShane, E."
+        ],
+        "title": "Stochastic differential equations",
+        "publication_date": "1975-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0047-259x(75)90036-6",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0047259X75900366?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0047259X75900366?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0047-259x(75)90036-6"
+        ],
+        "id": "id288737405681431526",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1975,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "Journal of Multivariate Analysis",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c214393fbae7353be2465060ffd2a5901913e244"
+                ],
+                "doi": "10.1016/0047-259X(75)90036-6",
+                "publication_date": "1975-06-01 00:00:00"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2018-06-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789813225329_0008",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789813225329_0008"
+        ],
+        "id": "id-2059531695481799048",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fd1d072c76be5b3c0aef6b9c083738a75e88855f"
+                ],
+                "doi": "10.1142/9789813225329_0008",
+                "publication_date": "2018-06-27 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2012-08-23 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139017367.006",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E315BE2890D0971CD1870443333E0FFC",
+            "http://dx.doi.org/10.1017/cbo9781139017367.006"
+        ],
+        "id": "id995940277314261782",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7d953a965d5e3022b2a0d2619093a8a3227bb68d"
+                ],
+                "doi": "10.1017/CBO9781139017367.006",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations",
+        "publication_date": "2009-11-12 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511813948.010",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E897B871CE19E866903B8799FAE3631D",
+            "http://dx.doi.org/10.1017/cbo9780511813948.010"
+        ],
+        "id": "id8828330153690234667",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Quantum Measurement and Control: Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/33dc96a7d8afb9ca5e0210cc348892dfe1a208b5"
+                ],
+                "doi": "10.1017/CBO9780511813948.010",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Griffiths, D.",
+            "Higham, D."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-85729-148-6_16",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-0-85729-148-6_16",
+            "http://dx.doi.org/10.1007/978-0-85729-148-6_16"
+        ],
+        "id": "id-4225092475494200939",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/61498150ef28931ab605dc6016ff60a6436b77d0"
+                ],
+                "doi": "10.1007/978-0-85729-148-6_16",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Schuss, Z."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2009-11-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4419-1605-1_4",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4419-1605-1_4",
+            "http://dx.doi.org/10.1007/978-1-4419-1605-1_4"
+        ],
+        "id": "id-7227224605002725590",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5adc5c7ab3ed27bdd44d516fe8b84083376089ef"
+                ],
+                "doi": "10.1007/978-1-4419-1605-1_4",
+                "publication_date": "2006-08-15 00:00:00"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Nisio, M."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2014-10-20 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-4-431-55123-2_1",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-4-431-55123-2_1",
+            "http://dx.doi.org/10.1007/978-4-431-55123-2_1"
+        ],
+        "id": "id5273647465861467844",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6e5774c06812ab0f12035250f4614423de74b73e"
+                ],
+                "doi": "10.1007/978-4-431-55123-2_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Peng, S."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-59903-7_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-59903-7_5",
+            "http://dx.doi.org/10.1007/978-3-662-59903-7_5"
+        ],
+        "id": "id-4081723592214019961",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/af61342c9effc4e5d5ed318d4f452cdc6457dd47"
+                ],
+                "doi": "10.1007/978-3-662-59903-7_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2002-05-13 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511549878.006",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C62B0FFBED84E76CCBFBE8D5E75D43D1",
+            "http://dx.doi.org/10.1017/cbo9780511549878.006"
+        ],
+        "id": "id5891210298870519634",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e10c4f503324a8c9f3e7d9342b08196dd966b6b8"
+                ],
+                "doi": "10.1017/CBO9780511549878.006",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Durrett, R."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2018-03-29 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9780203738283-5",
+        "urls": [
+            "http://dx.doi.org/10.1201/9780203738283-5"
+        ],
+        "id": "id7394210873814032141",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3f27d58f803a04419f489a28e56a4862ec4634ba"
+                ],
+                "doi": "10.1201/9780203738283-5",
+                "publication_date": "2018-03-29 00:00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "von Weizs\u00e4cker, H.",
+            "Winkler, G."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1990-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-663-13923-2_11",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-663-13923-2_11",
+            "http://dx.doi.org/10.1007/978-3-663-13923-2_11"
+        ],
+        "id": "id5213271031152934915",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aa5f09b38f812c8387941969b0f7008492be9328"
+                ],
+                "doi": "10.1007/978-3-663-13923-2_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "Panik, M."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2017-04-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119377399",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119377399",
+            "http://dx.doi.org/10.1002/9781119377399"
+        ],
+        "id": "id-4496330151836260595",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations: An Introduction with Applications in Population Dynamics Modeling",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6d945546fb03e16a0c8c156118335205b01f176d",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119377399.fmatter"
+                ],
+                "doi": "10.1002/9781119377399",
+                "publication_date": "2017-04-03 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Friedman, A."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1975-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-268201-8.50010-4",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780122682018500104?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780122682018500104?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-12-268201-8.50010-4"
+        ],
+        "id": "id-194311628149868448",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2742889b9960f70f24e62c6722ccda89bb67097b"
+                ],
+                "doi": "10.1016/B978-0-12-268201-8.50010-4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Karatzas, I.",
+            "Shreve, S."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1998-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4612-0949-2_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4612-0949-2_5",
+            "http://dx.doi.org/10.1007/978-1-4612-0949-2_5"
+        ],
+        "id": "id5636975944049422977",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1f5af5f08e83aec94237afd6b5628d016ddac8a4"
+                ],
+                "doi": "10.1007/978-1-4612-0949-2_5",
+                "publication_date": "2019-02-01 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "Capasso, V.",
+            "Bakstein, D."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-8176-8346-7_4",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-0-8176-8346-7_4",
+            "http://dx.doi.org/10.1007/978-0-8176-8346-7_4"
+        ],
+        "id": "id8405561024021777440",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ef52d8f6a9eac33a6f0f1a8727b2f6c437123f9a"
+                ],
+                "doi": "10.1007/978-0-8176-8346-7_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Sobczyk, K."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-3712-6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6",
+            "http://dx.doi.org/10.1007/978-94-011-3712-6"
+        ],
+        "id": "id-8768446023270317005",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2276fdc49db52dd74277b407dcb792eef45e42d7",
+                    "https://link.springer.com/content/pdf/bfm:978-94-011-3712-6/1?pdf=chapter%20toc"
+                ],
+                "doi": "10.1007/978-94-011-3712-6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Pavliotis, G.",
+            "Stuart, A."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-387-73829-1_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-0-387-73829-1_6.pdf",
+            "http://dx.doi.org/10.1007/978-0-387-73829-1_6"
+        ],
+        "id": "id-5688642775762320377",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9c3da154349fb88c8d4d1eadd450f355d18f2660"
+                ],
+                "doi": "10.1007/978-0-387-73829-1_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "\u00d8ksendal, B."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-14394-6_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-14394-6_5",
+            "http://dx.doi.org/10.1007/978-3-642-14394-6_5"
+        ],
+        "id": "id-780429185696816495",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "The Mathematical Gazette",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fbbc2c872544225397d0cff190844c99fb872792"
+                ],
+                "doi": "10.1007/978-3-642-14394-6_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "McShane, E."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1974-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-486250-0.50010-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780124862500500103?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780124862500500103?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-12-486250-0.50010-3"
+        ],
+        "id": "id-1642044725193073246",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "V \u2013 Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1d7c570a29cf0bc326f5902b04ab2a2c237c1fec"
+                ],
+                "doi": "10.1016/B978-0-12-486250-0.50010-3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Klenke, A."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4471-5361-0_26",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4471-5361-0_26",
+            "http://dx.doi.org/10.1007/978-1-4471-5361-0_26"
+        ],
+        "id": "id-8350507792966798787",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/be5f6d714d9450b7cfda3e13c53ac98cfea84d81"
+                ],
+                "doi": "10.1007/978-1-4471-5361-0_26",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2019-11-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118630006.ch9",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch9",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch9",
+            "http://dx.doi.org/10.1002/9781118630006.ch9"
+        ],
+        "id": "id5296185691542543836",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f2e00786a51a16707e5a8d89cdcb6b6d04df7a8e"
+                ],
+                "doi": "10.1002/9781118630006.ch9",
+                "publication_date": "2019-11-04 00:00:00"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Poznyak, A."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-08-044673-8.00016-x",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B978008044673800016X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B978008044673800016X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-08-044673-8.00016-x"
+        ],
+        "id": "id-279476008423959942",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "12 \u2013 Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/62820f11828f22844b3b12ecd09db019cb0cdb4f"
+                ],
+                "doi": "10.1016/B978-0-08-044673-8.00016-X",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Gawarecki, L.",
+            "Mandrekar, V."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-16194-0_3",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-642-16194-0_3",
+            "http://dx.doi.org/10.1007/978-3-642-16194-0_3"
+        ],
+        "id": "id4473157601772144795",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/897763af28fa6dbd1e6e30005690482db1210421"
+                ],
+                "doi": "10.1007/978-3-642-16194-0_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "Giandomenico, R."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.2575456",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.2575456"
+        ],
+        "id": "id-5582411583601655887",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "Social Science Research Network",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bb1ee13e7ad41fe9d0ed879a7f10ddafa4bb21d2"
+                ],
+                "doi": "10.2139/SSRN.2575456",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Sch\u00e4ffler, S."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-78768-8_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-78768-8_3",
+            "http://dx.doi.org/10.1007/978-3-319-78768-8_3"
+        ],
+        "id": "id-4720534728930923934",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8c210f6fe7be417149547135591231189899a209"
+                ],
+                "doi": "10.1007/978-3-319-78768-8_3",
+                "publication_date": "2021-11-28 00:00:00"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Koralov, L.",
+            "Sinai, Y."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-68829-7_21",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-68829-7_21.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-68829-7_21"
+        ],
+        "id": "id920567932227693035",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9173339fc7c561ec79beb8f1b7d797fea1c9f159"
+                ],
+                "doi": "10.1007/978-3-540-68829-7_21",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Kallianpur, G.",
+            "Karandikar, R."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2000-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4612-0511-1_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4612-0511-1_4.pdf",
+            "http://dx.doi.org/10.1007/978-1-4612-0511-1_4"
+        ],
+        "id": "id-3237039482659982597",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ccedd887e0ba571429998769671bf82dd2c73b60"
+                ],
+                "doi": "10.1007/978-1-4612-0511-1_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-11079-5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5",
+            "http://dx.doi.org/10.1007/978-3-642-11079-5"
+        ],
+        "id": "id-4519253373780860518",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5a760e653fe59355449de14d11f63b8289a6bf94",
+                    "https://link.springer.com/content/pdf/bfm:978-3-642-11079-5/1?pdf=chapter%20toc"
+                ],
+                "doi": "10.1007/978-3-642-11079-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Pardoux, E.",
+            "R\u0103\u015fcanu, A."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-05714-9_3",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-319-05714-9_3",
+            "http://dx.doi.org/10.1007/978-3-319-05714-9_3"
+        ],
+        "id": "id5067596281628502430",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Stochastic Differential Equations",
+                "journal": "Springer International Publishing",
+                "urls": [
+                    "https://web.archive.org/web/20150922012127/http://etd.lsu.edu/docs/available/etd-06052012-150153/unrestricted/szozdadiss.pdf"
+                ],
+                "doi": "10.1007/978-3-319-05714-9_3",
+                "publication_date": "2014-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2c55561b3702ca659c136135c14aa4860c64fa40"
+                ],
+                "doi": "10.1007/978-3-319-05714-9_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Platen, E.",
+            "Heath, D."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-47856-0_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-47856-0_7.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-47856-0_7"
+        ],
+        "id": "id4731167057284773415",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dd62c80272a5dc809c5230b047fee920265d3b81"
+                ],
+                "doi": "10.1007/978-3-540-47856-0_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Choe, G."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-25589-7_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-25589-7_12",
+            "http://dx.doi.org/10.1007/978-3-319-25589-7_12"
+        ],
+        "id": "id-4384641847137340423",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ce05b48f1a1459413a39cdb5ea877a4da6a2e0c"
+                ],
+                "doi": "10.1007/978-3-319-25589-7_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "Russo, F."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b0-12-512666-2/00369-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B0125126662003692?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B0125126662003692?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b0-12-512666-2/00369-2"
+        ],
+        "id": "id3927863864429091698",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e0dfcd904828b1f7cf4ff71fec1320a2a9456b2d"
+                ],
+                "doi": "10.1016/B0-12-512666-2/00369-2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Gardiner, C."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2021-12-22 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1063/9780735423718_007",
+        "urls": [
+            "https://pubs.aip.org/books/monograph/chapter-pdf/9016721/9780735423718_007.pdf",
+            "http://dx.doi.org/10.1063/9780735423718_007"
+        ],
+        "id": "id-6452863176447555723",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/872fb0b4da8017d0442aa0cae626ffc73b4d078c"
+                ],
+                "doi": "10.1063/9780735423718_007",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "Kloeden, P."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-04898-2_569",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-04898-2_569",
+            "http://dx.doi.org/10.1007/978-3-642-04898-2_569"
+        ],
+        "id": "id-3039208678177442186",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cb51c258005e14b2214cd2f51a7e4b2641a6819c"
+                ],
+                "doi": "10.1007/978-3-642-04898-2_569",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "Lakshmikantham, V.",
+            "Deo, S."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2019-09-10 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9780203747452-7",
+        "urls": [
+            "http://dx.doi.org/10.1201/9780203747452-7"
+        ],
+        "id": "id930796940177267465",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/eba414317e7d9b2ac9b901bdf8dc1119215789f2"
+                ],
+                "doi": "10.1201/9780203747452-7",
+                "publication_date": "2019-09-10 00:00:00"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Mao, X."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1533/9780857099402.47",
+        "urls": [
+            "http://woodhead.metapress.com/index/X527740108470256.pdf",
+            "http://dx.doi.org/10.1533/9780857099402.47"
+        ],
+        "id": "id-3107372702735422879",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "2 \u2013 Stochastic Differential Equations",
+                "journal": "Differential Equations and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c097d06e4465973a1fa660c890ad4739b73ab167"
+                ],
+                "doi": "10.1533/9780857099402.47",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Protter, P."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "1990-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-02619-9_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-02619-9_6",
+            "http://dx.doi.org/10.1007/978-3-662-02619-9_6"
+        ],
+        "id": "id-600627208288081322",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/416df5b6324a885f269e11c705251f1023caa0a9"
+                ],
+                "doi": "10.1007/978-3-662-02619-9_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Chung, K.",
+            "Williams, R."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2013-10-24 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4614-9587-1_10",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4614-9587-1_10",
+            "http://dx.doi.org/10.1007/978-1-4614-9587-1_10"
+        ],
+        "id": "id-1467319517530544258",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/acdd464acd8d8b347ea47f91704c054ec0279b50"
+                ],
+                "doi": "10.1007/978-1-4614-9587-1_10",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "Lecca, P.",
+            "Re, A.",
+            "Ihekwaba, A.",
+            "Mura, I.",
+            "Nguyen, T."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-08-100095-3.00006-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780081000953000068?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780081000953000068?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-08-100095-3.00006-8"
+        ],
+        "id": "id-2296132913149080759",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 6 \u2013 Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/65090cd65dbc0608f41d5e0f0aceb563c260f295"
+                ],
+                "doi": "10.1016/B978-0-08-100095-3.00006-8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Le Gall, J."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-31089-3_8",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-31089-3_8",
+            "http://dx.doi.org/10.1007/978-3-319-31089-3_8"
+        ],
+        "id": "id-1927435542691786747",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2593c891d4e4a5c8b424caf785b26e68bef11e4a"
+                ],
+                "doi": "10.1007/978-3-319-31089-3_8",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Zhang, J."
+        ],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4939-7256-2_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4939-7256-2_3",
+            "http://dx.doi.org/10.1007/978-1-4939-7256-2_3"
+        ],
+        "id": "id-4878357756347475082",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/94cb22d7e8bbfedb5af54992648c2c3c88b80edb"
+                ],
+                "doi": "10.1007/978-1-4939-7256-2_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/springerreference_205651",
+        "urls": [
+            "http://dx.doi.org/10.1007/springerreference_205651"
+        ],
+        "id": "id-4826315496208725380",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/007cdf98e1c33b56119a23f50943b3530d74fc4e"
+                ],
+                "doi": "10.1007/springerreference_205651",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Rota, G."
+        ],
+        "title": "Stochastic differential equations and applications",
+        "publication_date": "1977-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0001-8708(77)90127-x",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:000187087790127X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:000187087790127X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0001-8708(77)90127-x"
+        ],
+        "id": "id532164934956670016",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1977,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations and applications",
+                "journal": "Advances in Mathematics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0653b5ec82ca04181980cc9823a7e48323f9c752"
+                ],
+                "doi": "10.1016/0001-8708(77)90127-X",
+                "publication_date": "1977-02-01 00:00:00"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Gihman, I.",
+            "Skorohod, A."
+        ],
+        "title": "The Solution of Stochastic Differential Equations",
+        "publication_date": "1972-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-88264-7_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-88264-7_3.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-88264-7_3"
+        ],
+        "id": "id-1920214931440516631",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Solution of Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9e9ba24e6a85626b1e9390c7d57be4fbd98c73ce"
+                ],
+                "doi": "10.1007/978-3-642-88264-7_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [],
+        "title": "Introduction: Stochastic differential equations",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814322195_0001",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814322195_0001"
+        ],
+        "id": "id670829957142252693",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introduction: Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/581313135cadfd622f10f9842e5bfb2e1d18c5ce"
+                ],
+                "doi": "10.1142/9789814322195_0001",
+                "publication_date": "2010-11-01 00:00:00"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [],
+        "title": "Stochastic processes and stochastic differential equations",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bfb0006766",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BFb0006766.pdf",
+            "http://dx.doi.org/10.1007/bfb0006766"
+        ],
+        "id": "id3386026644752434989",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic processes and stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b9b33bb05108e120c2c5d25e9a407703cdb4da8a"
+                ],
+                "doi": "10.1007/BFB0006766",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Cherny, A.",
+            "Engelbert, H."
+        ],
+        "title": "1. Stochastic Differential Equations",
+        "publication_date": "2004-11-16 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-31560-5_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-31560-5_2",
+            "http://dx.doi.org/10.1007/978-3-540-31560-5_2"
+        ],
+        "id": "id3339328985743475211",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "1. Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/515c04539fee38801b46fc6db9268af0149dcf75"
+                ],
+                "doi": "10.1007/978-3-540-31560-5_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Sobczyk, K."
+        ],
+        "title": "Stochastic Differential Equations: Basic Theory",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-3712-6_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_4.pdf",
+            "http://dx.doi.org/10.1007/978-94-011-3712-6_4"
+        ],
+        "id": "id1890840868324266271",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations: Basic Theory",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/588a1337a46954ebbb1394849162e4f41df17f85"
+                ],
+                "doi": "10.1007/978-94-011-3712-6_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [],
+        "title": "Solution of Stochastic Differential Equations",
+        "publication_date": "2008-12-22 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118467374.ch8",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467374.ch8",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467374.ch8",
+            "http://dx.doi.org/10.1002/9781118467374.ch8"
+        ],
+        "id": "id4945546301823001384",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Solution of Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f1a3ba785843f081e8b184724efaca61afb50fa9"
+                ],
+                "doi": "10.1002/9781118467374.CH8",
+                "publication_date": "2012-05-24 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Kamien, M."
+        ],
+        "title": "Stochastic Differential Equations: Applications in Economics and Management Science",
+        "publication_date": "2006-08-15 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/0471667196.ess2586.pub2",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/0471667196.ess2586.pub2",
+            "http://dx.doi.org/10.1002/0471667196.ess2586.pub2"
+        ],
+        "id": "id-5106496163855104941",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations: Applications in Economics and Management Science",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ebab0744d8d914990d77773023f8d76194f43fd"
+                ],
+                "doi": "10.1002/0471667196.ESS2586.PUB2",
+                "publication_date": "2006-08-15 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [],
+        "title": "[eBooks] An Introduction To Stochastic Differential Equations",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/16a6e581d90ba463d49a84639d704c6e9794ee9e"
+        ],
+        "id": "id-6000447850557014620",
+        "abstract": "An Introduction to Stochastic Differential Equations-Lawrence C. Evans 2012-12-11 These notes provide a concise introduction to stochastic differential equations and their application to the study of financial markets and as a basis for modeling diverse physical phenomena. They are accessible to non-specialists and make a valuable addition to the collection of texts on the topic. --Srinivasa Varadhan, New York University This is a handy and very useful text for studying stochastic differential equations. There is enough mathematical detail so that the reader can benefit from this introduction with only a basic background in mathematical analysis and probability. --George Papanicolaou, Stanford University This book covers the most important elementary facts regarding stochastic differential equations; it also describes some of the applications to partial differential equations, optimal stopping, and options pricing. The book's style is intuitive rather than formal, and emphasis is made on clarity. This book will be very helpful to starting graduate students and strong undergraduates as well as to others who want to gain knowledge of stochastic differential equations. I recommend this book enthusiastically. --Alexander Lipton, Mathematical Finance Executive, Bank of America Merrill Lynch This short book provides a quick, but very readable introduction to stochastic differential equations, that is, to differential equations subject to additive ``white noise'' and related random disturbances. The exposition is concise and strongly focused upon the interplay between probabilistic intuition and mathematical rigor. Topics include a quick survey of measure theoretic probability theory, followed by an introduction to Brownian motion and the Ito stochastic calculus, and finally the theory of stochastic differential equations. The text also includes applications to partial differential equations, optimal stopping problems and options pricing. This book can be used as a text for senior undergraduates or beginning graduate students in mathematics, applied mathematics, physics, financial mathematics, etc., who want to learn the basics of stochastic differential equations. The reader is assumed to be fairly familiar with measure theoretic mathematical analysis, but is not assumed to have any particular knowledge of probability theory (which is rapidly developed in Chapter 2 of the book).",
+        "versions": [],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Govender, Nadrajh"
+        ],
+        "title": "A brief analysis of certain numerical methods used to solve stochastic differential equations",
+        "publication_date": "2007-07-23 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/80897137.pdf"
+        ],
+        "id": "id2439014163393059026",
+        "abstract": "Stochastic differential equations (SDE\u2019s) are used to describe systems which are influenced by randomness. Here, randomness is modelled as some external source interacting with the system, thus ensuring that the stochastic differential equation provides a more realistic mathematical model of the system under investigation than deterministic differential equations. The behaviour of the physical system can often be described by probability and thus understanding the theory of SDE\u2019s requires the familiarity of advanced probability theory and stochastic processes. SDE\u2019s have found applications in chemistry, physical and engineering sciences, microelectronics and economics. But recently, there has been an increase in the use of SDE\u2019s in other areas like social sciences, computational biology and finance. In modern financial practice, asset prices are modelled by means of stochastic processes. Thus, continuous-time stochastic calculus plays a central role in financial modelling. The theory and application of interest rate modelling is one of the most important areas of modern finance. For example, SDE\u2019s are used to price bonds and to explain the term structure of interest rates. Commonly used models include the Cox-Ingersoll-Ross model; the Hull-White model; and Heath-Jarrow-Morton model. Since there has been an expansion in the range and volume of interest rate related products being traded in the international financial markets in the past decade, it has become important for investment banks, other financial institutions, government and corporate treasury offices to require ever more accurate, objective and scientific forms for the pricing, hedging and general risk management of the resulting positions. Similar to ordinary differential equations, many SDE\u2019s that appear in practical applications cannot be solved explicitly and therefore require the use of numerical methods. For example, to price an American put option, one requires the numerical solution of a free-boundary partial differential equation. There are various approaches to solving SDE\u2019s numerically. Monte Carlo methods could be used whereby the physical system is simulated directly using a sequence of random numbers. Another method involves the discretisation of both the time and space variables. However, the most efficient and widely applicable approach to solving SDE\u2019s involves the discretisation of the time variable only and thus generating approximate values of the sample paths at the discretisation times. This paper highlights some of the various numerical methods that can be used to solve stochastic differential equations. These numerical methods are based on the simulation of sample paths of time discrete approximations. It also highlights how these methods can be derived from the Taylor expansion of the SDE, thus providing opportunities to derive more advanced numerical schemes.Dissertation (MSc (Mathematics of Finance))--University of Pretoria, 2007.Mathematics and Applied MathematicsMScunrestricte",
+        "versions": [],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Kulasiri, D.",
+            "Verwoerd, W."
+        ],
+        "title": "Solving Stochastic Differential Equations",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-5931(02)80005-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167593102800055?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167593102800055?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-5931(02)80005-5"
+        ],
+        "id": "id5906133502598277799",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 4 - Solving Stochastic Differential Equations",
+                "journal": "North-holland Series in Applied Mathematics and Mechanics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aa1c8241ccf43bfc717d0516a66bf192d5046f37"
+                ],
+                "doi": "10.1016/S0167-5931(02)80005-5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Kloeden, P.",
+            "Platen, E."
+        ],
+        "title": "Applications of Stochastic Differential Equations",
+        "publication_date": "1992-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-12616-5_7",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-12616-5_7",
+            "http://dx.doi.org/10.1007/978-3-662-12616-5_7"
+        ],
+        "id": "id-772240085483123257",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Applications of Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5fe05926f9ea3648dac87d64a538875c810a70b2"
+                ],
+                "doi": "10.1007/978-3-662-12616-5_7",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Hassler, U."
+        ],
+        "title": "Stochastic Differential Equations (SDE)",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-23428-1_12",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-319-23428-1_12",
+            "http://dx.doi.org/10.1007/978-3-319-23428-1_12"
+        ],
+        "id": "id-9090155359332519164",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations (SDE)",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3f6dfe886ccb0405007a5f08d0a47b2f4130ae33"
+                ],
+                "doi": "10.1007/978-3-319-23428-1_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "VAN KAMPEN, N."
+        ],
+        "title": "STOCHASTIC DIFFERENTIAL EQUATIONS",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-044452965-7/50019-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780444529657500192?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780444529657500192?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-044452965-7/50019-2"
+        ],
+        "id": "id-7015621001253514000",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter XVI \u2013 STOCHASTIC DIFFERENTIAL EQUATIONS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/39b9153706090a3565f32d8282d9fe15d4357381"
+                ],
+                "doi": "10.1016/B978-044452965-7/50019-2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Sobczyk, K."
+        ],
+        "title": "Stochastic Differential Equations: Analytical Methods",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-3712-6_5",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_5.pdf",
+            "http://dx.doi.org/10.1007/978-94-011-3712-6_5"
+        ],
+        "id": "id-129001359531811641",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations: Analytical Methods",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5c92f6d0a39eb4aeb8f1cc83c9f918213ad22e18"
+                ],
+                "doi": "10.1007/978-94-011-3712-6_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Byounguk Yoon"
+        ],
+        "title": "Backward Stochastic Differential Equations in Economics and Finance",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/81a159282db0d3edab8417206b083e04700dafef"
+        ],
+        "id": "id-1420392157129999408",
+        "abstract": null,
+        "versions": [],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "L. Evans"
+        ],
+        "title": "An Introduction to Stochastic Differential Equations",
+        "publication_date": "2014-01-05 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1090/mbk/082",
+        "urls": [
+            "https://www.semanticscholar.org/paper/fce8e688be5bf1f5ed4ecd8fe21206eb8e1ba47c"
+        ],
+        "id": "id-296955861610833035",
+        "abstract": "This book provides a quick, but very readable introduction to stochastic differential equations-that is, to differential equations subject to additive \"white noise\" and related random disturbances. The exposition is strongly focused upon the interplay between probabilistic intuition and mathematical rigour. Topics include a quick survey of measure theoretic probability theory, followed by an introduction to Brownian motion and the Ito stochastic calculus, and finally the theory of stochastic differential equations. The text also includes applications to partial differential equations, optimal stopping problems and options pricing. <br This book can be used as a text for senior undergraduates or beginning graduate students in mathematics, applied mathematics, physics, financial mathematics, etc., who want to learn the basics of stochastic differential equations. The reader is assumed to be fairly familiar with measure theoretic mathematical analysis, but is not assumed to have any particular knowledge of probability theory (which is rapidly developed in Chapter 2 of the book).",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.CROSSREF",
+                "title": "An Introduction to Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1090/mbk/082"
+                ],
+                "doi": "10.1090/mbk/082",
+                "publication_date": "2013-12-13 00:00:00"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [],
+        "title": "I. STOCHASTIC DIFFERENTIAL EQUATIONS AND RELATED TOPICS",
+        "publication_date": "1985-12-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9781400881598-003",
+        "urls": [
+            "http://www.degruyter.com/view/books/9781400881598/9781400881598-003/9781400881598-003.xml",
+            "https://www.degruyter.com/document/doi/10.1515/9781400881598-003/xml",
+            "https://www.degruyter.com/document/doi/10.1515/9781400881598-003/pdf",
+            "http://dx.doi.org/10.1515/9781400881598-003"
+        ],
+        "id": "id3168400252716358640",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1985,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "I. STOCHASTIC DIFFERENTIAL EQUATIONS AND RELATED TOPICS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/82b8d8e6dc7f7365ad19a0fd402404e60b4a7233"
+                ],
+                "doi": "10.1515/9781400881598-003",
+                "publication_date": "1985-01-31 00:00:00"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "S. Shreve"
+        ],
+        "title": "Stochastic calculus for finance",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-387-22527-2",
+        "urls": [
+            "https://www.semanticscholar.org/paper/0eb020a3921d8e66c7270d38d0800404b075b701",
+            "https://link.springer.com/content/pdf/bfm%3A978-0-387-22527-2%2F1"
+        ],
+        "id": "id8711262799969763238",
+        "abstract": null,
+        "versions": [],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Banerjee, S."
+        ],
+        "title": "Modeling with Stochastic Differential Equations",
+        "publication_date": "2021-11-09 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781351022941-6",
+        "urls": [
+            "http://dx.doi.org/10.1201/9781351022941-6"
+        ],
+        "id": "id4505461907806520528",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Modeling with Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5841646963cafb0a5427bdb279e834c7d4a1ce16"
+                ],
+                "doi": "10.1201/9781351022941-6",
+                "publication_date": "2021-11-09 00:00:00"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Pavliotis, G."
+        ],
+        "title": "Modeling with Stochastic Differential Equations",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4939-1323-7_5",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4939-1323-7_5",
+            "http://dx.doi.org/10.1007/978-1-4939-1323-7_5"
+        ],
+        "id": "id4066057449687682924",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Modeling with Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/92836c1062f900c6535deedb10c87d3d45f59a56"
+                ],
+                "doi": "10.1007/978-1-4939-1323-7_5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 74
+    },
+    {
+        "authors": [],
+        "title": "Chapter 1: Stochastic Differential Equations",
+        "publication_date": "2016-02-18 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1137/1.9781611974249.ch1",
+        "urls": [
+            "http://epubs.siam.org/doi/pdf/10.1137/1.9781611974249.ch1",
+            "http://dx.doi.org/10.1137/1.9781611974249.ch1"
+        ],
+        "id": "id-2968789731131695051",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 1: Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d07427c1dae903b431b29477a6eb66eabba40afd"
+                ],
+                "doi": "10.1137/1.9781611974249.ch1",
+                "publication_date": "2016-02-18 00:00:00"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Kloeden, P.",
+            "Platen, E."
+        ],
+        "title": "Modelling with Stochastic Differential Equations",
+        "publication_date": "1992-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-662-12616-5_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-662-12616-5_6",
+            "http://dx.doi.org/10.1007/978-3-662-12616-5_6"
+        ],
+        "id": "id-1101675087930674361",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Modelling with Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/589c148de97412eabc9100291e122a0fcf36fca4"
+                ],
+                "doi": "10.1007/978-3-662-12616-5_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Doleans\u2013Dade, C."
+        ],
+        "title": "Stochastic Processes and Stochastic Differential Equations",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-11079-5_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5_1.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-11079-5_1"
+        ],
+        "id": "id-153436849021413051",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Processes and Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ae6375478c25fa2f7e744cb41a60bdb49d59c324"
+                ],
+                "doi": "10.1007/978-3-642-11079-5_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations and Applications",
+        "publication_date": "1976-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/c2013-0-07333-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:C20130073331?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:C20130073331?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/c2013-0-07333-1"
+        ],
+        "id": "id1212698916957933117",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations and applications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a5c7c164c172124c323ebfa1cd82b314cf9540c9",
+                    "http://diposit.ub.edu/dspace/bitstream/2445/122225/2/memoria.pdf"
+                ],
+                "doi": "10.1016/c2013-0-07333-1",
+                "publication_date": "2017-06-29 00:00:00"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Friedman, A."
+        ],
+        "title": "Stochastic Differential Equations and Applications",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-11079-5_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5_2.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-11079-5_2"
+        ],
+        "id": "id-361708272758030752",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations and Applications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/83d47c1cccef5a6bc7cf6b998012ffc82a5ae912"
+                ],
+                "doi": "10.1007/978-3-642-11079-5_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [],
+        "title": "Stochastic Differential Equations and Applications",
+        "publication_date": "1975-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/c2013-0-07332-x",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:C2013007332X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:C2013007332X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/c2013-0-07332-x"
+        ],
+        "id": "id-7991585988927329165",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On stochastic differential equations and applications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ec69708826904a8161c447d83e5be00be2871bf3",
+                    "http://diposit.ub.edu/dspace/bitstream/2445/122225/2/memoria.pdf"
+                ],
+                "doi": "10.1016/c2013-0-07332-x",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Henderson, D.",
+            "Plaschko, P."
+        ],
+        "title": "Stochastic Differential Equations in Science and Engineering",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/5806",
+        "urls": [
+            "http://dx.doi.org/10.1142/5806"
+        ],
+        "id": "id8642684332337494755",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations in Science and Engineering: (With CD-ROM)",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0b7bd535cbe665031067d9da6a58252189f8e4c2"
+                ],
+                "doi": "10.1142/5806",
+                "publication_date": "2006-08-01 00:00:00"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Andrew Papanicolaou"
+        ],
+        "title": "Introduction to Stochastic Differential Equations (SDEs) for Finance",
+        "publication_date": "2019-01-02 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20200914185824/https://arxiv.org/pdf/1504.05309v14.pdf"
+        ],
+        "id": "id370076040661816641",
+        "abstract": "These are course notes on the application of SDEs to options pricing. The author was partially supported by NSF grant DMS-0739195.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.ARXIV",
+                "title": "Introduction to Stochastic Differential Equations (SDEs) for Finance",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1504.05309v14",
+                    "http://arxiv.org/abs/1504.05309v14",
+                    "http://arxiv.org/pdf/1504.05309v14"
+                ],
+                "doi": "",
+                "publication_date": "2015-04-21 05:12:25+00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introduction to Stochastic Differential Equations (SDEs) for Finance",
+                "journal": "arXiv: Mathematical Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bd905cb36e623c91f22e997b81345aaca58d6945"
+                ],
+                "doi": "",
+                "publication_date": "2015-04-20 00:00:00"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Daniela Damian",
+            "C. Carstea",
+            "L. Patrascu",
+            "I. Ratiu",
+            "Nicoleta David",
+            "D. Ple\u0219ea"
+        ],
+        "title": "An economic application on the It\u0394 lemma",
+        "publication_date": "2009-09-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/b28b0d1b21cf9d95b54e8391ce974cf978bfc99e"
+        ],
+        "id": "id4728238886312447207",
+        "abstract": "This article tries to give a balanced representation of the theoretical foundations of mathematical finance, and their implementation. A stochastic differential equation (SDE) describes the increment of a variable, say X, which is driven by one or several underlying random processes. Here these sources of randomness are Brownian motion.",
+        "versions": [],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Alzughaibi, Imtithal Mohammed"
+        ],
+        "title": "Topics in Stochastic Analysis and Applications to Finance",
+        "publication_date": "2018-03-02 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/234632256.pdf"
+        ],
+        "id": "id-8689205696654677767",
+        "abstract": "This research is concerned with the existence\u00a0 a relationship between\u00a0 Stochastic Differential Equations\u00a0 (SDEs), Backward Stochastic Differential Equations\u00a0 (BSDEs)\u00a0 and Partial Differential Equations\u00a0 (PDEs). This research includes a major application of stochastic analysis, we study about applications to mathematical finance, and particularly, options as an example of financial derivatives and Black-Scholes method",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Topics in Stochastic Analysis and Applications to Finance",
+                "journal": "Research Journal of Finance and Accounting",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f03871f2806fc61f86b390043047e1e255486296"
+                ],
+                "doi": "",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "Maria C. Mariani",
+            "Osei K. Tweneboah"
+        ],
+        "title": "Stochastic differential equations applied to the study of geophysical and financial time series",
+        "publication_date": "2016-02-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "443",
+        "doi": "10.1016/j.physa.2015.09.080",
+        "urls": [
+            "https://openalex.org/W2178412283",
+            "https://doi.org/10.1016/j.physa.2015.09.080"
+        ],
+        "id": "id-856990387801098159",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations applied to the study of geophysical and financial time series",
+                "journal": "Physica A-statistical Mechanics and Its Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/119d1e72880f6cfb12014194b380d0fb67015c1c"
+                ],
+                "doi": "10.1016/J.PHYSA.2015.09.080",
+                "publication_date": "2016-02-01 00:00:00"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "S. S\u00e4rkk\u00e4",
+            "A. Solin"
+        ],
+        "title": "Applied Stochastic Differential Equations",
+        "publication_date": "2019-06-20 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/9781108186735",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c54b0ed93d2b3b3b00e07cdc94dbf19df53d5972"
+        ],
+        "id": "id-5459950258533676567",
+        "abstract": "The topic of this book is stochastic differential equations (SDEs). As their name suggests, they really are differential equations that produce a different \u201canswer\u201d or solution trajectory each time they are solved. This peculiar behaviour gives them properties that are useful in modeling of uncertainties in a wide range of applications, but at the same time it complicates the rigorous mathematical treatment of SDEs. The emphasis of the book is on applied rather than theoretical aspects of SDEs and, therefore, we have chosen to structure the book in a way that we believe supports learning SDEs from an applied point of view. In the following, we briefly outline the purposes of each of the remaining chapters and explain how the chapters are connected to each other. In the chapters, we have attempted to provide a wide selection of examples of the practical application of theoretical and methodological results. Each chapter (except for the Introduction and Epilogue) also contains a representative set of analytic and hands-on exercises that can be used for testing and deepening understanding of the topics. Chapter 2 is a brief outline of concepts and solutions methods for deterministic ordinary differential equations (ODEs). We especially emphasize solution methods for linear ODEs, because the methods translate quite easily to SDEs. We also examine commonly used numerical methods such as the Euler method and Runge\u2013Kutta methods, which we extend to SDEs in the later chapters. Chapter 3 starts with a number of motivating examples of SDEs found in physics, engineering, finance, and other applications. It turns out that in a modeling sense, SDEs can be regarded as noise-driven ODEs, but this notion should not be taken too far. The aim of the rest of the chapter is to show where things start to go wrong. Roughly speaking, with linear SDEs we are quite safe with this kind of thinking, but anything beyond them will not work.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Applied Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1017/9781108186735"
+                ],
+                "doi": "10.1017/9781108186735",
+                "publication_date": "2019-04-16 00:00:00"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Kersting, G."
+        ],
+        "title": "On the behaviour of solutions of stochastic differential equations",
+        "publication_date": "1987-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4149(87)90085-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304414987900858?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304414987900858?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4149(87)90085-8"
+        ],
+        "id": "id2611844414539654130",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1987,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On the behaviour of solutions of stochastic differential equations",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9ad2bd939bf2fd4613a6b0ac770908b2607cea6d"
+                ],
+                "doi": "10.1016/0304-4149(87)90085-8",
+                "publication_date": "1987-12-31 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Mukhopadhyay, S."
+        ],
+        "title": "13. Stochastic differential equations",
+        "publication_date": "1984-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4149(84)90280-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304414984902801?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304414984902801?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4149(84)90280-1"
+        ],
+        "id": "id7038103937452448663",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1984,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "13. Stochastic differential equations : Solution of a boundary value problem connected with the Fokker-Planck equation",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4f0cb52935c91fb9e9e8ef10ab3aa60b9feddca8"
+                ],
+                "doi": "10.1016/0304-4149(84)90280-1",
+                "publication_date": "1984-11-01 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Thakur, L."
+        ],
+        "title": "13. Stochastic differential equations",
+        "publication_date": "1984-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4149(84)90281-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304414984902813?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304414984902813?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4149(84)90281-3"
+        ],
+        "id": "id-4857475797172950242",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1984,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "13. Stochastic differential equations",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/37f59c77860ee5a399432a0ac58d31057c5e5d9d"
+                ],
+                "doi": "10.1016/0304-4149(84)90281-3",
+                "publication_date": "1984-11-01 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Basu, A."
+        ],
+        "title": "13. Stochastic differential equations",
+        "publication_date": "1984-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4149(84)90278-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304414984902783?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304414984902783?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4149(84)90278-3"
+        ],
+        "id": "id-8933297401993274953",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1984,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "13. Stochastic differential equations : The Bernstein-Von Mises theorem for a certain class of diffusion processes",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c1b6beb6ddca75dd3d2185702b61b6e71cd734ff"
+                ],
+                "doi": "10.1016/0304-4149(84)90278-3",
+                "publication_date": "1984-11-01 00:00:00"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Kunita, H."
+        ],
+        "title": "13. Stochastic differential equations",
+        "publication_date": "1984-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0304-4149(84)90279-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0304414984902795?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0304414984902795?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0304-4149(84)90279-5"
+        ],
+        "id": "id-6070830579145105616",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1984,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "13. Stochastic differential equations : A limit theorem for stochastic ordinary differential equation in homeomorphisms group",
+                "journal": "Stochastic Processes and their Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ecec7889391fb38c3115c0207c6c1ddd5a508c36"
+                ],
+                "doi": "10.1016/0304-4149(84)90279-5",
+                "publication_date": "1984-11-01 00:00:00"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Kunita, H."
+        ],
+        "title": "Stochastic Differential Equations and Stochastic Flows",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-13-3801-4_3",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-13-3801-4_3",
+            "http://dx.doi.org/10.1007/978-981-13-3801-4_3"
+        ],
+        "id": "id4160055310275533635",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic Differential Equations and Stochastic Flows",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/feec8ec86288c619045dd0a7c7f76d2da226cfe4"
+                ],
+                "doi": "10.1007/978-981-13-3801-4_3",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [],
+        "title": "Chapter 6. Stochastic differential equations",
+        "publication_date": "1995-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1214/lnms/1215451874",
+        "urls": [
+            "http://projecteuclid.org/download/pdf_1/euclid.lnms/1215451874",
+            "http://dx.doi.org/10.1214/lnms/1215451874"
+        ],
+        "id": "id2619883030771281014",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 6. Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5654d39b7b20292b3b3e0ddb1c3a43fe0dbab46a"
+                ],
+                "doi": "10.1214/LNMS/1215451874",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [],
+        "title": "Stochastic differential equations and stochastic flows",
+        "publication_date": "2010-02-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511845079.020",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D5BACE03B3B8568F6E19E4A677458A89",
+            "http://dx.doi.org/10.1017/cbo9780511845079.020"
+        ],
+        "id": "id4500385680800611136",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations and stochastic flows",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4b33906bccac6feacd240b3c3206fa510ac895f8"
+                ],
+                "doi": "10.1017/CBO9780511845079.020",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Tsokos, C.",
+            "Padgett, W."
+        ],
+        "title": "The stochastic differential systems",
+        "publication_date": "1971-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bfb0059966",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BFb0059966",
+            "http://dx.doi.org/10.1007/bfb0059966"
+        ],
+        "id": "id-2861972940796360153",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The stochastic differential systems",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/14308e80c9aa19e7557284345ec218b4dca16e30"
+                ],
+                "doi": "10.1007/BFb0059966",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [],
+        "title": "STOCHASTIC DIFFERENTIAL EQUATIONS AND DIFFUSIONS",
+        "publication_date": "2000-09-07 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511805141.003",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7F48896B42B3E03FF76E13AF3721EFC",
+            "http://dx.doi.org/10.1017/cbo9780511805141.003"
+        ],
+        "id": "id2433762333809577292",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "STOCHASTIC DIFFERENTIAL EQUATIONS AND DIFFUSIONS",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/06639505127274d638a2ab7740f8cd6f37079f43"
+                ],
+                "doi": "10.1017/CBO9780511805141.003",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [],
+        "title": "19. Stochastic differential equations",
+        "publication_date": "2014-12-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9783110307306.290",
+        "urls": [
+            "https://www.degruyter.com/view/book/9783110307306/10.1515/9783110307306.290.xml",
+            "https://www.degruyter.com/document/doi/10.1515/9783110307306.290/xml",
+            "https://www.degruyter.com/document/doi/10.1515/9783110307306.290/pdf",
+            "http://dx.doi.org/10.1515/9783110307306.290"
+        ],
+        "id": "id-1860734826292678589",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "19. Stochastic differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b390f11301ef8bcc2e3272b13ed44a793a077496"
+                ],
+                "doi": "10.1515/9783110307306.290",
+                "publication_date": "2014-01-31 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Sobczyk, K."
+        ],
+        "title": "Introduction: Origin of Stochastic Differential Equations",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-94-011-3712-6_1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_1.pdf",
+            "http://dx.doi.org/10.1007/978-94-011-3712-6_1"
+        ],
+        "id": "id-4973815719266025524",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Introduction: Origin of Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e7dd4c7bacdd73c83f156352a1cc45d191566a4a"
+                ],
+                "doi": "10.1007/978-94-011-3712-6_1",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [],
+        "title": "Linear Stochastic Differential Equations",
+        "publication_date": "2013-04-23 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118603338.ch9",
+        "urls": [
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781118603338.ch9/fullpdf",
+            "http://dx.doi.org/10.1002/9781118603338.ch9"
+        ],
+        "id": "id2470791649989624948",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Linear Stochastic Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f621abe6afad12b083c7c75bec4c650f24c3d825"
+                ],
+                "doi": "10.1002/9781118603338.CH9",
+                "publication_date": "2013-04-23 00:00:00"
+            }
+        ],
+        "rank": 99
+    }
+]
