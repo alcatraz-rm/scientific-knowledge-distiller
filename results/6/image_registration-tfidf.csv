@@ -1,0 +1,315 @@
+authors,title,pub_date,source,doi,abstract,rank,url
+"Lei Qu,Wan Wan,Kaixuan Guo,Yu Liu,Jun Tang,Xiaolei Li,Jun Wu",Triple-Input-Unsupervised neural Networks for deformable image registration,2021-11-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1016/j.patrec.2021.08.032,,0,https://www.semanticscholar.org/paper/51bf2cc2e5085ba8e958eddfceffd85a00e3bfb1
+Elizabeth McKenzie,A Neural Network Approach to Deformable Image Registration,None,SupportedSources.SEMANTIC_SCHOLAR,,,1,https://www.semanticscholar.org/paper/05a25d08a3118d65237b5d9c50dc9f4bd215498a
+"Ravi Shanker,H. Sankesara,Surendra Nagar,M. Bhattacharya",RESPNet: resource-efficient and structure-preserving network for deformable image registration,2022-09-30 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11227-022-04840-6,,2,https://www.semanticscholar.org/paper/636410ad8cb014d92bc7c99956a94423933cf077
+"Cetin, O.,Shu, Y.,Flinner, N.,Ziegler, P.,Wild, P.,Koeppl, H.",Multi-magnification Networks for Deformable Image Registration on Histopathology Images,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-031-11203-4_14,,3,"https://link.springer.com/content/pdf/10.1007/978-3-031-11203-4_14
+http://dx.doi.org/10.1007/978-3-031-11203-4_14"
+"Ahmad, S.,Khan, M.",Deformable image registration based on elastodynamics,2015-05-27 00:00:00,SupportedSources.CROSSREF,10.1007/s00138-015-0690-1,,4,"http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1.pdf
+http://link.springer.com/article/10.1007/s00138-015-0690-1/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1
+http://dx.doi.org/10.1007/s00138-015-0690-1"
+"Cai, Y.,Guo, X.,Zhong, Z.,Mao, W.",Dynamic meshing for deformable image registration,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.cad.2014.08.009,,5,"https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.cad.2014.08.009"
+"Sarudis, S.,Karlsson, A.,Bibac, D.,Nyman, J.,Bäck, A.",[P232] Deformable image registration for CT-images of the thorax region,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2018.06.518,,6,"https://api.elsevier.com/content/article/PII:S1120179718310007?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1120179718310007?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2018.06.518"
+"Spinko, V.,Shi, D.,Ng, W.,Leong, J.",Gabor Neural Network for Endoscopic Image Registration,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11760023_70,,7,"http://link.springer.com/content/pdf/10.1007/11760023_70.pdf
+http://dx.doi.org/10.1007/11760023_70"
+"Fedorov, A.,Risholm, P.,Wells, W.",Deformable Registration for IGT,2013-11-25 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4614-7657-3_14,,8,"http://link.springer.com/content/pdf/10.1007/978-1-4614-7657-3_14
+http://dx.doi.org/10.1007/978-1-4614-7657-3_14"
+"Calusi, S.,Labanca, G.,Noferini, L.,Talamonti, C.,Simontacchi, G.,Pallotta, S.",Accuracy of a deformable image registration algorithm,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2016.01.032,,9,"https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2016.01.032"
+"Jingyi Xi,Lin Luo,Jinlong Li,Yu Zhang,Yong Wang,Dan Jiang",An attention-based residual neural network for deformable image registration,2022-12-15 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1117/12.2653313,"Deformable image registration is a basic image processing task, especially widely used in medical image processing and analysis. Different from rigid registration, its purpose is to find the optimal nonlinear transformation between two images and establish corresponding relationship, so as to achieve image consistency. In recent years, deformable registration methods based on deep learning have been studied a lot. Compared with traditional methods, they show great advantages in registration performance. This paper proposes an attention-based residual neural network for deformable image registration, which utilizes the U-Net encoder-decoder structure to design a convolutional neural network to predict the deformation field, and uses the residual module and attention mechanism enhances the ability of the model to extract features, and finally uses the spatial transformation function to obtain the registered image, and the entire network is trained in an unsupervised manner. We conducted experiments on the MNIST dataset and 2D brain magnetic resonance images (MRI) respectively. The experimental results show that the deformable registration network proposed in this paper has good performance and shows good results in registration accuracy.",10,https://www.semanticscholar.org/paper/c53bd3f4b873e163d27f3083dfe6408a264cc00e
+"Sun, L.,Zhang, S.",Deformable MRI-Ultrasound Registration Using 3D Convolutional Neural Network,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-01045-4_18,,11,"https://link.springer.com/content/pdf/10.1007/978-3-030-01045-4_18
+http://dx.doi.org/10.1007/978-3-030-01045-4_18"
+"Shackleford, J.,Kandasamy, N.,Sharp, G.",Deformable Registration Using Optical-Flow Methods,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-407741-6.00005-0,,12,http://dx.doi.org/10.1016/b978-0-12-407741-6.00005-0
+"Cai, J.,Chang, Z.,Czito, B.,Yin, F.",Improving Tumor-to-Tissue CNR of 4D-MRI Using Deformable Image Registration,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.prro.2013.01.027,,13,"https://api.elsevier.com/content/article/PII:S1879850013000301?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1879850013000301?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.prro.2013.01.027"
+"Hilts, M.,Batchelar, D.,Rose, J.,Crook, J.",Deformable Image Registration for Defining the Postoperative Seroma in PBSI,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.brachy.2014.02.342,,14,"https://api.elsevier.com/content/article/PII:S1538472114003894?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1538472114003894?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.brachy.2014.02.342"
+"Yedekci, F.,Gultekin, M.,Sari, S.,Yildiz, F.",Automatic Contouring Using Deformable Image Registration for Tandem-Ring or Tandem-Ovoid Brachytherapy,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2021.07.554,,15,"https://api.elsevier.com/content/article/PII:S0360301621014243?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301621014243?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2021.07.554"
+"Zhang, Y.,Zhang, L.,Court, L.,Balter, P.,Dong, L.,Yang, J.",Tissue-specific deformable image registration using a spatial-contextual filter,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.compmedimag.2020.101849,,16,"https://api.elsevier.com/content/article/PII:S0895611120301440?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0895611120301440?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.compmedimag.2020.101849"
+"Muenzing, S.,van Ginneken, B.,Pluim, J.",On Combining Algorithms for Deformable Image Registration,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-31340-0_27,,17,"http://link.springer.com/content/pdf/10.1007/978-3-642-31340-0_27
+http://dx.doi.org/10.1007/978-3-642-31340-0_27"
+"W. Nobnop,I. Chitapanarux,S. Wanwilairat,E. Tharavichitkul,V. Lorvidhaya,P. Sripan",Effect of Deformation Methods on the Accuracy of Deformable Image Registration From Kilovoltage CT to Tomotherapy Megavoltage CT,2019-01-07 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1177/1533033818821186,"Introduction: The registration accuracy of megavoltage computed tomography images is limited by low image contrast when compared to that of kilovoltage computed tomography images. Such issues may degrade the deformable image registration accuracy. This study evaluates the deformable image registration from kilovoltage to megavoltage images when using different deformation methods and assessing nasopharyngeal carcinoma patient images. Methods: The kilovoltage and the megavoltage images from the first day and the 20th fractions of the treatment day of 12 patients with nasopharyngeal carcinoma were used to evaluate the deformable image registration application. The deformable image registration image procedures were classified into 3 groups, including kilovoltage to kilovoltage, megavoltage to megavoltage, and kilovoltage to megavoltage. Three deformable image registration methods were employed using the deformable image registration and adaptive radiotherapy software. The validation was compared by volume-based, intensity-based, and deformation field analyses. Results: The use of different deformation methods greatly affected the deformable image registration accuracy from kilovoltage to megavoltage. The asymmetric transformation with the demon method was significantly better than other methods and illustrated satisfactory value for adaptive applications. The deformable image registration accuracy from kilovoltage to megavoltage showed no significant difference from the kilovoltage to kilovoltage images when using the appropriate method of registration. Conclusions: The choice of deformation method should be considered when applying the deformable image registration from kilovoltage to megavoltage images. The deformable image registration accuracy from kilovoltage to megavoltage revealed a good agreement in terms of intensity-based, volume-based, and deformation field analyses and showed clinically useful methods for nasopharyngeal carcinoma adaptive radiotherapy in tomotherapy applications.",18,https://www.semanticscholar.org/paper/7daef8f5108679cc7035b870b847b684938e02bb
+"Gu, X.,Jia, X.,Dong, B.,Gautier, Q.,Jiang, S.",A Contour-guided Demons Deformable Image Registration Algorithm For Adaptive Radiotherapy,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2011.06.1409,,19,"https://api.elsevier.com/content/article/PII:S0360301611022309?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301611022309?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2011.06.1409"
+"Liu, T.,Shen, D.,Davatzikos, C.",Deformable Registration of Tumor-Diseased Brain Images,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-30135-6_88,,20,"http://link.springer.com/content/pdf/10.1007/978-3-540-30135-6_88
+http://dx.doi.org/10.1007/978-3-540-30135-6_88"
+"Hunt, S.,Thomas, S.,McClelland, J.,Harrison, K.,Rose, C.,Scaife, J.,Sutcliffe, M.,Burnet, N.,Jena, R.",EP-2038 Use of deformable image registration for automatic outlining of the rectum,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(19)32458-2,,21,"https://api.elsevier.com/content/article/PII:S0167814019324582?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814019324582?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(19)32458-2"
+"Robinson, J.,Belshaw, L.,Agnew, C.,Irvine, D.",EVALUATING H&amp;N IMMOBILISATION USING DEFORMABLE IMAGE REGISTRATION,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s1120-1797(22)02519-4,,22,"https://api.elsevier.com/content/article/PII:S1120179722025194?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1120179722025194?httpAccept=text/plain
+http://dx.doi.org/10.1016/s1120-1797(22)02519-4"
+"Chen, Y.,Ye, X.",Inverse Consistent Deformable Image Registration,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4419-6263-8_26,,23,"http://link.springer.com/content/pdf/10.1007/978-1-4419-6263-8_26
+http://dx.doi.org/10.1007/978-1-4419-6263-8_26"
+"Foskey, M.,Davis, B.,Goyal, L.,Chang, S.,Rosenman, J.,Joshi, S.",Automatic Contouring via Deformable Image Registration,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2005.07.885,,24,"https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2005.07.885"
+"Balfour, D.,Looney, P.,Turtle, L.,Fenwick, J.,Boukerroui, D.,Sage, J.",PO-1661 Investigation into the impact of AI-enhanced CBCTs on CBCT-CT deformable image registration,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)08112-3,,25,"https://api.elsevier.com/content/article/PII:S0167814021081123?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021081123?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)08112-3"
+"Sayan Ghosal,Nilanjan Ray",Deep Deformable Registration: Enhancing Accuracy by Fully Convolutional Neural Net,2016-11-27 06:41:49+00:00,SupportedSources.ARXIV,,"Deformable registration is ubiquitous in medical image analysis. Many
+deformable registration methods minimize sum of squared difference (SSD) as the
+registration cost with respect to deformable model parameters. In this work, we
+construct a tight upper bound of the SSD registration cost by using a fully
+convolutional neural network (FCNN) in the registration pipeline. The upper
+bound SSD (UB-SSD) enhances the original deformable model parameter space by
+adding a heatmap output from FCNN. Next, we minimize this UB-SSD by adjusting
+both the parameters of the FCNN and the parameters of the deformable model in
+coordinate descent. Our coordinate descent framework is end-to-end and can work
+with any deformable registration method that uses SSD. We demonstrate
+experimentally that our method enhances the accuracy of deformable registration
+algorithms significantly on two publicly available 3D brain MRI data sets.",26,"http://arxiv.org/pdf/1611.08796v1
+http://arxiv.org/abs/1611.08796v1
+http://arxiv.org/pdf/1611.08796v1"
+"Fullarton, R.,Ghirmay, K.,Dom, W.,Crees, L.",PO-1752: Evaluation of the deformable image registration algorithm in Velocity image registration software,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)01770-9,,27,"https://api.elsevier.com/content/article/PII:S0167814021017709?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021017709?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)01770-9"
+"Pongnumkul, S.,Sagawa, R.,Echigo, T.,Yagi, Y.",Deformable Registration for Generating Dissection Image of an Intestine from Annular Image Sequence,2005-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11569541_28,,28,"http://link.springer.com/content/pdf/10.1007/11569541_28.pdf
+http://dx.doi.org/10.1007/11569541_28"
+"Liu, J.",Deformable Model-Based Image Registration,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-387-68413-0_15,,29,"http://link.springer.com/content/pdf/10.1007/978-0-387-68413-0_15.pdf
+http://dx.doi.org/10.1007/978-0-387-68413-0_15"
+"Aznar, M.,Berthelsen, A.,Loft, A.,Petersen, P.,Specht, L.",473 poster DEFORMABLE IMAGE REGISTRATION OF FDG-PET-POSITIVE CONTOURS IN RADIOTHERAPY OF HODGKIN LYMPHOMA,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(11)70595-3,,30,"https://api.elsevier.com/content/article/PII:S0167814011705953?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814011705953?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(11)70595-3"
+"Nakajima, Y.,Kadoya, N.,Kanai, T.,Saito, M.,Kito, S.,Hashimoto, S.,Karasawa, K.,Jingu, K.",Evaluation of the effect of user-guided deformable image registration of thoracic images on registration accuracy among users,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.meddos.2019.12.004,,31,"https://api.elsevier.com/content/article/PII:S095839471930130X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S095839471930130X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.meddos.2019.12.004"
+"Zukauskaite, R.,Hansen, C.,Johansen, J.,Grau, C.,Overgaard, J.,Brink, C.",PO-110: Analysis of loco-regional failures after IMRT for HNSCC using deformable image registration,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(17)30244-x,,32,"https://api.elsevier.com/content/article/PII:S016781401730244X?httpAccept=text/plain
+https://api.elsevier.com/content/article/PII:S016781401730244X?httpAccept=text/xml
+http://dx.doi.org/10.1016/s0167-8140(17)30244-x"
+"J. Dowling,L. O’Connor",Deformable image registration in radiation therapy,2020-10-26 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1002/jmrs.446,Deformable image registration is an increasingly important method to account for soft tissue deformation between image acquisitions. This editorial discusses the clinical need and current status of deformable image registration.,33,"https://www.semanticscholar.org/paper/17793803e7e5366cfaab22bf358a9c1e79794d97
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmrs.446"
+"Yao Su,Xin Dai,Lifang He,Xiangnan Kong",ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration,2022-12-06 19:21:43+00:00,SupportedSources.ARXIV,10.1109/ICDM54844.2022.00057,"Deformable image registration, i.e., the task of aligning multiple images
+into one coordinate system by non-linear transformation, serves as an essential
+preprocessing step for neuroimaging data. Recent research on deformable image
+registration is mainly focused on improving the registration accuracy using
+multi-stage alignment methods, where the source image is repeatedly deformed in
+stages by a same neural network until it is well-aligned with the target image.
+Conventional methods for multi-stage registration can often blur the source
+image as the pixel/voxel values are repeatedly interpolated from the image
+generated by the previous stage. However, maintaining image quality such as
+sharpness during image registration is crucial to medical data analysis. In
+this paper, we study the problem of anti-blur deformable image registration and
+propose a novel solution, called Anti-Blur Network (ABN), for multi-stage image
+registration. Specifically, we use a pair of short-term registration and
+long-term memory networks to learn the nonlinear deformations at each stage,
+where the short-term registration network learns how to improve the
+registration accuracy incrementally and the long-term memory network combines
+all the previous deformations to allow an interpolation to perform on the raw
+image directly and preserve image sharpness. Extensive experiments on both
+natural and medical image datasets demonstrated that ABN can accurately
+register images while preserving their sharpness. Our code and data can be
+found at https://github.com/anonymous3214/ABN",34,"http://arxiv.org/pdf/2212.03277v1
+http://dx.doi.org/10.1109/ICDM54844.2022.00057
+http://arxiv.org/abs/2212.03277v1
+http://arxiv.org/pdf/2212.03277v1"
+"Park, P.,Koay, E.,Yang, J.,Suh, Y.,Das, P.,Crane, C.,Beddar, S.",EP-1901: Patient-specific deformable image registration quality assurance based on feature points,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(16)33152-8,,35,"https://api.elsevier.com/content/article/PII:S0167814016331528?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814016331528?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(16)33152-8"
+"Shah, K.",Improving Precision of Deformable Image Registration,None,SupportedSources.CROSSREF,10.17918/00001347,,36,http://dx.doi.org/10.17918/00001347
+"Phatak, N.,Sun, Q.,Kim, S.,Parker, D.,Sanders, R.,Veress, A.,Weiss, J.",Noninvasive measurement of ligament strain using deformable image registration,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0021-9290(06)84825-6,,37,"https://api.elsevier.com/content/article/PII:S0021929006848256?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0021929006848256?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0021-9290(06)84825-6"
+"Weiss, J.,Veress, A.,Gullberg, G.,Phatak, N.,Sun, Q.,Parker, D.,Rabbitt, R.",Strain Measurement Using Deformable Image Registration,None,SupportedSources.CROSSREF,10.1007/3-540-31184-x_35,,38,"http://link.springer.com/content/pdf/10.1007/3-540-31184-X_35.pdf
+http://dx.doi.org/10.1007/3-540-31184-x_35"
+"Huang, Y.,Wu, H.,Wang, W.,Zhang, Y.",PO-1629: A quantitative evaluation of deformable image registration based on Halcyon MVCBCT images,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)01647-9,,39,"https://api.elsevier.com/content/article/PII:S0167814021016479?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021016479?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)01647-9"
+"Sotiras, A.,Ou, Y.,Paragios, N.,Davatzikos, C.",Graph-based Deformable Image Registration,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-387-09749-7_18,,40,"https://link.springer.com/content/pdf/10.1007/978-0-387-09749-7_18
+http://dx.doi.org/10.1007/978-0-387-09749-7_18"
+"Yang Lei,Yabo Fu,Joseph Harms,Tonghe Wang,Walter J. Curran,Tian Liu,Kristin Higgins,Xiaofeng Yang",4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network,2019-10-17 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-030-32486-5_4,,41,"https://openalex.org/W2979484108
+https://doi.org/10.1007/978-3-030-32486-5_4"
+"Sarudis, S.,Hauer, A.,Bibac, D.,Bäck, A.",EP-1888: Accuracy and limitations of deformable image registration with SmartAdapt® in the thorax region,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(16)33139-5,,42,"https://api.elsevier.com/content/article/PII:S0167814016331395?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814016331395?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(16)33139-5"
+"Bruno, A.,Gasperi, C.,Rampini, A.,Belli, G.",Validation of a deformable image registration algorithm for radiotherapy applications,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2016.01.026,,43,"https://api.elsevier.com/content/article/PII:S1120179716000284?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1120179716000284?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2016.01.026"
+"Tang, L.,Hamarneh, G.,Abugharbieh, R.","Reliability-Driven, Spatially-Adaptive Regularization for Deformable Registration",2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-14366-3_16,,44,"http://link.springer.com/content/pdf/10.1007/978-3-642-14366-3_16.pdf
+http://dx.doi.org/10.1007/978-3-642-14366-3_16"
+"Callie, C.,Dinsdale, G.,Deshpande, S.,Jameson, M.",PO-1128 Clinical implementation of deformable image registration (DIR),2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(19)31548-8,,45,"https://api.elsevier.com/content/article/PII:S0167814019315488?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814019315488?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(19)31548-8"
+"Sheng Lan,Zhenhua Guo",A Joint Super-Resolution and Deformable Registration Network for 3D Brain Images,2021-01-10 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/ICPR48806.2021.9412553,"In this paper, we propose a joint network for 3D brain images registration with super-resolution to reduce deformable image registration errors caused by low resolution. Basically, the task of deformable image registration is to find the displacement field between the reference image and the moving image. Many research works have been done for deformable image registration, under the assumption that the image resolution is high enough. However, due to the limited level of current acquisition instruments, the resolution of images is not high enough usually. As low resolution images might cause large registration errors, this paper presents a new approach that performs joint super-resolution and deformable image registration. Experiments with 3D brain images show that the joint network does help to reduce the registration errors significantly.",46,https://www.semanticscholar.org/paper/6944fc5b67eed16233e8c9dea92d8c3dcf10e7ab
+"Abidi, A.,Singh, S.",Deformable Registration Techniques for Thoracic CT Images,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-10-5837-0,,47,"http://link.springer.com/content/pdf/10.1007/978-981-10-5837-0.pdf
+http://link.springer.com/content/pdf/10.1007/978-981-10-5837-0
+http://dx.doi.org/10.1007/978-981-10-5837-0"
+"Zhang, Y.,Peroni, M.,Weber, D.,Lomax, A.",[P238] Dosimetric evaluation of deformable image registration error using 4DCT-MRI datasets,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2018.06.522,,48,"https://api.elsevier.com/content/article/PII:S1120179718310044?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1120179718310044?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2018.06.522"
+"K. Eppenhof,Maxime W. Lafarge,J. Pluim",Training deep convolutional neural networks for deformable image registration of pulmonary CT images,2018-06-28 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,,49,https://www.semanticscholar.org/paper/f7ae1373e9ae21b258ca97e58bc069623b0a3c49
+"De La Casa, M.,Zucca, D.,García, J.,Martí, J.,Fernández-Letón, P.",PO-1004: Assessment Of A Commercially Available Algorithm For Deformable Image Registration,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(18)31314-8,,50,"https://api.elsevier.com/content/article/PII:S0167814018313148?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814018313148?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(18)31314-8"
+"Stenzel, L.,Flynn, R.,Moore, M.",PO-1625: Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)01643-1,,51,"https://api.elsevier.com/content/article/PII:S0167814021016431?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021016431?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)01643-1"
+"Stenzel, L.,Flynn, R.,Moore, M.",Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2021.01.032,,52,"https://api.elsevier.com/content/article/PII:S112017972100034X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S112017972100034X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2021.01.032"
+"Veress, A.,Phatak, N.,Weiss, J.",Deformable Image Registration with Hyperelastic Warping,None,SupportedSources.CROSSREF,10.1007/0-306-48608-3_12,,53,"http://link.springer.com/content/pdf/10.1007/0-306-48608-3_12.pdf
+http://dx.doi.org/10.1007/0-306-48608-3_12"
+"Han, R.,Jones, C.,Lee, J.,Wu, P.,Vagdargi, P.,Uneri, A.,Helm, P.,Luciano, M.,Anderson, W.,Siewerdsen, J.","Deformable MR-CT image registration using an unsupervised, dual-channel network for neurosurgical guidance",2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.media.2021.102292,,54,"https://api.elsevier.com/content/article/PII:S1361841521003376?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1361841521003376?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.media.2021.102292"
+"Yechong Huang,Tao Song,Jiahang Xu,Yinan Chen,Xiahai Zhuang",KLDivNet: An unsupervised neural network for multi-modality image registration,2020-02-05 00:00:00,SupportedSources.INTERNET_ARCHIVE,,"Multi-modality image registration is one of the most underlined processes in medical image analysis. Recently, convolutional neural networks (CNNs) have shown significant potential in deformable registration. However, the lack of voxel-wise ground truth challenges the training of CNNs for an accurate registration. In this work, we propose a cross-modality similarity metric, based on the KL-divergence of image variables, and implement an efficient estimation method using a CNN. This estimation network, referred to as KLDivNet, can be trained unsupervisedly. We then embed the KLDivNet into a registration network to achieve the unsupervised deformable registration for multi-modality images. We employed three datasets, i.e., AAL Brain, LiTS Liver and Hospital Liver, with both the intra- and inter-modality image registration tasks for validation. Results showed that our similarity metric was effective, and the proposed registration network delivered superior performance compared to the state-of-the-art methods.",55,https://web.archive.org/web/20200321143448/https://arxiv.org/pdf/1908.08767v2.pdf
+"Huszar, I.,Pallebage-Gamarallage, M.,Bangerter-Christensen, S.,Brooks, H.,Fitzgibbon, S.,Foxley, S.,Hiemstra, M.,Howard, A.,Jbabdi, S.,Kor, D.,Leonte, A.,Mollink, J.,Smart, A.,Tendler, B.,Turner, M.,Ansorge, O.,Miller, K.,Jenkinson, M.",Tensor image registration library: Deformable registration of stand‐alone histology images to whole‐brain post‐mortem MRI data,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neuroimage.2022.119792,,56,"https://api.elsevier.com/content/article/PII:S1053811922009132?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1053811922009132?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neuroimage.2022.119792"
+"Phatak, N.,Sun, Q.,Kim, S.,Parker, D.,Kent Sanders, R.,Veress, A.,Ellis, B.,Weiss, J.",Noninvasive Determination of Ligament Strain with Deformable Image Registration,2007-03-30 00:00:00,SupportedSources.CROSSREF,10.1007/s10439-007-9287-9,,57,"http://link.springer.com/content/pdf/10.1007/s10439-007-9287-9.pdf
+http://link.springer.com/article/10.1007/s10439-007-9287-9/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s10439-007-9287-9
+http://dx.doi.org/10.1007/s10439-007-9287-9"
+David Sarrut,Deformable registration for image-guided radiation therapy.,None,SupportedSources.SEMANTIC_SCHOLAR,10.1078/0939-3889-00327,"Ths paper examines several applications of deformable registration algorithms in the field of image-guided radiotherapy. The first part focuses on the description of input and output of deformable registration algorithms, with a brief review of conventional and most current methods. The typical applications of deformable registration are then reviewed on the basis of four practical examples. The first two sets of examples deal with the fusion of images obtained from the same patient (inter-fraction registration), with time intervals of several days between each image. The other two examples deal with the fusion of images obtained in immediate sequence (intra-fraction registration); in this case, the focus is the displacement during image acquisition or patient treatment (mainly due to respiratory movement), with time intervals in the order of magnitude of tenths of seconds. Finally, the registration of images of different patients (inter-patient registration) is also discussed. In conclusion, deformable registration has become a fundamental tool for image analysis in radiotherapy. Although extensive validation of the numerous existing methods is required before extending its clinical use, deformable registration is expected to become a standard methodology in the treatment planning systems in the near future.",58,"https://www.semanticscholar.org/paper/4e9e10207d1d158c6f507fde929384ec7e79d4f7
+http://www.creatis.insa-lyon.fr/~dsarrut/mybib/2006/sarrut-zmedphys2006-long-version.pdf"
+"Kessler, M.",SP-0031 QA of deformable image registration,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(19)30451-7,,59,"https://api.elsevier.com/content/article/PII:S0167814019304517?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814019304517?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(19)30451-7"
+"Wu Zhou,Yaoqin Xie",Interactive Multigrid Refinement for Deformable Image Registration,2013-10-22 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1155/2013/532936,"Deformable image registration is the spatial mapping of corresponding locations between images and can be used for important applications in radiotherapy. Although numerous methods have attempted to register deformable medical images automatically, such as salient-feature-based registration (SFBR), free-form deformation (FFD), and demons, no automatic method for registration is perfect, and no generic automatic algorithm has shown to work properly for clinical applications due to the fact that the deformation field is often complex and cannot be estimated well by current automatic deformable registration methods. This paper focuses on how to revise registration results interactively for deformable image registration. We can manually revise the transformed image locally in a hierarchical multigrid manner to make the transformed image register well with the reference image. The proposed method is based on multilevel B-spline to interactively revise the deformable transformation in the overlapping region between the reference image and the transformed image. The resulting deformation controls the shape of the transformed image and produces a nice registration or improves the registration results of other registration methods. Experimental results in clinical medical images for adaptive radiotherapy demonstrated the effectiveness of the proposed method.",60,"https://www.semanticscholar.org/paper/0f7e54920f4ee68687364740e062bc923842ec5d
+https://downloads.hindawi.com/journals/bmri/2013/532936.pdf"
+"Tang, S.,Cong, W.,Yang, J.,Fu, T.,Song, H.,Ai, D.,Wang, Y.",Local statistical deformation models for deformable image registration,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.neucom.2018.03.039,,61,"https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.neucom.2018.03.039"
+"Yunzhi Huang,Sahar Ahmad,Jingfan Fan,Dinggang Shen,Pew Thian Yap",Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images,2021-01-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.media.2020.101817,,62,"https://openalex.org/W3091131821
+https://doi.org/10.1016/j.media.2020.101817
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7725910"
+"J. Wolterink,Jesse C. Zwienenberg,C. Brune",Implicit Neural Representations for Deformable Image Registration,None,SupportedSources.SEMANTIC_SCHOLAR,,"Deformable medical image registration has in past years been revolutionized by the use of convolutional neural networks. These methods surpass conventional image registration techniques in speed but not in accuracy. Here, we present an alternative approach to leveraging neural networks for image registration. Instead of using a convolutional neural network to predict the transformation between images, we optimize a multi-layer perceptron to represent this transformation function. Using recent insights from differentiable rendering, we show how such an implicit deformable image registration (idir) model can be naturally combined with regularization terms based on standard automatic differentiation techniques. We demonstrate the effectiveness of this model on 4D chest CT registration in the DIR-LAB data set and find that a three-layer multi-layer perceptron with periodic activation functions outperforms all published deep learning-based results on this problem, without any folding and without the need for training data. The model is implemented using standard deep learning libraries and flexible enough to be extended to include different losses, regularizers, and optimization schemes.",63,https://www.semanticscholar.org/paper/d3857fcd457aa50cec2b198d40800078472ef3ea
+"Brock, K.",SP-0016 CAN DEFORMABLE REGISTRATION APPROACHES BE RELIABLE?,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(12)70355-9,,64,"https://api.elsevier.com/content/article/PII:S0167814012703559?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814012703559?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(12)70355-9"
+"Qingguang Li,Cen Gao,Xianfeng Wu,Dehua Li",A method for range image registration via neural network and ICP algorithm,2010-09-28 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11859-010-0673-z,,65,https://www.semanticscholar.org/paper/3da165cf69e0f8f4169d2ce08db1d02eb0740c9f
+"Xu, A.,Guo, P.",Image Registration with Regularized Neural Network,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/11893257_32,,66,"http://link.springer.com/content/pdf/10.1007/11893257_32.pdf
+http://dx.doi.org/10.1007/11893257_32"
+"Nelissen, K.,Barten, D.,Laan, J.,Westerveld, H.,Bel, A.,Van Kesteren, Z.",PO-1729: Quality assurance of deformable image registration for bowel motility quantification,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)01747-3,,67,"https://api.elsevier.com/content/article/PII:S0167814021017473?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021017473?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)01747-3"
+"M. Nix,Scott G. Gregory,Michael J. Aldred,L. Aspin,Bashar Al-Qaisieh,J. N. Lilley,Ane L Appelt,Peter J Dickinson,Liam J. Murray",PO-1001 Combined image-based and biomechanical deformable image registration of extreme anatomical changes.,2019-04-01 00:00:00,SupportedSources.OPENALEX,10.1016/s0167-8140(19)31421-5,,68,"https://openalex.org/W2946731455
+https://doi.org/10.1016/s0167-8140(19)31421-5
+https://doi.org/10.1016/s0167-8140(19)31421-5"
+"Gunwhy, E.,van Kesteren, Z.,Parkes, M.,Stevens, M.,van den Aardweg, J.,van Tienhoven, G.,Bel, A.,van Dijk, I.",PH-0264 Quantification of organ motion during prolonged breath-holding using deformable image registration,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(21)07279-0,,69,"https://api.elsevier.com/content/article/PII:S0167814021072790?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814021072790?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(21)07279-0"
+"Velec, M.,Juang, T.,Moseley, J.,Oldham, M.,Brock, K.",Utility and validation of biomechanical deformable image registration in low-contrast images,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.prro.2015.01.011,,70,"https://api.elsevier.com/content/article/PII:S1879850015000624?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1879850015000624?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.prro.2015.01.011"
+"Kong, V.,Moseley, J.,Craig, T.,Chung, P.,Catton, C.",Assessing the Performance of Deformable Image Registration for the Pelvic Region,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jmir.2017.02.034,,71,"https://api.elsevier.com/content/article/PII:S1939865417300486?httpAccept=text/plain
+https://api.elsevier.com/content/article/PII:S1939865417300486?httpAccept=text/xml
+http://dx.doi.org/10.1016/j.jmir.2017.02.034"
+"Bob D. de Vos,Floris F. Berendsen,Max A. Viergever,Marius Staring,Ivana Išgum",End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network,2017-04-20 09:40:50+00:00,SupportedSources.ARXIV,10.1007/978-3-319-67558-9_24,"In this work we propose a deep learning network for deformable image
+registration (DIRNet). The DIRNet consists of a convolutional neural network
+(ConvNet) regressor, a spatial transformer, and a resampler. The ConvNet
+analyzes a pair of fixed and moving images and outputs parameters for the
+spatial transformer, which generates the displacement vector field that enables
+the resampler to warp the moving image to the fixed image. The DIRNet is
+trained end-to-end by unsupervised optimization of a similarity metric between
+input image pairs. A trained DIRNet can be applied to perform registration on
+unseen image pairs in one pass, thus non-iteratively. Evaluation was performed
+with registration of images of handwritten digits (MNIST) and cardiac cine MR
+scans (Sunnybrook Cardiac Data). The results demonstrate that registration with
+DIRNet is as accurate as a conventional deformable image registration method
+with substantially shorter execution times.",72,"http://arxiv.org/pdf/1704.06065v1
+http://dx.doi.org/10.1007/978-3-319-67558-9_24
+http://arxiv.org/abs/1704.06065v1
+http://arxiv.org/pdf/1704.06065v1"
+"Qing Chang,J. Zhang",Deformable registration of lung 3DCT images using an unsupervised heterogeneous multi-resolution neural network.,2023-04-18 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1007/s11517-023-02834-x,,73,https://www.semanticscholar.org/paper/7e131fe490654652216f48fe8e8e47dc7030b07a
+"Shaaer, A.,Davidson, M.,Semple, M.,Nicolae, A.,Mendez, L.,Chung, H.,Loblaw, A.,Tseng, C.,Morton, G.,Ravi, A.",Clinical evaluation of an MRI-to-ultrasound deformable image registration algorithm for prostate brachytherapy,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.brachy.2018.08.006,,74,"https://api.elsevier.com/content/article/PII:S1538472118304343?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1538472118304343?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.brachy.2018.08.006"
+"Koen A. J. Eppenhof,Josien P. W. Pluim",Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks,2018-05-10 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1117/1.jmi.5.2.024003,"Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks,"" Abstract. Error estimation in nonlinear medical image registration is a nontrivial problem that is important for validation of registration methods. We propose a supervised method for estimation of registration errors in nonlinear registration of three-dimensional (3-D) images. The method is based on a 3-D convolutional neural network that learns to estimate registration errors from a pair of image patches. By applying the network to patches centered around every voxel, we construct registration error maps. The network is trained using a set of representative images that have been synthetically transformed to construct a set of image pairs with known deformations. The method is evaluated on deformable registrations of inhale-exhale pairs of thoracic CT scans. Using ground truth target registration errors on manually annotated landmarks, we evaluate the method's ability to estimate local registration errors. Estimation of full domain error maps is evaluated using a gold standard approach. The two evaluation approaches show that we can train the network to robustly estimate registration errors in a predetermined range, with subvoxel accuracy. We achieved a root-mean-square deviation of 0.51 mm from gold standard registration errors and of 0.66 mm from ground truth landmark registration errors. Eppenhof and Pluim: Error estimation of deformable image registration of pulmonary. Eppenhof and Pluim: Error estimation of deformable image registration of pulmonary. . .",75,https://web.archive.org/web/20180720104424/https://pure.tue.nl/ws/files/96998502/JMI_17325RR_online.pdf
+"Bob D. de Vos,Floris F. Berendsen,Max A. Viergever,Hessam Sokooti,Marius Staring,Ivana Isgum",A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration,2018-09-17 11:14:54+00:00,SupportedSources.ARXIV,10.1016/j.media.2018.11.010,"Image registration, the process of aligning two or more images, is the core
+technique of many (semi-)automatic medical image analysis tasks. Recent studies
+have shown that deep learning methods, notably convolutional neural networks
+(ConvNets), can be used for image registration. Thus far training of ConvNets
+for registration was supervised using predefined example registrations.
+However, obtaining example registrations is not trivial. To circumvent the need
+for predefined examples, and thereby to increase convenience of training
+ConvNets for image registration, we propose the Deep Learning Image
+Registration (DLIR) framework for \textit{unsupervised} affine and deformable
+image registration. In the DLIR framework ConvNets are trained for image
+registration by exploiting image similarity analogous to conventional
+intensity-based image registration. After a ConvNet has been trained with the
+DLIR framework, it can be used to register pairs of unseen images in one shot.
+We propose flexible ConvNets designs for affine image registration and for
+deformable image registration. By stacking multiple of these ConvNets into a
+larger architecture, we are able to perform coarse-to-fine image registration.
+We show for registration of cardiac cine MRI and registration of chest CT that
+performance of the DLIR framework is comparable to conventional image
+registration while being several orders of magnitude faster.",76,"http://arxiv.org/pdf/1809.06130v2
+http://dx.doi.org/10.1016/j.media.2018.11.010
+http://arxiv.org/abs/1809.06130v2
+http://arxiv.org/pdf/1809.06130v2"
+"Pekar, V.,Gladilin, E.",Deformable Image Registration by Adaptive Gaussian Forces,2004-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-27816-0_27,,77,"http://link.springer.com/content/pdf/10.1007/978-3-540-27816-0_27.pdf
+http://dx.doi.org/10.1007/978-3-540-27816-0_27"
+"Scher, E.,Vatner, R.,Huang, K.",Application of Deformable Image Registration to Quantify the Effect of Spinal Radiation During Childhood,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2018.07.1351,,78,"https://api.elsevier.com/content/article/PII:S0360301618328050?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301618328050?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2018.07.1351"
+"Pace, D.,Niethammer, M.,Aylward, S.",Sliding Geometries in Deformable Image Registration,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-28557-8_18,,79,"http://link.springer.com/content/pdf/10.1007/978-3-642-28557-8_18
+http://dx.doi.org/10.1007/978-3-642-28557-8_18"
+"Brock, K.",VALIDATION METHODS FOR AUTO-SEGMENTATION AND DEFORMABLE REGISTRATION,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(12)72711-1,,80,"https://api.elsevier.com/content/article/PII:S0167814012727111?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814012727111?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(12)72711-1"
+"Kun Tang,Zhi Li,Lili Tian,Lihui Wang,Yuemin Zhu",ADMIR – Affine and Deformable Medical Image Registration for Drug-Addicted Brian Images,2020-01-01 00:00:00,SupportedSources.INTERNET_ARCHIVE,10.1109/access.2020.2986829,"We proposed an unsupervised end-to-end Affine and Deformable Medical Image Registration (ADMIR) method based on convolutional neural network (ConvNet). ADMIR includes three key components: an affine registration module for learning the affine transformation parameters, a deformable registration module for learning the displacement vector field, and a spatial transformer for getting the final warped image from both affine and deformable transformation parameters. To evaluate its performance, the magnetic resonance images of drug-addicted brains were used to train and test the model, and we compared it with two state-of-art methods in terms of Dice score, Hausdorff distance, and average symmetric surface distance. The experimental results demonstrated that our proposed ADMIR model outperforms existing methods even with the images without pre-alignment, which suggests that the ADMIR model can be used to achieve quick medical image registration with high accuracy. INDEX TERMS Deformable image registration, affine registration, convolutional neural network, unsupervised learning, end-to-end registration. 70960 This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ VOLUME 8, 2020",81,https://web.archive.org/web/20201108142519/https://ieeexplore.ieee.org/ielx7/6287639/8948470/09062524.pdf
+"Kong, V.,Shessel, A.,Chan, B.,Moseley, D.,Craig, T.",Impact of Interobserver Variability in Volume Delineation on Deformable Image Registration for Prostate,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.jmir.2017.02.012,,82,"https://api.elsevier.com/content/article/PII:S1939865417300267?httpAccept=text/plain
+https://api.elsevier.com/content/article/PII:S1939865417300267?httpAccept=text/xml
+http://dx.doi.org/10.1016/j.jmir.2017.02.012"
+"Eiland, R.,Behrens, C.,Sjöström, D.,Maare, C.,Paulsen, R.,Samsoe, E.",PO-0893 DOSIMETRIC- AND GEOMETRIC EVALUATION OF ADAPTIVE H&amp;N IMRT USING DEFORMABLE IMAGE REGISTRATION,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(12)71226-4,,83,"https://api.elsevier.com/content/article/PII:S0167814012712264?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814012712264?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(12)71226-4"
+"Tiezhi Zhang,E. Meldolesi,Y. Chi,D. Yan",SU‐FF‐J‐35: Clinical Applications of 3D and 4D Deformable Image Registration for Image Guided Radiotherapy,2006-06-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1118/1.2240813,"Purpose: To develop a framework of 3D and 4D deformable image registration and investigate its applications in image guided radiotherapy(IGRT).Method and Materials: We have developed 3D and 4D deformable image registration methods to register fan beam CT (FBCT) and cone beam CT(CBCT)images. Applications of the 3D and 4D deformable registration include: (1) Inter‐subject atlas‐based image segmentation to automatically contour normal tissue regions of interest (ROI) in treatment planningCTimages; (2) Intra‐subject atlas‐based image segmentation to delineate daily ROIs by registering daily FBCT or CBCTimages to treatment planningCTimages. This method is an ideal ROI delineation method for online plan adjustments; (3) 4D deformable image registration to extract average voxel trajectories for real‐time tumor tracking and for 4D tomotherapy treatment planning; (4) Deformable fusion of 4D‐PET images, which is based on deformable registration of 4D‐CT images, to minimize motion blurring in PET images without increase of committed doses or data acquisition time. Results: The deformable image registration system was tested using clinical images. Registrations of inter‐ and intra‐subject images show acceptable results. The corresponding results are reported in our supporting document. Quantitative validation of intra‐subject atlas‐based image segmentation showed agreements with physicians' manual contours. 4D registration yields voxel trajectories smooth in both spatial and temporal spaces. Problems were noticed in the cases where the registration image pairs are intrinsically different, such as gas bubbles in rectums, or deformations are extremely large, such as empty vs. full bladders. Conclusions: We have developed a general framework of applying 3D & 4D deformable image registration in image guided radiotherapy. Our clinical applications showed the positive and convincing results.",84,https://www.semanticscholar.org/paper/bf55e7151c3f15504a88f65b624be72d98a3f2fb
+You Zhang,An unsupervised 2D–3D deformable registration network (2D3D-RegNet) for cone-beam CT estimation,2021-02-25 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1088/1361-6560/abe9f6,"Acquiring CBCTs from a limited scan angle can help to reduce the imaging time, save the imaging dose, and allow continuous target localizations through arc-based treatments with high temporal resolution. However, insufficient scan angle sampling leads to severe distortions and artifacts in the reconstructed CBCT images, limiting their clinical applicability. 2D–3D deformable registration can map a prior fully-sampled CT/CBCT volume to estimate a new CBCT, based on limited-angle on-board cone-beam projections. The resulting CBCT images estimated by 2D–3D deformable registration can successfully suppress the distortions and artifacts, and reflect up-to-date patient anatomy. However, traditional iterative 2D–3D deformable registration algorithm is very computationally expensive and time-consuming, which takes hours to generate a high quality deformation vector field (DVF) and the CBCT. In this work, we developed an unsupervised, end-to-end, 2D–3D deformable registration framework using convolutional neural networks (2D3D-RegNet) to address the speed bottleneck of the conventional iterative 2D–3D deformable registration algorithm. The 2D3D-RegNet was able to solve the DVFs within 5 seconds for 90 orthogonally-arranged projections covering a combined 90° scan angle, with DVF accuracy superior to 3D–3D deformable registration, and on par with the conventional 2D–3D deformable registration algorithm. We also performed a preliminary robustness analysis of 2D3D-RegNet towards projection angular sampling frequency variations, as well as scan angle offsets. The synergy of 2D3D-RegNet with biomechanical modeling was also evaluated, and demonstrated that 2D3D-RegNet can function as a fast DVF solution core for further DVF refinement.",85,https://www.semanticscholar.org/paper/57761102e933706a389c1e550f3010963c83fdb7
+"Aganj, I.,Iglesias, E.,Reuter, M.,Sabuncu, M.,Fischl, B.",Mid-Space-Independent Symmetric Data Term for Pairwise Deformable Image Registration,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-24571-3_32,,86,"http://link.springer.com/content/pdf/10.1007/978-3-319-24571-3_32
+http://dx.doi.org/10.1007/978-3-319-24571-3_32"
+"Fukumitsu, N.,Nitta, K.,Terunuma, T.,Okumura, T.,Numajiri, H.,Oshiro, Y.,Ohnishi, K.,Mizumoto, M.,Aihara, T.,Ishikawa, H.,Tsuboi, K.,Sakurai, H.",Registration error of the liver CT using deformable image registration of MIM Maestro and Velocity AI,2017-05-04 00:00:00,SupportedSources.CROSSREF,10.1186/s12880-017-0202-z,,87,"http://link.springer.com/content/pdf/10.1186/s12880-017-0202-z.pdf
+http://dx.doi.org/10.1186/s12880-017-0202-z"
+"Park, S.,Monroe, J.,Yao, M.,Machtay, M.,Sohn, J.",Spatially Weighted B-spline Deformable Image Registration for Accurate Delineation,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2010.07.1679,,88,"https://api.elsevier.com/content/article/PII:S0360301610026532?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301610026532?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2010.07.1679"
+"M. Stralen,J. Pluim",Optimal discrete multi-resolution deformable image registration,2009-06-28 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/ISBI.2009.5193210,Deformable image registration is a challenging problem. Current solutions either have a high computational load or suffer from weak regularization.,89,https://www.semanticscholar.org/paper/d69147609271b2e6350a2347c3ed5b2d3fc1b2ff
+"Kierkels, R.,Brouwer, C.,Steenbakkers, R.,Bijl, H.,Langendijk, J.,Sijtsema, N.",OC-0067: An automated patient-specific and quantitative approachfor deformable image registration evaluation,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(16)31316-0,,90,"https://api.elsevier.com/content/article/PII:S0167814016313160?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814016313160?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(16)31316-0"
+"Zhenyu Zhu,Yiqin Cao,Chenchen Qin,Y. Rao,Lin Di,Q. Dou,Dong Ni,Yi Wang",Joint Affine and Deformable 3D Networks for Brain MRI Registration.,2020-12-20 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1002/mp.14674,"PURPOSE
+Volumetric medical image registration has important clinical significance. Traditional registration methods may be time-consuming when processing large volumetric data due to their iterative optimizations. In contrast, existing deep learning-based networks can obtain the registration quickly. However, most of them require independent rigid alignment before deformable registration; these two steps are often performed separately and cannot be end-to-end.
+
+
+METHODS
+We propose an end-to-end joint affine and deformable network for 3D medical image registration. The proposed network combines two deformation methods; the first one is for obtaining affine alignment, and the second one is a deformable subnet work for achieving the non-rigid registration. The parameters of the two subnetworks are shared. The global and local similarity measures are used as loss functions for the two subnetworks, respectively. Moreover, an anatomical similarity loss is devised to weakly supervise the training of the whole registration network. Finally, the trained network can perform deformable registration in one forward pass.
+
+
+RESULTS
+The efficacy of our network was extensively evaluated on three public brain MRI datasets including Mindboggle101, LPBA40, and IXI. Experimental results demonstrate our network consistently outperformed several state-of-the-art methods with respect to the metrics of Dice index (DSC), Hausdorff distance (HD) and average symmetric surface distance (ASSD).
+
+
+CONCLUSIONS
+The proposed network provides accurate and robust volumetric registration without any pre-alignment requirement, which facilitates the end-to-end deformable registration.",91,https://www.semanticscholar.org/paper/5601002c49e37878cf3fbc066d0af93f06e126a2
+"Dyer, B.,Yuan, Z.,Qiu, J.,Shi, L.,Wright, C.,Benedict, S.,Valicenti, R.,Mayadev, J.,Rong, Y.",Clinical feasibility of MR-assisted CT-based cervical brachytherapy using MR-to-CT deformable image registration,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.brachy.2020.03.001,,92,"https://api.elsevier.com/content/article/PII:S1538472120300301?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1538472120300301?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.brachy.2020.03.001"
+,GPU-Based Unimodal Deformable Image Registration in Radiation Therapy,2015-09-14 00:00:00,SupportedSources.CROSSREF,10.1201/b18968-10,,93,http://dx.doi.org/10.1201/b18968-10
+"Sarrut, D.",DEFORMABLE IMAGE REGISTRATION FOR RADIATION THERAPY,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-8140(12)72712-3,,94,"https://api.elsevier.com/content/article/PII:S0167814012727123?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167814012727123?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-8140(12)72712-3"
+"Fox, T.",WE-PIS-Exhibit Hall-4: Varian Medical Systems: Deformable Image Registration Methods and Applications to Radiation Oncology,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.1118/1.4925970,,95,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1118%2F1.4925970
+http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4925970/fullpdf
+http://dx.doi.org/10.1118/1.4925970"
+"-, J.,-, H.,-, Y.",A NURBS Based Deformable Registration Algorithm: Application to kV CBCT Based Image-guided Radiotherapy,2012-08-31 00:00:00,SupportedSources.CROSSREF,10.4156/jcit.vol7.issue14.15,,96,http://dx.doi.org/10.4156/jcit.vol7.issue14.15
+"Feuerstein, M.,Heibel, H.,Gardiazabal, J.,Navab, N.,Groher, M.",Reconstruction of 3-D Histology Images by Simultaneous Deformable Registration,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-23629-7_71,,97,"http://link.springer.com/content/pdf/10.1007/978-3-642-23629-7_71
+http://dx.doi.org/10.1007/978-3-642-23629-7_71"
+"Sugawara, Y.,Kadoya, N.,Kotabe, K.,Nakajima, Y.,Ikeda, R.,Tanabe, S.,Ohashi, H.,Jingu, K.",Development of a dynamic deformable thorax phantom for the quality management of deformable image registration,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ejmp.2020.08.007,,98,"https://api.elsevier.com/content/article/PII:S112017972030199X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S112017972030199X?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ejmp.2020.08.007"
+"Chen, M.,Lu, W.,Chen, Q.,Ruchala, K.,Olivera, G.",ROI Constrained Deformable Image Registration for On-Line Adaptive Radiotherapy,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.ijrobp.2007.07.2125,,99,"https://api.elsevier.com/content/article/PII:S0360301607034062?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0360301607034062?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.ijrobp.2007.07.2125"

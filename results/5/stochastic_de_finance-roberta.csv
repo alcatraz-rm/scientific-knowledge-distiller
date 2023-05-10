@@ -1,0 +1,206 @@
+authors,title,pub_date,source,doi,abstract,rank,url
+Keith P. Sharp,Stochastic differential equations in finance,1990-05-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1016/0096-3003(90)90041-Z,,0,https://www.semanticscholar.org/paper/b9d83ab239e095de42c99270b17a330c085f0eb2
+M. Richter,Stochastic differential equations with applications in economics and finance,None,SupportedSources.SEMANTIC_SCHOLAR,,,1,https://www.semanticscholar.org/paper/022094bd2978c4e308e3f9a63e9369c675d335b5
+中山 季之,Stochastic differential equations and mathematical finance = 確率微分方程式と数理ファイナンス,None,SupportedSources.SEMANTIC_SCHOLAR,,,2,https://www.semanticscholar.org/paper/048ca54577c1d4fab6371de8f97cc8fb0c79e75f
+"Wolf, D.",Stochastic differential equations,None,SupportedSources.CROSSREF,10.1007/bfb0105462,,3,"http://link.springer.com/content/pdf/10.1007/BFb0105462.pdf
+http://dx.doi.org/10.1007/bfb0105462"
+"Van Kampen, N.",Stochastic differential equations,1976-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0370-1573(76)90029-6,,4,"https://api.elsevier.com/content/article/PII:0370157376900296?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0370157376900296?httpAccept=text/plain
+http://dx.doi.org/10.1016/0370-1573(76)90029-6"
+"Borzì, A.",Stochastic differential equations,2020-04-13 00:00:00,SupportedSources.CROSSREF,10.1201/9781351190398-13,,5,http://dx.doi.org/10.1201/9781351190398-13
+"Haba, Z.",Stochastic differential equations,1999-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-94-011-4716-3_3,,6,"http://link.springer.com/content/pdf/10.1007/978-94-011-4716-3_3.pdf
+http://dx.doi.org/10.1007/978-94-011-4716-3_3"
+,Stochastic differential equations,2004-07-05 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511755323.009,,7,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4D637C32DE60634F50F83993800C2B67
+http://dx.doi.org/10.1017/cbo9780511755323.009"
+"Rota, G.",Stochastic differential equations,1976-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0001-8708(76)90054-2,,8,"https://api.elsevier.com/content/article/PII:0001870876900542?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0001870876900542?httpAccept=text/plain
+http://dx.doi.org/10.1016/0001-8708(76)90054-2"
+,Stochastic differential equations,2009-04-30 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511809781.010,,9,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFDA410BA5697E948BE7F5C1A92BB6DD
+http://dx.doi.org/10.1017/cbo9780511809781.010"
+,Stochastic differential equations,2011-10-06 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511997044.026,,10,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D94C6F8C43458D305370036BB2DA03DB
+http://dx.doi.org/10.1017/cbo9780511997044.026"
+"Lindström, E.,Madsen, H.,Nielsen, J.",Stochastic differential equations,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.1201/9781315372204-8,,11,http://dx.doi.org/10.1201/9781315372204-8
+"McShane, E.",Stochastic differential equations,1975-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0047-259x(75)90036-6,,12,"https://api.elsevier.com/content/article/PII:0047259X75900366?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0047259X75900366?httpAccept=text/plain
+http://dx.doi.org/10.1016/0047-259x(75)90036-6"
+,Stochastic differential equations,2018-06-27 00:00:00,SupportedSources.CROSSREF,10.1142/9789813225329_0008,,13,http://dx.doi.org/10.1142/9789813225329_0008
+,Stochastic differential equations,2012-08-23 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9781139017367.006,,14,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E315BE2890D0971CD1870443333E0FFC
+http://dx.doi.org/10.1017/cbo9781139017367.006"
+,Stochastic differential equations,2009-11-12 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511813948.010,,15,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E897B871CE19E866903B8799FAE3631D
+http://dx.doi.org/10.1017/cbo9780511813948.010"
+"Griffiths, D.,Higham, D.",Stochastic Differential Equations,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-85729-148-6_16,,16,"https://link.springer.com/content/pdf/10.1007/978-0-85729-148-6_16
+http://dx.doi.org/10.1007/978-0-85729-148-6_16"
+"Schuss, Z.",Stochastic Differential Equations,2009-11-27 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4419-1605-1_4,,17,"https://link.springer.com/content/pdf/10.1007/978-1-4419-1605-1_4
+http://dx.doi.org/10.1007/978-1-4419-1605-1_4"
+"Nisio, M.",Stochastic Differential Equations,2014-10-20 00:00:00,SupportedSources.CROSSREF,10.1007/978-4-431-55123-2_1,,18,"https://link.springer.com/content/pdf/10.1007/978-4-431-55123-2_1
+http://dx.doi.org/10.1007/978-4-431-55123-2_1"
+"Peng, S.",Stochastic Differential Equations,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-59903-7_5,,19,"http://link.springer.com/content/pdf/10.1007/978-3-662-59903-7_5
+http://dx.doi.org/10.1007/978-3-662-59903-7_5"
+,Stochastic Differential Equations,2002-05-13 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511549878.006,,20,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C62B0FFBED84E76CCBFBE8D5E75D43D1
+http://dx.doi.org/10.1017/cbo9780511549878.006"
+"Durrett, R.",Stochastic Differential Equations,2018-03-29 00:00:00,SupportedSources.CROSSREF,10.1201/9780203738283-5,,21,http://dx.doi.org/10.1201/9780203738283-5
+"von Weizsäcker, H.,Winkler, G.",Stochastic Differential Equations,1990-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-663-13923-2_11,,22,"http://link.springer.com/content/pdf/10.1007/978-3-663-13923-2_11
+http://dx.doi.org/10.1007/978-3-663-13923-2_11"
+"Panik, M.",Stochastic Differential Equations,2017-04-04 00:00:00,SupportedSources.CROSSREF,10.1002/9781119377399,,23,"https://onlinelibrary.wiley.com/doi/full/10.1002/9781119377399
+http://dx.doi.org/10.1002/9781119377399"
+"Friedman, A.",Stochastic Differential Equations,1975-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-268201-8.50010-4,,24,"https://api.elsevier.com/content/article/PII:B9780122682018500104?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780122682018500104?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-12-268201-8.50010-4"
+"Karatzas, I.,Shreve, S.",Stochastic Differential Equations,1998-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4612-0949-2_5,,25,"http://link.springer.com/content/pdf/10.1007/978-1-4612-0949-2_5
+http://dx.doi.org/10.1007/978-1-4612-0949-2_5"
+"Capasso, V.,Bakstein, D.",Stochastic Differential Equations,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-0-8176-8346-7_4,,26,"https://link.springer.com/content/pdf/10.1007/978-0-8176-8346-7_4
+http://dx.doi.org/10.1007/978-0-8176-8346-7_4"
+"Sobczyk, K.",Stochastic Differential Equations,1991-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-94-011-3712-6,,27,"http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6.pdf
+http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6
+http://dx.doi.org/10.1007/978-94-011-3712-6"
+"Pavliotis, G.,Stuart, A.",Stochastic Differential Equations,None,SupportedSources.CROSSREF,10.1007/978-0-387-73829-1_6,,28,"http://link.springer.com/content/pdf/10.1007/978-0-387-73829-1_6.pdf
+http://dx.doi.org/10.1007/978-0-387-73829-1_6"
+"Øksendal, B.",Stochastic Differential Equations,2003-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-14394-6_5,,29,"http://link.springer.com/content/pdf/10.1007/978-3-642-14394-6_5
+http://dx.doi.org/10.1007/978-3-642-14394-6_5"
+"McShane, E.",Stochastic Differential Equations,1974-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-486250-0.50010-3,,30,"https://api.elsevier.com/content/article/PII:B9780124862500500103?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780124862500500103?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-12-486250-0.50010-3"
+"Klenke, A.",Stochastic Differential Equations,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4471-5361-0_26,,31,"https://link.springer.com/content/pdf/10.1007/978-1-4471-5361-0_26
+http://dx.doi.org/10.1007/978-1-4471-5361-0_26"
+,Stochastic Differential Equations,2019-11-04 00:00:00,SupportedSources.CROSSREF,10.1002/9781118630006.ch9,,32,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch9
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118630006.ch9
+http://dx.doi.org/10.1002/9781118630006.ch9"
+"Poznyak, A.",Stochastic Differential Equations,2009-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-08-044673-8.00016-x,,33,"https://api.elsevier.com/content/article/PII:B978008044673800016X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B978008044673800016X?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-08-044673-8.00016-x"
+"Gawarecki, L.,Mandrekar, V.",Stochastic Differential Equations,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-16194-0_3,,34,"https://link.springer.com/content/pdf/10.1007/978-3-642-16194-0_3
+http://dx.doi.org/10.1007/978-3-642-16194-0_3"
+"Giandomenico, R.",Stochastic Differential Equations,2015-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.2575456,,35,http://dx.doi.org/10.2139/ssrn.2575456
+"Schäffler, S.",Stochastic Differential Equations,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-78768-8_3,,36,"http://link.springer.com/content/pdf/10.1007/978-3-319-78768-8_3
+http://dx.doi.org/10.1007/978-3-319-78768-8_3"
+"Koralov, L.,Sinai, Y.",Stochastic Differential Equations,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-68829-7_21,,37,"http://link.springer.com/content/pdf/10.1007/978-3-540-68829-7_21.pdf
+http://dx.doi.org/10.1007/978-3-540-68829-7_21"
+"Kallianpur, G.,Karandikar, R.",Stochastic Differential Equations,2000-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4612-0511-1_4,,38,"http://link.springer.com/content/pdf/10.1007/978-1-4612-0511-1_4.pdf
+http://dx.doi.org/10.1007/978-1-4612-0511-1_4"
+,Stochastic Differential Equations,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11079-5,,39,"http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5.pdf
+http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5
+http://dx.doi.org/10.1007/978-3-642-11079-5"
+"Pardoux, E.,Răşcanu, A.",Stochastic Differential Equations,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-05714-9_3,,40,"https://link.springer.com/content/pdf/10.1007/978-3-319-05714-9_3
+http://dx.doi.org/10.1007/978-3-319-05714-9_3"
+"Platen, E.,Heath, D.",Stochastic Differential Equations,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-47856-0_7,,41,"http://link.springer.com/content/pdf/10.1007/978-3-540-47856-0_7.pdf
+http://dx.doi.org/10.1007/978-3-540-47856-0_7"
+"Choe, G.",Stochastic Differential Equations,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-25589-7_12,,42,"http://link.springer.com/content/pdf/10.1007/978-3-319-25589-7_12
+http://dx.doi.org/10.1007/978-3-319-25589-7_12"
+"Russo, F.",Stochastic Differential Equations,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b0-12-512666-2/00369-2,,43,"https://api.elsevier.com/content/article/PII:B0125126662003692?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B0125126662003692?httpAccept=text/plain
+http://dx.doi.org/10.1016/b0-12-512666-2/00369-2"
+"Gardiner, C.",Stochastic Differential Equations,2021-12-22 00:00:00,SupportedSources.CROSSREF,10.1063/9780735423718_007,,44,"https://pubs.aip.org/books/monograph/chapter-pdf/9016721/9780735423718_007.pdf
+http://dx.doi.org/10.1063/9780735423718_007"
+"Kloeden, P.",Stochastic Differential Equations,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-04898-2_569,,45,"http://link.springer.com/content/pdf/10.1007/978-3-642-04898-2_569
+http://dx.doi.org/10.1007/978-3-642-04898-2_569"
+"Lakshmikantham, V.,Deo, S.",Stochastic Differential Equations,2019-09-10 00:00:00,SupportedSources.CROSSREF,10.1201/9780203747452-7,,46,http://dx.doi.org/10.1201/9780203747452-7
+"Mao, X.",Stochastic Differential Equations,2011-01-01 00:00:00,SupportedSources.CROSSREF,10.1533/9780857099402.47,,47,"http://woodhead.metapress.com/index/X527740108470256.pdf
+http://dx.doi.org/10.1533/9780857099402.47"
+"Protter, P.",Stochastic Differential Equations,1990-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-02619-9_6,,48,"http://link.springer.com/content/pdf/10.1007/978-3-662-02619-9_6
+http://dx.doi.org/10.1007/978-3-662-02619-9_6"
+"Chung, K.,Williams, R.",Stochastic Differential Equations,2013-10-24 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4614-9587-1_10,,49,"https://link.springer.com/content/pdf/10.1007/978-1-4614-9587-1_10
+http://dx.doi.org/10.1007/978-1-4614-9587-1_10"
+"Lecca, P.,Re, A.,Ihekwaba, A.,Mura, I.,Nguyen, T.",Stochastic Differential Equations,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-08-100095-3.00006-8,,50,"https://api.elsevier.com/content/article/PII:B9780081000953000068?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780081000953000068?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-08-100095-3.00006-8"
+"Le Gall, J.",Stochastic Differential Equations,2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-31089-3_8,,51,"http://link.springer.com/content/pdf/10.1007/978-3-319-31089-3_8
+http://dx.doi.org/10.1007/978-3-319-31089-3_8"
+"Zhang, J.",Stochastic Differential Equations,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4939-7256-2_3,,52,"http://link.springer.com/content/pdf/10.1007/978-1-4939-7256-2_3
+http://dx.doi.org/10.1007/978-1-4939-7256-2_3"
+,Stochastic Differential Equations,None,SupportedSources.CROSSREF,10.1007/springerreference_205651,,53,http://dx.doi.org/10.1007/springerreference_205651
+"Rota, G.",Stochastic differential equations and applications,1977-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0001-8708(77)90127-x,,54,"https://api.elsevier.com/content/article/PII:000187087790127X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:000187087790127X?httpAccept=text/plain
+http://dx.doi.org/10.1016/0001-8708(77)90127-x"
+"Gihman, I.,Skorohod, A.",The Solution of Stochastic Differential Equations,1972-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-88264-7_3,,55,"http://link.springer.com/content/pdf/10.1007/978-3-642-88264-7_3.pdf
+http://dx.doi.org/10.1007/978-3-642-88264-7_3"
+,Introduction: Stochastic differential equations,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/9789814322195_0001,,56,http://dx.doi.org/10.1142/9789814322195_0001
+,Stochastic processes and stochastic differential equations,None,SupportedSources.CROSSREF,10.1007/bfb0006766,,57,"http://link.springer.com/content/pdf/10.1007/BFb0006766.pdf
+http://dx.doi.org/10.1007/bfb0006766"
+"Cherny, A.,Engelbert, H.",1. Stochastic Differential Equations,2004-11-16 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-540-31560-5_2,,58,"http://link.springer.com/content/pdf/10.1007/978-3-540-31560-5_2
+http://dx.doi.org/10.1007/978-3-540-31560-5_2"
+"Sobczyk, K.",Stochastic Differential Equations: Basic Theory,1991-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-94-011-3712-6_4,,59,"http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_4.pdf
+http://dx.doi.org/10.1007/978-94-011-3712-6_4"
+,Solution of Stochastic Differential Equations,2008-12-22 00:00:00,SupportedSources.CROSSREF,10.1002/9781118467374.ch8,,60,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467374.ch8
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467374.ch8
+http://dx.doi.org/10.1002/9781118467374.ch8"
+"Kamien, M.",Stochastic Differential Equations: Applications in Economics and Management Science,2006-08-15 00:00:00,SupportedSources.CROSSREF,10.1002/0471667196.ess2586.pub2,,61,"https://onlinelibrary.wiley.com/doi/full/10.1002/0471667196.ess2586.pub2
+http://dx.doi.org/10.1002/0471667196.ess2586.pub2"
+,[eBooks] An Introduction To Stochastic Differential Equations,None,SupportedSources.SEMANTIC_SCHOLAR,,"An Introduction to Stochastic Differential Equations-Lawrence C. Evans 2012-12-11 These notes provide a concise introduction to stochastic differential equations and their application to the study of financial markets and as a basis for modeling diverse physical phenomena. They are accessible to non-specialists and make a valuable addition to the collection of texts on the topic. --Srinivasa Varadhan, New York University This is a handy and very useful text for studying stochastic differential equations. There is enough mathematical detail so that the reader can benefit from this introduction with only a basic background in mathematical analysis and probability. --George Papanicolaou, Stanford University This book covers the most important elementary facts regarding stochastic differential equations; it also describes some of the applications to partial differential equations, optimal stopping, and options pricing. The book's style is intuitive rather than formal, and emphasis is made on clarity. This book will be very helpful to starting graduate students and strong undergraduates as well as to others who want to gain knowledge of stochastic differential equations. I recommend this book enthusiastically. --Alexander Lipton, Mathematical Finance Executive, Bank of America Merrill Lynch This short book provides a quick, but very readable introduction to stochastic differential equations, that is, to differential equations subject to additive ``white noise'' and related random disturbances. The exposition is concise and strongly focused upon the interplay between probabilistic intuition and mathematical rigor. Topics include a quick survey of measure theoretic probability theory, followed by an introduction to Brownian motion and the Ito stochastic calculus, and finally the theory of stochastic differential equations. The text also includes applications to partial differential equations, optimal stopping problems and options pricing. This book can be used as a text for senior undergraduates or beginning graduate students in mathematics, applied mathematics, physics, financial mathematics, etc., who want to learn the basics of stochastic differential equations. The reader is assumed to be fairly familiar with measure theoretic mathematical analysis, but is not assumed to have any particular knowledge of probability theory (which is rapidly developed in Chapter 2 of the book).",62,https://www.semanticscholar.org/paper/16a6e581d90ba463d49a84639d704c6e9794ee9e
+"Govender, Nadrajh",A brief analysis of certain numerical methods used to solve stochastic differential equations,2007-07-23 00:00:00,SupportedSources.CORE,,"Stochastic differential equations (SDE’s) are used to describe systems which are influenced by randomness. Here, randomness is modelled as some external source interacting with the system, thus ensuring that the stochastic differential equation provides a more realistic mathematical model of the system under investigation than deterministic differential equations. The behaviour of the physical system can often be described by probability and thus understanding the theory of SDE’s requires the familiarity of advanced probability theory and stochastic processes. SDE’s have found applications in chemistry, physical and engineering sciences, microelectronics and economics. But recently, there has been an increase in the use of SDE’s in other areas like social sciences, computational biology and finance. In modern financial practice, asset prices are modelled by means of stochastic processes. Thus, continuous-time stochastic calculus plays a central role in financial modelling. The theory and application of interest rate modelling is one of the most important areas of modern finance. For example, SDE’s are used to price bonds and to explain the term structure of interest rates. Commonly used models include the Cox-Ingersoll-Ross model; the Hull-White model; and Heath-Jarrow-Morton model. Since there has been an expansion in the range and volume of interest rate related products being traded in the international financial markets in the past decade, it has become important for investment banks, other financial institutions, government and corporate treasury offices to require ever more accurate, objective and scientific forms for the pricing, hedging and general risk management of the resulting positions. Similar to ordinary differential equations, many SDE’s that appear in practical applications cannot be solved explicitly and therefore require the use of numerical methods. For example, to price an American put option, one requires the numerical solution of a free-boundary partial differential equation. There are various approaches to solving SDE’s numerically. Monte Carlo methods could be used whereby the physical system is simulated directly using a sequence of random numbers. Another method involves the discretisation of both the time and space variables. However, the most efficient and widely applicable approach to solving SDE’s involves the discretisation of the time variable only and thus generating approximate values of the sample paths at the discretisation times. This paper highlights some of the various numerical methods that can be used to solve stochastic differential equations. These numerical methods are based on the simulation of sample paths of time discrete approximations. It also highlights how these methods can be derived from the Taylor expansion of the SDE, thus providing opportunities to derive more advanced numerical schemes.Dissertation (MSc (Mathematics of Finance))--University of Pretoria, 2007.Mathematics and Applied MathematicsMScunrestricte",63,https://core.ac.uk/download/80897137.pdf
+"Kulasiri, D.,Verwoerd, W.",Solving Stochastic Differential Equations,2002-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/s0167-5931(02)80005-5,,64,"https://api.elsevier.com/content/article/PII:S0167593102800055?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S0167593102800055?httpAccept=text/plain
+http://dx.doi.org/10.1016/s0167-5931(02)80005-5"
+"Kloeden, P.,Platen, E.",Applications of Stochastic Differential Equations,1992-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-12616-5_7,,65,"http://link.springer.com/content/pdf/10.1007/978-3-662-12616-5_7
+http://dx.doi.org/10.1007/978-3-662-12616-5_7"
+"Hassler, U.",Stochastic Differential Equations (SDE),2016-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-23428-1_12,,66,"https://link.springer.com/content/pdf/10.1007/978-3-319-23428-1_12
+http://dx.doi.org/10.1007/978-3-319-23428-1_12"
+"VAN KAMPEN, N.",STOCHASTIC DIFFERENTIAL EQUATIONS,2007-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-044452965-7/50019-2,,67,"https://api.elsevier.com/content/article/PII:B9780444529657500192?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780444529657500192?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-044452965-7/50019-2"
+"Sobczyk, K.",Stochastic Differential Equations: Analytical Methods,1991-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-94-011-3712-6_5,,68,"http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_5.pdf
+http://dx.doi.org/10.1007/978-94-011-3712-6_5"
+Byounguk Yoon,Backward Stochastic Differential Equations in Economics and Finance,None,SupportedSources.SEMANTIC_SCHOLAR,,,69,https://www.semanticscholar.org/paper/81a159282db0d3edab8417206b083e04700dafef
+L. Evans,An Introduction to Stochastic Differential Equations,2014-01-05 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1090/mbk/082,"This book provides a quick, but very readable introduction to stochastic differential equations-that is, to differential equations subject to additive ""white noise"" and related random disturbances. The exposition is strongly focused upon the interplay between probabilistic intuition and mathematical rigour. Topics include a quick survey of measure theoretic probability theory, followed by an introduction to Brownian motion and the Ito stochastic calculus, and finally the theory of stochastic differential equations. The text also includes applications to partial differential equations, optimal stopping problems and options pricing. <br This book can be used as a text for senior undergraduates or beginning graduate students in mathematics, applied mathematics, physics, financial mathematics, etc., who want to learn the basics of stochastic differential equations. The reader is assumed to be fairly familiar with measure theoretic mathematical analysis, but is not assumed to have any particular knowledge of probability theory (which is rapidly developed in Chapter 2 of the book).",70,https://www.semanticscholar.org/paper/fce8e688be5bf1f5ed4ecd8fe21206eb8e1ba47c
+,I. STOCHASTIC DIFFERENTIAL EQUATIONS AND RELATED TOPICS,1985-12-31 00:00:00,SupportedSources.CROSSREF,10.1515/9781400881598-003,,71,"http://www.degruyter.com/view/books/9781400881598/9781400881598-003/9781400881598-003.xml
+https://www.degruyter.com/document/doi/10.1515/9781400881598-003/xml
+https://www.degruyter.com/document/doi/10.1515/9781400881598-003/pdf
+http://dx.doi.org/10.1515/9781400881598-003"
+S. Shreve,Stochastic calculus for finance,None,SupportedSources.SEMANTIC_SCHOLAR,10.1007/978-0-387-22527-2,,72,"https://www.semanticscholar.org/paper/0eb020a3921d8e66c7270d38d0800404b075b701
+https://link.springer.com/content/pdf/bfm%3A978-0-387-22527-2%2F1"
+"Banerjee, S.",Modeling with Stochastic Differential Equations,2021-11-09 00:00:00,SupportedSources.CROSSREF,10.1201/9781351022941-6,,73,http://dx.doi.org/10.1201/9781351022941-6
+"Pavliotis, G.",Modeling with Stochastic Differential Equations,2014-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4939-1323-7_5,,74,"https://link.springer.com/content/pdf/10.1007/978-1-4939-1323-7_5
+http://dx.doi.org/10.1007/978-1-4939-1323-7_5"
+,Chapter 1: Stochastic Differential Equations,2016-02-18 00:00:00,SupportedSources.CROSSREF,10.1137/1.9781611974249.ch1,,75,"http://epubs.siam.org/doi/pdf/10.1137/1.9781611974249.ch1
+http://dx.doi.org/10.1137/1.9781611974249.ch1"
+"Kloeden, P.,Platen, E.",Modelling with Stochastic Differential Equations,1992-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-12616-5_6,,76,"http://link.springer.com/content/pdf/10.1007/978-3-662-12616-5_6
+http://dx.doi.org/10.1007/978-3-662-12616-5_6"
+"Doleans–Dade, C.",Stochastic Processes and Stochastic Differential Equations,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11079-5_1,,77,"http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5_1.pdf
+http://dx.doi.org/10.1007/978-3-642-11079-5_1"
+,Stochastic Differential Equations and Applications,1976-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/c2013-0-07333-1,,78,"https://api.elsevier.com/content/article/PII:C20130073331?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:C20130073331?httpAccept=text/plain
+http://dx.doi.org/10.1016/c2013-0-07333-1"
+"Friedman, A.",Stochastic Differential Equations and Applications,2010-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-11079-5_2,,79,"http://link.springer.com/content/pdf/10.1007/978-3-642-11079-5_2.pdf
+http://dx.doi.org/10.1007/978-3-642-11079-5_2"
+,Stochastic Differential Equations and Applications,1975-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/c2013-0-07332-x,,80,"https://api.elsevier.com/content/article/PII:C2013007332X?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:C2013007332X?httpAccept=text/plain
+http://dx.doi.org/10.1016/c2013-0-07332-x"
+"Henderson, D.,Plaschko, P.",Stochastic Differential Equations in Science and Engineering,2006-01-01 00:00:00,SupportedSources.CROSSREF,10.1142/5806,,81,http://dx.doi.org/10.1142/5806
+Andrew Papanicolaou,Introduction to Stochastic Differential Equations (SDEs) for Finance,2019-01-02 00:00:00,SupportedSources.INTERNET_ARCHIVE,,These are course notes on the application of SDEs to options pricing. The author was partially supported by NSF grant DMS-0739195.,82,https://web.archive.org/web/20200914185824/https://arxiv.org/pdf/1504.05309v14.pdf
+"Daniela Damian,C. Carstea,L. Patrascu,I. Ratiu,Nicoleta David,D. Pleșea",An economic application on the ItΔ lemma,2009-09-03 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,,"This article tries to give a balanced representation of the theoretical foundations of mathematical finance, and their implementation. A stochastic differential equation (SDE) describes the increment of a variable, say X, which is driven by one or several underlying random processes. Here these sources of randomness are Brownian motion.",83,https://www.semanticscholar.org/paper/b28b0d1b21cf9d95b54e8391ce974cf978bfc99e
+"Alzughaibi, Imtithal Mohammed",Topics in Stochastic Analysis and Applications to Finance,2018-03-02 00:00:00,SupportedSources.CORE,,"This research is concerned with the existence  a relationship between  Stochastic Differential Equations  (SDEs), Backward Stochastic Differential Equations  (BSDEs)  and Partial Differential Equations  (PDEs). This research includes a major application of stochastic analysis, we study about applications to mathematical finance, and particularly, options as an example of financial derivatives and Black-Scholes method",84,https://core.ac.uk/download/234632256.pdf
+"Maria C. Mariani,Osei K. Tweneboah",Stochastic differential equations applied to the study of geophysical and financial time series,2016-02-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.physa.2015.09.080,,85,"https://openalex.org/W2178412283
+https://doi.org/10.1016/j.physa.2015.09.080"
+"S. Särkkä,A. Solin",Applied Stochastic Differential Equations,2019-06-20 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1017/9781108186735,"The topic of this book is stochastic differential equations (SDEs). As their name suggests, they really are differential equations that produce a different “answer” or solution trajectory each time they are solved. This peculiar behaviour gives them properties that are useful in modeling of uncertainties in a wide range of applications, but at the same time it complicates the rigorous mathematical treatment of SDEs. The emphasis of the book is on applied rather than theoretical aspects of SDEs and, therefore, we have chosen to structure the book in a way that we believe supports learning SDEs from an applied point of view. In the following, we briefly outline the purposes of each of the remaining chapters and explain how the chapters are connected to each other. In the chapters, we have attempted to provide a wide selection of examples of the practical application of theoretical and methodological results. Each chapter (except for the Introduction and Epilogue) also contains a representative set of analytic and hands-on exercises that can be used for testing and deepening understanding of the topics. Chapter 2 is a brief outline of concepts and solutions methods for deterministic ordinary differential equations (ODEs). We especially emphasize solution methods for linear ODEs, because the methods translate quite easily to SDEs. We also examine commonly used numerical methods such as the Euler method and Runge–Kutta methods, which we extend to SDEs in the later chapters. Chapter 3 starts with a number of motivating examples of SDEs found in physics, engineering, finance, and other applications. It turns out that in a modeling sense, SDEs can be regarded as noise-driven ODEs, but this notion should not be taken too far. The aim of the rest of the chapter is to show where things start to go wrong. Roughly speaking, with linear SDEs we are quite safe with this kind of thinking, but anything beyond them will not work.",86,https://www.semanticscholar.org/paper/c54b0ed93d2b3b3b00e07cdc94dbf19df53d5972
+"Kersting, G.",On the behaviour of solutions of stochastic differential equations,1987-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0304-4149(87)90085-8,,87,"https://api.elsevier.com/content/article/PII:0304414987900858?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0304414987900858?httpAccept=text/plain
+http://dx.doi.org/10.1016/0304-4149(87)90085-8"
+"Mukhopadhyay, S.",13. Stochastic differential equations,1984-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0304-4149(84)90280-1,,88,"https://api.elsevier.com/content/article/PII:0304414984902801?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0304414984902801?httpAccept=text/plain
+http://dx.doi.org/10.1016/0304-4149(84)90280-1"
+"Thakur, L.",13. Stochastic differential equations,1984-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0304-4149(84)90281-3,,89,"https://api.elsevier.com/content/article/PII:0304414984902813?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0304414984902813?httpAccept=text/plain
+http://dx.doi.org/10.1016/0304-4149(84)90281-3"
+"Basu, A.",13. Stochastic differential equations,1984-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0304-4149(84)90278-3,,90,"https://api.elsevier.com/content/article/PII:0304414984902783?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0304414984902783?httpAccept=text/plain
+http://dx.doi.org/10.1016/0304-4149(84)90278-3"
+"Kunita, H.",13. Stochastic differential equations,1984-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0304-4149(84)90279-5,,91,"https://api.elsevier.com/content/article/PII:0304414984902795?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0304414984902795?httpAccept=text/plain
+http://dx.doi.org/10.1016/0304-4149(84)90279-5"
+"Kunita, H.",Stochastic Differential Equations and Stochastic Flows,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-13-3801-4_3,,92,"http://link.springer.com/content/pdf/10.1007/978-981-13-3801-4_3
+http://dx.doi.org/10.1007/978-981-13-3801-4_3"
+,Chapter 6. Stochastic differential equations,1995-01-01 00:00:00,SupportedSources.CROSSREF,10.1214/lnms/1215451874,,93,"http://projecteuclid.org/download/pdf_1/euclid.lnms/1215451874
+http://dx.doi.org/10.1214/lnms/1215451874"
+,Stochastic differential equations and stochastic flows,2010-02-04 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511845079.020,,94,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D5BACE03B3B8568F6E19E4A677458A89
+http://dx.doi.org/10.1017/cbo9780511845079.020"
+"Tsokos, C.,Padgett, W.",The stochastic differential systems,1971-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/bfb0059966,,95,"http://link.springer.com/content/pdf/10.1007/BFb0059966
+http://dx.doi.org/10.1007/bfb0059966"
+,STOCHASTIC DIFFERENTIAL EQUATIONS AND DIFFUSIONS,2000-09-07 00:00:00,SupportedSources.CROSSREF,10.1017/cbo9780511805141.003,,96,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7F48896B42B3E03FF76E13AF3721EFC
+http://dx.doi.org/10.1017/cbo9780511805141.003"
+,19. Stochastic differential equations,2014-12-31 00:00:00,SupportedSources.CROSSREF,10.1515/9783110307306.290,,97,"https://www.degruyter.com/view/book/9783110307306/10.1515/9783110307306.290.xml
+https://www.degruyter.com/document/doi/10.1515/9783110307306.290/xml
+https://www.degruyter.com/document/doi/10.1515/9783110307306.290/pdf
+http://dx.doi.org/10.1515/9783110307306.290"
+"Sobczyk, K.",Introduction: Origin of Stochastic Differential Equations,1991-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-94-011-3712-6_1,,98,"http://link.springer.com/content/pdf/10.1007/978-94-011-3712-6_1.pdf
+http://dx.doi.org/10.1007/978-94-011-3712-6_1"
+,Linear Stochastic Differential Equations,2013-04-23 00:00:00,SupportedSources.CROSSREF,10.1002/9781118603338.ch9,,99,"http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781118603338.ch9/fullpdf
+http://dx.doi.org/10.1002/9781118603338.ch9"

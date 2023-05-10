@@ -1,0 +1,225 @@
+authors,title,pub_date,source,doi,abstract,rank,url
+"Ke Huang,Yi Mu,Fatemeh Rezaeibagha,Xiaosong Zhang",Zero-Knowledge Proof for Blockchain,2021-08-15 00:00:00,SupportedSources.OPENALEX,10.1201/9781003190127-8,,0,"https://openalex.org/W3203442351
+https://doi.org/10.1201/9781003190127-8"
+"Miguel D'iaz Montiel,R. Guerraoui,Pierre-Louis Roman",SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs,2022-10-24 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.48550/arXiv.2210.13242,1 2,1,https://www.semanticscholar.org/paper/de4166f575497d48b1cec1cf32e9668404978907
+Antti Tani,Zero-knowledge proofs in blockchain applications,2020-01-01 00:00:00,SupportedSources.OPENALEX,,,2,https://openalex.org/W3138660209
+"Ducrée, J.",Research – A blockchain of knowledge?,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.bcra.2020.100005,,3,"https://api.elsevier.com/content/article/PII:S2096720920300051?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S2096720920300051?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.bcra.2020.100005"
+"Collin, S.",Zero knowledge proofs,1988-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/0142-0496(88)90021-5,,4,"https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain
+https://api.elsevier.com/content/article/PII:0142049688900215?httpAccept=text/plain
+http://dx.doi.org/10.1016/0142-0496(88)90021-5"
+"Xie, X.,Xue, R.,Wang, M.",Zero Knowledge Proofs from Ring-LWE,2013-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-02937-5_4,,5,"http://link.springer.com/content/pdf/10.1007/978-3-319-02937-5_4
+http://dx.doi.org/10.1007/978-3-319-02937-5_4"
+"Raharjo, W.,Sutanti, D.",Implementasi Zero Knowledge Proof Menggunakan Protokol Feige Fiat Shamir Untuk Verifikasi Tiket Rahasia,2016-08-01 00:00:00,SupportedSources.CROSSREF,10.31937/ti.v7i2.355,,6,"http://ejournals.umn.ac.id/index.php/TI/article/download/355/321
+http://ejournals.umn.ac.id/index.php/TI/article/download/355/321
+http://dx.doi.org/10.31937/ti.v7i2.355"
+"Tatsuo Mitani,Akira Otsuka",Traceability in Permissioned Blockchain,2019-07-01 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/Blockchain.2019.00045,"In this paper, we propose the traceability of assets in a permissioned blockchain connected with a permissionless blockchain. We make traceability of assets in the permissioned blockchain be defined and be expressed as a hidden Markov model. There exists no dishonest increase and decrease of assets in this model. The condition is called balance. As we encrypt this model with fully homomorphic encryption and apply the zero knowledge proof of plaintext knowledge, we show that the trace-ability and balance of the permissioned blockchain are able to be proved in zero knowledge to the permissionless blockchain with concealing the asset allocation of the permissioned blockchain.",7,https://www.semanticscholar.org/paper/9a94f839b960382f3c4dc7da4c50d17a5cb2d0fa
+"van Rijmenam, M.,Ryan, P.",Blockchain and poverty,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.4324/9780429457715-4,,8,http://dx.doi.org/10.4324/9780429457715-4
+"Gomathi, S.,Finney, M.,Pajila, P.",Blockchain,2020-11-09 00:00:00,SupportedSources.CROSSREF,10.1201/9781003004998-2,,9,http://dx.doi.org/10.1201/9781003004998-2
+"David, B.,Gaži, P.,Kiayias, A.,Russell, A.","Ouroboros Praos: An Adaptively-Secure, Semi-synchronous Proof-of-Stake Blockchain",2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-319-78375-8_3,,10,"https://link.springer.com/content/pdf/10.1007/978-3-319-78375-8_3
+http://dx.doi.org/10.1007/978-3-319-78375-8_3"
+"Drescher, D.",Reinventing the Blockchain,2017-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-2604-9_23,,11,"https://link.springer.com/content/pdf/10.1007/978-1-4842-2604-9_23
+http://dx.doi.org/10.1007/978-1-4842-2604-9_23"
+,Collusion on blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.4337/9781800885530.00015,,12,http://dx.doi.org/10.4337/9781800885530.00015
+"Herian, R.",The psycho-politics of blockchain,2018-09-21 00:00:00,SupportedSources.CROSSREF,10.4324/9780429489815-11,,13,http://dx.doi.org/10.4324/9780429489815-11
+United Nations Conference on Trade and Development,Blockchain glossary,2021-11-16 00:00:00,SupportedSources.CROSSREF,10.18356/9789214030430c009,,14,http://dx.doi.org/10.18356/9789214030430c009
+"Meinel, C.,Gayvoronskaya, T.",Was verbirgt sich hinter dem Begriff Blockchain?,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-61916-2_2,,15,"http://link.springer.com/content/pdf/10.1007/978-3-662-61916-2_2
+http://dx.doi.org/10.1007/978-3-662-61916-2_2"
+"Kleinrock, L.,Ostrovsky, R.,Zikas, V.",Proof-of-Reputation Blockchain with Nakamoto Fallback,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-65277-7_2,,16,"http://link.springer.com/content/pdf/10.1007/978-3-030-65277-7_2
+http://dx.doi.org/10.1007/978-3-030-65277-7_2"
+"Ming He,Haodi Wang,Yunchuan Sun,Rongfang Bie,Tian Lan,Qi Song,Xi Zeng,Matevz̆ Pustisĕk,Zhenyu Qiu",T2L: A traceable and trustable consortium blockchain for logistics,2022-07-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.dcan.2022.06.015,,17,"https://openalex.org/W4284959768
+https://doi.org/10.1016/j.dcan.2022.06.015
+https://doi.org/10.1016/j.dcan.2022.06.015"
+"de Caria, R.",Blockchain and sovereignty,2021-07-06 00:00:00,SupportedSources.CROSSREF,10.4337/9781839100796.00008,,18,"https://china.elgaronline.com/view/edcoll/9781839100789/9781839100789.00008.xml
+https://china.elgaronline.com/view/edcoll/9781839100789/9781839100789.xml
+http://dx.doi.org/10.4337/9781839100796.00008"
+"van Rijmenam, M.,Ryan, P.",Blockchain and censorship,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.4324/9780429457715-9,,19,http://dx.doi.org/10.4324/9780429457715-9
+"Wu, B.,Wu, B.",Blockchain for Teens,2023-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-8808-5,,20,"https://link.springer.com/content/pdf/10.1007/978-1-4842-8808-5.pdf
+https://link.springer.com/content/pdf/10.1007/978-1-4842-8808-5
+http://dx.doi.org/10.1007/978-1-4842-8808-5"
+,Blockchain Marketplace Outlook,2020-01-21 00:00:00,SupportedSources.CROSSREF,10.1002/9781119557722.ch12,,21,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119557722.ch12
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119557722.ch12
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119557722.ch12
+http://dx.doi.org/10.1002/9781119557722.ch12"
+"Wolfgang Prinz,Thomas Rose,Thomas Osterland,Clemens Putschli",Blockchain,2019-01-01 00:00:00,SupportedSources.OPENALEX,10.1007/978-3-662-58134-6_18,,22,"https://openalex.org/W2945649306
+https://doi.org/10.1007/978-3-662-58134-6_18
+https://doi.org/10.1007/978-3-662-58134-6_18"
+"Ragnedda, M.,Destefanis, G.",Blockchain,2019-07-09 00:00:00,SupportedSources.CROSSREF,10.4324/9780429029530-1,,23,http://dx.doi.org/10.4324/9780429029530-1
+"Herian, R.",Blockchain,2018-09-21 00:00:00,SupportedSources.CROSSREF,10.4324/9780429489815-2,,24,http://dx.doi.org/10.4324/9780429489815-2
+,Retail Blockchain Consortium,2019-07-29 00:00:00,SupportedSources.CROSSREF,10.1002/9781119578048.app1,,25,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.app1
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.app1
+http://dx.doi.org/10.1002/9781119578048.app1"
+"Chowdhury, N.",Immutability of Blockchain,2019-08-16 00:00:00,SupportedSources.CROSSREF,10.1201/9780429325533-2,,26,http://dx.doi.org/10.1201/9780429325533-2
+,Blockchain Governance,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.7551/mitpress/11449.003.0012,,27,http://dx.doi.org/10.7551/mitpress/11449.003.0012
+"Dhillon, V.,Metcalf, D.,Hooper, M.",Lean Blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-6534-5_10,,28,"http://link.springer.com/content/pdf/10.1007/978-1-4842-6534-5_10
+http://dx.doi.org/10.1007/978-1-4842-6534-5_10"
+"Roth, M.,Eitelwein, M.",Funktionsweise Blockchain,2017-12-21 00:00:00,SupportedSources.CROSSREF,10.1007/s42354-018-0014-5,,29,"http://link.springer.com/content/pdf/10.1007/s42354-018-0014-5.pdf
+http://link.springer.com/article/10.1007/s42354-018-0014-5/fulltext.html
+http://link.springer.com/content/pdf/10.1007/s42354-018-0014-5.pdf
+http://dx.doi.org/10.1007/s42354-018-0014-5"
+"Mika, B.,Goudz, A.",Konzept für den P2P-Stromhandel mittels Blockchain,2019-11-27 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-60568-4_7,,30,"http://link.springer.com/content/pdf/10.1007/978-3-662-60568-4_7
+http://dx.doi.org/10.1007/978-3-662-60568-4_7"
+"Oskar Josef Gstrein,Dimitry Kochenov",Blockchain and citizenship: Uneasy bedfellows,2021-07-06 00:00:00,SupportedSources.OPENALEX,10.4337/9781839100796.00009,,31,"https://openalex.org/W3183952475
+https://doi.org/10.4337/9781839100796.00009"
+"Van Hijfte, S.",Blockchain and Cryptocurrencies,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-6137-8_5,,32,"https://link.springer.com/content/pdf/10.1007/978-1-4842-6137-8_5
+http://dx.doi.org/10.1007/978-1-4842-6137-8_5"
+"Rajmohan, R.,Ananth Kumar, T.,Pavithra, M.,Sandhya, S.",Blockchain,2020-11-09 00:00:00,SupportedSources.CROSSREF,10.1201/9781003004998-11,,33,http://dx.doi.org/10.1201/9781003004998-11
+,Blockchain and monopolization,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.4337/9781800885530.00018,,34,http://dx.doi.org/10.4337/9781800885530.00018
+"Polinpapilinho F. Katina,Charles B. Keating,Joseph A. Sisti,Adrian V. Gheorghe",Blockchain governance,2019-01-01 00:00:00,SupportedSources.OPENALEX,10.1504/ijcis.2019.098835,,35,"https://openalex.org/W4244373285
+https://doi.org/10.1504/ijcis.2019.098835"
+,What are blockchain and cryptocurrency?,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.5040/9781526508409.chapter-002,,36,http://dx.doi.org/10.5040/9781526508409.chapter-002
+"Gopalan, R.",Blockchain and Cybersecurity,2021-09-30 00:00:00,SupportedSources.CROSSREF,10.1201/9781003175872-9,,37,http://dx.doi.org/10.1201/9781003175872-9
+"Kumar, R.",Blockchain in EHR,2021-02-17 00:00:00,SupportedSources.CROSSREF,10.1201/9781003133391-13,,38,http://dx.doi.org/10.1201/9781003133391-13
+"Ahamed, N.",Blockchain,2020-09-18 00:00:00,SupportedSources.CROSSREF,10.1201/9781003032588-5,,39,http://dx.doi.org/10.1201/9781003032588-5
+"Million, C.",3 Die Blockchain – ein rechtsfreier Raum?,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.34157/9783648123478-99,,40,http://dx.doi.org/10.34157/9783648123478-99
+,Cryptocurrency and Blockchain,2021-05-19 00:00:00,SupportedSources.CROSSREF,10.1002/9781119682127.ch8,,41,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119682127.ch8
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119682127.ch8
+http://dx.doi.org/10.1002/9781119682127.ch8"
+"Kumar, M.,Dubey, H.,Kumar, K.",Blockchain in Administration,2021-11-05 00:00:00,SupportedSources.CROSSREF,10.1201/9781003107507-4,,42,http://dx.doi.org/10.1201/9781003107507-4
+"Gray, G.",Why Blockchain?,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-85716-5_1,,43,"https://link.springer.com/content/pdf/10.1007/978-3-030-85716-5_1
+http://dx.doi.org/10.1007/978-3-030-85716-5_1"
+"Adam Hayes,Paolo Tasca",Blockchain and Crypto-currencies,2016-03-18 00:00:00,SupportedSources.OPENALEX,10.1002/9781119218906.ch57,,44,"https://openalex.org/W2476195289
+https://doi.org/10.1002/9781119218906.ch57
+https://mdpi-res.com/bookfiles/book/3303/Blockchain_and_Cryptocurrencies.pdf"
+"Docherty, M.,British Parliament",A Blockchain Roadmap,2021-10-20 00:00:00,SupportedSources.CROSSREF,10.47330/cbc.2021.ovmc1650,,45,http://dx.doi.org/10.47330/cbc.2021.ovmc1650
+"van Rijmenam, M.,Ryan, P.",What is the Blockchain?,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.4324/9780429457715-2,,46,http://dx.doi.org/10.4324/9780429457715-2
+"Sruti, C.,Umamaheswari, S.",Blockchain,2021-10-06 00:00:00,SupportedSources.CROSSREF,10.1201/9781003139737-16,,47,http://dx.doi.org/10.1201/9781003139737-16
+"Suganthi, S.,Beena, T.,Sumathi, D.,Poongodi, T.",Blockchain,2021-02-17 00:00:00,SupportedSources.CROSSREF,10.1201/9780429352898-2,,48,http://dx.doi.org/10.1201/9780429352898-2
+"Swaminarayan, P.,Mehta, A.,Parsania, N.,Solanki, K.",Blockchain,2021-10-13 00:00:00,SupportedSources.CROSSREF,10.1201/9781003129486-3,,49,http://dx.doi.org/10.1201/9781003129486-3
+,Blockchain and Darwin,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.4337/9781800885530.00009,,50,http://dx.doi.org/10.4337/9781800885530.00009
+"Glaser, S.",4.01 Blockchain,2020-04-25 00:00:00,SupportedSources.CROSSREF,10.26226/morressier.5edf654debbedaa1b0a6e867,,51,http://dx.doi.org/10.26226/morressier.5edf654debbedaa1b0a6e867
+"Upadhyay, N.",Blockchain,2019-11-05 00:00:00,SupportedSources.CROSSREF,10.1108/978-1-83867-299-720191003,,52,"https://www.emerald.com/insight/content/doi/10.1108/978-1-83867-299-720191003/full/xml
+https://www.emerald.com/insight/content/doi/10.1108/978-1-83867-299-720191003/full/html
+http://dx.doi.org/10.1108/978-1-83867-299-720191003"
+"Greenwood, D.",BIM and Blockchain Keynote,2022-10-30 00:00:00,SupportedSources.CROSSREF,10.47330/cbc.2022.nzwp2618,,53,http://dx.doi.org/10.47330/cbc.2022.nzwp2618
+"Wittenberg, S.",6 Blockchain Use-Cases,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.34156/9783791046082-189,,54,http://dx.doi.org/10.34156/9783791046082-189
+"Rosenberger, P.",Die Blockchain kann die Welt verändern,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-56088-4_8,,55,"http://link.springer.com/content/pdf/10.1007/978-3-662-56088-4_8
+http://dx.doi.org/10.1007/978-3-662-56088-4_8"
+"Murtazashvili, I.,Murtazashvili, J.,Weiss, M.,Madison, M.",Blockchain Networks as Knowledge Commons,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.5334/ijc.1146,,56,"https://doi.org/10.5334/ijc.1146
+http://dx.doi.org/10.5334/ijc.1146"
+"Setiya, R.,Pandey, S.,Singh, A.,Sharma, D.",Citizen e-governance using blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/b978-0-12-824446-3.00010-7,,57,"https://api.elsevier.com/content/article/PII:B9780128244463000107?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:B9780128244463000107?httpAccept=text/plain
+http://dx.doi.org/10.1016/b978-0-12-824446-3.00010-7"
+,Collusion using blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.4337/9781800885530.00016,,58,http://dx.doi.org/10.4337/9781800885530.00016
+"Haibin Zheng,Qianhong Wu,Jan Xie,Zhenyu Guan,Bo Qin,Zhiqiang Gu",An organization-friendly blockchain system,2020-01-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.cose.2019.101598,,59,"https://openalex.org/W2969591183
+https://doi.org/10.1016/j.cose.2019.101598"
+"Yadav, J.,Jangirala, S.,Verma, D.,Srivastava, S.,Chaudhry, S.",Blockchain for Fool-Proof E-Voting Systems,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-16-5655-2_44,,60,"https://link.springer.com/content/pdf/10.1007/978-981-16-5655-2_44
+http://dx.doi.org/10.1007/978-981-16-5655-2_44"
+"Mohameden Dieye,Pierre Valiorgue,Jean-Patrick Gelas,El-Hacen Diallo,Parisa Ghodous,Frédérique Biennier,Éric Peyrol",A Self-Sovereign Identity based on Zero-Knowledge Proof and blockchain,2023-01-01 00:00:00,SupportedSources.OPENALEX,10.1109/access.2023.3268768,,61,"https://openalex.org/W4366504362
+https://doi.org/10.1109/access.2023.3268768"
+"van Rijmenam, M.,Ryan, P.",Blockchain and Wicked Problems,2018-09-03 00:00:00,SupportedSources.CROSSREF,10.4324/9780429457715-1,,62,http://dx.doi.org/10.4324/9780429457715-1
+"Singhal, B.,Dhameja, G.,Panda, P.",How Blockchain Works,2018-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-3444-0_2,,63,"http://link.springer.com/content/pdf/10.1007/978-1-4842-3444-0_2
+http://dx.doi.org/10.1007/978-1-4842-3444-0_2"
+"White, M.",How to use blockchain,2022-10-30 00:00:00,SupportedSources.CROSSREF,10.47330/cbc.2022.ofxs7060,,64,http://dx.doi.org/10.47330/cbc.2022.ofxs7060
+"Chowdhury, N.",Applications of Blockchain,2019-08-16 00:00:00,SupportedSources.CROSSREF,10.1201/9780429325533-11,,65,http://dx.doi.org/10.1201/9780429325533-11
+,Blockchain Applications,2021-05-19 00:00:00,SupportedSources.CROSSREF,10.1002/9781119682127.ch10,,66,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119682127.ch10
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119682127.ch10
+http://dx.doi.org/10.1002/9781119682127.ch10"
+"Ahmad Firdaus,Mohd Abbas Abdul Razak,Ali Feizollah,Ibrahim Abaker Targio Hashem,Mohamad Hazim,Nor Badrul Anuar",The rise of “blockchain”: bibliometric analysis of blockchain study,2019-07-05 00:00:00,SupportedSources.OPENALEX,10.1007/s11192-019-03170-4,,67,"https://openalex.org/W2955437544
+https://doi.org/10.1007/s11192-019-03170-4"
+,Blockchain entrepreneurs’ survey: Blockchain architecture,2021-02-03 00:00:00,SupportedSources.CROSSREF,10.1787/774c9163-en,,68,http://dx.doi.org/10.1787/774c9163-en
+"Mukherjee, P.,Pradhan, C.",Blockchain 1.0 to Blockchain 4.0—The Evolutionary Transformation of Blockchain Technology,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-69395-4_3,,69,"https://link.springer.com/content/pdf/10.1007/978-3-030-69395-4_3
+http://dx.doi.org/10.1007/978-3-030-69395-4_3"
+"Dhillon, V.,Metcalf, D.,Hooper, M.",Blockchain Simulation,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-1-4842-6534-5_18,,70,"http://link.springer.com/content/pdf/10.1007/978-1-4842-6534-5_18
+http://dx.doi.org/10.1007/978-1-4842-6534-5_18"
+"Indrakumari, R.,Singh, K.,Kumar Srivastava, R.,Ilavendhan, A.",Blockchain Performance,2021-05-01 00:00:00,SupportedSources.CROSSREF,10.1201/9781003097990-3,,71,http://dx.doi.org/10.1201/9781003097990-3
+"Yue Liu,Qinghua Lu,Guangsheng Yu,Hye-Young Paik,Harsha Perera,Liming Zhu",A Pattern Language for Blockchain Governance,2022-03-01 07:08:12+00:00,SupportedSources.ARXIV,,"Blockchain technology has been used to build next-generation applications
+taking advantage of its decentralised nature. Nevertheless, there are some
+serious concerns about the trustworthiness of blockchain due to the
+vulnerabilities in on-chain algorithmic mechanisms, and tedious disputes and
+debates in off-chain communities. Accordingly, blockchain governance has
+received great attention for improving the trustworthiness of all decisions
+that direct a blockchain platform. However, there is a lack of systematic
+knowledge to guide practitioners to perform blockchain governance. We have
+performed a systematic literature review to understand the state-of-the-art of
+blockchain governance. We identify the lifecycle stages of a blockchain
+platform, and present 14 architectural patterns for blockchain governance in
+this study. This pattern language can provide guidance for the effective use of
+patterns for blockchain governance in practice, and support the architecture
+design of governance-driven blockchain systems.",72,"http://arxiv.org/pdf/2203.00268v3
+http://arxiv.org/abs/2203.00268v3
+http://arxiv.org/pdf/2203.00268v3"
+,Types of Blockchain,2019-07-29 00:00:00,SupportedSources.CROSSREF,10.1002/9781119578048.ch2,,73,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.ch2
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.ch2
+http://dx.doi.org/10.1002/9781119578048.ch2"
+,Blockchain Powering the New Marketplace Model,2019-07-29 00:00:00,SupportedSources.CROSSREF,10.1002/9781119578048.ch5,,74,"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.ch5
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119578048.ch5
+http://dx.doi.org/10.1002/9781119578048.ch5"
+"Labazova, Olga",Blockchain Application in Information Systems Research,2020-12-22 00:00:00,SupportedSources.CORE,,"Blockchain is a radical innovation with a core value proposition of shifting trust from institutions towards algorithms. Still, the potential of Blockchains remains vague due to the knowledge gap between computer science and socio-economic activities. Ninety percent of current Blockchain projects did not move from ideas to production-ready prototypes. Researchers and practitioners are searching for the meaningful leveraging of Blockchains for value creation. 
+
+This dissertation aims to bridge the gap between technical and managerial knowledge of Blockchain that allows successful Blockchain system design and implementation. Therefore, the objective of the project is to identify the scope of Blockchain applications and introduce guidelines to make purposeful decisions of Blockchain implementations. 
+
+The dissertation project covers four research questions. First, I consolidated knowledge of Blockchain technical configurations through the development of a taxonomy. Second, I considered the design patterns of smart contracts that represent the application logic of Blockchain systems. Third, I offered guidance for transforming initial conceptions of Blockchain ideas into working system prototypes by introducing a Blockchain configuration process model. Fourth, I investigated the common factors of Blockchain decisions to evaluate Blockchain implementations in the form of the framework.
+
+I employed a Design Science Research approach to developing four artefacts. The first three artefacts consider technical, application, and organizational aspects of Blockchain. The synergy reflects in the fourth, combinational artefact, which employs the high-level factors of Blockchain decisions. During the project, I have investigated the scientific and business studies, run Blockchain-based applications, conduct interviews, and evaluate the findings on Blockchain projects.
+
+The dissertation project contributes to research by bridging knowledge gaps between computer science and socio-economic research on a Blockchain that provides a fruitful ground for future conceptual and empirical studies. For practitioners, the developed artefacts are useful to identify and guide Blockchain projects that facilitate purposeful Blockchain adoption",75,https://core.ac.uk/download/395100247.pdf
+"Chatzigiannis, P.,Chalkias, K.",Proof of Assets in the Diem Blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-81645-2_3,,76,"https://link.springer.com/content/pdf/10.1007/978-3-030-81645-2_3
+http://dx.doi.org/10.1007/978-3-030-81645-2_3"
+"Tatsuo Mitani,Akira Otsuka",Traceability in Permissioned Blockchain,2020-01-27 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1109/ACCESS.2020.2969454,"In this paper, we have achieved privacy protection and high transparency in a permissioned blockchain. There is a sidechain that connects the permissionless blockchain and the permissioned blockchain. The behavior in the permissioned blockchain is almost a black box from the perspective of the permissionless blockchain. While this fact is useful for privacy protection, there is room for improvement in terms of transparency. To improve the transparency of the permissioned blockchain under privacy protection, we consider traceability in the permissioned blockchain consisting of the following three properties: trade privacy (who trades with whom and at what asset amount), preservation (the total amount inside the permissioned blockchain, including deposits and withdrawals to the permissionless blockchain, is immutable), and noninvolvement (some members in the permissioned blockchain are not involved in some trades, and it is possible to prove that specified members performed the transaction). To the best of our knowledge, we are the first to achieve both preservation and noninvolvement while protecting the privacy of transactions. Our approach is as follows. We model traceability based on the hidden Markov model. Because the proof of traceability requires the calculation of more than quadratic degrees, we encrypt this model by homomorphic encryption. The number of participants in the permissioned blockchain corresponds to the number of additions in the model. Then, we can construct the encrypted model by employing somewhat homomorphic encryption. The establishment of the original model is verifiable by applying the noninteractive zero-knowledge proof of the knowledge that the plaintext is equal to zero. This is an adaptation of Benhamouda et al. (Asiacrypt 2014).",77,"https://www.semanticscholar.org/paper/b23000ee5c698b608d5f4e189e987d5034d57e8a
+https://ieeexplore.ieee.org/ielx7/6287639/8948470/08970301.pdf"
+"Fusco, F.,Lunesu, M.,Pani, F.,Pinna, A.","Crypto-voting, a Blockchain based e-Voting System",2018-01-01 00:00:00,SupportedSources.CROSSREF,10.5220/0006962102230227,,78,http://dx.doi.org/10.5220/0006962102230227
+"Ashurst, S.,Tempesta, S.,Kampakis, S.",Blockchain Applied,2021-07-14 00:00:00,SupportedSources.CROSSREF,10.4324/9781003132592,,79,http://dx.doi.org/10.4324/9781003132592
+"Krishnamohan, T.",Proof of identity - a blockchain consensus algorithm to create a dynamically permissioned blockchain,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1504/ijbc.2022.128888,,80,"http://www.inderscienceonline.com/doi/full/10.1504/IJBC.2022.128888
+http://dx.doi.org/10.1504/ijbc.2022.128888"
+"Sewpersadh, Natisha",Knowledge-mapping of blockchain technology applications for a banking institution,2019-01-01 00:00:00,SupportedSources.CORE,,"Abstract : Blockchain technology is a relatively new technology which provides many opportunities for knowledge-mapping. Blockchain technology is best described as a decentralised ledger system that stores information about transactions and uses digital currencies such as Bitcoin. The best possible utilisation of a new technology usually depends on how quickly people can develop and apply new knowledge of the technology. Knowledge is a key component to leverage the most useful features of any new technology. Moreover, it is crucial to know how to avoid the pitfalls of a new technology in order to develop solutions. This study’s unit of analysis is knowledge of blockchain technology, that is, the knowledge possessed by people operating in the banking industry. The banking industry is sternly regulated in all jurisdictions and employee know-how is a valuable resource. The recent wide dissemination of blockchain technology, the popularity of cryptocurrencies, and the Initial Coin Offering have contributed to the fact that financial institutions’ management underline the vast potential of blockchain technology in the financial industry. For example, large banks are conducting tests of decentralised asset technology and implementing decentralised ledger systems in business processes. Banks are investing in projects and start-ups that are developing blockchain-based solutions. Therefore, bank employees with know-how and prior experience with blockchain are essential to create blockchain solutions. The objective of this study is to map the existing know-how and identify knowledge gaps of blockchain technology know-how and its possible application in a South African Banking Institution (SABI). This is done through an analysis of knowledge of how the utilisation of blockchain technology changes the existing operations models of financial institutions. The research methodology consists of an inductive knowledge-mapping strategy and mixed-method approach. The quantitative data collection method involved gathering data via an online questionnaire sent to a purposive sample, namely, SABI’s clients, investors, experts, and individuals with the common denominator: Blockchain technology knowledge interest who had attended the Blockchain Africa Conference. The qualitative data collection method was an interview with individuals who had a specific technical knowledge of blockchain technology, with the common denominator: SABI blockchain knowledge group. iv The data analysis was sequential; the quantitative data analysis was followed by qualitative data analysis. The findings identify categories of knowledge that are needed to inform and build new blockchain technology-based operations models. Knowledge gaps were identified in the SABI. Based on the findings, the study conceptualises a knowledge map and develops a theory, namely: If the blockchain knowledge maps of financial institutions integrate knowledge across their Core Banking Application pillars, then the financial services industry will create an Internet of Value-Exchange advantage for everyone on the network. Further study is required in order to test this theory. A key recommendation is to perform knowledge-mapping of the Core Banking Application pillars as the next step of SABI’s knowledge maturity of blockchain technology. In conclusion, knowledge maturity of blockchain technology is essential to create an Internet of Value-Exchange advantage for everyone within the network. The mapping of knowledge provides a measurement of knowledge maturity. Blockchain technology provides many opportunities for knowledge-mapping.M.Phil. (Information Management",81,https://core.ac.uk/download/245881150.pdf
+"Knight, E.",Blockchain Jenga: The Challenges of Blockchain Discovery and Admissibility Under the Federal Rules,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.2139/ssrn.3409217,,82,http://dx.doi.org/10.2139/ssrn.3409217
+"Liz George,Jubilant J. Kizhakkethottam",Evolution of Zero-Knowledge Proof (ZKP) and its role in blockchain applications for ensuring data privacy,None,SupportedSources.SEMANTIC_SCHOLAR,,"Last decade has witnessed a flourish in blockchain applications on account of the transparency, immutability and data privacy it offers. It allows users to act anonymously and perform transactions with high-end security. Counter measures to prevent various attacks that compromises the privacy of blockchain applications and improvising existing privacy mechanisms is the main concern in this area. Zero Knowledge proof is a cryptographic technique which has the potential to revolutionize the way data is collected, used and transacted with. It allows the user to hide the information that he possess but still able to prove its validity to others, thereby opens far-reaching prospects in the privacy preservation mechanism of blockchain applications. This paper gives an insight about the various Zero Knowledge Proof protocols like NIZKP, ZKRP, zk-SNARK, Bulletproof etc. that have evolved over time, and its role in privacy management in the era of blockchain. keywords blockchain, zero knowledge proof, privacy, cryptography _____________________________________________________________________________________________________",83,https://www.semanticscholar.org/paper/48b4db447aec8b8821ddbbb09d394bbf32d2e385
+"Allen, D.,Berg, C.,Davidson, S.,Potts, J.","Property Rights, Knowledge Commons, and Blockchain Governance",2021-12-31 00:00:00,SupportedSources.CROSSREF,10.1017/9781108692915.008,,84,"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/971B2BCC43607BCC59DD793AE77C68AA
+http://dx.doi.org/10.1017/9781108692915.008"
+,The Blockchain: a Tool for Non-centralization and Disintermediation,2019-05-23 00:00:00,SupportedSources.CROSSREF,10.1002/9781119629573.part1,,85,"https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119629573.part1
+http://onlinelibrary.wiley.com/wol1/doi/10.1002/9781119629573.part1/fullpdf
+http://dx.doi.org/10.1002/9781119629573.part1"
+"Wang, Q.,Su, M.",Integrating blockchain technology into the energy sector — from theory of blockchain to research and application of energy blockchain,2020-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.cosrev.2020.100275,,86,"https://api.elsevier.com/content/article/PII:S1574013720300241?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S1574013720300241?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.cosrev.2020.100275"
+"Dhobale, J.,Mishra, V.",Blockchain Theories and Its Applications,2020-09-18 00:00:00,SupportedSources.CROSSREF,10.1201/9781003032588-11,,87,http://dx.doi.org/10.1201/9781003032588-11
+"Huixin Wu,Feng Wang",A Survey of Noninteractive Zero Knowledge Proof System and Its Applications,2014-05-04 00:00:00,SupportedSources.SEMANTIC_SCHOLAR,10.1155/2014/560484,"Zero knowledge proof system which has received extensive attention since it was proposed is an important branch of cryptography and computational complexity theory. Thereinto, noninteractive zero knowledge proof system contains only one message sent by the prover to the verifier. It is widely used in the construction of various types of cryptographic protocols and cryptographic algorithms because of its good privacy, authentication, and lower interactive complexity. This paper reviews and analyzes the basic principles of noninteractive zero knowledge proof system, and summarizes the research progress achieved by noninteractive zero knowledge proof system on the following aspects: the definition and related models of noninteractive zero knowledge proof system, noninteractive zero knowledge proof system of NP problems, noninteractive statistical and perfect zero knowledge, the connection between noninteractive zero knowledge proof system, interactive zero knowledge proof system, and zap, and the specific applications of noninteractive zero knowledge proof system. This paper also points out the future research directions.",88,"https://www.semanticscholar.org/paper/715c7306dc1e76cf3f650dd1648a487368f73a2a
+http://downloads.hindawi.com/journals/tswj/2014/560484.pdf"
+"Chen, M.,Ogunseitan, O.",Zero E-waste: Regulatory impediments and blockchain imperatives,2021-02-27 00:00:00,SupportedSources.CROSSREF,10.1007/s11783-021-1402-x,,89,"https://link.springer.com/content/pdf/10.1007/s11783-021-1402-x.pdf
+https://link.springer.com/article/10.1007/s11783-021-1402-x/fulltext.html
+https://link.springer.com/content/pdf/10.1007/s11783-021-1402-x.pdf
+http://dx.doi.org/10.1007/s11783-021-1402-x"
+"Shaimaa Badr,Ibrahim Gomaa,Emad Abd-Elrahman",Multi-tier Blockchain Framework for IoT-EHRs Systems,2018-01-01 00:00:00,SupportedSources.OPENALEX,10.1016/j.procs.2018.10.162,,90,"https://openalex.org/W2899742646
+https://doi.org/10.1016/j.procs.2018.10.162
+https://doi.org/10.1016/j.procs.2018.10.162"
+"Million, C.",1 Blockchain Fundamentals,2019-01-01 00:00:00,SupportedSources.CROSSREF,10.34157/9783648123478-11,,91,http://dx.doi.org/10.34157/9783648123478-11
+"Summers, A.",Understanding Blockchain and Cryptocurrencies,2022-03-12 00:00:00,SupportedSources.CROSSREF,10.1201/9781003187165,,92,http://dx.doi.org/10.1201/9781003187165
+"Gray, G.",Understanding Blockchain,2021-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-030-85716-5_2,,93,"https://link.springer.com/content/pdf/10.1007/978-3-030-85716-5_2
+http://dx.doi.org/10.1007/978-3-030-85716-5_2"
+"Minghui Xu,Yihao Guo,Chunchi Liu,Qin Hu,Dongxiao Yu,Zehui Xiong,Dusit Niyato,Xiuzhen Cheng",Exploring Blockchain Technology through a Modular Lens: A Survey,2023-04-13 16:16:18+00:00,SupportedSources.ARXIV,,"Blockchain has attracted significant attention in recent years due to its
+potential to revolutionize various industries by providing trustlessness. To
+comprehensively examine blockchain systems, this article presents both a
+macro-level overview on the most popular blockchain systems, and a micro-level
+analysis on a general blockchain framework and its crucial components. The
+macro-level exploration provides a big picture on the endeavors made by
+blockchain professionals over the years to enhance the blockchain performance
+while the micro-level investigation details the blockchain building blocks for
+deep technology comprehension. More specifically, this article introduces a
+general modular blockchain analytic framework that decomposes a blockchain
+system into interacting modules and then examines the major modules to cover
+the essential blockchain components of network, consensus, and distributed
+ledger at the micro-level. The framework as well as the modular analysis
+jointly build a foundation for designing scalable, flexible, and
+application-adaptive blockchains that can meet diverse requirements.
+Additionally, this article explores popular technologies that can be integrated
+with blockchain to expand functionality and highlights major challenges. Such a
+study provides critical insights to overcome the obstacles in designing novel
+blockchain systems and facilitates the further development of blockchain as a
+digital infrastructure to service new applications.",94,"http://arxiv.org/pdf/2304.08283v1
+http://arxiv.org/abs/2304.08283v1
+http://arxiv.org/pdf/2304.08283v1"
+"Bartling, S.",Blockchain for Science and Knowledge Creation,2018-11-24 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-662-57611-3_10,,95,"http://link.springer.com/content/pdf/10.1007/978-3-662-57611-3_10
+http://dx.doi.org/10.1007/978-3-662-57611-3_10"
+"Liu, Y.,Li, H.,Niu, Q.",A Leakage-Resilient Zero Knowledge Proof for Lattice Problem,2012-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-3-642-35362-8_21,,96,"http://link.springer.com/content/pdf/10.1007/978-3-642-35362-8_21
+http://dx.doi.org/10.1007/978-3-642-35362-8_21"
+"SoonHyeong Jeong,Byeongtae Ahn",Implementation of real estate contract system using zero knowledge proof algorithm based blockchain,2021-10-01 00:00:00,SupportedSources.OPENALEX,10.1007/s11227-021-03728-1,,97,"https://openalex.org/W3151669409
+https://doi.org/10.1007/s11227-021-03728-1"
+,Blockchain for Construction,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1007/978-981-19-3759-0,,98,"https://link.springer.com/content/pdf/10.1007/978-981-19-3759-0.pdf
+https://link.springer.com/content/pdf/10.1007/978-981-19-3759-0
+http://dx.doi.org/10.1007/978-981-19-3759-0"
+"Merrell, I.",Blockchain for decentralised rural development and governance,2022-01-01 00:00:00,SupportedSources.CROSSREF,10.1016/j.bcra.2022.100086,,99,"https://api.elsevier.com/content/article/PII:S2096720922000276?httpAccept=text/xml
+https://api.elsevier.com/content/article/PII:S2096720922000276?httpAccept=text/plain
+http://dx.doi.org/10.1016/j.bcra.2022.100086"

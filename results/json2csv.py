@@ -2,12 +2,12 @@ import csv
 import json
 import os
 
-print(os.listdir('.'))
-
-files = os.listdir('.')
+p = '6'
+print(os.listdir(p))
+files = os.listdir(p)
 for file in files:
     if file.endswith('json'):
-        with open(file, 'r', encoding='utf-8') as f:
+        with open(os.path.join(p, file), 'r', encoding='utf-8') as f:
             data = json.load(f)
         data_csv = []
 
@@ -17,7 +17,7 @@ for file in files:
                         'doi': row['doi'], 'abstract': row['abstract'], 'rank': row['rank'], 'url': '\n'.join(row['urls'])}
             data_csv.append(row_dict)
 
-        with open(file.replace('json', 'csv'), 'w', encoding='utf-8') as f:
+        with open(os.path.join(p, file.replace('json', 'csv')), 'w', encoding='utf-8') as f:
             writer = csv.DictWriter(f, data_csv[0].keys())
             writer.writeheader()
             writer.writerows(data_csv)
