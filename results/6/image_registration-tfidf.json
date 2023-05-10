@@ -1,0 +1,3803 @@
+[
+    {
+        "authors": [
+            "Lei Qu",
+            "Wan Wan",
+            "Kaixuan Guo",
+            "Yu Liu",
+            "Jun Tang",
+            "Xiaolei Li",
+            "Jun Wu"
+        ],
+        "title": "Triple-Input-Unsupervised neural Networks for deformable image registration",
+        "publication_date": "2021-11-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Pattern Recognit. Lett.",
+        "volume": "151",
+        "doi": "10.1016/j.patrec.2021.08.032",
+        "urls": [
+            "https://www.semanticscholar.org/paper/51bf2cc2e5085ba8e958eddfceffd85a00e3bfb1"
+        ],
+        "id": "id-6911146249334956527",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Triple-Input-Unsupervised neural Networks for deformable image registration",
+                "journal": "Pattern Recognition Letters",
+                "urls": [
+                    "https://doi.org/10.1016/j.patrec.2021.08.032"
+                ],
+                "doi": "10.1016/j.patrec.2021.08.032",
+                "publication_date": "None"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Triple-Input-Unsupervised neural Networks for deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3201182454",
+                    "https://doi.org/10.1016/j.patrec.2021.08.032"
+                ],
+                "doi": "10.1016/j.patrec.2021.08.032",
+                "publication_date": "2021-11-01 00:00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Triple-Input-Unsupervised neural Networks for deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0167865521003287?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0167865521003287?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.patrec.2021.08.032"
+                ],
+                "doi": "10.1016/j.patrec.2021.08.032",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Elizabeth McKenzie"
+        ],
+        "title": "A Neural Network Approach to Deformable Image Registration",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/05a25d08a3118d65237b5d9c50dc9f4bd215498a"
+        ],
+        "id": "id5656342407075109831",
+        "abstract": null,
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Ravi Shanker",
+            "H. Sankesara",
+            "Surendra Nagar",
+            "M. Bhattacharya"
+        ],
+        "title": "RESPNet: resource-efficient and structure-preserving network for deformable image registration",
+        "publication_date": "2022-09-30 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "The Journal of Supercomputing",
+        "volume": "79",
+        "doi": "10.1007/s11227-022-04840-6",
+        "urls": [
+            "https://www.semanticscholar.org/paper/636410ad8cb014d92bc7c99956a94423933cf077"
+        ],
+        "id": "id-5508375039658713456",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "RESPNet: resource-efficient and structure-preserving network for deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://link.springer.com/content/pdf/10.1007/s11227-022-04840-6.pdf",
+                    "https://link.springer.com/article/10.1007/s11227-022-04840-6/fulltext.html",
+                    "https://link.springer.com/content/pdf/10.1007/s11227-022-04840-6.pdf",
+                    "http://dx.doi.org/10.1007/s11227-022-04840-6"
+                ],
+                "doi": "10.1007/s11227-022-04840-6",
+                "publication_date": "2022-09-30 00:00:00"
+            }
+        ],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Cetin, O.",
+            "Shu, Y.",
+            "Flinner, N.",
+            "Ziegler, P.",
+            "Wild, P.",
+            "Koeppl, H."
+        ],
+        "title": "Multi-magnification Networks for\u00a0Deformable Image Registration on\u00a0Histopathology Images",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-031-11203-4_14",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-031-11203-4_14",
+            "http://dx.doi.org/10.1007/978-3-031-11203-4_14"
+        ],
+        "id": "id2385649287042210008",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Multi-magnification Networks for Deformable Image Registration on Histopathology Images",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a644ebe48130e49d602407526695e65d7001fbab"
+                ],
+                "doi": "10.1007/978-3-031-11203-4_14",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Ahmad, S.",
+            "Khan, M."
+        ],
+        "title": "Deformable image registration based on elastodynamics",
+        "publication_date": "2015-05-27 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s00138-015-0690-1",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1.pdf",
+            "http://link.springer.com/article/10.1007/s00138-015-0690-1/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s00138-015-0690-1",
+            "http://dx.doi.org/10.1007/s00138-015-0690-1"
+        ],
+        "id": "id1986469057811732488",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable image registration based on elastodynamics",
+                "journal": "Machine Vision and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8a3f30a2de15b6c94affa29fdb95ef43d79ccc9e"
+                ],
+                "doi": "10.1007/s00138-015-0690-1",
+                "publication_date": "2015-05-27 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Cai, Y.",
+            "Guo, X.",
+            "Zhong, Z.",
+            "Mao, W."
+        ],
+        "title": "Dynamic meshing for deformable image registration",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.cad.2014.08.009",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S001044851400178X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.cad.2014.08.009"
+        ],
+        "id": "id-6269789046826557999",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Dynamic meshing for deformable image registration",
+                "journal": "Comput. Aided Des.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8208884b176e87567d13bf990e9038f37e034ee6"
+                ],
+                "doi": "10.1016/j.cad.2014.08.009",
+                "publication_date": "2015-01-01 00:00:00"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Sarudis, S.",
+            "Karlsson, A.",
+            "Bibac, D.",
+            "Nyman, J.",
+            "B\u00e4ck, A."
+        ],
+        "title": "[P232] Deformable image registration for CT-images of the thorax region",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2018.06.518",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1120179718310007?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1120179718310007?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2018.06.518"
+        ],
+        "id": "id-8022108217056046494",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "[P232] Deformable image registration for CT-images of the thorax region",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bed04d1feabe1238dd68d67b7086f5eec768b75c",
+                    "https://doi.org/10.1016/j.ejmp.2018.06.518"
+                ],
+                "doi": "10.1016/J.EJMP.2018.06.518",
+                "publication_date": "2018-08-01 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Spinko, V.",
+            "Shi, D.",
+            "Ng, W.",
+            "Leong, J."
+        ],
+        "title": "Gabor Neural Network for Endoscopic Image Registration",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11760023_70",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11760023_70.pdf",
+            "http://dx.doi.org/10.1007/11760023_70"
+        ],
+        "id": "id942458919814795493",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Gabor Neural Network for Endoscopic Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/20584239d43d76a9a87a5e3d22cc19f8c24adcef"
+                ],
+                "doi": "10.1007/11760023_70",
+                "publication_date": "2006-05-28 00:00:00"
+            }
+        ],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Fedorov, A.",
+            "Risholm, P.",
+            "Wells, W."
+        ],
+        "title": "Deformable Registration for IGT",
+        "publication_date": "2013-11-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4614-7657-3_14",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4614-7657-3_14",
+            "http://dx.doi.org/10.1007/978-1-4614-7657-3_14"
+        ],
+        "id": "id-3255314662490043145",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Registration for IGT",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e949ad50ea47fc887213b6bbbf14c7eff562ba7d"
+                ],
+                "doi": "10.1007/978-1-4614-7657-3_14",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Calusi, S.",
+            "Labanca, G.",
+            "Noferini, L.",
+            "Talamonti, C.",
+            "Simontacchi, G.",
+            "Pallotta, S."
+        ],
+        "title": "Accuracy of a deformable image registration algorithm",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2016.01.032",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S112017971600034X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2016.01.032"
+        ],
+        "id": "id-2491222480574658578",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A.28 - Accuracy of a deformable image registration algorithm",
+                "journal": "Physica Medica",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3fc823aa3f141295b2ee0d493b9ca6b1ca3a92e7"
+                ],
+                "doi": "10.1016/J.EJMP.2016.01.032",
+                "publication_date": "2016-02-01 00:00:00"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Jingyi Xi",
+            "Lin Luo",
+            "Jinlong Li",
+            "Yu Zhang",
+            "Yong Wang",
+            "Dan Jiang"
+        ],
+        "title": "An attention-based residual neural network for deformable image registration",
+        "publication_date": "2022-12-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1117/12.2653313",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c53bd3f4b873e163d27f3083dfe6408a264cc00e"
+        ],
+        "id": "id-6974586842614557280",
+        "abstract": "Deformable image registration is a basic image processing task, especially widely used in medical image processing and analysis. Different from rigid registration, its purpose is to find the optimal nonlinear transformation between two images and establish corresponding relationship, so as to achieve image consistency. In recent years, deformable registration methods based on deep learning have been studied a lot. Compared with traditional methods, they show great advantages in registration performance. This paper proposes an attention-based residual neural network for deformable image registration, which utilizes the U-Net encoder-decoder structure to design a convolutional neural network to predict the deformation field, and uses the residual module and attention mechanism enhances the ability of the model to extract features, and finally uses the spatial transformation function to obtain the registered image, and the entire network is trained in an unsupervised manner. We conducted experiments on the MNIST dataset and 2D brain magnetic resonance images (MRI) respectively. The experimental results show that the deformable registration network proposed in this paper has good performance and shows good results in registration accuracy.",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "An attention-based residual neural network for deformable image registration",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1117/12.2653313"
+                ],
+                "doi": "10.1117/12.2653313",
+                "publication_date": "2022-12-15 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "An attention-based residual neural network for deformable image registration",
+                "journal": "Thirteenth International Conference on Information Optics and Photonics (CIOP 2022)",
+                "urls": [
+                    "https://doi.org/10.1117/12.2653313"
+                ],
+                "doi": "10.1117/12.2653313",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Sun, L.",
+            "Zhang, S."
+        ],
+        "title": "Deformable MRI-Ultrasound Registration Using 3D Convolutional Neural Network",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-01045-4_18",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-3-030-01045-4_18",
+            "http://dx.doi.org/10.1007/978-3-030-01045-4_18"
+        ],
+        "id": "id-2230501458064388334",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Deformable MRI-Ultrasound Registration Using 3D Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2889828188",
+                    "https://doi.org/10.1007/978-3-030-01045-4_18"
+                ],
+                "doi": "10.1007/978-3-030-01045-4_18",
+                "publication_date": "2018-09-16 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable MRI-Ultrasound Registration Using 3D Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c8cdd523fc190f584a9e8048692cf8532bf5daca"
+                ],
+                "doi": "10.1007/978-3-030-01045-4_18",
+                "publication_date": "2018-09-16 00:00:00"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "Shackleford, J.",
+            "Kandasamy, N.",
+            "Sharp, G."
+        ],
+        "title": "Deformable Registration Using Optical-Flow Methods",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-407741-6.00005-0",
+        "urls": [
+            "http://dx.doi.org/10.1016/b978-0-12-407741-6.00005-0"
+        ],
+        "id": "id7559532716349098857",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Registration Using Optical-Flow Methods",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/426c41f17816ab29c90972c0d3f51262927952e8"
+                ],
+                "doi": "10.1016/B978-0-12-407741-6.00005-0",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "Cai, J.",
+            "Chang, Z.",
+            "Czito, B.",
+            "Yin, F."
+        ],
+        "title": "Improving Tumor-to-Tissue CNR of 4D-MRI Using Deformable Image Registration",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.prro.2013.01.027",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1879850013000301?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1879850013000301?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.prro.2013.01.027"
+        ],
+        "id": "id-5820850609574413872",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Improving Tumor-to-Tissue CNR of 4D-MRI Using Deformable Image Registration.",
+                "journal": "Practical radiation oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f9449bc272960a069b773371b72033386963c651"
+                ],
+                "doi": "10.1016/j.prro.2013.01.027",
+                "publication_date": "2013-04-01 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Hilts, M.",
+            "Batchelar, D.",
+            "Rose, J.",
+            "Crook, J."
+        ],
+        "title": "Deformable Image Registration for Defining the Postoperative Seroma in PBSI",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.brachy.2014.02.342",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1538472114003894?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1538472114003894?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.brachy.2014.02.342"
+        ],
+        "id": "id-2665461436548162898",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Image Registration for Defining the Postoperative Seroma in PBSI",
+                "journal": "Brachytherapy",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/028fb8bef5f0502b5ac84b7396eb7c8592f824b0"
+                ],
+                "doi": "10.1016/J.BRACHY.2014.02.342",
+                "publication_date": "2014-03-01 00:00:00"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "Yedekci, F.",
+            "Gultekin, M.",
+            "Sari, S.",
+            "Yildiz, F."
+        ],
+        "title": "Automatic Contouring Using Deformable Image Registration for Tandem-Ring or Tandem-Ovoid Brachytherapy",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2021.07.554",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301621014243?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301621014243?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2021.07.554"
+        ],
+        "id": "id7747254099938207639",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Automatic Contouring Using Deformable Image Registration for Tandem-Ring or Tandem-Ovoid Brachytherapy.",
+                "journal": "International journal of radiation oncology, biology, physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74d52bb86900565445b217bb551c620c6355c4f6",
+                    "http://www.redjournal.org/article/S0360301621014243/pdf"
+                ],
+                "doi": "10.1016/j.ijrobp.2021.07.554",
+                "publication_date": "2021-11-01 00:00:00"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Zhang, Y.",
+            "Zhang, L.",
+            "Court, L.",
+            "Balter, P.",
+            "Dong, L.",
+            "Yang, J."
+        ],
+        "title": "Tissue-specific deformable image registration using a spatial-contextual filter",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.compmedimag.2020.101849",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0895611120301440?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0895611120301440?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.compmedimag.2020.101849"
+        ],
+        "id": "id-231374997817916949",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Tissue-specific deformable image registration using a spatial-contextual filter",
+                "journal": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/244f11d4ee115a433468822d4568c109858cce39"
+                ],
+                "doi": "10.1016/j.compmedimag.2020.101849",
+                "publication_date": "2020-12-29 00:00:00"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Muenzing, S.",
+            "van Ginneken, B.",
+            "Pluim, J."
+        ],
+        "title": "On Combining Algorithms for Deformable Image Registration",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-31340-0_27",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-31340-0_27",
+            "http://dx.doi.org/10.1007/978-3-642-31340-0_27"
+        ],
+        "id": "id-1056531585483651125",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Combining Algorithms for Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2afc979ce2117c36a6bc93edc575b3dbd60c7170"
+                ],
+                "doi": "10.1007/978-3-642-31340-0_27",
+                "publication_date": "2012-07-07 00:00:00"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "W. Nobnop",
+            "I. Chitapanarux",
+            "S. Wanwilairat",
+            "E. Tharavichitkul",
+            "V. Lorvidhaya",
+            "P. Sripan"
+        ],
+        "title": "Effect of Deformation Methods on the Accuracy of Deformable Image Registration From Kilovoltage CT to Tomotherapy Megavoltage CT",
+        "publication_date": "2019-01-07 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Technology in Cancer Research & Treatment",
+        "volume": "18",
+        "doi": "10.1177/1533033818821186",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7daef8f5108679cc7035b870b847b684938e02bb"
+        ],
+        "id": "id-3902476768010357494",
+        "abstract": "Introduction: The registration accuracy of megavoltage computed tomography images is limited by low image contrast when compared to that of kilovoltage computed tomography images. Such issues may degrade the deformable image registration accuracy. This study evaluates the deformable image registration from kilovoltage to megavoltage images when using different deformation methods and assessing nasopharyngeal carcinoma patient images. Methods: The kilovoltage and the megavoltage images from the first day and the 20th fractions of the treatment day of 12 patients with nasopharyngeal carcinoma were used to evaluate the deformable image registration application. The deformable image registration image procedures were classified into 3 groups, including kilovoltage to kilovoltage, megavoltage to megavoltage, and kilovoltage to megavoltage. Three deformable image registration methods were employed using the deformable image registration and adaptive radiotherapy software. The validation was compared by volume-based, intensity-based, and deformation field analyses. Results: The use of different deformation methods greatly affected the deformable image registration accuracy from kilovoltage to megavoltage. The asymmetric transformation with the demon method was significantly better than other methods and illustrated satisfactory value for adaptive applications. The deformable image registration accuracy from kilovoltage to megavoltage showed no significant difference from the kilovoltage to kilovoltage images when using the appropriate method of registration. Conclusions: The choice of deformation method should be considered when applying the deformable image registration from kilovoltage to megavoltage images. The deformable image registration accuracy from kilovoltage to megavoltage revealed a good agreement in terms of intensity-based, volume-based, and deformation field analyses and showed clinically useful methods for nasopharyngeal carcinoma adaptive radiotherapy in tomotherapy applications.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Effect of Deformation Methods on the Accuracy of Deformable Image Registration From Kilovoltage CT to Tomotherapy Megavoltage CT",
+                "journal": "",
+                "urls": [
+                    "http://journals.sagepub.com/doi/pdf/10.1177/1533033818821186",
+                    "http://journals.sagepub.com/doi/full-xml/10.1177/1533033818821186",
+                    "http://journals.sagepub.com/doi/pdf/10.1177/1533033818821186",
+                    "http://dx.doi.org/10.1177/1533033818821186"
+                ],
+                "doi": "10.1177/1533033818821186",
+                "publication_date": "2019-01-01 00:00:00"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Gu, X.",
+            "Jia, X.",
+            "Dong, B.",
+            "Gautier, Q.",
+            "Jiang, S."
+        ],
+        "title": "A Contour-guided Demons Deformable Image Registration Algorithm For Adaptive Radiotherapy",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2011.06.1409",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301611022309?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301611022309?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2011.06.1409"
+        ],
+        "id": "id-7612916430243421306",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Contour-guided Demons Deformable Image Registration Algorithm For Adaptive Radiotherapy",
+                "journal": "International Journal of Radiation Oncology Biology Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/71a4308b29717445fa78ff98909a0b53ea142016"
+                ],
+                "doi": "10.1016/J.IJROBP.2011.06.1409",
+                "publication_date": "2011-10-01 00:00:00"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "Liu, T.",
+            "Shen, D.",
+            "Davatzikos, C."
+        ],
+        "title": "Deformable Registration of Tumor-Diseased Brain Images",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-30135-6_88",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-30135-6_88",
+            "http://dx.doi.org/10.1007/978-3-540-30135-6_88"
+        ],
+        "id": "id2158233438272835083",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Registration of Tumor-Diseased Brain Images",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fa26ac54281051d068a1c153d333dbf5bf940a64",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-540-30135-6_88.pdf"
+                ],
+                "doi": "10.1007/978-3-540-30135-6_88",
+                "publication_date": "2004-09-26 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Hunt, S.",
+            "Thomas, S.",
+            "McClelland, J.",
+            "Harrison, K.",
+            "Rose, C.",
+            "Scaife, J.",
+            "Sutcliffe, M.",
+            "Burnet, N.",
+            "Jena, R."
+        ],
+        "title": "EP-2038 Use of deformable image registration for automatic outlining of the rectum",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(19)32458-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814019324582?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814019324582?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(19)32458-2"
+        ],
+        "id": "id910669166331633271",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "EP-2038 Use of deformable image registration for automatic outlining of the rectum",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/aeb497d863574e43f64a2bb6d37756ec996e161a"
+                ],
+                "doi": "10.1016/S0167-8140(19)32458-2",
+                "publication_date": "2019-04-01 00:00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Robinson, J.",
+            "Belshaw, L.",
+            "Agnew, C.",
+            "Irvine, D."
+        ],
+        "title": "EVALUATING H&amp;N IMMOBILISATION USING DEFORMABLE IMAGE REGISTRATION",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s1120-1797(22)02519-4",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1120179722025194?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1120179722025194?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s1120-1797(22)02519-4"
+        ],
+        "id": "id-3966418704829072451",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "EVALUATING H&N IMMOBILISATION USING DEFORMABLE IMAGE REGISTRATION",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a8599b2a3d289a3728f606841fe3672e4ab9907d"
+                ],
+                "doi": "10.1016/s1120-1797(22)02519-4",
+                "publication_date": "2022-12-01 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "Chen, Y.",
+            "Ye, X."
+        ],
+        "title": "Inverse Consistent Deformable Image Registration",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4419-6263-8_26",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4419-6263-8_26",
+            "http://dx.doi.org/10.1007/978-1-4419-6263-8_26"
+        ],
+        "id": "id2558055346629459773",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Inverse Consistent Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/711f53b61444fb5c31de5d71bcec10216426f5e8"
+                ],
+                "doi": "10.1007/978-1-4419-6263-8_26",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Foskey, M.",
+            "Davis, B.",
+            "Goyal, L.",
+            "Chang, S.",
+            "Rosenman, J.",
+            "Joshi, S."
+        ],
+        "title": "Automatic Contouring via Deformable Image Registration",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2005.07.885",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301605020729?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2005.07.885"
+        ],
+        "id": "id6284222938738663040",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Automatic Contouring via Deformable Image Registration",
+                "journal": "International Journal of Radiation Oncology Biology Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d99193d1991386ca5c6d3050d1fe008679eb714c"
+                ],
+                "doi": "10.1016/J.IJROBP.2005.07.885",
+                "publication_date": "2005-10-01 00:00:00"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Balfour, D.",
+            "Looney, P.",
+            "Turtle, L.",
+            "Fenwick, J.",
+            "Boukerroui, D.",
+            "Sage, J."
+        ],
+        "title": "PO-1661 Investigation into the impact of AI-enhanced CBCTs on CBCT-CT deformable image registration",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)08112-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021081123?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021081123?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)08112-3"
+        ],
+        "id": "id1005820285428177234",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1661 Investigation into the impact of AI-enhanced CBCTs on CBCT-CT deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/76e53cdc161d77044847f04a315fc2a43a1adb78"
+                ],
+                "doi": "10.1016/s0167-8140(21)08112-3",
+                "publication_date": "2021-08-01 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "Sayan Ghosal",
+            "Nilanjan Ray"
+        ],
+        "title": "Deep Deformable Registration: Enhancing Accuracy by Fully Convolutional Neural Net",
+        "publication_date": "2016-11-27 06:41:49+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1611.08796v1",
+            "http://arxiv.org/abs/1611.08796v1",
+            "http://arxiv.org/pdf/1611.08796v1"
+        ],
+        "id": "id7883981219382611431",
+        "abstract": "Deformable registration is ubiquitous in medical image analysis. Many\ndeformable registration methods minimize sum of squared difference (SSD) as the\nregistration cost with respect to deformable model parameters. In this work, we\nconstruct a tight upper bound of the SSD registration cost by using a fully\nconvolutional neural network (FCNN) in the registration pipeline. The upper\nbound SSD (UB-SSD) enhances the original deformable model parameter space by\nadding a heatmap output from FCNN. Next, we minimize this UB-SSD by adjusting\nboth the parameters of the FCNN and the parameters of the deformable model in\ncoordinate descent. Our coordinate descent framework is end-to-end and can work\nwith any deformable registration method that uses SSD. We demonstrate\nexperimentally that our method enhances the accuracy of deformable registration\nalgorithms significantly on two publicly available 3D brain MRI data sets.",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Deep deformable registration: Enhancing accuracy by fully convolutional neural net",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2557368531",
+                    "https://doi.org/10.1016/j.patrec.2017.05.022",
+                    "http://arxiv.org/pdf/1611.08796"
+                ],
+                "doi": "10.1016/j.patrec.2017.05.022",
+                "publication_date": "2017-07-15 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Deep deformable registration: Enhancing accuracy by fully convolutional neural net",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0167865517301708?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0167865517301708?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.patrec.2017.05.022"
+                ],
+                "doi": "10.1016/j.patrec.2017.05.022",
+                "publication_date": "2017-01-01 00:00:00"
+            },
+            {
+                "year": 2016,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Deep Deformable Registration: Enhancing Accuracy by Fully Convolutional Neural Net",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20200907103432/https://arxiv.org/pdf/1611.08796v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2016-11-27 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Fullarton, R.",
+            "Ghirmay, K.",
+            "Dom, W.",
+            "Crees, L."
+        ],
+        "title": "PO-1752: Evaluation of the deformable image registration algorithm in Velocity image registration software",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)01770-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021017709?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021017709?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)01770-9"
+        ],
+        "id": "id-1635929855420498792",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1752: Evaluation of the deformable image registration algorithm in Velocity image registration software",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6ff532965750fa8f4e628b81e923ab41e6d48fc7"
+                ],
+                "doi": "10.1016/S0167-8140(21)01770-9",
+                "publication_date": "2020-11-01 00:00:00"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Pongnumkul, S.",
+            "Sagawa, R.",
+            "Echigo, T.",
+            "Yagi, Y."
+        ],
+        "title": "Deformable Registration for Generating Dissection Image of an Intestine from Annular Image Sequence",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11569541_28",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11569541_28.pdf",
+            "http://dx.doi.org/10.1007/11569541_28"
+        ],
+        "id": "id2401396717678348086",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Registration for Generating Dissection Image of an Intestine from Annular Image Sequence",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/378993afc1165f4e960c3d85478e83708430e85b"
+                ],
+                "doi": "10.1007/11569541_28",
+                "publication_date": "2005-10-21 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Liu, J."
+        ],
+        "title": "Deformable Model-Based Image Registration",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-387-68413-0_15",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-0-387-68413-0_15.pdf",
+            "http://dx.doi.org/10.1007/978-0-387-68413-0_15"
+        ],
+        "id": "id512115238136803513",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Model-Based Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e7136aecc1ecec7662bf60c93bf02ccff02e5000",
+                    "http://www.cs.kent.edu/~lucc/69995/JundongChapterVersion-1.pdf"
+                ],
+                "doi": "10.1007/978-0-387-68413-0_15",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "Aznar, M.",
+            "Berthelsen, A.",
+            "Loft, A.",
+            "Petersen, P.",
+            "Specht, L."
+        ],
+        "title": "473 poster DEFORMABLE IMAGE REGISTRATION OF FDG-PET-POSITIVE CONTOURS IN RADIOTHERAPY OF HODGKIN LYMPHOMA",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(11)70595-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814011705953?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814011705953?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(11)70595-3"
+        ],
+        "id": "id-1038958406950824054",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "473 poster DEFORMABLE IMAGE REGISTRATION OF FDG-PET-POSITIVE CONTOURS IN RADIOTHERAPY OF HODGKIN LYMPHOMA",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0d90f0044e9e201e3928efedec81b22b68cf2fa5"
+                ],
+                "doi": "10.1016/S0167-8140(11)70595-3",
+                "publication_date": "2011-05-01 00:00:00"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Nakajima, Y.",
+            "Kadoya, N.",
+            "Kanai, T.",
+            "Saito, M.",
+            "Kito, S.",
+            "Hashimoto, S.",
+            "Karasawa, K.",
+            "Jingu, K."
+        ],
+        "title": "Evaluation of the effect of user-guided deformable image registration of thoracic images on registration accuracy among users",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.meddos.2019.12.004",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S095839471930130X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S095839471930130X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.meddos.2019.12.004"
+        ],
+        "id": "id-5561225933943189486",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Evaluation of the effect of user-guided deformable image registration of thoracic images on registration accuracy among users.",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ad8ac39cc41e487b1e21d406287b578a42cc1a08"
+                ],
+                "doi": "10.1016/j.meddos.2019.12.004",
+                "publication_date": "2020-01-31 00:00:00"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "Zukauskaite, R.",
+            "Hansen, C.",
+            "Johansen, J.",
+            "Grau, C.",
+            "Overgaard, J.",
+            "Brink, C."
+        ],
+        "title": "PO-110: Analysis of loco-regional failures after IMRT for HNSCC using deformable image registration",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(17)30244-x",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S016781401730244X?httpAccept=text/plain",
+            "https://api.elsevier.com/content/article/PII:S016781401730244X?httpAccept=text/xml",
+            "http://dx.doi.org/10.1016/s0167-8140(17)30244-x"
+        ],
+        "id": "id7213123543053542946",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-110: Analysis of loco-regional failures after IMRT for HNSCC using deformable image registration",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ce4a3298b2539ed40c6e74f443dcbe1e20b65df9"
+                ],
+                "doi": "10.1016/S0167-8140(17)30244-X",
+                "publication_date": "2017-03-01 00:00:00"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "J. Dowling",
+            "L. O\u2019Connor"
+        ],
+        "title": "Deformable image registration in radiation therapy",
+        "publication_date": "2020-10-26 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Medical Radiation Sciences",
+        "volume": "67",
+        "doi": "10.1002/jmrs.446",
+        "urls": [
+            "https://www.semanticscholar.org/paper/17793803e7e5366cfaab22bf358a9c1e79794d97",
+            "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmrs.446"
+        ],
+        "id": "id-6737917494661339842",
+        "abstract": "Deformable image registration is an increasingly important method to account for soft tissue deformation between image acquisitions. This editorial discusses the clinical need and current status of deformable image registration.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Deformable image registration in radiation therapy",
+                "journal": "",
+                "urls": [
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmrs.446",
+                    "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/jmrs.446",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmrs.446",
+                    "http://dx.doi.org/10.1002/jmrs.446"
+                ],
+                "doi": "10.1002/jmrs.446",
+                "publication_date": "2020-10-26 00:00:00"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Yao Su",
+            "Xin Dai",
+            "Lifang He",
+            "Xiangnan Kong"
+        ],
+        "title": "ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration",
+        "publication_date": "2022-12-06 19:21:43+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1109/ICDM54844.2022.00057",
+        "urls": [
+            "http://arxiv.org/pdf/2212.03277v1",
+            "http://dx.doi.org/10.1109/ICDM54844.2022.00057",
+            "http://arxiv.org/abs/2212.03277v1",
+            "http://arxiv.org/pdf/2212.03277v1"
+        ],
+        "id": "id4081057507228621756",
+        "abstract": "Deformable image registration, i.e., the task of aligning multiple images\ninto one coordinate system by non-linear transformation, serves as an essential\npreprocessing step for neuroimaging data. Recent research on deformable image\nregistration is mainly focused on improving the registration accuracy using\nmulti-stage alignment methods, where the source image is repeatedly deformed in\nstages by a same neural network until it is well-aligned with the target image.\nConventional methods for multi-stage registration can often blur the source\nimage as the pixel/voxel values are repeatedly interpolated from the image\ngenerated by the previous stage. However, maintaining image quality such as\nsharpness during image registration is crucial to medical data analysis. In\nthis paper, we study the problem of anti-blur deformable image registration and\npropose a novel solution, called Anti-Blur Network (ABN), for multi-stage image\nregistration. Specifically, we use a pair of short-term registration and\nlong-term memory networks to learn the nonlinear deformations at each stage,\nwhere the short-term registration network learns how to improve the\nregistration accuracy incrementally and the long-term memory network combines\nall the previous deformations to allow an interpolation to perform on the raw\nimage directly and preserve image sharpness. Extensive experiments on both\nnatural and medical image datasets demonstrated that ABN can accurately\nregister images while preserving their sharpness. Our code and data can be\nfound at https://github.com/anonymous3214/ABN",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "http://xplorestaging.ieee.org/ielx7/10027565/10027596/10027782.pdf?arnumber=10027782",
+                    "http://dx.doi.org/10.1109/icdm54844.2022.00057"
+                ],
+                "doi": "10.1109/icdm54844.2022.00057",
+                "publication_date": "2022-01-01 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/605555cf258d1582d774f85e3089da646eab40de",
+                    "http://arxiv.org/pdf/2212.03277"
+                ],
+                "doi": "10.1109/ICDM54844.2022.00057",
+                "publication_date": "2022-11-01 00:00:00"
+            },
+            {
+                "year": 2022,
+                "source": "SupportedSources.PAPERS_WITH_CODE",
+                "title": "ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://arxiv.org/pdf/2212.03277v1.pdf",
+                    "https://github.com/anonymous3214/abn"
+                ],
+                "doi": "",
+                "publication_date": "2022-12-06 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration",
+                "journal": "2022 IEEE International Conference on Data Mining (ICDM)",
+                "urls": [
+                    "https://doi.org/10.1109/icdm54844.2022.00057"
+                ],
+                "doi": "10.1109/icdm54844.2022.00057",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "Park, P.",
+            "Koay, E.",
+            "Yang, J.",
+            "Suh, Y.",
+            "Das, P.",
+            "Crane, C.",
+            "Beddar, S."
+        ],
+        "title": "EP-1901: Patient-specific deformable image registration quality assurance based on feature points",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(16)33152-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814016331528?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814016331528?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(16)33152-8"
+        ],
+        "id": "id-395332771176797523",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "EP-1901: Patient-specific deformable image registration quality assurance based on feature points",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bc110ad55a6af6da873ab88991158540b4a3474a"
+                ],
+                "doi": "10.1016/S0167-8140(16)33152-8",
+                "publication_date": "2016-04-01 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Shah, K."
+        ],
+        "title": "Improving Precision of Deformable Image Registration",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.17918/00001347",
+        "urls": [
+            "http://dx.doi.org/10.17918/00001347"
+        ],
+        "id": "id-8966722042863648120",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Improving Precision of Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/85a74a84416b43c0585aabbdbb23d16ac5455c6d"
+                ],
+                "doi": "10.17918/00001347",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Phatak, N.",
+            "Sun, Q.",
+            "Kim, S.",
+            "Parker, D.",
+            "Sanders, R.",
+            "Veress, A.",
+            "Weiss, J."
+        ],
+        "title": "Noninvasive measurement of ligament strain using deformable image registration",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0021-9290(06)84825-6",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0021929006848256?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0021929006848256?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0021-9290(06)84825-6"
+        ],
+        "id": "id8924987330852228773",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Noninvasive measurement of ligament strain using deformable image registration",
+                "journal": "Journal of Biomechanics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74487f63471362983095ac7c4e8dd12345a76730"
+                ],
+                "doi": "10.1016/S0021-9290(06)84825-6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Weiss, J.",
+            "Veress, A.",
+            "Gullberg, G.",
+            "Phatak, N.",
+            "Sun, Q.",
+            "Parker, D.",
+            "Rabbitt, R."
+        ],
+        "title": "Strain Measurement Using Deformable Image Registration",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/3-540-31184-x_35",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/3-540-31184-X_35.pdf",
+            "http://dx.doi.org/10.1007/3-540-31184-x_35"
+        ],
+        "id": "id3281090352879227798",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Strain Measurement Using Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d61d36070414d68faf8573955c8a9422b6db80df",
+                    "http://mrl.sci.utah.edu/papers/weiss_mbt_2006.pdf"
+                ],
+                "doi": "10.1007/3-540-31184-X_35",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "Huang, Y.",
+            "Wu, H.",
+            "Wang, W.",
+            "Zhang, Y."
+        ],
+        "title": "PO-1629: A quantitative evaluation of deformable image registration based on Halcyon MVCBCT images",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)01647-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021016479?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021016479?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)01647-9"
+        ],
+        "id": "id-7505865818916762415",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1629: A quantitative evaluation of deformable image registration based on Halcyon MVCBCT images",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/72cf90eb14a837da42e766713a4d9a1e78de206a"
+                ],
+                "doi": "10.1016/S0167-8140(21)01647-9",
+                "publication_date": "2020-11-01 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Sotiras, A.",
+            "Ou, Y.",
+            "Paragios, N.",
+            "Davatzikos, C."
+        ],
+        "title": "Graph-based Deformable Image Registration",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-387-09749-7_18",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-0-387-09749-7_18",
+            "http://dx.doi.org/10.1007/978-0-387-09749-7_18"
+        ],
+        "id": "id-7079168395907265545",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Graph-based deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/10a4184b68de29b6165ebb3e9cfffc6350877c4b"
+                ],
+                "doi": "10.1007/978-0-387-09749-7_18",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Yang Lei",
+            "Yabo Fu",
+            "Joseph Harms",
+            "Tonghe Wang",
+            "Walter J. Curran",
+            "Tian Liu",
+            "Kristin Higgins",
+            "Xiaofeng Yang"
+        ],
+        "title": "4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network",
+        "publication_date": "2019-10-17 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-32486-5_4",
+        "urls": [
+            "https://openalex.org/W2979484108",
+            "https://doi.org/10.1007/978-3-030-32486-5_4"
+        ],
+        "id": "id7314486492555256396",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-32486-5_4"
+                ],
+                "doi": "10.1007/978-3-030-32486-5_4",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cd7bc01b27aa97d1d1504f77ec04fe9cecc4e21e"
+                ],
+                "doi": "10.1007/978-3-030-32486-5_4",
+                "publication_date": "2019-10-17 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "4D-CT Deformable Image Registration Using an Unsupervised Deep Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-030-32486-5_4",
+                    "http://dx.doi.org/10.1007/978-3-030-32486-5_4"
+                ],
+                "doi": "10.1007/978-3-030-32486-5_4",
+                "publication_date": "2019-01-01 00:00:00"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Sarudis, S.",
+            "Hauer, A.",
+            "Bibac, D.",
+            "B\u00e4ck, A."
+        ],
+        "title": "EP-1888: Accuracy and limitations of deformable image registration with SmartAdapt\u00ae in the thorax region",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(16)33139-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814016331395?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814016331395?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(16)33139-5"
+        ],
+        "id": "id-3750528564187915547",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "EP-1888: Accuracy and limitations of deformable image registration with SmartAdapt\u00ae in the thorax region",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2d3359a466f5f263e7a169b4b274db7a8d4297d7"
+                ],
+                "doi": "10.1016/S0167-8140(16)33139-5",
+                "publication_date": "2016-04-01 00:00:00"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "Bruno, A.",
+            "Gasperi, C.",
+            "Rampini, A.",
+            "Belli, G."
+        ],
+        "title": "Validation of a deformable image registration algorithm for radiotherapy applications",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2016.01.026",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1120179716000284?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1120179716000284?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2016.01.026"
+        ],
+        "id": "id-5114083995371678178",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A.22 - Validation of a deformable image registration algorithm for radiotherapy applications",
+                "journal": "Physica Medica",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d368ee2f8e44d8cdc7dfcd33b8b1d2120511db89"
+                ],
+                "doi": "10.1016/J.EJMP.2016.01.026",
+                "publication_date": "2016-02-01 00:00:00"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Tang, L.",
+            "Hamarneh, G.",
+            "Abugharbieh, R."
+        ],
+        "title": "Reliability-Driven, Spatially-Adaptive Regularization for Deformable Registration",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-14366-3_16",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-14366-3_16.pdf",
+            "http://dx.doi.org/10.1007/978-3-642-14366-3_16"
+        ],
+        "id": "id-5220993128413447399",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Reliability-Driven, Spatially-Adaptive Regularization for Deformable Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a5e77ab97fffec0df326b2c7bfee75b223318476",
+                    "http://www.cs.sfu.ca/%7Ehamarneh/ecopy/wbir2010.pdf"
+                ],
+                "doi": "10.1007/978-3-642-14366-3_16",
+                "publication_date": "2010-07-11 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "Callie, C.",
+            "Dinsdale, G.",
+            "Deshpande, S.",
+            "Jameson, M."
+        ],
+        "title": "PO-1128 Clinical implementation of deformable image registration (DIR)",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(19)31548-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814019315488?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814019315488?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(19)31548-8"
+        ],
+        "id": "id5968418124931571462",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1128 Clinical implementation of deformable image registration (DIR)",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1c838d8cf0e305eb7d0e952a8170d7c38f4cf08a"
+                ],
+                "doi": "10.1016/S0167-8140(19)31548-8",
+                "publication_date": "2019-04-01 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "Sheng Lan",
+            "Zhenhua Guo"
+        ],
+        "title": "A Joint Super-Resolution and Deformable Registration Network for 3D Brain Images",
+        "publication_date": "2021-01-10 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/ICPR48806.2021.9412553",
+        "urls": [
+            "https://www.semanticscholar.org/paper/6944fc5b67eed16233e8c9dea92d8c3dcf10e7ab"
+        ],
+        "id": "id-7546735409189245973",
+        "abstract": "In this paper, we propose a joint network for 3D brain images registration with super-resolution to reduce deformable image registration errors caused by low resolution. Basically, the task of deformable image registration is to find the displacement field between the reference image and the moving image. Many research works have been done for deformable image registration, under the assumption that the image resolution is high enough. However, due to the limited level of current acquisition instruments, the resolution of images is not high enough usually. As low resolution images might cause large registration errors, this paper presents a new approach that performs joint super-resolution and deformable image registration. Experiments with 3D brain images show that the joint network does help to reduce the registration errors significantly.",
+        "versions": [],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Abidi, A.",
+            "Singh, S."
+        ],
+        "title": "Deformable Registration Techniques for Thoracic CT Images",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-10-5837-0",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-981-10-5837-0.pdf",
+            "http://link.springer.com/content/pdf/10.1007/978-981-10-5837-0",
+            "http://dx.doi.org/10.1007/978-981-10-5837-0"
+        ],
+        "id": "id8922453353416961545",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Registration Techniques for Thoracic CT Images: An Insight into Medical Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f83a0625d6831253f348c6cbbbc99c3947f0705b",
+                    "https://link.springer.com/content/pdf/bfm%3A978-981-10-5837-0%2F1"
+                ],
+                "doi": "10.1007/978-981-10-5837-0",
+                "publication_date": "2020-08-29 00:00:00"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Zhang, Y.",
+            "Peroni, M.",
+            "Weber, D.",
+            "Lomax, A."
+        ],
+        "title": "[P238] Dosimetric evaluation of deformable image registration error using 4DCT-MRI datasets",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2018.06.522",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1120179718310044?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1120179718310044?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2018.06.522"
+        ],
+        "id": "id-2837229562562898851",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "[P238] Dosimetric evaluation of deformable image registration error using 4DCT-MRI datasets",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b5fbb7846851a1e3b23bd8befd3535c551ab6a7e",
+                    "https://doi.org/10.1016/j.ejmp.2018.06.522"
+                ],
+                "doi": "10.1016/J.EJMP.2018.06.522",
+                "publication_date": "2018-08-01 00:00:00"
+            }
+        ],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "K. Eppenhof",
+            "Maxime W. Lafarge",
+            "J. Pluim"
+        ],
+        "title": "Training deep convolutional neural networks for deformable image registration of pulmonary CT images",
+        "publication_date": "2018-06-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f7ae1373e9ae21b258ca97e58bc069623b0a3c49"
+        ],
+        "id": "id1737875163293380329",
+        "abstract": null,
+        "versions": [],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "De La Casa, M.",
+            "Zucca, D.",
+            "Garc\u00eda, J.",
+            "Mart\u00ed, J.",
+            "Fern\u00e1ndez-Let\u00f3n, P."
+        ],
+        "title": "PO-1004: Assessment Of A Commercially Available Algorithm For Deformable Image Registration",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(18)31314-8",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814018313148?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814018313148?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(18)31314-8"
+        ],
+        "id": "id-8136669285108416245",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1004: Assessment Of A Commercially Available Algorithm For Deformable Image Registration",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/64a10c86d160d71fd26c24f4f583baaac15a6564"
+                ],
+                "doi": "10.1016/s0167-8140(18)31314-8",
+                "publication_date": "2018-04-01 00:00:00"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Stenzel, L.",
+            "Flynn, R.",
+            "Moore, M."
+        ],
+        "title": "PO-1625: Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)01643-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021016431?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021016431?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)01643-1"
+        ],
+        "id": "id-6820162467097609528",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1625: Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6f748b96d2d6e580817111fb45422e4239748204"
+                ],
+                "doi": "10.1016/S0167-8140(21)01643-1",
+                "publication_date": "2020-11-01 00:00:00"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Stenzel, L.",
+            "Flynn, R.",
+            "Moore, M."
+        ],
+        "title": "Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2021.01.032",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S112017972100034X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S112017972100034X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2021.01.032"
+        ],
+        "id": "id1621343856100301367",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable image registration (DIR) and radiobiological recalculation for retreat plan evaluation",
+                "journal": "Physica Medica",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2567a8084fc9092bda5a1f36b9bfeb34d6cc2e11"
+                ],
+                "doi": "10.1016/J.EJMP.2021.01.032",
+                "publication_date": "2021-04-01 00:00:00"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Veress, A.",
+            "Phatak, N.",
+            "Weiss, J."
+        ],
+        "title": "Deformable Image Registration with Hyperelastic Warping",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-306-48608-3_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/0-306-48608-3_12.pdf",
+            "http://dx.doi.org/10.1007/0-306-48608-3_12"
+        ],
+        "id": "id-4119865876132628813",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Image Registration with Hyperelastic Warping",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a2b542a2d53244b7e2e0fe82d5b402f8df0ce1f5"
+                ],
+                "doi": "10.1007/0-306-48608-3_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Han, R.",
+            "Jones, C.",
+            "Lee, J.",
+            "Wu, P.",
+            "Vagdargi, P.",
+            "Uneri, A.",
+            "Helm, P.",
+            "Luciano, M.",
+            "Anderson, W.",
+            "Siewerdsen, J."
+        ],
+        "title": "Deformable MR-CT image registration using an unsupervised, dual-channel network for neurosurgical guidance",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.media.2021.102292",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1361841521003376?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1361841521003376?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.media.2021.102292"
+        ],
+        "id": "id8796892495183606008",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable MR-CT Image Registration Using an Unsupervised, Dual-Channel Network for Neurosurgical Guidance",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0811ba5c6272043b5cba1ec82d3391e578c959d9"
+                ],
+                "doi": "10.1016/j.media.2021.102292",
+                "publication_date": "2021-10-01 00:00:00"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Yechong Huang",
+            "Tao Song",
+            "Jiahang Xu",
+            "Yinan Chen",
+            "Xiahai Zhuang"
+        ],
+        "title": "KLDivNet: An unsupervised neural network for multi-modality image registration",
+        "publication_date": "2020-02-05 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20200321143448/https://arxiv.org/pdf/1908.08767v2.pdf"
+        ],
+        "id": "id-3610003086237809533",
+        "abstract": "Multi-modality image registration is one of the most underlined processes in medical image analysis. Recently, convolutional neural networks (CNNs) have shown significant potential in deformable registration. However, the lack of voxel-wise ground truth challenges the training of CNNs for an accurate registration. In this work, we propose a cross-modality similarity metric, based on the KL-divergence of image variables, and implement an efficient estimation method using a CNN. This estimation network, referred to as KLDivNet, can be trained unsupervisedly. We then embed the KLDivNet into a registration network to achieve the unsupervised deformable registration for multi-modality images. We employed three datasets, i.e., AAL Brain, LiTS Liver and Hospital Liver, with both the intra- and inter-modality image registration tasks for validation. Results showed that our similarity metric was effective, and the proposed registration network delivered superior performance compared to the state-of-the-art methods.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "KLDivNet: An unsupervised neural network for multi-modality image registration",
+                "journal": "arXiv: Computer Vision and Pattern Recognition",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/07dc6cbd0e66f1dc9a70bb2348c007470c42a19c"
+                ],
+                "doi": "",
+                "publication_date": "2019-08-23 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.ARXIV",
+                "title": "KLDivNet: An unsupervised neural network for multi-modality image registration",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1908.08767v2",
+                    "http://arxiv.org/abs/1908.08767v2",
+                    "http://arxiv.org/pdf/1908.08767v2"
+                ],
+                "doi": "",
+                "publication_date": "2019-08-23 11:48:50+00:00"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "Huszar, I.",
+            "Pallebage-Gamarallage, M.",
+            "Bangerter-Christensen, S.",
+            "Brooks, H.",
+            "Fitzgibbon, S.",
+            "Foxley, S.",
+            "Hiemstra, M.",
+            "Howard, A.",
+            "Jbabdi, S.",
+            "Kor, D.",
+            "Leonte, A.",
+            "Mollink, J.",
+            "Smart, A.",
+            "Tendler, B.",
+            "Turner, M.",
+            "Ansorge, O.",
+            "Miller, K.",
+            "Jenkinson, M."
+        ],
+        "title": "Tensor image registration library: Deformable registration of stand\u2010alone histology images to whole\u2010brain post\u2010mortem MRI data",
+        "publication_date": "2023-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.neuroimage.2022.119792",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1053811922009132?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1053811922009132?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.neuroimage.2022.119792"
+        ],
+        "id": "id4166841515653562760",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Tensor image registration library: Deformable registration of stand\u2010alone histology images to whole\u2010brain post\u2010mortem MRI data",
+                "journal": "NeuroImage",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9b99fea7dc6e5f18b02da4a9ffec480a860c9961"
+                ],
+                "doi": "10.1016/j.neuroimage.2022.119792",
+                "publication_date": "2022-12-01 00:00:00"
+            }
+        ],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Phatak, N.",
+            "Sun, Q.",
+            "Kim, S.",
+            "Parker, D.",
+            "Kent Sanders, R.",
+            "Veress, A.",
+            "Ellis, B.",
+            "Weiss, J."
+        ],
+        "title": "Noninvasive Determination of Ligament Strain with Deformable Image Registration",
+        "publication_date": "2007-03-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10439-007-9287-9",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10439-007-9287-9.pdf",
+            "http://link.springer.com/article/10.1007/s10439-007-9287-9/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10439-007-9287-9",
+            "http://dx.doi.org/10.1007/s10439-007-9287-9"
+        ],
+        "id": "id-1967201139148189736",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Noninvasive Determination of Ligament Strain with Deformable Image Registration",
+                "journal": "Annals of Biomedical Engineering",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5456549d50e7032f7ff4653f3dfd69597f7e2cdc"
+                ],
+                "doi": "10.1007/s10439-007-9287-9",
+                "publication_date": "2007-03-30 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "David Sarrut"
+        ],
+        "title": "Deformable registration for image-guided radiation therapy.",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Zeitschrift fur medizinische Physik",
+        "volume": "16 4",
+        "doi": "10.1078/0939-3889-00327",
+        "urls": [
+            "https://www.semanticscholar.org/paper/4e9e10207d1d158c6f507fde929384ec7e79d4f7",
+            "http://www.creatis.insa-lyon.fr/~dsarrut/mybib/2006/sarrut-zmedphys2006-long-version.pdf"
+        ],
+        "id": "id-4384635168310531272",
+        "abstract": "Ths paper examines several applications of deformable registration algorithms in the field of image-guided radiotherapy. The first part focuses on the description of input and output of deformable registration algorithms, with a brief review of conventional and most current methods. The typical applications of deformable registration are then reviewed on the basis of four practical examples. The first two sets of examples deal with the fusion of images obtained from the same patient (inter-fraction registration), with time intervals of several days between each image. The other two examples deal with the fusion of images obtained in immediate sequence (intra-fraction registration); in this case, the focus is the displacement during image acquisition or patient treatment (mainly due to respiratory movement), with time intervals in the order of magnitude of tenths of seconds. Finally, the registration of images of different patients (inter-patient registration) is also discussed. In conclusion, deformable registration has become a fundamental tool for image analysis in radiotherapy. Although extensive validation of the numerous existing methods is required before extending its clinical use, deformable registration is expected to become a standard methodology in the treatment planning systems in the near future.",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Deformable registration for image-guided radiation therapy",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0939388915700358?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0939388915700358?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1078/0939-3889-00327"
+                ],
+                "doi": "10.1078/0939-3889-00327",
+                "publication_date": "2006-01-01 00:00:00"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Kessler, M."
+        ],
+        "title": "SP-0031 QA of deformable image registration",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(19)30451-7",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814019304517?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814019304517?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(19)30451-7"
+        ],
+        "id": "id6203861694911537477",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "SP-0031 QA of deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a724828f2adf38c77be2b1c5606aa94dbafb2b92"
+                ],
+                "doi": "10.1016/S0167-8140(19)30451-7",
+                "publication_date": "2019-04-01 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Wu Zhou",
+            "Yaoqin Xie"
+        ],
+        "title": "Interactive Multigrid Refinement for Deformable Image Registration",
+        "publication_date": "2013-10-22 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "BioMed Research International",
+        "volume": "2013",
+        "doi": "10.1155/2013/532936",
+        "urls": [
+            "https://www.semanticscholar.org/paper/0f7e54920f4ee68687364740e062bc923842ec5d",
+            "https://downloads.hindawi.com/journals/bmri/2013/532936.pdf"
+        ],
+        "id": "id-7372255376077668308",
+        "abstract": "Deformable image registration is the spatial mapping of corresponding locations between images and can be used for important applications in radiotherapy. Although numerous methods have attempted to register deformable medical images automatically, such as salient-feature-based registration (SFBR), free-form deformation (FFD), and demons, no automatic method for registration is perfect, and no generic automatic algorithm has shown to work properly for clinical applications due to the fact that the deformation field is often complex and cannot be estimated well by current automatic deformable registration methods. This paper focuses on how to revise registration results interactively for deformable image registration. We can manually revise the transformed image locally in a hierarchical multigrid manner to make the transformed image register well with the reference image. The proposed method is based on multilevel B-spline to interactively revise the deformable transformation in the overlapping region between the reference image and the transformed image. The resulting deformation controls the shape of the transformed image and produces a nice registration or improves the registration results of other registration methods. Experimental results in clinical medical images for adaptive radiotherapy demonstrated the effectiveness of the proposed method.",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Interactive Multigrid Refinement for Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "http://downloads.hindawi.com/journals/bmri/2013/532936.pdf",
+                    "http://downloads.hindawi.com/journals/bmri/2013/532936.xml",
+                    "http://downloads.hindawi.com/journals/bmri/2013/532936.pdf",
+                    "http://dx.doi.org/10.1155/2013/532936"
+                ],
+                "doi": "10.1155/2013/532936",
+                "publication_date": "2013-01-01 00:00:00"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Tang, S.",
+            "Cong, W.",
+            "Yang, J.",
+            "Fu, T.",
+            "Song, H.",
+            "Ai, D.",
+            "Wang, Y."
+        ],
+        "title": "Local statistical deformation models for deformable image registration",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.neucom.2018.03.039",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0925231218304090?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.neucom.2018.03.039"
+        ],
+        "id": "id-8064245052994025124",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local statistical deformation models for deformable image registration",
+                "journal": "Neurocomputing",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5555454ba7c439915d660b9e479f5732fa1ebee4"
+                ],
+                "doi": "10.1016/j.neucom.2018.03.039",
+                "publication_date": "2018-08-01 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "Yunzhi Huang",
+            "Sahar Ahmad",
+            "Jingfan Fan",
+            "Dinggang Shen",
+            "Pew Thian Yap"
+        ],
+        "title": "Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "67",
+        "doi": "10.1016/j.media.2020.101817",
+        "urls": [
+            "https://openalex.org/W3091131821",
+            "https://doi.org/10.1016/j.media.2020.101817",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7725910"
+        ],
+        "id": "id-3221286581121317415",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images",
+                "journal": "Medical Image Analysis",
+                "urls": [
+                    "https://doi.org/10.1016/j.media.2020.101817"
+                ],
+                "doi": "10.1016/j.media.2020.101817",
+                "publication_date": "None"
+            },
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images",
+                "journal": "Medical image analysis",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/228d452fb3c5831ea77457a945b8d091e99a3bf7"
+                ],
+                "doi": "10.1016/J.MEDIA.2020.101817",
+                "publication_date": "2020-09-30 00:00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S136184152030181X?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S136184152030181X?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.media.2020.101817"
+                ],
+                "doi": "10.1016/j.media.2020.101817",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "J. Wolterink",
+            "Jesse C. Zwienenberg",
+            "C. Brune"
+        ],
+        "title": "Implicit Neural Representations for Deformable Image Registration",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/d3857fcd457aa50cec2b198d40800078472ef3ea"
+        ],
+        "id": "id3597536881692925855",
+        "abstract": "Deformable medical image registration has in past years been revolutionized by the use of convolutional neural networks. These methods surpass conventional image registration techniques in speed but not in accuracy. Here, we present an alternative approach to leveraging neural networks for image registration. Instead of using a convolutional neural network to predict the transformation between images, we optimize a multi-layer perceptron to represent this transformation function. Using recent insights from differentiable rendering, we show how such an implicit deformable image registration (idir) model can be naturally combined with regularization terms based on standard automatic differentiation techniques. We demonstrate the effectiveness of this model on 4D chest CT registration in the DIR-LAB data set and find that a three-layer multi-layer perceptron with periodic activation functions outperforms all published deep learning-based results on this problem, without any folding and without the need for training data. The model is implemented using standard deep learning libraries and flexible enough to be extended to include different losses, regularizers, and optimization schemes.",
+        "versions": [],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Brock, K."
+        ],
+        "title": "SP-0016 CAN DEFORMABLE REGISTRATION APPROACHES BE RELIABLE?",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(12)70355-9",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814012703559?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814012703559?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(12)70355-9"
+        ],
+        "id": "id-7750772886261310978",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "SP-0016 CAN DEFORMABLE REGISTRATION APPROACHES BE RELIABLE?",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9e43f0a8aa6568bb2ed9d61a1282db9c501e4c20"
+                ],
+                "doi": "10.1016/S0167-8140(12)70355-9",
+                "publication_date": "2012-05-01 00:00:00"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Qingguang Li",
+            "Cen Gao",
+            "Xianfeng Wu",
+            "Dehua Li"
+        ],
+        "title": "A method for range image registration via neural network and ICP algorithm",
+        "publication_date": "2010-09-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Wuhan University Journal of Natural Sciences",
+        "volume": "15",
+        "doi": "10.1007/s11859-010-0673-z",
+        "urls": [
+            "https://www.semanticscholar.org/paper/3da165cf69e0f8f4169d2ce08db1d02eb0740c9f"
+        ],
+        "id": "id3319522969539121528",
+        "abstract": null,
+        "versions": [],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Xu, A.",
+            "Guo, P."
+        ],
+        "title": "Image Registration with Regularized Neural Network",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11893257_32",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/11893257_32.pdf",
+            "http://dx.doi.org/10.1007/11893257_32"
+        ],
+        "id": "id-2205225720210957521",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Image Registration with Regularized Neural Network",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5b765d411c0e0ca192bf5beea5a2ddf32d4a7c14"
+                ],
+                "doi": "10.1007/11893257_32",
+                "publication_date": "2006-10-03 00:00:00"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Nelissen, K.",
+            "Barten, D.",
+            "Laan, J.",
+            "Westerveld, H.",
+            "Bel, A.",
+            "Van Kesteren, Z."
+        ],
+        "title": "PO-1729: Quality assurance of deformable image registration for bowel motility quantification",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)01747-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021017473?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021017473?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)01747-3"
+        ],
+        "id": "id1332488269771906224",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1729: Quality assurance of deformable image registration for bowel motility quantification",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/399755be536fdf13730f23a113ba0588cc2f45be"
+                ],
+                "doi": "10.1016/S0167-8140(21)01747-3",
+                "publication_date": "2020-11-01 00:00:00"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "M. Nix",
+            "Scott G. Gregory",
+            "Michael J. Aldred",
+            "L. Aspin",
+            "Bashar Al-Qaisieh",
+            "J. N. Lilley",
+            "Ane L Appelt",
+            "Peter J Dickinson",
+            "Liam J. Murray"
+        ],
+        "title": "PO-1001 Combined image-based and biomechanical deformable image registration of extreme anatomical changes.",
+        "publication_date": "2019-04-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "133",
+        "doi": "10.1016/s0167-8140(19)31421-5",
+        "urls": [
+            "https://openalex.org/W2946731455",
+            "https://doi.org/10.1016/s0167-8140(19)31421-5",
+            "https://doi.org/10.1016/s0167-8140(19)31421-5"
+        ],
+        "id": "id1307829872541125032",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "PO-1001 Combined image-based and biomechanical deformable image registration of extreme anatomical changes.",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0167814019314215?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0167814019314215?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/s0167-8140(19)31421-5"
+                ],
+                "doi": "10.1016/s0167-8140(19)31421-5",
+                "publication_date": "2019-01-01 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-1001 Combined image-based and biomechanical deformable image registration of extreme anatomical changes.",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/01027554fe5aa337d2602d47c8cff3bd0e14f71c"
+                ],
+                "doi": "10.1016/S0167-8140(19)31421-5",
+                "publication_date": "2019-04-01 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Gunwhy, E.",
+            "van Kesteren, Z.",
+            "Parkes, M.",
+            "Stevens, M.",
+            "van den Aardweg, J.",
+            "van Tienhoven, G.",
+            "Bel, A.",
+            "van Dijk, I."
+        ],
+        "title": "PH-0264 Quantification of organ motion during prolonged breath-holding using deformable image registration",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(21)07279-0",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814021072790?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814021072790?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(21)07279-0"
+        ],
+        "id": "id-7127001355416750067",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PH-0264 Quantification of organ motion during prolonged breath-holding using deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6d768071a4205a577fddea5188bb786f14040a4d"
+                ],
+                "doi": "10.1016/s0167-8140(21)07279-0",
+                "publication_date": "2021-08-01 00:00:00"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "Velec, M.",
+            "Juang, T.",
+            "Moseley, J.",
+            "Oldham, M.",
+            "Brock, K."
+        ],
+        "title": "Utility and validation of biomechanical deformable image registration in low-contrast images",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.prro.2015.01.011",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1879850015000624?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1879850015000624?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.prro.2015.01.011"
+        ],
+        "id": "id3950554638906280932",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Utility and validation of biomechanical deformable image registration in low-contrast images.",
+                "journal": "Practical radiation oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/221a4e3b87ca18ea27dbfc2642d26d5d187cfca0",
+                    "https://europepmc.org/articles/pmc4494886?pdf=render"
+                ],
+                "doi": "10.1016/j.prro.2015.01.011",
+                "publication_date": "2015-07-01 00:00:00"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Kong, V.",
+            "Moseley, J.",
+            "Craig, T.",
+            "Chung, P.",
+            "Catton, C."
+        ],
+        "title": "Assessing the Performance of Deformable Image Registration for the Pelvic Region",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jmir.2017.02.034",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1939865417300486?httpAccept=text/plain",
+            "https://api.elsevier.com/content/article/PII:S1939865417300486?httpAccept=text/xml",
+            "http://dx.doi.org/10.1016/j.jmir.2017.02.034"
+        ],
+        "id": "id-3935524159989718584",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Assessing the Performance of Deformable Image Registration for the Pelvic Region",
+                "journal": "Journal of Medical Imaging and Radiation Sciences",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d7373c550d82c62aee98b42b18783e0d7cdff96f"
+                ],
+                "doi": "10.1016/J.JMIR.2017.02.034",
+                "publication_date": "2017-03-01 00:00:00"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Bob D. de Vos",
+            "Floris F. Berendsen",
+            "Max A. Viergever",
+            "Marius Staring",
+            "Ivana I\u0161gum"
+        ],
+        "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+        "publication_date": "2017-04-20 09:40:50+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "DLMIA/ML-CDS@MICCAI 2017",
+        "volume": "",
+        "doi": "10.1007/978-3-319-67558-9_24",
+        "urls": [
+            "http://arxiv.org/pdf/1704.06065v1",
+            "http://dx.doi.org/10.1007/978-3-319-67558-9_24",
+            "http://arxiv.org/abs/1704.06065v1",
+            "http://arxiv.org/pdf/1704.06065v1"
+        ],
+        "id": "id564521805308578329",
+        "abstract": "In this work we propose a deep learning network for deformable image\nregistration (DIRNet). The DIRNet consists of a convolutional neural network\n(ConvNet) regressor, a spatial transformer, and a resampler. The ConvNet\nanalyzes a pair of fixed and moving images and outputs parameters for the\nspatial transformer, which generates the displacement vector field that enables\nthe resampler to warp the moving image to the fixed image. The DIRNet is\ntrained end-to-end by unsupervised optimization of a similarity metric between\ninput image pairs. A trained DIRNet can be applied to perform registration on\nunseen image pairs in one pass, thus non-iteratively. Evaluation was performed\nwith registration of images of handwritten digits (MNIST) and cardiac cine MR\nscans (Sunnybrook Cardiac Data). The results demonstrate that registration with\nDIRNet is as accurate as a conventional deformable image registration method\nwith substantially shorter execution times.",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.OPENALEX",
+                "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2608822622",
+                    "https://doi.org/10.1007/978-3-319-67558-9_24",
+                    "http://arxiv.org/pdf/1704.06065"
+                ],
+                "doi": "10.1007/978-3-319-67558-9_24",
+                "publication_date": "2017-09-14 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-319-67558-9_24"
+                ],
+                "doi": "10.1007/978-3-319-67558-9_24",
+                "publication_date": "None"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+                "journal": "ArXiv",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e9d754ef02442c550822a4a257e82e7425cb18ee",
+                    "http://arxiv.org/pdf/1704.06065"
+                ],
+                "doi": "10.1007/978-3-319-67558-9_24",
+                "publication_date": "2017-04-20 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+                "journal": "Springer International Publishing",
+                "urls": [
+                    "https://web.archive.org/web/20200927225411/https://arxiv.org/pdf/1704.06065v1.pdf"
+                ],
+                "doi": "10.1007/978-3-319-67558-9_24",
+                "publication_date": "2017-01-01 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-3-319-67558-9_24",
+                    "http://dx.doi.org/10.1007/978-3-319-67558-9_24"
+                ],
+                "doi": "10.1007/978-3-319-67558-9_24",
+                "publication_date": "2017-01-01 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Qing Chang",
+            "J. Zhang"
+        ],
+        "title": "Deformable registration of lung 3DCT images using an unsupervised heterogeneous multi-resolution neural network.",
+        "publication_date": "2023-04-18 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s11517-023-02834-x",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7e131fe490654652216f48fe8e8e47dc7030b07a"
+        ],
+        "id": "id-6794943501689794903",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Deformable registration of lung 3DCT images using an unsupervised heterogeneous multi-resolution neural network",
+                "journal": "Medical &amp; Biological Engineering &amp; Computing",
+                "urls": [
+                    "https://doi.org/10.1007/s11517-023-02834-x"
+                ],
+                "doi": "10.1007/s11517-023-02834-x",
+                "publication_date": "None"
+            },
+            {
+                "year": 2023,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Deformable registration of lung 3DCT images using an unsupervised heterogeneous multi-resolution neural network",
+                "journal": "",
+                "urls": [
+                    "https://link.springer.com/content/pdf/10.1007/s11517-023-02834-x.pdf",
+                    "https://link.springer.com/article/10.1007/s11517-023-02834-x/fulltext.html",
+                    "https://link.springer.com/content/pdf/10.1007/s11517-023-02834-x.pdf",
+                    "http://dx.doi.org/10.1007/s11517-023-02834-x"
+                ],
+                "doi": "10.1007/s11517-023-02834-x",
+                "publication_date": "2023-04-18 00:00:00"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Shaaer, A.",
+            "Davidson, M.",
+            "Semple, M.",
+            "Nicolae, A.",
+            "Mendez, L.",
+            "Chung, H.",
+            "Loblaw, A.",
+            "Tseng, C.",
+            "Morton, G.",
+            "Ravi, A."
+        ],
+        "title": "Clinical evaluation of an MRI-to-ultrasound deformable image registration algorithm for prostate brachytherapy",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.brachy.2018.08.006",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1538472118304343?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1538472118304343?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.brachy.2018.08.006"
+        ],
+        "id": "id-2427000772559422462",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Clinical evaluation of an MRI-to-ultrasound deformable image registration algorithm for prostate brachytherapy.",
+                "journal": "Brachytherapy",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9c34cb35dc889e0b729082fb78c51fa35c582136"
+                ],
+                "doi": "10.1016/j.brachy.2018.08.006",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Koen A. J. Eppenhof",
+            "Josien P. W. Pluim"
+        ],
+        "title": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks",
+        "publication_date": "2018-05-10 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "SPIE-Intl Soc Optical Eng",
+        "volume": "",
+        "doi": "10.1117/1.jmi.5.2.024003",
+        "urls": [
+            "https://web.archive.org/web/20180720104424/https://pure.tue.nl/ws/files/96998502/JMI_17325RR_online.pdf"
+        ],
+        "id": "id5935392904019004304",
+        "abstract": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks,\" Abstract. Error estimation in nonlinear medical image registration is a nontrivial problem that is important for validation of registration methods. We propose a supervised method for estimation of registration errors in nonlinear registration of three-dimensional (3-D) images. The method is based on a 3-D convolutional neural network that learns to estimate registration errors from a pair of image patches. By applying the network to patches centered around every voxel, we construct registration error maps. The network is trained using a set of representative images that have been synthetically transformed to construct a set of image pairs with known deformations. The method is evaluated on deformable registrations of inhale-exhale pairs of thoracic CT scans. Using ground truth target registration errors on manually annotated landmarks, we evaluate the method's ability to estimate local registration errors. Estimation of full domain error maps is evaluated using a gold standard approach. The two evaluation approaches show that we can train the network to robustly estimate registration errors in a predetermined range, with subvoxel accuracy. We achieved a root-mean-square deviation of 0.51 mm from gold standard registration errors and of 0.66 mm from ground truth landmark registration errors. Eppenhof and Pluim: Error estimation of deformable image registration of pulmonary. Eppenhof and Pluim: Error estimation of deformable image registration of pulmonary. . .",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1117/1.jmi.5.2.024003"
+                ],
+                "doi": "10.1117/1.jmi.5.2.024003",
+                "publication_date": "2018-05-10 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks",
+                "journal": "Journal of Medical Imaging",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ac35f92b430b6d4d29edd4c445016d00081b4180",
+                    "https://europepmc.org/articles/pmc5943620?pdf=render"
+                ],
+                "doi": "10.1117/1.JMI.5.2.024003",
+                "publication_date": "2018-04-01 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2801486602",
+                    "https://doi.org/10.1117/1.jmi.5.2.024003",
+                    "https://europepmc.org/articles/pmc5943620?pdf=render"
+                ],
+                "doi": "10.1117/1.jmi.5.2.024003",
+                "publication_date": "2018-04-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Error estimation of deformable image registration of pulmonary CT scans using convolutional neural networks",
+                "journal": "Journal of Medical Imaging",
+                "urls": [
+                    "https://doi.org/10.1117/1.jmi.5.2.024003"
+                ],
+                "doi": "10.1117/1.jmi.5.2.024003",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Bob D. de Vos",
+            "Floris F. Berendsen",
+            "Max A. Viergever",
+            "Hessam Sokooti",
+            "Marius Staring",
+            "Ivana Isgum"
+        ],
+        "title": "A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration",
+        "publication_date": "2018-09-17 11:14:54+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Medical Image Analysis, Volume 52, February 2019, Pages 128-143",
+        "volume": "",
+        "doi": "10.1016/j.media.2018.11.010",
+        "urls": [
+            "http://arxiv.org/pdf/1809.06130v2",
+            "http://dx.doi.org/10.1016/j.media.2018.11.010",
+            "http://arxiv.org/abs/1809.06130v2",
+            "http://arxiv.org/pdf/1809.06130v2"
+        ],
+        "id": "id3800487002929982337",
+        "abstract": "Image registration, the process of aligning two or more images, is the core\ntechnique of many (semi-)automatic medical image analysis tasks. Recent studies\nhave shown that deep learning methods, notably convolutional neural networks\n(ConvNets), can be used for image registration. Thus far training of ConvNets\nfor registration was supervised using predefined example registrations.\nHowever, obtaining example registrations is not trivial. To circumvent the need\nfor predefined examples, and thereby to increase convenience of training\nConvNets for image registration, we propose the Deep Learning Image\nRegistration (DLIR) framework for \\textit{unsupervised} affine and deformable\nimage registration. In the DLIR framework ConvNets are trained for image\nregistration by exploiting image similarity analogous to conventional\nintensity-based image registration. After a ConvNet has been trained with the\nDLIR framework, it can be used to register pairs of unseen images in one shot.\nWe propose flexible ConvNets designs for affine image registration and for\ndeformable image registration. By stacking multiple of these ConvNets into a\nlarger architecture, we are able to perform coarse-to-fine image registration.\nWe show for registration of cardiac cine MRI and registration of chest CT that\nperformance of the DLIR framework is comparable to conventional image\nregistration while being several orders of magnitude faster.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A deep learning framework for unsupervised affine and deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2891590469",
+                    "https://doi.org/10.1016/j.media.2018.11.010",
+                    "http://arxiv.org/pdf/1809.06130"
+                ],
+                "doi": "10.1016/j.media.2018.11.010",
+                "publication_date": "2019-02-01 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A deep learning framework for unsupervised affine and deformable image registration",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S1361841518300495?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S1361841518300495?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.media.2018.11.010"
+                ],
+                "doi": "10.1016/j.media.2018.11.010",
+                "publication_date": "2019-01-01 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20200930050440/https://arxiv.org/pdf/1809.06130v2.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2018-12-05 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.CORE",
+                "title": "A Deep Learning Framework for Unsupervised Affine and Deformable Image  Registration",
+                "journal": "",
+                "urls": [
+                    "http://arxiv.org/abs/1809.06130"
+                ],
+                "doi": "10.1016/j.media.2018.11.010",
+                "publication_date": "2018-12-05 00:00:00"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Pekar, V.",
+            "Gladilin, E."
+        ],
+        "title": "Deformable Image Registration by Adaptive Gaussian Forces",
+        "publication_date": "2004-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-540-27816-0_27",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-540-27816-0_27.pdf",
+            "http://dx.doi.org/10.1007/978-3-540-27816-0_27"
+        ],
+        "id": "id-6807412232922740025",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Deformable Image Registration by Adaptive Gaussian Forces",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8e6b11492743d450063da61b54a1e663c4e8f2a7"
+                ],
+                "doi": "10.1007/978-3-540-27816-0_27",
+                "publication_date": "2004-05-15 00:00:00"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "Scher, E.",
+            "Vatner, R.",
+            "Huang, K."
+        ],
+        "title": "Application of Deformable Image Registration to Quantify the Effect of Spinal Radiation During Childhood",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2018.07.1351",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301618328050?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301618328050?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2018.07.1351"
+        ],
+        "id": "id-328658455778266965",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Application of Deformable Image Registration to Quantify the Effect of Spinal Radiation During Childhood",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c624bec15e2e97d48081e85f438c9e10d4c8f81e",
+                    "http://www.redjournal.org/article/S0360301618328050/pdf"
+                ],
+                "doi": "10.1016/J.IJROBP.2018.07.1351",
+                "publication_date": "2018-11-01 00:00:00"
+            }
+        ],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Pace, D.",
+            "Niethammer, M.",
+            "Aylward, S."
+        ],
+        "title": "Sliding Geometries in Deformable Image Registration",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-28557-8_18",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-28557-8_18",
+            "http://dx.doi.org/10.1007/978-3-642-28557-8_18"
+        ],
+        "id": "id-3604557320283246331",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Sliding Geometries in Deformable Image Registration",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/734f3f9f724b2c7408ea31590df11ca7fb531510"
+                ],
+                "doi": "10.1007/978-3-642-28557-8_18",
+                "publication_date": "2011-09-18 00:00:00"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Brock, K."
+        ],
+        "title": "VALIDATION METHODS FOR AUTO-SEGMENTATION AND DEFORMABLE REGISTRATION",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(12)72711-1",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814012727111?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814012727111?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(12)72711-1"
+        ],
+        "id": "id-3535062330039409555",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "VALIDATION METHODS FOR AUTO-SEGMENTATION AND DEFORMABLE REGISTRATION",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8e9ec53335f17f8a0df0877110857ca8306f6b0a"
+                ],
+                "doi": "10.1016/S0167-8140(12)72711-1",
+                "publication_date": "2009-08-01 00:00:00"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Kun Tang",
+            "Zhi Li",
+            "Lili Tian",
+            "Lihui Wang",
+            "Yuemin Zhu"
+        ],
+        "title": "ADMIR \u2013 Affine and Deformable Medical Image Registration for Drug-Addicted Brian Images",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "",
+        "doi": "10.1109/access.2020.2986829",
+        "urls": [
+            "https://web.archive.org/web/20201108142519/https://ieeexplore.ieee.org/ielx7/6287639/8948470/09062524.pdf"
+        ],
+        "id": "id-6656513649650178638",
+        "abstract": "We proposed an unsupervised end-to-end Affine and Deformable Medical Image Registration (ADMIR) method based on convolutional neural network (ConvNet). ADMIR includes three key components: an affine registration module for learning the affine transformation parameters, a deformable registration module for learning the displacement vector field, and a spatial transformer for getting the final warped image from both affine and deformable transformation parameters. To evaluate its performance, the magnetic resonance images of drug-addicted brains were used to train and test the model, and we compared it with two state-of-art methods in terms of Dice score, Hausdorff distance, and average symmetric surface distance. The experimental results demonstrated that our proposed ADMIR model outperforms existing methods even with the images without pre-alignment, which suggests that the ADMIR model can be used to achieve quick medical image registration with high accuracy. INDEX TERMS Deformable image registration, affine registration, convolutional neural network, unsupervised learning, end-to-end registration. 70960 This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ VOLUME 8, 2020",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "ADMIR\u2013Affine and Deformable Medical Image Registration for Drug-Addicted Brain Images",
+                "journal": "",
+                "urls": [
+                    "http://xplorestaging.ieee.org/ielx7/6287639/8948470/09062524.pdf?arnumber=9062524",
+                    "http://dx.doi.org/10.1109/access.2020.2986829"
+                ],
+                "doi": "10.1109/access.2020.2986829",
+                "publication_date": "2020-01-01 00:00:00"
+            },
+            {
+                "year": 2020,
+                "source": "SupportedSources.OPENALEX",
+                "title": "ADMIR\u2013Affine and Deformable Medical Image Registration for Drug-Addicted Brain Images",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3015686902",
+                    "https://doi.org/10.1109/access.2020.2986829",
+                    "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09062524.pdf"
+                ],
+                "doi": "10.1109/access.2020.2986829",
+                "publication_date": "2020-04-13 00:00:00"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Kong, V.",
+            "Shessel, A.",
+            "Chan, B.",
+            "Moseley, D.",
+            "Craig, T."
+        ],
+        "title": "Impact of Interobserver Variability in Volume Delineation on Deformable Image Registration for Prostate",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jmir.2017.02.012",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1939865417300267?httpAccept=text/plain",
+            "https://api.elsevier.com/content/article/PII:S1939865417300267?httpAccept=text/xml",
+            "http://dx.doi.org/10.1016/j.jmir.2017.02.012"
+        ],
+        "id": "id-5225715454430777464",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Impact of Interobserver Variability in Volume Delineation on Deformable Image Registration for Prostate",
+                "journal": "Journal of Medical Imaging and Radiation Sciences",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0360e95bc1ec04e54e9db2141132defadf5e49b0",
+                    "http://www.jmirs.org/article/S1939865417300267/pdf"
+                ],
+                "doi": "10.1016/J.JMIR.2017.02.012",
+                "publication_date": "2017-03-01 00:00:00"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Eiland, R.",
+            "Behrens, C.",
+            "Sj\u00f6str\u00f6m, D.",
+            "Maare, C.",
+            "Paulsen, R.",
+            "Samsoe, E."
+        ],
+        "title": "PO-0893 DOSIMETRIC- AND GEOMETRIC EVALUATION OF ADAPTIVE H&amp;N IMRT USING DEFORMABLE IMAGE REGISTRATION",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(12)71226-4",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814012712264?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814012712264?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(12)71226-4"
+        ],
+        "id": "id-130830866847038097",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PO-0893 DOSIMETRIC- AND GEOMETRIC EVALUATION OF ADAPTIVE H&N IMRT USING DEFORMABLE IMAGE REGISTRATION",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b465ad3de472b8278d5e810431a29735cf0e6bc4"
+                ],
+                "doi": "10.1016/S0167-8140(12)71226-4",
+                "publication_date": "2012-05-01 00:00:00"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Tiezhi Zhang",
+            "E. Meldolesi",
+            "Y. Chi",
+            "D. Yan"
+        ],
+        "title": "SU\u2010FF\u2010J\u201035: Clinical Applications of 3D and 4D Deformable Image Registration for Image Guided Radiotherapy",
+        "publication_date": "2006-06-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Medical Physics",
+        "volume": "33",
+        "doi": "10.1118/1.2240813",
+        "urls": [
+            "https://www.semanticscholar.org/paper/bf55e7151c3f15504a88f65b624be72d98a3f2fb"
+        ],
+        "id": "id8538962511772074623",
+        "abstract": "Purpose: To develop a framework of 3D and 4D deformable image registration and investigate its applications in image guided radiotherapy(IGRT).Method and Materials: We have developed 3D and 4D deformable image registration methods to register fan beam CT (FBCT) and cone beam CT(CBCT)images. Applications of the 3D and 4D deformable registration include: (1) Inter\u2010subject atlas\u2010based image segmentation to automatically contour normal tissue regions of interest (ROI) in treatment planningCTimages; (2) Intra\u2010subject atlas\u2010based image segmentation to delineate daily ROIs by registering daily FBCT or CBCTimages to treatment planningCTimages. This method is an ideal ROI delineation method for online plan adjustments; (3) 4D deformable image registration to extract average voxel trajectories for real\u2010time tumor tracking and for 4D tomotherapy treatment planning; (4) Deformable fusion of 4D\u2010PET images, which is based on deformable registration of 4D\u2010CT images, to minimize motion blurring in PET images without increase of committed doses or data acquisition time. Results: The deformable image registration system was tested using clinical images. Registrations of inter\u2010 and intra\u2010subject images show acceptable results. The corresponding results are reported in our supporting document. Quantitative validation of intra\u2010subject atlas\u2010based image segmentation showed agreements with physicians' manual contours. 4D registration yields voxel trajectories smooth in both spatial and temporal spaces. Problems were noticed in the cases where the registration image pairs are intrinsically different, such as gas bubbles in rectums, or deformations are extremely large, such as empty vs. full bladders. Conclusions: We have developed a general framework of applying 3D & 4D deformable image registration in image guided radiotherapy. Our clinical applications showed the positive and convincing results.",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "SU-FF-J-35: Clinical Applications of 3D and 4D Deformable Image Registration for Image Guided Radiotherapy",
+                "journal": "",
+                "urls": [
+                    "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1118%2F1.2240813",
+                    "https://onlinelibrary.wiley.com/doi/full/10.1118/1.2240813",
+                    "http://dx.doi.org/10.1118/1.2240813"
+                ],
+                "doi": "10.1118/1.2240813",
+                "publication_date": "2006-01-01 00:00:00"
+            }
+        ],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "You Zhang"
+        ],
+        "title": "An unsupervised 2D\u20133D deformable registration network (2D3D-RegNet) for cone-beam CT estimation",
+        "publication_date": "2021-02-25 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Physics in Medicine & Biology",
+        "volume": "66",
+        "doi": "10.1088/1361-6560/abe9f6",
+        "urls": [
+            "https://www.semanticscholar.org/paper/57761102e933706a389c1e550f3010963c83fdb7"
+        ],
+        "id": "id3181640735815448942",
+        "abstract": "Acquiring CBCTs from a limited scan angle can help to reduce the imaging time, save the imaging dose, and allow continuous target localizations through arc-based treatments with high temporal resolution. However, insufficient scan angle sampling leads to severe distortions and artifacts in the reconstructed CBCT images, limiting their clinical applicability. 2D\u20133D deformable registration can map a prior fully-sampled CT/CBCT volume to estimate a new CBCT, based on limited-angle on-board cone-beam projections. The resulting CBCT images estimated by 2D\u20133D deformable registration can successfully suppress the distortions and artifacts, and reflect up-to-date patient anatomy. However, traditional iterative 2D\u20133D deformable registration algorithm is very computationally expensive and time-consuming, which takes hours to generate a high quality deformation vector field (DVF) and the CBCT. In this work, we developed an unsupervised, end-to-end, 2D\u20133D deformable registration framework using convolutional neural networks (2D3D-RegNet) to address the speed bottleneck of the conventional iterative 2D\u20133D deformable registration algorithm. The 2D3D-RegNet was able to solve the DVFs within 5 seconds for 90 orthogonally-arranged projections covering a combined 90\u00b0 scan angle, with DVF accuracy superior to 3D\u20133D deformable registration, and on par with the conventional 2D\u20133D deformable registration algorithm. We also performed a preliminary robustness analysis of 2D3D-RegNet towards projection angular sampling frequency variations, as well as scan angle offsets. The synergy of 2D3D-RegNet with biomechanical modeling was also evaluated, and demonstrated that 2D3D-RegNet can function as a fast DVF solution core for further DVF refinement.",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "An unsupervised 2D\u20133D deformable registration network (2D3D-RegNet) for cone-beam CT estimation",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3133248032",
+                    "https://doi.org/10.1088/1361-6560/abe9f6",
+                    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9026739"
+                ],
+                "doi": "10.1088/1361-6560/abe9f6",
+                "publication_date": "2021-03-24 00:00:00"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Aganj, I.",
+            "Iglesias, E.",
+            "Reuter, M.",
+            "Sabuncu, M.",
+            "Fischl, B."
+        ],
+        "title": "Mid-Space-Independent Symmetric Data Term for Pairwise Deformable Image Registration",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-24571-3_32",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-24571-3_32",
+            "http://dx.doi.org/10.1007/978-3-319-24571-3_32"
+        ],
+        "id": "id-1932350427821778588",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Mid-Space-Independent Symmetric Data Term for Pairwise Deformable Image Registration",
+                "journal": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f39e16a951ff227f119dea33617bd57b251aa237",
+                    "https://europepmc.org/articles/pmc4732576?pdf=render"
+                ],
+                "doi": "10.1007/978-3-319-24571-3_32",
+                "publication_date": "2015-10-05 00:00:00"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Fukumitsu, N.",
+            "Nitta, K.",
+            "Terunuma, T.",
+            "Okumura, T.",
+            "Numajiri, H.",
+            "Oshiro, Y.",
+            "Ohnishi, K.",
+            "Mizumoto, M.",
+            "Aihara, T.",
+            "Ishikawa, H.",
+            "Tsuboi, K.",
+            "Sakurai, H."
+        ],
+        "title": "Registration error of the liver CT using deformable image registration of MIM Maestro and Velocity AI",
+        "publication_date": "2017-05-04 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1186/s12880-017-0202-z",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1186/s12880-017-0202-z.pdf",
+            "http://dx.doi.org/10.1186/s12880-017-0202-z"
+        ],
+        "id": "id-7514076532797658218",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Registration error of the liver CT using deformable image registration of MIM Maestro and Velocity AI",
+                "journal": "BMC Medical Imaging",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ef93073c0b13a5b26f7424325f38eddf6ff919a7",
+                    "https://bmcmedimaging.biomedcentral.com/track/pdf/10.1186/s12880-017-0202-z"
+                ],
+                "doi": "10.1186/s12880-017-0202-z",
+                "publication_date": "2017-05-04 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Park, S.",
+            "Monroe, J.",
+            "Yao, M.",
+            "Machtay, M.",
+            "Sohn, J."
+        ],
+        "title": "Spatially Weighted B-spline Deformable Image Registration for Accurate Delineation",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2010.07.1679",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301610026532?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301610026532?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2010.07.1679"
+        ],
+        "id": "id3423283085925922902",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Spatially Weighted B-spline Deformable Image Registration for Accurate Delineation",
+                "journal": "International Journal of Radiation Oncology Biology Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ed58c9e6596970f39ca521fe931fc84fa56d8966"
+                ],
+                "doi": "10.1016/J.IJROBP.2010.07.1679",
+                "publication_date": "2010-11-01 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "M. Stralen",
+            "J. Pluim"
+        ],
+        "title": "Optimal discrete multi-resolution deformable image registration",
+        "publication_date": "2009-06-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/ISBI.2009.5193210",
+        "urls": [
+            "https://www.semanticscholar.org/paper/d69147609271b2e6350a2347c3ed5b2d3fc1b2ff"
+        ],
+        "id": "id4992037974007224458",
+        "abstract": "Deformable image registration is a challenging problem. Current solutions either have a high computational load or suffer from weak regularization.",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Optimal discrete multi-resolution deformable image registration",
+                "journal": "",
+                "urls": [
+                    "http://xplorestaging.ieee.org/ielx5/5174537/5192959/05193210.pdf?arnumber=5193210",
+                    "http://dx.doi.org/10.1109/isbi.2009.5193210"
+                ],
+                "doi": "10.1109/isbi.2009.5193210",
+                "publication_date": "2009-01-01 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Kierkels, R.",
+            "Brouwer, C.",
+            "Steenbakkers, R.",
+            "Bijl, H.",
+            "Langendijk, J.",
+            "Sijtsema, N."
+        ],
+        "title": "OC-0067: An automated patient-specific and quantitative approachfor deformable image registration evaluation",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(16)31316-0",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814016313160?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814016313160?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(16)31316-0"
+        ],
+        "id": "id4260910336097116546",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "OC-0067: An automated patient-specific and quantitative approachfor deformable image registration evaluation",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/798c1e1400d70cc4cd5f21d88e61391aede190a8"
+                ],
+                "doi": "10.1016/S0167-8140(16)31316-0",
+                "publication_date": "2016-04-01 00:00:00"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Zhenyu Zhu",
+            "Yiqin Cao",
+            "Chenchen Qin",
+            "Y. Rao",
+            "Lin Di",
+            "Q. Dou",
+            "Dong Ni",
+            "Yi Wang"
+        ],
+        "title": "Joint Affine and Deformable 3D Networks for Brain MRI Registration.",
+        "publication_date": "2020-12-20 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/mp.14674",
+        "urls": [
+            "https://www.semanticscholar.org/paper/5601002c49e37878cf3fbc066d0af93f06e126a2"
+        ],
+        "id": "id2912816751473324421",
+        "abstract": "PURPOSE\nVolumetric medical image registration has important clinical significance. Traditional registration methods may be time-consuming when processing large volumetric data due to their iterative optimizations. In contrast, existing deep learning-based networks can obtain the registration quickly. However, most of them require independent rigid alignment before deformable registration; these two steps are often performed separately and cannot be end-to-end.\n\n\nMETHODS\nWe propose an end-to-end joint affine and deformable network for 3D medical image registration. The proposed network combines two deformation methods; the first one is for obtaining affine alignment, and the second one is a deformable subnet work for achieving the non-rigid registration. The parameters of the two subnetworks are shared. The global and local similarity measures are used as loss functions for the two subnetworks, respectively. Moreover, an anatomical similarity loss is devised to weakly supervise the training of the whole registration network. Finally, the trained network can perform deformable registration in one forward pass.\n\n\nRESULTS\nThe efficacy of our network was extensively evaluated on three public brain MRI datasets including Mindboggle101, LPBA40, and IXI. Experimental results demonstrate our network consistently outperformed several state-of-the-art methods with respect to the metrics of Dice index (DSC), Hausdorff distance (HD) and average symmetric surface distance (ASSD).\n\n\nCONCLUSIONS\nThe proposed network provides accurate and robust volumetric registration without any pre-alignment requirement, which facilitates the end-to-end deformable registration.",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Joint affine and deformable three\u2010dimensional networks for brain MRI registration",
+                "journal": "",
+                "urls": [
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14674",
+                    "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mp.14674",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14674",
+                    "http://dx.doi.org/10.1002/mp.14674"
+                ],
+                "doi": "10.1002/mp.14674",
+                "publication_date": "2021-01-22 00:00:00"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Dyer, B.",
+            "Yuan, Z.",
+            "Qiu, J.",
+            "Shi, L.",
+            "Wright, C.",
+            "Benedict, S.",
+            "Valicenti, R.",
+            "Mayadev, J.",
+            "Rong, Y."
+        ],
+        "title": "Clinical feasibility of MR-assisted CT-based cervical brachytherapy using MR-to-CT deformable image registration",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.brachy.2020.03.001",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1538472120300301?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1538472120300301?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.brachy.2020.03.001"
+        ],
+        "id": "id549940278666473355",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Clinical feasibility of MR-assisted CT-based cervical brachytherapy using MR-to-CT deformable image registration.",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a605519a3e3dd36b1bf418e386e08a966b91f215"
+                ],
+                "doi": "10.1016/j.brachy.2020.03.001",
+                "publication_date": "2020-04-20 00:00:00"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [],
+        "title": "GPU-Based Unimodal Deformable Image Registration in Radiation Therapy",
+        "publication_date": "2015-09-14 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/b18968-10",
+        "urls": [
+            "http://dx.doi.org/10.1201/b18968-10"
+        ],
+        "id": "id-2116659596464437244",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "GPU-Based Unimodal Deformable Image Registration in Radiation Therapy",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fe766077898863a9fb3c5ccbd5ba3d1dcabb5a1a"
+                ],
+                "doi": "10.1201/B18968-10",
+                "publication_date": "2015-10-07 00:00:00"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Sarrut, D."
+        ],
+        "title": "DEFORMABLE IMAGE REGISTRATION FOR RADIATION THERAPY",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0167-8140(12)72712-3",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167814012727123?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167814012727123?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0167-8140(12)72712-3"
+        ],
+        "id": "id-4718936949856576890",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "DEFORMABLE IMAGE REGISTRATION FOR RADIATION THERAPY",
+                "journal": "Radiotherapy and Oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/795c1652a7f748f204937a192228b9326de93e0d"
+                ],
+                "doi": "10.1016/S0167-8140(12)72712-3",
+                "publication_date": "2009-08-01 00:00:00"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Fox, T."
+        ],
+        "title": "WE-PIS-Exhibit Hall-4: Varian Medical Systems: Deformable Image Registration Methods and Applications to Radiation Oncology",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1118/1.4925970",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1118%2F1.4925970",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4925970/fullpdf",
+            "http://dx.doi.org/10.1118/1.4925970"
+        ],
+        "id": "id1676434008052120987",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "WE\u2010PIS\u2010Exhibit Hall\u20104: Varian Medical Systems: Deformable Image Registration Methods and Applications to Radiation Oncology",
+                "journal": "Medical Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a18d1ed54aa3199a39ae37ef67336051fe3184cb"
+                ],
+                "doi": "10.1118/1.4925970",
+                "publication_date": "2015-06-01 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "-, J.",
+            "-, H.",
+            "-, Y."
+        ],
+        "title": "A NURBS Based Deformable Registration Algorithm: Application to kV CBCT Based Image-guided Radiotherapy",
+        "publication_date": "2012-08-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.4156/jcit.vol7.issue14.15",
+        "urls": [
+            "http://dx.doi.org/10.4156/jcit.vol7.issue14.15"
+        ],
+        "id": "id6244690318266062105",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A NURBS Based Deformable Registration Algorithm: Application to kV CBCT Based Image-guided Radiotherapy",
+                "journal": "Journal of Convergence Information Technology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4224600fde1b847de879d6eb9c69e954a566f5a7"
+                ],
+                "doi": "10.4156/JCIT.VOL7.ISSUE14.15",
+                "publication_date": "2012-08-31 00:00:00"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Feuerstein, M.",
+            "Heibel, H.",
+            "Gardiazabal, J.",
+            "Navab, N.",
+            "Groher, M."
+        ],
+        "title": "Reconstruction of 3-D Histology Images by Simultaneous Deformable Registration",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-23629-7_71",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-23629-7_71",
+            "http://dx.doi.org/10.1007/978-3-642-23629-7_71"
+        ],
+        "id": "id2037623301011396338",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Reconstruction of 3-D Histology Images by Simultaneous Deformable Registration",
+                "journal": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/37573fbc7e68f3445574c3df918827c81f6fad16",
+                    "https://link.springer.com/content/pdf/10.1007%2F978-3-642-23629-7_71.pdf"
+                ],
+                "doi": "10.1007/978-3-642-23629-7_71",
+                "publication_date": "2011-09-18 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Sugawara, Y.",
+            "Kadoya, N.",
+            "Kotabe, K.",
+            "Nakajima, Y.",
+            "Ikeda, R.",
+            "Tanabe, S.",
+            "Ohashi, H.",
+            "Jingu, K."
+        ],
+        "title": "Development of a dynamic deformable thorax phantom for the quality management of deformable image registration",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ejmp.2020.08.007",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S112017972030199X?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S112017972030199X?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ejmp.2020.08.007"
+        ],
+        "id": "id8632623915235188387",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Development of a dynamic deformable thorax phantom for the quality management of deformable image registration.",
+                "journal": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/19ac09e134eeb20f850b9f240a3ead8564def0d1"
+                ],
+                "doi": "10.1016/j.ejmp.2020.08.007",
+                "publication_date": "2020-08-18 00:00:00"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Chen, M.",
+            "Lu, W.",
+            "Chen, Q.",
+            "Ruchala, K.",
+            "Olivera, G."
+        ],
+        "title": "ROI Constrained Deformable Image Registration for On-Line Adaptive Radiotherapy",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.ijrobp.2007.07.2125",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0360301607034062?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0360301607034062?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.ijrobp.2007.07.2125"
+        ],
+        "id": "id-8553136301748399301",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "ROI Constrained Deformable Image Registration for On-Line Adaptive Radiotherapy",
+                "journal": "International Journal of Radiation Oncology Biology Physics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b4c223511c6d96d3bc855feb9d7b07c6ac953dcf"
+                ],
+                "doi": "10.1016/J.IJROBP.2007.07.2125",
+                "publication_date": "2007-11-01 00:00:00"
+            }
+        ],
+        "rank": 99
+    }
+]

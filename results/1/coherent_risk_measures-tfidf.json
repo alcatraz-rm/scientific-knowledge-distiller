@@ -1,0 +1,3729 @@
+[
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Multivalued coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/0b5b7feb4799b520ca9741afa4596cf2a5edbd43"
+        ],
+        "id": "id-8858243516179706458",
+        "abstract": null,
+        "versions": [],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Philippe Artzner",
+            "Freddy Delbaen",
+            "Jean-Marc Eber",
+            "David Heath"
+        ],
+        "title": "Coherent Measures of Risk",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511615337.007",
+        "urls": [
+            "https://openalex.org/W1568386005",
+            "https://doi.org/10.1017/cbo9780511615337.007"
+        ],
+        "id": "id-6211795735400302344",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Management: Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/123b4eb6b4c4ee1df8de02f5b35821685987b137"
+                ],
+                "doi": "10.1017/CBO9780511615337.007",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Measures of Risk",
+                "journal": "Risk Management",
+                "urls": [
+                    "https://doi.org/10.1017/cbo9780511615337.007"
+                ],
+                "doi": "10.1017/cbo9780511615337.007",
+                "publication_date": "None"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1CD8316F03C59B1DFEECAA0B87CA2820",
+                    "http://dx.doi.org/10.1017/cbo9780511615337.007"
+                ],
+                "doi": "10.1017/cbo9780511615337.007",
+                "publication_date": "2002-01-10 00:00:00"
+            }
+        ],
+        "rank": 1
+    },
+    {
+        "authors": [],
+        "title": "Coherent measures of risk",
+        "publication_date": "2014-08-07 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9781139017398.009",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/62425CFD8F05E65FBB54540115C04F79",
+            "http://dx.doi.org/10.1017/cbo9781139017398.009"
+        ],
+        "id": "id-3005467833932831902",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7b375842754bc0aefefea301618ab44efca0e147"
+                ],
+                "doi": "10.1017/CBO9781139017398.009",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent measures of risk",
+                "journal": "Portfolio Theory and Risk Management",
+                "urls": [
+                    "https://doi.org/10.1017/cbo9781139017398.009"
+                ],
+                "doi": "10.1017/cbo9781139017398.009",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Coherent Risk Measures in Multiperiod Models",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/94033a15a5f7cfc3bb98b3ae484633a2a75a9232"
+        ],
+        "id": "id1228272096747560003",
+        "abstract": null,
+        "versions": [],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Stefan R. Jaschke",
+            "Uwe K\u00fcchler"
+        ],
+        "title": "Coherent risk measures and good-deal bounds",
+        "publication_date": "2001-04-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "5",
+        "doi": "10.1007/pl00013530",
+        "urls": [
+            "https://openalex.org/W2058297600",
+            "https://doi.org/10.1007/pl00013530"
+        ],
+        "id": "id6706149881583542769",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f94b271bd8a7e23dac54103e9997c1299b08c3cb"
+                ],
+                "doi": "10.1007/PL00013530",
+                "publication_date": "2001-04-10 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://doi.org/10.1007/pl00013530"
+                ],
+                "doi": "10.1007/pl00013530",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent risk measures and good-deal bounds",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/PL00013530.pdf",
+                    "http://link.springer.com/article/10.1007/PL00013530/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/PL00013530",
+                    "http://dx.doi.org/10.1007/pl00013530"
+                ],
+                "doi": "10.1007/pl00013530",
+                "publication_date": "2001-01-01 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Christos E. Kountzakis"
+        ],
+        "title": "Generalized Coherent Risk Measures",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2513585482"
+        ],
+        "id": "id4642577830518947832",
+        "abstract": "",
+        "versions": [],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Massimiliano Bonetti",
+            "L. Bisi",
+            "Marcello Restelli"
+        ],
+        "title": "Risk-averse optimization of reward-based coherent risk measures",
+        "publication_date": "2023-01-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Artif. Intell.",
+        "volume": "316",
+        "doi": "10.1016/j.artint.2022.103845",
+        "urls": [
+            "https://www.semanticscholar.org/paper/b3600d160dcb55d285eb7e21fe987322bec6db87"
+        ],
+        "id": "id-3828082604203575050",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Risk-averse optimization of reward-based coherent risk measures",
+                "journal": "Artificial Intelligence",
+                "urls": [
+                    "https://doi.org/10.1016/j.artint.2022.103845"
+                ],
+                "doi": "10.1016/j.artint.2022.103845",
+                "publication_date": "None"
+            },
+            {
+                "year": 2023,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Risk-averse optimization of reward-based coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0004370222001850?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0004370222001850?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.artint.2022.103845"
+                ],
+                "doi": "10.1016/j.artint.2022.103845",
+                "publication_date": "2023-01-01 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Stoica, G."
+        ],
+        "title": "Relevant coherent measures of risk",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jmateco.2006.03.006",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0304406806000723?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0304406806000723?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jmateco.2006.03.006"
+        ],
+        "id": "id4387695001718238127",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Relevant coherent measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1975969223",
+                    "https://doi.org/10.1016/j.jmateco.2006.03.006"
+                ],
+                "doi": "10.1016/j.jmateco.2006.03.006",
+                "publication_date": "2006-09-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Relevant coherent measures of risk",
+                "journal": "Journal of Mathematical Economics",
+                "urls": [
+                    "https://doi.org/10.1016/j.jmateco.2006.03.006"
+                ],
+                "doi": "10.1016/j.jmateco.2006.03.006",
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Relevant coherent measures of risk",
+                "journal": "Journal of Mathematical Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/15d28ab41caa4112cca7050be546e6f2030f16d6"
+                ],
+                "doi": "10.1016/J.JMATECO.2006.03.006",
+                "publication_date": "2006-09-01 00:00:00"
+            }
+        ],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Ren Feng-yin"
+        ],
+        "title": "Coherent risk measure based on f-divergence",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Dalian University of Technology",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/377b889ef36997351b1a8409c52fa61fc8dde2dd"
+        ],
+        "id": "id-7825036186284892811",
+        "abstract": "The investigation for the coherent risk measures with entropy constraints is conducted,and because it has many good properties,the coherent risk measure with f-divergence constraints is presented.The study obtains a group of flexible risk measures and the methods to control the acceptable set of the coherent risk measure theory.In addition,its advantages used directly in optimization problems and the robustness of method are discussed.The new expression of coherent risk measure is obtained.It is the upper bound of CVaRand more tractable in applications.",
+        "versions": [],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Zhiping Chen",
+            "Qianhui Hu"
+        ],
+        "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+        "publication_date": "2018-06-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Methodology and Computing in Applied Probability",
+        "volume": "20",
+        "doi": "10.1007/S11009-017-9584-1",
+        "urls": [
+            "https://www.semanticscholar.org/paper/54dfd60f1cb22612d159c26f1fbe0306d749170e"
+        ],
+        "id": "id4669283160843585707",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/article/10.1007/s11009-017-9584-1/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s11009-017-9584-1.pdf",
+                    "http://link.springer.com/content/pdf/10.1007/s11009-017-9584-1.pdf",
+                    "http://dx.doi.org/10.1007/s11009-017-9584-1"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "2017-08-02 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "Methodology and Computing in Applied Probability",
+                "urls": [
+                    "https://doi.org/10.1007/s11009-017-9584-1"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "None"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2741147126",
+                    "https://doi.org/10.1007/s11009-017-9584-1"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "2018-06-01 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Coherent Risk Measures Induced by Convex Risk Measures",
+                "journal": "Methodology and Computing in Applied Probability",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74eafe10a9cc3ae8d79cbe6be5894e3fa0f55bcc"
+                ],
+                "doi": "10.1007/s11009-017-9584-1",
+                "publication_date": "2017-08-02 00:00:00"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Bignozzi, V.",
+            "Tsanakas, A.",
+            "Wang, R."
+        ],
+        "title": "How Superadditive Can a Risk Measure Be?",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1137/140981046",
+        "urls": [
+            "https://core.ac.uk/download/76981325.pdf"
+        ],
+        "id": "id7336941648714618463",
+        "abstract": "In this paper, we study the extent to which any risk measure can lead to superadditive risk assessments, implying the potential for penalizing portfolio diversification. For this purpose we introduce the notion of extreme-aggregation risk measures. The extreme-aggregation measure characterizes the most superadditive behavior of a risk measure, by yielding the worst-possible diversification ratio across dependence structures. One of the main contributions is demonstrating that, for a wide range of risk measures, the extreme-aggregation measure corresponds to the smallest dominating coherent risk measure. In our main result, it is shown that the extremeaggregation measure induced by a distortion risk measure is a coherent distortion risk measure. In the case of convex risk measures, a general robust representation of coherent extreme-aggregation measures is provided. In particular, the extreme-aggregation measure induced by a convex shortfall risk measure is a coherent expectile. These results show that, in the presence of dependence uncertainty, quantification of a coherent risk measure is often necessary, an observation that lends further support to the use of coherent risk measures in portfolio risk management",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.OPENALEX",
+                "title": "How Superadditive Can a Risk Measure Be?",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3121441896",
+                    "https://doi.org/10.1137/140981046",
+                    "https://openaccess.city.ac.uk/id/eprint/12693/1/WangBignozziTsanakas.pdf"
+                ],
+                "doi": "10.1137/140981046",
+                "publication_date": "2015-08-26 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.OPENALEX",
+                "title": "How Superadditive Can a Risk Measure Be?",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2120552230",
+                    "https://doi.org/10.2139/ssrn.2373149",
+                    "https://openaccess.city.ac.uk/id/eprint/12693/1/WangBignozziTsanakas.pdf"
+                ],
+                "doi": "10.2139/ssrn.2373149",
+                "publication_date": "2015-03-13 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "How Superadditive Can a Risk Measure Be?",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/143446dbec08e04c8e3bb42b6af283b9f4b09561",
+                    "https://openaccess.city.ac.uk/id/eprint/12693/1/WangBignozziTsanakas.pdf"
+                ],
+                "doi": "10.2139/ssrn.2373149",
+                "publication_date": "2015-03-13 00:00:00"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Zhang Hui"
+        ],
+        "title": "Conditional g-expectation and coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Shandong University",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/70c6a45e6e938ac988a05446038d85f86f3c1296"
+        ],
+        "id": "id-7321168132752142820",
+        "abstract": "Conditional g-expectation is applied to define (dynamic) risk measures, which satisfies the axioms of coherent (dynamic) risk measures. Then, the representation theorems of the given (dynamic) coherent risk measures are provided. At the same time, some important properties of the (dynamic) coherent risk measures are followed.",
+        "versions": [],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "\u0410. \u0412. \u041a\u0443\u043b\u0438\u043a\u043e\u0432",
+            "A. Kulikov"
+        ],
+        "title": "\u041c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u044b\u0435 \u043a\u043e\u0433\u0435\u0440\u0435\u043d\u0442\u043d\u044b\u0435 \u0438 \u0432\u044b\u043f\u0443\u043a\u043b\u044b\u0435 \u043c\u0435\u0440\u044b \u0440\u0438\u0441\u043a\u0430@@@Multidimensional Coherent and Convex Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "52",
+        "doi": "10.4213/TVP1529",
+        "urls": [
+            "https://www.semanticscholar.org/paper/cab80057ea01e4414ab20490a1bb7917b2a38775",
+            "http://www.mathnet.ru/php/getFT.phtml?jrnid=tvp&paperid=1529&what=fullt&option_lang=rus"
+        ],
+        "id": "id-6075418621872983091",
+        "abstract": null,
+        "versions": [],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "Hans F\u00f6llmer",
+            "Alexander Schied"
+        ],
+        "title": "Coherent and convex risk measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2588440186"
+        ],
+        "id": "id-7936648466581146924",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent and convex risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/33b55872f5f5642b9d2fc6152ae14e78e24e49be"
+                ],
+                "doi": "",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Hailiang Yang",
+            "T. Siu"
+        ],
+        "title": "Coherent Risk Measures for Derivatives",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "International Journal of Theoretical and Applied Finance",
+        "volume": "4",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/4bf733645d3a9a3d4a0e92ad4cb12ca6e507623e"
+        ],
+        "id": "id2854961533511582206",
+        "abstract": null,
+        "versions": [],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "M. Righi"
+        ],
+        "title": "Loss-Deviation risk measures",
+        "publication_date": "2016-10-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "arXiv: Risk Management",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/6213f6add900a71b2ad56f8d1497356efbb3578c"
+        ],
+        "id": "id1499041990508464201",
+        "abstract": "In this paper we present a class of risk measures composed of coherent risk measures with generalized deviation measures. Based on the Limitedness axiom, we prove that this set is a sub-class of coherent risk measures. We present extensions of this result for the case of convex or co-monotone coherent risk measures. Under this perspective, we propose a specific formulation that generates, from any coherent measure, a generalized deviation based on the dispersion of results worse than it, which leads to a very interesting risk measure. Moreover, we present some examples of risk measures that lie in our proposed class.",
+        "versions": [],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Grazyna Trzpiot"
+        ],
+        "title": "Some properties of risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6531075.pdf"
+        ],
+        "id": "id6294561102035233330",
+        "abstract": "The widely used risk measures as standard deviations and value at risk do not always reflect risk preferences accurately. To overcome this problem we show coherent risk approach. For making the overview of the problem of risk measure we propose a coherent risk measure approach. We started from the definition of risk (market and other) and we took a close look at construction of risk measures. We present a set of axioms according to this approach and a collection of coherent risk measures. In particular, we describe quantile risk measures, distortion risk measures with detailed presentation of the most frequent distortion functions in use. The next propositions are risk measures based on lower partial moments. We show some properties of these measures and also discuss limitations of such measures in practical applications.risk, VaR, CVaR, coherent risk measures, distortion risk measure",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Some properties of risk measures",
+                "journal": "Operations Research and Decisions",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e01616d4e2b85ae5b9ea4194630af778b09c9d77"
+                ],
+                "doi": "",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Zhiping Chen",
+            "Qianhui Hu",
+            "Ruiyue Lin"
+        ],
+        "title": "Performance ratio-based coherent risk measure and its application",
+        "publication_date": "2016-05-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Quantitative Finance",
+        "volume": "16",
+        "doi": "10.1080/14697688.2015.1075059",
+        "urls": [
+            "https://www.semanticscholar.org/paper/e468bb0b44a338b0e624bbae8b08ced8dfba1964"
+        ],
+        "id": "id-492119415463967001",
+        "abstract": "Utilizing a specific acceptance set, we propose in this paper a general method to construct coherent risk measures called the generalized shortfall risk measure. Besides some existing coherent risk measures, several new types of coherent risk measures can be generated. We investigate the generalized shortfall risk measure\u2019s desirable properties such as consistency with second-order stochastic dominance. By combining the performance evaluation with the risk control, we study in particular the performance ratio-based coherent risk (PRCR) measures, which is a sub-class of generalized shortfall risk measures. The PRCR measures are tractable and have a suitable financial interpretation. Based on the PRCR measure, we establish a portfolio selection model with transaction costs. Empirical results show that the optimal portfolio obtained under the PRCR measure performs much better than the corresponding optimal portfolio obtained under the higher moment coherent risk measure.",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Performance ratio-based coherent risk measure and its application",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2291382242",
+                    "https://doi.org/10.1080/14697688.2015.1075059"
+                ],
+                "doi": "10.1080/14697688.2015.1075059",
+                "publication_date": "2016-05-03 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Performance ratio-based coherent risk measure and its application",
+                "journal": "Quantitative Finance",
+                "urls": [
+                    "https://doi.org/10.1080/14697688.2015.1075059"
+                ],
+                "doi": "10.1080/14697688.2015.1075059",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Zheng Cheng-li",
+            "Chen Yan"
+        ],
+        "title": "Coherent Risk Measure Based on Relative Entropy",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/bd8ddbf9e787bc53eed3fdaaf420af1a305df401"
+        ],
+        "id": "id-762356528143460644",
+        "abstract": "This article proposes a new coherent risk measure called iso-entropic risk measure, which is based on relative entropy under the theory framework of Artzner et al.(1999). It is pointed that this measure is just the negative expectation of the risk portfolio position under the probability measure through Esscher transformation. This iso-entropic risk measure is not a 0-1 risk measure and very smooth in contrast with another important coherent risk measure AV @R (Average Value at Risk). And it is a little larger than AV @R at the same level, namely it is has more prudence. So it maybe a better coherent risk measure.",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Risk Measure Based on Relative Entropy",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2187499228"
+                ],
+                "doi": null,
+                "publication_date": "2012-01-01 00:00:00"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Defei Zhang",
+            "P. He"
+        ],
+        "title": "Risk Measure via Choquet Integral",
+        "publication_date": "2011-04-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/CSO.2011.229",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c4252e3ac2b9913592816a5dad640274376a9dc9"
+        ],
+        "id": "id-5303145828549084025",
+        "abstract": "In this paper, we obtain the sufficient condition for a risk measure defined by Choquet integral is not only coherent risk measure but also convex risk measure. Some properties about coherent (convex) risk measures are investigated and Jensen's inequality and dominated convergence theorem for generalized risk measure are presented.",
+        "versions": [],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "Filipovic, Damir"
+        ],
+        "title": "A Note on the Swiss Solvency Test Risk Measure",
+        "publication_date": "2010-04-27 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.insmatheco.2007.10.009",
+        "urls": [
+            "https://core.ac.uk/download/147959304.pdf"
+        ],
+        "id": "id-355926121889447125",
+        "abstract": "In this paper we examine whether the Swiss Solvency Test risk measure is a coherent measure of risk as introduced in Artzner et al. [Artzner, P., Delbaen, F., Eber, J.M., Heath, D., 1999. Coherent measures of risk. Math. Finance 9, 203\u2013228; Artzner, P., Delbaen, F., Eber, J.M., Heath, D., Ku, H., 2004. Coherent multiperiod risk adjusted values and Bellman\u2019s principle. Working Paper. ETH Zurich]. We provide a simple example which shows that it does not satisfy the axiom of monotonicity. We then find, as a monotonic alternative, the greatest coherent risk measure which is majorized by the Swiss Solvency Test risk measure",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "A note on the Swiss Solvency Test risk measure",
+                "journal": "Elsevier BV",
+                "urls": [
+                    "https://web.archive.org/web/20170808062713/http://www.math.lmu.de/~filipo/PAPERS/fv_5.pdf"
+                ],
+                "doi": "10.1016/j.insmatheco.2007.10.009",
+                "publication_date": "2008-01-01 00:00:00"
+            },
+            {
+                "year": 2008,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A note on the Swiss Solvency Test risk measure",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2023951373",
+                    "https://doi.org/10.1016/j.insmatheco.2007.10.009",
+                    "https://infoscience.epfl.ch/record/148556/files/A%20note%20on%20the%20Swiss%20Solvency%20Test%20risk%20measure.pdf"
+                ],
+                "doi": "10.1016/j.insmatheco.2007.10.009",
+                "publication_date": "2008-06-01 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "He Ying",
+            "Huang Rui-hua",
+            "Ren Su-hong"
+        ],
+        "title": "A Coherent Risk Measure of the Intellectual Property Risk Based on Entropy",
+        "publication_date": "2006-10-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1109/ICMSE.2006.314074",
+        "urls": [
+            "https://www.semanticscholar.org/paper/16dc9c308b185d13577904764f0bc0a412944d12"
+        ],
+        "id": "id-7856951698581137881",
+        "abstract": "In this paper, based on the entropy which is used as a measure of the uncertainty, a risk measure of the intellectual property risk is constructed via using the coherent risk measure of finance risk for reference. To construct the intellectual property risk measure, we define the intellectual property risk as a risk composed of three elements, namely uncertainty, variance and loss. The risk measure constructed in this paper is proved to be able to reflect the people's perception of intellectual property risk and is a coherent risk measure",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A Coherent Risk Measure of the Intellectual Property Risk Based on Entropy",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2017441665",
+                    "https://doi.org/10.1109/icmse.2006.314074"
+                ],
+                "doi": "10.1109/icmse.2006.314074",
+                "publication_date": "2006-10-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "A Coherent Risk Measure of the Intellectual Property Risk Based on Entropy",
+                "journal": "2006 International Conference on Management Science and Engineering",
+                "urls": [
+                    "https://doi.org/10.1109/icmse.2006.314074"
+                ],
+                "doi": "10.1109/icmse.2006.314074",
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A Coherent Risk Measure of the Intellectual Property Risk Based on Entropy",
+                "journal": "",
+                "urls": [
+                    "http://xplorestaging.ieee.org/ielx5/4094461/4037319/04105178.pdf?arnumber=4105178",
+                    "http://dx.doi.org/10.1109/icmse.2006.314074"
+                ],
+                "doi": "10.1109/icmse.2006.314074",
+                "publication_date": "2006-01-01 00:00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Yu Feng",
+            "Yichuan Dong",
+            "Jia-Bao Liu"
+        ],
+        "title": "Set-Valued Haezendonck-Goovaerts Risk Measure and Its Properties",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Hindawi Limited",
+        "volume": "",
+        "doi": "10.1155/2017/5320908",
+        "urls": [
+            "https://web.archive.org/web/20190220083158/http://pdfs.semanticscholar.org/20d8/300370fc56c0cf9976de5e5c783f0e8e76d2.pdf"
+        ],
+        "id": "id5448320408717395732",
+        "abstract": "We propose a new set-valued risk measure, which is called set-valued Haezendonck-Goovaerts risk measure. First, we construct the set-valued Haezendonck-Goovaerts risk measure and then provide an equivalent representation. The properties of the set-valued Haezendonck-Goovaerts risk measure are investigated, which show that the set-valued Haezendonck-Goovaerts risk measure is coherent. Finally, an example of set-valued Haezendonck-Goovaerts risk measure is given, which exhibits the fact that the set-valued average value at risk is a particular case of the set-valued Haezendonck-Goovaerts risk measures.",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Set-Valued Haezendonck-Goovaerts Risk Measure and Its Properties",
+                "journal": "Discrete Dynamics in Nature and Society",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/20d8300370fc56c0cf9976de5e5c783f0e8e76d2",
+                    "http://downloads.hindawi.com/journals/ddns/2017/5320908.pdf"
+                ],
+                "doi": "10.1155/2017/5320908",
+                "publication_date": "2017-10-15 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Set-Valued Haezendonck-Goovaerts Risk Measure and Its Properties",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2761342439",
+                    "https://doi.org/10.1155/2017/5320908",
+                    "http://downloads.hindawi.com/journals/ddns/2017/5320908.pdf"
+                ],
+                "doi": "10.1155/2017/5320908",
+                "publication_date": "2017-10-15 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "M. Dempster",
+            "G. Pflug",
+            "G. Mitra"
+        ],
+        "title": "Higher Moment Coherent Risk Measures",
+        "publication_date": "2008-12-22 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1201/9781420081923.ch13",
+        "urls": [
+            "https://www.semanticscholar.org/paper/741403103131c97e96d7977a178df5dee2957bcd"
+        ],
+        "id": "id1590328476401686532",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Higher Moment Coherent Risk Measures",
+                "journal": "Quantitative Fund Management",
+                "urls": [
+                    "https://doi.org/10.1201/9781420081923.ch13"
+                ],
+                "doi": "10.1201/9781420081923.ch13",
+                "publication_date": "None"
+            },
+            {
+                "year": 2008,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Higher Moment Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1201/9781420081923.ch13"
+                ],
+                "doi": "10.1201/9781420081923.ch13",
+                "publication_date": "2008-12-22 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Yuji Yoshida"
+        ],
+        "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+        "publication_date": "2019-06-02 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-981-13-8303-8_19",
+        "urls": [
+            "https://openalex.org/W2947205161",
+            "https://doi.org/10.1007/978-981-13-8303-8_19"
+        ],
+        "id": "id6160119961149257255",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "Smart Innovation, Systems and Technologies",
+                "urls": [
+                    "https://doi.org/10.1007/978-981-13-8303-8_19"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "None"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d7dd195f5e61d4db37b422510ff57cf8e2b1a45c"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "2019-06-02 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Risk-Sensitive Decision-Making Under Risk Constraints with Coherent Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/978-981-13-8303-8_19",
+                    "http://dx.doi.org/10.1007/978-981-13-8303-8_19"
+                ],
+                "doi": "10.1007/978-981-13-8303-8_19",
+                "publication_date": "2019-01-01 00:00:00"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [],
+        "title": "Risk measures",
+        "publication_date": "2003-12-11 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511753893.012",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75BFE6C8C00EE5D4D625A983A17F40BB",
+            "http://dx.doi.org/10.1017/cbo9780511753893.012"
+        ],
+        "id": "id-5929179668725484699",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Theory of Financial Risk and Derivative Pricing: Risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7d62d2565afd16b6f892d2855cdfd8f33860a44f"
+                ],
+                "doi": "10.1017/CBO9780511753893.012",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [],
+        "title": "Measures of Risk",
+        "publication_date": "2015-10-17 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119197096.app06",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119197096.app06",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119197096.app06",
+            "http://dx.doi.org/10.1002/9781119197096.app06"
+        ],
+        "id": "id14440667298326421",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c49061dface0792bb382fdab7ce40f6614dac030",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119197096.app06"
+                ],
+                "doi": "10.1002/9781119197096.app06",
+                "publication_date": "2012-01-02 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [],
+        "title": "Risk Measures",
+        "publication_date": "2015-09-28 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9789814641944_0015",
+        "urls": [
+            "http://dx.doi.org/10.1142/9789814641944_0015"
+        ],
+        "id": "id-9083490226201949365",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/db96ee7bb9ca1e03886582d3bedce729d95c9f95"
+                ],
+                "doi": "10.1142/9789814641944_0015",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [],
+        "title": "Measures of risk",
+        "publication_date": "2006-03-06 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/0470051310.ch3",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/0470051310.ch3",
+            "http://dx.doi.org/10.1002/0470051310.ch3"
+        ],
+        "id": "id-3309667264207905800",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a7a78699d717cb8ace968a3d288328a8c59b9fa1"
+                ],
+                "doi": "10.1002/0470051310.CH3",
+                "publication_date": "2006-03-06 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Baird, J.",
+            "Bangs, M.",
+            "Maguire, J.",
+            "Barcus, M."
+        ],
+        "title": "Epidemiological Measures of Risk of Malaria",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1385/1-59259-271-6:13",
+        "urls": [
+            "http://dx.doi.org/10.1385/1-59259-271-6:13"
+        ],
+        "id": "id7230219007834374991",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Epidemiological measures of risk of malaria.",
+                "journal": "Methods in molecular medicine",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/ac65fab5efdf6453f0ccaefbbef2372405fd6a9c",
+                    "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1384&context=publichealthresources"
+                ],
+                "doi": "10.1385/1-59259-271-6:13",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "Bellini, F.",
+            "Rosazza Gianin, E."
+        ],
+        "title": "Haezendonck\u2013Goovaerts risk measures and Orlicz quantiles",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.insmatheco.2012.03.005",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0167668712000406?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0167668712000406?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.insmatheco.2012.03.005"
+        ],
+        "id": "id-6667666400497545723",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Haezendonck-Goovaerts risk measures and Orlicz quantiles",
+                "journal": "Insurance Mathematics & Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/8586745def1626b697aa1c3fc4bc4ef9fb147b40"
+                ],
+                "doi": "10.1016/J.INSMATHECO.2012.03.005",
+                "publication_date": "2012-07-01 00:00:00"
+            }
+        ],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Szeg\u00f6, G."
+        ],
+        "title": "Measures of risk",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0378-4266(02)00262-5",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0378426602002625?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0378426602002625?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0378-4266(02)00262-5"
+        ],
+        "id": "id8039398749033632387",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2057218189",
+                    "https://doi.org/10.1016/s0378-4266(02)00262-5"
+                ],
+                "doi": "10.1016/s0378-4266(02)00262-5",
+                "publication_date": "2002-07-01 00:00:00"
+            },
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e1e392c6831b9a8c95c765075fa7d9d4f3b5e16a"
+                ],
+                "doi": "10.1016/s0378-4266(02)00262-5",
+                "publication_date": "2008-11-21 00:00:00"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [],
+        "title": "The Measures of Risk",
+        "publication_date": "2011-10-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2307/j.ctvcm4j15.5",
+        "urls": [
+            "http://dx.doi.org/10.2307/j.ctvcm4j15.5"
+        ],
+        "id": "id2145142123029707043",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a3e16e66ce92d00ab4f25e263b3a91b6151c4bbf"
+                ],
+                "doi": "10.2307/j.ctvcm4j15.5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Streiner, D.",
+            "Norman, G."
+        ],
+        "title": "Measures of risk",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s1548-5315(11)70388-6",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S1548531511703886?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S1548531511703886?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s1548-5315(11)70388-6"
+        ],
+        "id": "id4444637146924255500",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of risk",
+                "journal": "Community oncology",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a833901eb112cbeb2decf499dfb1421a53b015a8"
+                ],
+                "doi": "10.1016/S1548-5315(11)70388-6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 33
+    },
+    {
+        "authors": [],
+        "title": "Measures of Risk",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-387-22640-0_11",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/0-387-22640-0_11.pdf",
+            "http://dx.doi.org/10.1007/0-387-22640-0_11"
+        ],
+        "id": "id-5270783593588055822",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "MEASURES OF RISK",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cfa1302bb4b4d6e913d1fc32f643f3327c069c1c"
+                ],
+                "doi": "10.1007/0-387-22640-0_11",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [],
+        "title": "Measures of Risk",
+        "publication_date": "2012-01-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118467220.ch2",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467220.ch2",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118467220.ch2",
+            "http://dx.doi.org/10.1002/9781118467220.ch2"
+        ],
+        "id": "id7617451002844818174",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bba05427402fd9a8d962c57ba83367dc12a641f0"
+                ],
+                "doi": "10.1002/9781118467220.CH2",
+                "publication_date": "2013-07-26 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "OECD"
+        ],
+        "title": "Measures of risk aversion",
+        "publication_date": "2015-12-02 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1787/eco_outlook-v2015-2-graph21-en",
+        "urls": [
+            "http://dx.doi.org/10.1787/eco_outlook-v2015-2-graph21-en"
+        ],
+        "id": "id3502186583867306177",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures Of Risk Aversion",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7ae284a740b9b78864d23fcab98e7434eee3d794"
+                ],
+                "doi": "10.1787/eco_outlook-v2015-2-graph21-en",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Grable, J.",
+            "Archuleta, K.",
+            "Nazarinia, R."
+        ],
+        "title": "Measures of Risk",
+        "publication_date": "2010-10-18 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4419-6908-8_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-1-4419-6908-8_6.pdf",
+            "http://dx.doi.org/10.1007/978-1-4419-6908-8_6"
+        ],
+        "id": "id-7745086852136704721",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e35ebb0d1ef217247867c0c6db5c9991314c7c7f"
+                ],
+                "doi": "10.1007/978-1-4419-6908-8_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Fabio Bellini",
+            "Emanuela Rosazza Gianin"
+        ],
+        "title": "On Haezendonck risk measures",
+        "publication_date": "2008-06-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "32",
+        "doi": "10.1016/j.jbankfin.2007.07.007",
+        "urls": [
+            "https://openalex.org/W1998687204",
+            "https://doi.org/10.1016/j.jbankfin.2007.07.007"
+        ],
+        "id": "id954218553287068709",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On Haezendonck risk measures",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0378426607002816?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0378426607002816?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.jbankfin.2007.07.007"
+                ],
+                "doi": "10.1016/j.jbankfin.2007.07.007",
+                "publication_date": "2008-01-01 00:00:00"
+            },
+            {
+                "year": 2008,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On Haezendonck risk measures",
+                "journal": "Journal of Banking and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b09317e07785b0596d92aa13288034f9023558f9"
+                ],
+                "doi": "10.1016/J.JBANKFIN.2007.07.007",
+                "publication_date": "2008-06-01 00:00:00"
+            }
+        ],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "MacLean, L.",
+            "Ziemba, B."
+        ],
+        "title": "A Primer on Risk Measures",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/wilm.10288",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fwilm.10288",
+            "https://onlinelibrary.wiley.com/doi/full/10.1002/wilm.10288",
+            "http://dx.doi.org/10.1002/wilm.10288"
+        ],
+        "id": "id-4415176420946704923",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Primer on Risk Measures",
+                "journal": "Wilmott",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/793eb92d2da4bcd8398005e40ec08d04397e3c60"
+                ],
+                "doi": "10.1002/WILM.10288",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Sungbin Cho"
+        ],
+        "title": "Risk Measures for Equity Funds in Korea",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.15820/khjss.2016.42.2.003",
+        "urls": [
+            "http://dx.doi.org/10.15820/khjss.2016.42.2.003"
+        ],
+        "id": "id6324262128844517918",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures for Equity Funds in Korea",
+                "journal": "Journal of Social Sciences",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/38ce34c48166eba8dd236fe30021dbd66cc91334"
+                ],
+                "doi": "10.15820/khjss.2016.42.2.003",
+                "publication_date": "2016-08-01 00:00:00"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [],
+        "title": "4 Monetary measures of risk",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9783110218053.175",
+        "urls": [
+            "https://www.degruyter.com/document/doi/10.1515/9783110218053.175/pdf",
+            "http://dx.doi.org/10.1515/9783110218053.175"
+        ],
+        "id": "id5728703794928073510",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "4 Monetary measures of risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/826a3f6c168be62899c012b7bb416f015e2d90ec"
+                ],
+                "doi": "10.1515/9783110218053.175",
+                "publication_date": "2011-01-28 00:00:00"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [],
+        "title": "Risk measures",
+        "publication_date": "2009-09-17 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1017/cbo9780511812156.008",
+        "urls": [
+            "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CD9C7D982AA05A39D01C0B02737E7C1",
+            "http://dx.doi.org/10.1017/cbo9780511812156.008"
+        ],
+        "id": "id-4249256598619783970",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Nonlife Actuarial Models: Risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9c67b6974f7a6b57667a3b18538e2866dccf8b05"
+                ],
+                "doi": "10.1017/CBO9780511812156.008",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "Chakravarty, S.",
+            "Sarkar, P."
+        ],
+        "title": "Measures of Risk",
+        "publication_date": "2020-08-20 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1108/978-1-78973-893-320201014",
+        "urls": [
+            "https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-893-320201014/full/xml",
+            "https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-893-320201014/full/html",
+            "http://dx.doi.org/10.1108/978-1-78973-893-320201014"
+        ],
+        "id": "id-7633944474048758700",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/99fc1648ad6ca6dcf6efeee57aab2df132f80506"
+                ],
+                "doi": "10.1108/978-1-78973-893-320201014",
+                "publication_date": "2020-08-20 00:00:00"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Rahim, A."
+        ],
+        "title": "Chapter-21 Measures of Risk",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.5005/jp/books/10134_22",
+        "urls": [
+            "http://dx.doi.org/10.5005/jp/books/10134_22"
+        ],
+        "id": "id3511496646853674644",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter-21 Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f11d2ec7c32c65ed29a24529d5536129551e814e"
+                ],
+                "doi": "10.5005/jp/books/10134_22",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [],
+        "title": "Risk minimisation measures for fentanyl buccal tablets",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s40278-019-71275-y",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s40278-019-71275-y.pdf",
+            "http://link.springer.com/article/10.1007/s40278-019-71275-y/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s40278-019-71275-y.pdf",
+            "http://dx.doi.org/10.1007/s40278-019-71275-y"
+        ],
+        "id": "id-4210393669355236479",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk minimisation measures for fentanyl buccal tablets",
+                "journal": "Reactions Weekly",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5c2d2e78cfde417ddd9c65976eb730c31fbe38df"
+                ],
+                "doi": "10.1007/s40278-019-71275-y",
+                "publication_date": "2019-11-01 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "Bonnans, J."
+        ],
+        "title": "Risk Measures",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-14977-2_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-14977-2_4",
+            "http://dx.doi.org/10.1007/978-3-030-14977-2_4"
+        ],
+        "id": "id6781772402830591404",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bc738734903a7459657e73ac18c06fb1eb7f7016"
+                ],
+                "doi": "10.1007/978-3-030-14977-2_4",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [],
+        "title": "Miscellaneous Risk Measures",
+        "publication_date": "2021-10-20 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781119838883.ch10",
+        "urls": [
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10",
+            "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119838883.ch10",
+            "http://dx.doi.org/10.1002/9781119838883.ch10"
+        ],
+        "id": "id7027668574420513923",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Miscellaneous Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/47affa2400ca4938bcf8ec645ff8d7feb800c55f"
+                ],
+                "doi": "10.1002/9781119838883.ch10",
+                "publication_date": "2021-10-20 00:00:00"
+            }
+        ],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Andreas Krause"
+        ],
+        "title": "Beyond VaR: Expected shortfall and other coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c158154433e2ecd00e126a394121f5be3e9b12aa"
+        ],
+        "id": "id1393256321843993108",
+        "abstract": null,
+        "versions": [],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Philippe Artzner",
+            "Freddy Delbaen",
+            "Jean-Marc Eber",
+            "David Heath",
+            "Hyejin Ku"
+        ],
+        "title": "COHERENT MULTIPERIOD RISK MEASUREMENT",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W1486608244"
+        ],
+        "id": "id-4594124519286508364",
+        "abstract": "",
+        "versions": [],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "A. Quaranta"
+        ],
+        "title": "Robust Optimization of a Coherent Risk Measure",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/61d2b84f4a8adf51c80a030d2e68e2c2ac4e078d"
+        ],
+        "id": "id-7628829683343175605",
+        "abstract": null,
+        "versions": [],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Kusuoka, S."
+        ],
+        "title": "On law invariant coherent risk measures",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-4-431-67891-5_4",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-4-431-67891-5_4",
+            "http://dx.doi.org/10.1007/978-4-431-67891-5_4"
+        ],
+        "id": "id-7050872948895864757",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On law invariant coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/212bc185f08a2ab4404e1c244ba852c20bca3024"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "On law invariant coherent risk measures",
+                "journal": "Advances in Mathematical Economics",
+                "urls": [
+                    "https://doi.org/10.1007/978-4-431-67891-5_4"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.OPENALEX",
+                "title": "On law invariant coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1591570634",
+                    "https://doi.org/10.1007/978-4-431-67891-5_4"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "2001-01-01 00:00:00"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "On law invariant coherent risk measures",
+                "journal": "Springer Japan",
+                "urls": [
+                    "https://web.archive.org/web/20170815152926/https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/41192/1/1215_14.pdf"
+                ],
+                "doi": "10.1007/978-4-431-67891-5_4",
+                "publication_date": "2001-01-01 00:00:00"
+            }
+        ],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "H. K\u00f6rezlio\u011flu",
+            "H. K\u00f6rezlio\u011flu",
+            "Seval \u00c7evik",
+            "A. Kunt",
+            "Yeliz Yolcu",
+            "Ay\u015feg\u00fcl \u0130\u015fcano\u011flu",
+            "S. Zeytun",
+            "Uygar Pekerten"
+        ],
+        "title": "Coherent and Convex Measures of Risk Abstract Coherent and Convex Measures of Risk",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/27e8d18c2bfbb52b509e301e747b63560789d09c"
+        ],
+        "id": "id-1279682488760461661",
+        "abstract": "COHERENT AND CONVEX MEASURES OF RISK \u0130rem Y\u0131ld\u0131r\u0131m M.Sc., Department of Financial Mathematics Supervisor: Prof. Dr. Hayri K\u00f6rezlio\u011flu September 2005, 77 pages One of the financial risks an agent has to deal with is market risk. Market risk is caused by the uncertainty attached to asset values. There exit various measures trying to model market risk. The most widely accepted one is Valueat-Risk. However Value-at-Risk does not encourage portfolio diversification in general, whereas a consistent risk measure has to do so. In this work, risk measures satisfying these consistency conditions are examined within theoretical basis. Different types of coherent and convex risk measures are investigated. Moreover the extension of coherent risk measures to multiperiod settings is discussed.",
+        "versions": [],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Renato Pelessoni",
+            "Paolo Vicig"
+        ],
+        "title": "Coherent Risk Measures and Upper Previsions",
+        "publication_date": "2002-01-22 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7f52179d38d53ffe2ec0060bcbd58148f0a8e786"
+        ],
+        "id": "id7739460443145616230",
+        "abstract": "In this paper coherent risk measures and other currently used risk measures, notably Value-at-Risk (VaR), are studied from the perspective of the theory of coherent imprecise previsions. We introduce the notion of coherent risk measure defined on an arbitrary set of risks, showing that it can be considered a special case of coherent upper prevision. We also prove that our definition generalizes the notion of coherence for risk measures defined on a linear space of random numbers, given in literature. We also show that Value-at-Risk does not necessarily satisfy a weaker notion of coherence called \u2018avoiding sure loss\u2019 (ASL), and discuss both sufficient conditions for VaR to avoid sure loss and ways of modifying VaR into a coherent risk measure.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent Risk Measures and Upper Previsions",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/pdf/9313225.pdf"
+                ],
+                "doi": null,
+                "publication_date": "None"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Risk Measures and Upper Previsions",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2570258765"
+                ],
+                "doi": null,
+                "publication_date": "2001-01-01 00:00:00"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "W. Chen",
+            "Z. Ye"
+        ],
+        "title": "Coherent Risk Measures Defined on Cash Flows",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Acta Mathematicae Applicatae Sinica",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/2cb4aa1da563d736e7638ebe48ee3a77a9246c9d"
+        ],
+        "id": "id528334295550510070",
+        "abstract": "We discuss in this paper the representation theorem of coherent risk measures defined on cash flows.The representation theorem of coherent risk measures at 0 time is obtained,and the representation theorem of the F_t-coherent risk measures at any time t is also solved explicitly.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "COHERENT RISK MEASURES DEFINED ON Lp(\u03a9) SPACES",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c5add610239fc16449f9f662e753c475191be0af"
+                ],
+                "doi": "",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Ye Zhong-xing"
+        ],
+        "title": "Dynamic Coherent Risk Measures for a Finite Probability Space",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Nanchang University",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c85dd439b5f75a479ca90dd530dc327cf5a7276b"
+        ],
+        "id": "id-577147156365580364",
+        "abstract": "Under the axiomatic definition of a dynamic coherent risk measure and a finite probability space,it has been proven in this paper that a dynamic coherent risk measure satisfies the relevant property andtime-consistent property,if and only if it is defined by a product-type set of probabilitymeasures.",
+        "versions": [],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "Michal Lebovi\u010d"
+        ],
+        "title": "The use of coherent risk measures in operational risk modeling",
+        "publication_date": "2012-06-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/9b33da5fae7eea2522c33855627a5e35040ebbe3"
+        ],
+        "id": "id7879579017804462823",
+        "abstract": null,
+        "versions": [],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Andreas Krause"
+        ],
+        "title": "Coherent risk measurement: an introduction",
+        "publication_date": "2002-12-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Balance Sheet",
+        "volume": "10",
+        "doi": "10.1108/09657960210450736",
+        "urls": [
+            "https://www.semanticscholar.org/paper/712cc1a4d5482d47ce0cebc834778ffc5939e8ef"
+        ],
+        "id": "id-3513059762567416960",
+        "abstract": "It is shown that the widely used risk measures standard deviation and value at risk do not always reflect risk preferences accurately. To overcome these problems in risk measurement a class of coherent risk measures has been proposed. We introduce the idea behind these measures and provide an overview of suggested coherent risk measures. Finally it is shown where the limitations of such measures in practical applications are and how regulatory bodies responded to their introduction in the literature. We find that most contributions on coherent risk measurement come from the actuarial sciences and propagate a widening of the discussion among researchers and practitioners in other industries.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "Balance Sheet",
+                "urls": [
+                    "https://doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "None"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2047502007",
+                    "https://doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "2002-12-01 00:00:00"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent risk measurement: an introduction",
+                "journal": "",
+                "urls": [
+                    "http://www.emeraldinsight.com/doi/full-xml/10.1108/09657960210450736",
+                    "https://www.emerald.com/insight/content/doi/10.1108/09657960210450736/full/xml",
+                    "https://www.emerald.com/insight/content/doi/10.1108/09657960210450736/full/html",
+                    "http://dx.doi.org/10.1108/09657960210450736"
+                ],
+                "doi": "10.1108/09657960210450736",
+                "publication_date": "2002-12-01 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "P\u00e9ter Cs\u00f3ka",
+            "P. Jean-Jacques Herings",
+            "L\u00e1szl\u00f3 \u00c1. K\u00f3czy"
+        ],
+        "title": "Coherent measures of risk from a general equilibrium perspective",
+        "publication_date": "2007-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.jbankfin.2006.10.026",
+        "urls": [
+            "https://web.archive.org/web/20170705072006/http://digitalarchive.maastrichtuniversity.nl/fedora/get/guid%3A50b06779-55c4-4b85-a70d-5b744f4e0913/ASSET1/"
+        ],
+        "id": "id-7855141758218311842",
+        "abstract": "Coherent measures of risk defined by the axioms of monotonicity, subadditivity, positive homogeneity, and translation invariance are recent tools in risk management to assess the amount of risk agents are exposed to. If they also satisfy law invariance and comonotonic additivity, then we get a subclass of them: spectral measures of risk. Expected shortfall is a well-known spectral measure of risk. We investigate the above mentioned six axioms using tools from general equilibrium (GE) theory. Coherent and spectral measures of risk are compared to the natural measure of risk derived from an exchange economy model, which we call the GE measure of risk. We prove that GE measures of risk are coherent measures of risk. We also show that spectral measures of risk are GE measures of risk only under stringent conditions, since spectral measures of risk do not take the regulated entity's relation to the market portfolio into account. To give more insights, we characterize the set of GE measures of risk via the pricing kernel property.",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/231350094.pdf"
+                ],
+                "doi": "10.26481/umamet.2006016",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.26481/umamet.2006016"
+                ],
+                "doi": "10.26481/umamet.2006016",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "Elsevier BV",
+                "urls": [
+                    "https://web.archive.org/web/20170705072006/http://digitalarchive.maastrichtuniversity.nl/fedora/get/guid%3A50b06779-55c4-4b85-a70d-5b744f4e0913/ASSET1/"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c967db8682ddcf0b2775920ae040389cb925cd90",
+                    "https://cris.maastrichtuniversity.nl/files/64777678/herings_2007_coherent_measures_of_risk_from.pdf"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "2006-03-28 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": null,
+                "urls": [
+                    "https://doi.org/10.26481/umamet.2006016"
+                ],
+                "doi": "10.26481/umamet.2006016",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/pdf/6960298.pdf"
+                ],
+                "doi": null,
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.1853573"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent measures of risk from a general equilibrium perspective.",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/pdf/6750560.pdf"
+                ],
+                "doi": null,
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": null,
+                "urls": [
+                    "https://www.econstor.eu/bitstream/10419/108098/1/MTDP0611.pdf"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2118181412",
+                    "https://doi.org/10.1016/j.jbankfin.2006.10.026",
+                    "https://cris.maastrichtuniversity.nl/files/64777678/herings_2007_coherent_measures_of_risk_from.pdf"
+                ],
+                "doi": "10.1016/j.jbankfin.2006.10.026",
+                "publication_date": "2006-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "SSRN Electronic Journal",
+                "urls": [
+                    "https://doi.org/10.2139/ssrn.1853573"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": "Journal of Banking &amp; Finance",
+                "urls": [
+                    "https://doi.org/10.1016/j.jbankfin.2006.10.026"
+                ],
+                "doi": "10.1016/j.jbankfin.2006.10.026",
+                "publication_date": "None"
+            },
+            {
+                "year": 2006,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3121532356",
+                    "https://doi.org/10.2139/ssrn.1853573",
+                    "https://cris.maastrichtuniversity.nl/files/64777678/herings_2007_coherent_measures_of_risk_from.pdf"
+                ],
+                "doi": "10.2139/ssrn.1853573",
+                "publication_date": "2006-03-28 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.CORE",
+                "title": "Coherent Measures of Risk from a General Equilibrium Perspective",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/pdf/6941791.pdf"
+                ],
+                "doi": null,
+                "publication_date": "None"
+            },
+            {
+                "year": 2007,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent measures of risk from a general equilibrium perspective",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0378426607000404?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0378426607000404?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.jbankfin.2006.10.026"
+                ],
+                "doi": "10.1016/j.jbankfin.2006.10.026",
+                "publication_date": "2007-01-01 00:00:00"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "G. Trzpiot"
+        ],
+        "title": "Application of Coherent Distortion Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "15",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a3140e6326b7dc8fe832b4d10439b6ff83708b6d"
+        ],
+        "id": "id-8272913364242343797",
+        "abstract": null,
+        "versions": [],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Carlo Acerbi"
+        ],
+        "title": "Spectral measures of risk: A coherent representation of subjective risk aversion",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/s0378-4266(02)00281-9",
+        "urls": [
+            "https://web.archive.org/web/20170808233914/http://epge.fgv.br/we/MFEE/GerenciamentodeRisco/2012?action=AttachFile&do=get&target=Artigo3.pdf"
+        ],
+        "id": "id-2428467502798032699",
+        "abstract": "We study a space of coherent risk measures M / obtained as certain expansions of coherent elementary basis measures. In this space, the concept of \"risk aversion function\" / naturally arises as the spectral representation of each risk measure in a space of functions of confidence level probabilities. We give necessary and sufficient conditions on / for M / to be a coherent measure. We find in this way a simple interpretation of the concept of coherence and a way to map any rational investor's subjective risk aversion onto a coherent measure and vice-versa. We also provide for these measures their discrete versions M \u00f0N \u00de / acting on finite sets of N independent realizations of a r.v. which are not only shown to be coherent measures for any fixed N, but also consistent estimators of M / for large N.",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Spectral measures of risk: A coherent representation of subjective risk aversion",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0378426602002819?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0378426602002819?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/s0378-4266(02)00281-9"
+                ],
+                "doi": "10.1016/s0378-4266(02)00281-9",
+                "publication_date": "2002-01-01 00:00:00"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Spectral measures of risk: A coherent representation of subjective risk aversion",
+                "journal": "Journal of Banking and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/979b28447145ce9a0dd2d623df3db7a1649fc573"
+                ],
+                "doi": "10.1016/S0378-4266(02)00281-9",
+                "publication_date": "2002-07-01 00:00:00"
+            },
+            {
+                "year": 2002,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Spectral measures of risk: A coherent representation of subjective risk aversion",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2109122936",
+                    "https://doi.org/10.1016/s0378-4266(02)00281-9"
+                ],
+                "doi": "10.1016/s0378-4266(02)00281-9",
+                "publication_date": "2002-07-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Spectral measures of risk: A coherent representation of subjective risk aversion",
+                "journal": "Journal of Banking &amp; Finance",
+                "urls": [
+                    "https://doi.org/10.1016/s0378-4266(02)00281-9"
+                ],
+                "doi": "10.1016/s0378-4266(02)00281-9",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Moix, P."
+        ],
+        "title": "Risk and Risk Measures",
+        "publication_date": "2001-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-642-56481-9_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-642-56481-9_2",
+            "http://dx.doi.org/10.1007/978-3-642-56481-9_2"
+        ],
+        "id": "id-3925762804613867887",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk and Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b4045326be1920dde9cb20ea6cc3e82336479ade"
+                ],
+                "doi": "10.1007/978-3-642-56481-9_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [],
+        "title": "Risk and Risk Measures",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/9781848166332_0003",
+        "urls": [
+            "http://dx.doi.org/10.1142/9781848166332_0003"
+        ],
+        "id": "id-972483717537172345",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk and Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cde7c889d8dae6668f8431c76d19b4765b9b9131"
+                ],
+                "doi": "10.1142/9781848166332_0003",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Abaxbank",
+            "Corso Monforte"
+        ],
+        "title": "Spectral Measures of Risk : a Coherent Representation of Subjective Risk Aversion",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a46ebba295a6ce9bf7a2d779cca89096553a0270"
+        ],
+        "id": "id-5389781069950149830",
+        "abstract": "We study a space of coherent risk measuresM\u03c6 obtained as certain expansions of coherent elementary basis measures. In this space, the concept of \u201cRisk Aversion Function\u201d \u03c6 naturally arises as the spectral representation of each risk measure in a space of functions of confidence level probabilities. We give necessary and sufficient conditions on \u03c6 for M\u03c6 to be a coherent measure. We find in this way a simple interpretation of the concept of coherence and a way to map any rational investor\u2019s subjective risk aversion onto a coherent measure and vice\u2014versa. We also provide for these measures their discrete versions M (N) \u03c6 acting on finite sets of N independent realizations of a r.v. which are not only shown to be coherent measures for any fixed N , but also consistent estimators of M\u03c6 for large N .",
+        "versions": [],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "K. Pilbeam",
+            "Rehan Noronha"
+        ],
+        "title": "Risk budgeting and Value-at-Risk",
+        "publication_date": "2008-07-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "International Journal of Monetary Economics and Finance",
+        "volume": "1",
+        "doi": "10.1504/IJMEF.2008.019219",
+        "urls": [
+            "https://www.semanticscholar.org/paper/93e54bb6d8d34d1b6b65381b548adebc5494310e"
+        ],
+        "id": "id6425716322184340335",
+        "abstract": "Value-at-Risk (VaR) is a popular risk-metric for reporting financial exposure, for evaluating fund/manager performance and for regulatory disclosures. Yet, VaR is not a coherent risk measure because it is not sub-additive. This paper applies the methodology of risk budgeting to determine if VaR qualifies as a coherent risk measure. We show that the tools of risk budgeting allow VaR to be treated as a coherent risk measure, even though it does not restore sub-additivity. The main finding is that the additional analysis provided by risk budgeting means that VaR is a useful tool even if it is not sub-additive.",
+        "versions": [
+            {
+                "year": 2008,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Risk budgeting and Value-at-Risk",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2006663970",
+                    "https://doi.org/10.1504/ijmef.2008.019219"
+                ],
+                "doi": "10.1504/ijmef.2008.019219",
+                "publication_date": "2008-07-03 00:00:00"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Iftikhar Ahmad",
+            "Esther Mohr",
+            "G\u00fcnter Schmidt"
+        ],
+        "title": "Competitive Ratio as Coherent Measure of Risk",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-00795-3_10",
+        "urls": [
+            "https://openalex.org/W63813864",
+            "https://doi.org/10.1007/978-3-319-00795-3_10"
+        ],
+        "id": "id1229706177099903273",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Competitive Ratio as Coherent Measure of Risk",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f5f1e6c7dd6f1f48e69568bad24f36cac7136cad"
+                ],
+                "doi": "10.1007/978-3-319-00795-3_10",
+                "publication_date": "None"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Competitive Ratio as Coherent Measure of Risk",
+                "journal": "Operations Research Proceedings 2012",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-319-00795-3_10"
+                ],
+                "doi": "10.1007/978-3-319-00795-3_10",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Zengjing Chen",
+            "Kun He",
+            "Reg Kulperger"
+        ],
+        "title": "Risk Measures and Nonlinear Expectations",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Scientific Research Publishing, Inc,",
+        "volume": "",
+        "doi": "10.4236/jmf.2013.33039",
+        "urls": [
+            "https://web.archive.org/web/20140822024747/http://www.scirp.org/journal/PaperDownload.aspx?paperID=36154"
+        ],
+        "id": "id-6434801732841351410",
+        "abstract": "Coherent and convex risk measures, Choquet expectation and Peng's g-expectation are all generalizations of mathematical expectation. All have been widely used to assess financial riskiness under uncertainty. In this paper, we investigate differences amongst these risk measures and expectations. For this purpose, we constrain our attention of coherent and convex risk measures, and Choquet expectation to the domain of g-expectation. Some differences among coherent and convex risk measures and Choquet expectations are accounted for in the framework of g-expectations. We show that in the family of convex risk measures, only coherent risk measures satisfy Jensen's inequality. In mathematical finance, risk measures and Choquet expectations are typically used in the pricing of contingent claims over families of measures. The different risk measures will typically yield different pricing. In this paper, we show that the coherent pricing is always less than the corresponding Choquet pricing. This property and inequality fails in general when one uses pricing by convex risk measures. We also discuss the relation between static risk measure and dynamic risk measure in the framework of g-expectations. We show that if g-expectations yield coherent (convex) risk measures then the corresponding conditional g-expectations or equivalently the dynamic risk measure is also coherent (convex). To prove these results, we establish a new converse of the comparison theorem of g-expectations.",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Risk Measures and Nonlinear Expectations",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2054507424",
+                    "https://doi.org/10.4236/jmf.2013.33039",
+                    "http://www.scirp.org/journal/PaperDownload.aspx?paperID=36154"
+                ],
+                "doi": "10.4236/jmf.2013.33039",
+                "publication_date": "2013-08-08 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and Nonlinear Expectations",
+                "journal": "Journal of Mathematical Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/af13b43cbf834f9aa67e13ff50c0e4626efb47b7",
+                    "http://www.scirp.org/journal/PaperDownload.aspx?paperID=36154"
+                ],
+                "doi": "10.4236/JMF.2013.33039",
+                "publication_date": "2013-08-08 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Risk Measures and Nonlinear Expectations",
+                "journal": "",
+                "urls": [
+                    "http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/jmf.2013.33039",
+                    "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jmf.2013.33039",
+                    "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jmf.2013.33039",
+                    "http://dx.doi.org/10.4236/jmf.2013.33039"
+                ],
+                "doi": "10.4236/jmf.2013.33039",
+                "publication_date": "2013-01-01 00:00:00"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [],
+        "title": "Coherent Risk Metrics",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1057/9781137448200.0031",
+        "urls": [
+            "http://dx.doi.org/10.1057/9781137448200.0031"
+        ],
+        "id": "id3138249302072676205",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Metrics",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74b05eed7560d0f17fb8b411c9007d061bd62e6e"
+                ],
+                "doi": "10.1057/9781137448200.0031",
+                "publication_date": "2015-04-28 00:00:00"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Vazsonyi, A.",
+            "Chen, P.",
+            "Jenkins, D.",
+            "Burcu, E.",
+            "Torrente, G.",
+            "Sheu, C."
+        ],
+        "title": "Model Risk Measures",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1037/t09097-000",
+        "urls": [
+            "http://dx.doi.org/10.1037/t09097-000"
+        ],
+        "id": "id7619574923749208757",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Model Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cef7c56a1ad030df57105137c0da21fec1a51b4e"
+                ],
+                "doi": "10.1037/T09097-000",
+                "publication_date": "2012-04-09 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "C. Acerbi"
+        ],
+        "title": "Spectral Measures of Risk",
+        "publication_date": "2010-05-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470061602.EQF15007",
+        "urls": [
+            "https://www.semanticscholar.org/paper/88d67f4ee5aad6dd7a41758548867ad83b723184"
+        ],
+        "id": "id8304448884814227825",
+        "abstract": "Spectral measures of risk are the subclass of coherent measures of risk characterized by the additional properties of law invariance and comonotonic additivity. We provide a formal definition of spectral measures of risk and their connection with deviation measures known in actuarial mathematics. We discuss why this class is particularly important from the point of view of financial risk management. We finally provide consistent estimators. \n \n \nKeywords: \n \nexpected shortfall; \nconditional Value at Risk; \ncoherent measures of risk; \nValue at Risk",
+        "versions": [],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "C. Acerbi"
+        ],
+        "title": "Spectral Measures of Risk",
+        "publication_date": "2010-05-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470061602.EQF15007",
+        "urls": [
+            "https://www.semanticscholar.org/paper/88d67f4ee5aad6dd7a41758548867ad83b723184"
+        ],
+        "id": "id-4304779223774188259",
+        "abstract": "Spectral measures of risk are the subclass of coherent measures of risk characterized by the additional properties of law invariance and comonotonic additivity. We provide a formal definition of spectral measures of risk and their connection with deviation measures known in actuarial mathematics. We discuss why this class is particularly important from the point of view of financial risk management. We finally provide consistent estimators. \n \n \nKeywords: \n \nexpected shortfall; \nconditional Value at Risk; \ncoherent measures of risk; \nValue at Risk",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Spectral Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9780470061602.eqf15007/fullpdf",
+                    "http://dx.doi.org/10.1002/9780470061602.eqf15007"
+                ],
+                "doi": "10.1002/9780470061602.eqf15007",
+                "publication_date": "2010-05-15 00:00:00"
+            }
+        ],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "H. F\u00f6llmer",
+            "A. Schied"
+        ],
+        "title": "Convex Risk Measures",
+        "publication_date": "2010-05-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9780470061602.EQF15003",
+        "urls": [
+            "https://www.semanticscholar.org/paper/baa8296d76da89b95a4553278a4ad3462bd36856"
+        ],
+        "id": "id-2604132457698819102",
+        "abstract": "We discuss the quantification of financial risk in terms of monetary risk measures. Special emphasis is on dual representations of convex risk measures, relations to expected utility and other valuation concepts, conditioning, and consistency in discrete time. \n \n \nKeywords: \n \nmonetary risk measure; \nconvex risk measure; \ncoherent risk measure; \nValue at Risk; \nConditional Value at Risk; \nAverage Value at Risk; \nexpected shortfall; \nspectral risk measures; \nentropic risk measure; \nutility-based shortfall risk; \noptimized certainty equivalent; \ndivergence penalties; \nmodel uncertainty; \nmodel risk; \nlaw-invariant risk measure; \nconditional risk measure; \ndynamic risk measure; \ntime consistency; \nrecursiveness; \nprudence",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Convex Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://onlinelibrary.wiley.com/wol1/doi/10.1002/9780470061602.eqf15003/fullpdf",
+                    "http://dx.doi.org/10.1002/9780470061602.eqf15003"
+                ],
+                "doi": "10.1002/9780470061602.eqf15003",
+                "publication_date": "2010-05-15 00:00:00"
+            }
+        ],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Marcus Ang",
+            "Jie Sun",
+            "Qiang Yao"
+        ],
+        "title": "On the dual representation of coherent risk measures",
+        "publication_date": "2017-02-16 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1007/s10479-017-2441-3",
+        "urls": [
+            "https://web.archive.org/web/20200307075127/https://espace.curtin.edu.au/bitstream/handle/20.500.11937/52748/251416.pdf;jsessionid=62B78051E35BE1A4A02F3ECFB85D291A?sequence=2"
+        ],
+        "id": "id-1809017790390821499",
+        "abstract": "A classical result in risk measure theory states that every coherent risk measure has a dual representation as the supremum of certain expected value over a risk envelope. We study this topic in more detail. The related issues include: 1. Set operations of risk envelopes and how they change the risk measures, 2. The structure of risk envelopes of popular risk measures, 3. Aversity of risk measures and its impact to risk envelopes, and 4. A connection between risk measures in stochastic optimization and uncertainty sets in robust optimization.",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/article/10.1007/s10479-017-2441-3/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10479-017-2441-3.pdf",
+                    "http://link.springer.com/content/pdf/10.1007/s10479-017-2441-3.pdf",
+                    "http://dx.doi.org/10.1007/s10479-017-2441-3"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2017-02-16 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.OPENALEX",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1913405677",
+                    "https://doi.org/10.1007/s10479-017-2441-3",
+                    "https://ink.library.smu.edu.sg/lkcsb_research/4490"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2015-02-22 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": "Annals of Operations Research",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4ebc479945dd9f67ded9d7b2ee04c14aa4a43b4e"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2017-02-16 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.ARXIV",
+                "title": "On the Dual Representation of Coherent Risk Measures",
+                "journal": "Annals of Operations Research, 262:29-46 (2018)",
+                "urls": [
+                    "http://arxiv.org/pdf/1502.06155v2",
+                    "http://dx.doi.org/10.1007/s10479-017-2441-3",
+                    "http://arxiv.org/abs/1502.06155v2",
+                    "http://arxiv.org/pdf/1502.06155v2"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2015-02-22 00:12:28+00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": "Annals of Operations Research",
+                "urls": [
+                    "https://doi.org/10.1007/s10479-017-2441-3"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "None"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.CORE",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": null,
+                "urls": [
+                    "https://core.ac.uk/download/195681343.pdf"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2017-01-01 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "On the dual representation of coherent risk measures",
+                "journal": "Annals of Operations Research",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/4a38b2eceeed7b6bf51099dd40774e77e56a9246"
+                ],
+                "doi": "10.1007/s10479-017-2441-3",
+                "publication_date": "2015-02-22 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Abaxbank",
+            "Corso Monforte"
+        ],
+        "title": "0 Ju l 2 00 1 Risk Aversion and Coherent Risk Measures : a Spectral Representation Theorem",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/5c34ab9453ce56ee4fc1b3a6ab55817d703f6c02"
+        ],
+        "id": "id-7461130412007654820",
+        "abstract": "We study a space of coherent risk measures M\u03c6 obtained as certain expansions of coherent elementary basis measures. In this space, the concept of \u201cRisk Aversion Function\u201d \u03c6 naturally arises as the spectral representation of each risk measure in a space of functions of confidence level probabilities. We give necessary and sufficient conditions on \u03c6 for M\u03c6 to be a coherent measure. We find in this way a simple interpretation of the concept of coherence and a way to map any rational investor\u2019s subjective risk aversion onto a coherent measure and vice\u2013versa. We also provide for these measures their discrete versions M (N) \u03c6 acting on finite sets of N independent realizations of a r.v. which are not only shown to be coherent measures for any fixed N , but also consistent estimators of M\u03c6 for large N . Finally, we find in our results some interesting and not yet fully investigated relationships with certain results known in insurance mathematical literature.",
+        "versions": [],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Wen Ping"
+        ],
+        "title": "The Risk Measures Based on Seminorm",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/cd646fcd48540d0553018b934776a59c0038351c"
+        ],
+        "id": "id-7315971352388476315",
+        "abstract": "This paper indicates that the translation axiom,which is one of the coherent measures of risk axiom,is not reasonable.Therefore,the translation axiom should be deleted.On the basis of revision,the risk measure of Fishburn is found being a scientific risk measure.",
+        "versions": [],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Stoyan Stoyanov",
+            "S. Rachev",
+            "F. Fabozzi"
+        ],
+        "title": "Average Value-at-Risk",
+        "publication_date": "2012-12-15 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1002/9781118182635.EFM0108",
+        "urls": [
+            "https://www.semanticscholar.org/paper/60fc6bfc45f1cd7b9958f1b6f21830845befa8ee"
+        ],
+        "id": "id-1220721684286683112",
+        "abstract": "Despite the fact that the value-at-risk (VaR) measure has been adopted as a standard risk measure in the financial industry, it has a number of deficiencies recognized by financial professionals. It is not a coherent risk measure. This is because it does not satisfy the subadditivity property requirement of a coherent risk measure. That is, there are cases in which the portfolio VaR is larger than the sum of the VaRs of the portfolio constituents, supporting the view that VaR cannot be used as a true risk measure. Unlike VaR, the average value-at-risk measure (AVaR)\u2014also referred to as conditional value-at-risk and expected shortfall\u2014is a coherent risk measure and has other advantages that result in its greater acceptance in risk modeling. \n \n \nKeywords: \n \naverage value-at-risk; \ncoherent risk measures; \naverage value-at-risk; \nconditional value-at-risk; \nexpected shortfall; \nThe Student's; \ndistribution",
+        "versions": [],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Hyoseok Lee",
+            "Jaewook Lee",
+            "Young-Gui Yoon",
+            "Sooyoung Kim"
+        ],
+        "title": "Coherent Risk Measure Using Feedfoward Neural Networks",
+        "publication_date": "2005-05-30 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/11427445_145",
+        "urls": [
+            "https://openalex.org/W1599078024",
+            "https://doi.org/10.1007/11427445_145"
+        ],
+        "id": "id-1184823949951541202",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Measure Using Feedfoward Neural Networks",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/19718ecc975b341ae504df6fa774bc1602b89e2b"
+                ],
+                "doi": "10.1007/11427445_145",
+                "publication_date": "2005-05-30 00:00:00"
+            },
+            {
+                "year": 2005,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Risk Measure Using Feedfoward Neural Networks",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/11427445_145.pdf",
+                    "http://dx.doi.org/10.1007/11427445_145"
+                ],
+                "doi": "10.1007/11427445_145",
+                "publication_date": "2005-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Risk Measure Using Feedfoward Neural Networks",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://doi.org/10.1007/11427445_145"
+                ],
+                "doi": "10.1007/11427445_145",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Steven Kou",
+            "Xianhua Peng",
+            "Chris C. Heyde"
+        ],
+        "title": "External Risk Measures and Basel Accords",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Institute for Operations Research and the Management Sciences (INFORMS)",
+        "volume": "",
+        "doi": "10.1287/moor.1120.0577",
+        "urls": [
+            "https://web.archive.org/web/20170923005617/http://repository.ust.hk/ir/bitstream/1783.1-7956/1/moor.1120.0577.full.pdf"
+        ],
+        "id": "id-7819161008165109460",
+        "abstract": "Deceased Choosing a proper external risk measure is of great regulatory importance, as exemplified in the Basel II and Basel III Accords, which use value-at-risk with scenario analysis as the risk measures for setting capital requirements. We argue that a good external risk measure should be robust with respect to model misspecification and small changes in the data. A new class of data-based risk measures called natural risk statistics is proposed to incorporate robustness. Natural risk statistics are characterized by a new set of axioms. They include the Basel II and III risk measures and a subclass of robust risk measures as special cases; therefore, they provide a theoretical framework for understanding and, if necessary, extending the Basel Accords. comonotonic random variables studied in the actuarial literature such as Wang et al. [49], we shall define a new class of risk measures that satisfy a new set of axioms. The new class of risk measures includes VaR with scenario analysis, and particularly the Basel II and Basel III risk measures, as special cases. Thus, we provide a theoretical framework for understanding and extending the Basel Accords when needed. Indeed, the framework includes as special cases some proposals to address the procyclicality problem in Basel II such as the countercyclical indexing risk measure suggested by Gordy and Howells [20] . The objective of a risk measure is an important issue that has not been well addressed in the existing literature. In terms of objectives, risk measures can be classified into two categories: internal risk measures used for internal risk management at individual institutions and external risk measures used for external regulation and imposed for all the relevant institutions. The differences between internal and external risk measures mirror the differences between internal standards (such as morality) and external standards (such as law and regulation). Internal risk measures are applied in the interest of an institution's shareholders or managers, whereas external risk measures are used by regulatory agencies to maintain safety and soundness of the financial system. A risk measure may be suitable for internal management but not for external regulation, or vice versa. In this paper, we shall focus on external risk measures from the viewpoint of regulatory agencies. In particular, we emphasize that an external risk measure should be robust (see \u00a75). The main results of the paper are as follows: (i) We postulate a new set of axioms and define a new class of risk measures called natural risk statistics; furthermore, we give two complete characterizations of natural risk statistics ( \u00a73.2). (ii) We show that natural risk statistics include the Basel II and Basel III risk measures as special cases and thus provide an axiomatic framework for understanding and, if necessary, extending them ( \u00a74). (iii) We completely characterize data-based coherent risk measures and show that no coherent risk measure is robust with respect to small changes in the data ( \u00a7 \u00a73.3 and 5.6). (iv) We completely characterize data-based insurance risk measures and show that no insurance risk measure is robust with respect to model misspecification ( \u00a7 \u00a73.4 and 5.6). (v) We argue that an external risk measure should be robust, motivated by philosophy of law and issues in external regulations ( \u00a75). (vi) We show that median shortfall, a special case of natural risk statistics, is more robust than expected shortfall suggested by coherent risk measures ( \u00a75.4). (vii) We show that natural risk statistics include a subclass of robust risk measures that are suitable for external regulation ( \u00a75.5). (viii) We provide other critiques of the subadditivity axiom of coherent risk measures from the viewpoints of diversification and bankruptcy protection ( \u00a76). (ix) We derive the Euler capital allocation rule under a subclass of natural risk statistics including the Basel II and III risk measures ( \u00a77). Review of existing risk measures. 2.1. Coherent and convex risk measures. Artzner et al. [5] propose the coherent risk measures that satisfy the following three axioms: Axiom A1. Translation invariance and positive homogeneity: Axiom A1 states that the risk of a financial position is proportional to its size, and a sure loss of amount b simply increases the risk by b. Axiom A1 is proposed from the accounting viewpoint. For external risk measures such as those used for setting margin deposits and capital requirements, the accounting-based axiom seems to be reasonable. Axiom A2 is a minimum requirement for a reasonable risk measure. What is questionable lies in Axiom A3, which basically means that \"a merger does not create extra risk\" (see Artzner et al. [5, p. 209]). We will discuss the controversies related to this axiom in \u00a76. Artzner et al. [5] and Delbaen [11] also present an equivalent approach for defining coherent risk measures via acceptance sets. F\u00f6llmer and Schied [14] and Frittelli and Gianin [15] propose the convex risk measures that relax Axioms A1 and A3 to a single convexity axiom: \u2200 \u2208 0 1 . A risk measure is coherent if and only if there exists a family of probability measures such that X = sup Q\u2208 E Q X \u2200X \u2208 , where E Q X is the expectation of X under the probability measure Q (see Huber [25], Artzner et al. [5], Delbane [11] ). Each Q \u2208 can be viewed as a prior probability, so measuring risk by a coherent risk measure amounts to computing the maximal expectation under a set of prior probabilities. Coherent and convex risk measures are closely connected to the good deal bounds of asset prices in incomplete markets (see, e.g., Jaschke and K\u00fcchler [30], Staum [45]).",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "External Risk Measures and Basel Accords",
+                "journal": "Elsevier BV",
+                "urls": [
+                    "https://web.archive.org/web/20170923005617/http://repository.ust.hk/ir/bitstream/1783.1-7956/1/moor.1120.0577.full.pdf"
+                ],
+                "doi": "10.2139/ssrn.2055634",
+                "publication_date": "2012-01-01 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.CROSSREF",
+                "title": "External Risk Measures and Basel Accords",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.2055634"
+                ],
+                "doi": "10.2139/ssrn.2055634",
+                "publication_date": "2012-01-01 00:00:00"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "M. Ang",
+            "Jie Sun",
+            "Qiang Yao"
+        ],
+        "title": "Institutional Knowledge at Singapore University Constrained dual representation of coherent risk measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/592641f6ef3f9bc3e7646680f6de219ca48aa88a"
+        ],
+        "id": "id-2994737891961434934",
+        "abstract": "A classical result in risk measure theory states that every coherent risk measure has a dual representation as the supremum of certain expected value over a risk envelope. We study this topic in more detail. The related issues include: (1) Set operations of risk envelopes and how they change the risk measures, (2) The structure of risk envelopes of popular risk measures, (3) Aversity of risk measures and its impact to risk envelopes, and (4) A connection between risk measures in stochastic optimization and uncertainty sets in robust optimization.",
+        "versions": [],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "Carlo Acerbi"
+        ],
+        "title": "Risk Aversion and Coherent Risk Measures: a Spectral Representation Theorem",
+        "publication_date": "2001-07-10 07:36:58+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/cond-mat/0107190v1",
+            "http://arxiv.org/abs/cond-mat/0107190v1",
+            "http://arxiv.org/pdf/cond-mat/0107190v1"
+        ],
+        "id": "id853743655261883527",
+        "abstract": "We study a space of coherent risk measures M_phi obtained as certain\nexpansions of coherent elementary basis measures. In this space, the concept of\n``Risk Aversion Function'' phi naturally arises as the spectral representation\nof each risk measure in a space of functions of confidence level probabilities.\nWe give necessary and sufficient conditions on phi for M_phi to be a coherent\nmeasure. We find in this way a simple interpretation of the concept of\ncoherence and a way to map any rational investor's subjective risk aversion\nonto a coherent measure and vice--versa. We also provide for these measures\ntheir discrete versions M_phi^N acting on finite sets of N independent\nrealizations of a r.v. which are not only shown to be coherent measures for any\nfixed N, but also consistent estimators of M_phi for large N. Finally, we find\nin our results some interesting and not yet fully investigated relationships\nwith certain results known in insurance mathematical literature.",
+        "versions": [
+            {
+                "year": 2001,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Risk Aversion and Coherent Risk Measures: a Spectral Representation Theorem",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-cond-mat0107190/cond-mat0107190.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2001-07-10 00:00:00"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Risk Aversion and Coherent Risk Measures: a Spectral Representation Theorem",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1539825250"
+                ],
+                "doi": null,
+                "publication_date": "2001-07-10 00:00:00"
+            },
+            {
+                "year": 2001,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Aversion and Coherent Risk Measures: a Spectral Representation Theorem",
+                "journal": "arXiv: Statistical Mechanics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c9d55d1b1c8f2872483c6f368270198f2b88d7b7"
+                ],
+                "doi": "",
+                "publication_date": "2001-07-10 00:00:00"
+            }
+        ],
+        "rank": 79
+    },
+    {
+        "authors": [],
+        "title": "Hydroxyethyl starch solution for infusion: risk of kidney injury, reminder of risk minimisation measures",
+        "publication_date": "2023-02-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s40278-023-34084-6",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s40278-023-34084-6.pdf",
+            "https://link.springer.com/article/10.1007/s40278-023-34084-6/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s40278-023-34084-6.pdf",
+            "http://dx.doi.org/10.1007/s40278-023-34084-6"
+        ],
+        "id": "id-4535097481675982105",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2023,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Hydroxyethyl starch solution for infusion: risk of kidney injury, reminder of risk minimisation measures",
+                "journal": "Reactions Weekly",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/d2dfe1d0432f83970011e0ad94b3fc457034f591"
+                ],
+                "doi": "10.1007/s40278-023-34084-6",
+                "publication_date": "2023-02-01 00:00:00"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "M. Righi",
+            "Paulo Sergio Ceretta"
+        ],
+        "title": "Risk Measures Theory: a comprehensive survey",
+        "publication_date": "2014-07-10 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Brazilian Review of Finance",
+        "volume": "12",
+        "doi": "10.12660/RBFIN.V12N3.2014.42537",
+        "urls": [
+            "https://www.semanticscholar.org/paper/fe91e41c5b5226f38d87f333b8d3cfc012921b36",
+            "http://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/download/42537/50217"
+        ],
+        "id": "id4774242630439611755",
+        "abstract": "A fundamental aspect of proper risk management is the measurement, especially forecasting of risk measures. Measures such as variance, volatility and Value at Risk had been considered valid because of their practical intuition. However, a solid theoretical framework it is important to ensure better properties for risk measures. Such background is the risk measures theory. This paper presents a comprehensive literature review on risk measures theory, focusing in basic theory and extensions to this fundamental outline. The paper is structured in order to cover the main risk measures classes from literature, which are coherent risk measures, convex risk measures, spectral and distortion risk measures and generalized deviation measures.",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures Theory: a comprehensive survey",
+                "journal": "Brazilian Review of Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fe91e41c5b5226f38d87f333b8d3cfc012921b36",
+                    "http://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/download/42537/50217"
+                ],
+                "doi": "10.12660/RBFIN.V12N3.2014.42537",
+                "publication_date": "2014-07-10 00:00:00"
+            }
+        ],
+        "rank": 81
+    },
+    {
+        "authors": [],
+        "title": "4 GlueVaR and other new risk measures",
+        "publication_date": "2017-12-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9789048534586-005",
+        "urls": [
+            "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/xml",
+            "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/pdf",
+            "http://dx.doi.org/10.1515/9789048534586-005"
+        ],
+        "id": "id-6147763420361491092",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "4 GlueVaR and other new risk measures",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/7bdeab007ec340242f4818b4434b9a2e78856fa3",
+                    "https://www.degruyter.com/document/doi/10.1515/9789048534586-005/pdf"
+                ],
+                "doi": "10.1515/9789048534586-005",
+                "publication_date": "2017-12-31 00:00:00"
+            }
+        ],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Yanhong Chen",
+            "Yijun Hu"
+        ],
+        "title": "SET-VALUED LAW INVARIANT COHERENT AND CONVEX RISK MEASURES",
+        "publication_date": "2019-05-17 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1142/S0219024919500043",
+        "urls": [
+            "https://www.semanticscholar.org/paper/92f479de7259ac6ac907050afdf5fa7c345f9efd"
+        ],
+        "id": "id-8664947177873159489",
+        "abstract": "In this paper, we investigate representation results for set-valued law invariant coherent and convex risk measures, which can be considered as a set-valued extension of the multivariate scalar law invariant coherent and convex risk measures studied in the literature. We further introduce a new class of set-valued risk measures, named set-valued distortion risk measures, which can be considered as a set-valued version of multivariate scalar distortion risk measures introduced in the literature. The relationship between set-valued distortion risk measures and set-valued weighted value at risk is also given.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.OPENALEX",
+                "title": "SET-VALUED LAW INVARIANT COHERENT AND CONVEX RISK MEASURES",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2911645243",
+                    "https://doi.org/10.1142/s0219024919500043"
+                ],
+                "doi": "10.1142/s0219024919500043",
+                "publication_date": "2019-05-17 00:00:00"
+            },
+            {
+                "year": 2019,
+                "source": "SupportedSources.CROSSREF",
+                "title": "SET-VALUED LAW INVARIANT COHERENT AND CONVEX RISK MEASURES",
+                "journal": "",
+                "urls": [
+                    "https://www.worldscientific.com/doi/pdf/10.1142/S0219024919500043",
+                    "http://dx.doi.org/10.1142/s0219024919500043"
+                ],
+                "doi": "10.1142/s0219024919500043",
+                "publication_date": "2019-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "SET-VALUED LAW INVARIANT COHERENT AND CONVEX RISK MEASURES",
+                "journal": "International Journal of Theoretical and Applied Finance",
+                "urls": [
+                    "https://doi.org/10.1142/s0219024919500043"
+                ],
+                "doi": "10.1142/s0219024919500043",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "R. Jarrow",
+            "P. Protter"
+        ],
+        "title": "Liquidity Risk and Risk Measure Computation",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/def627eb60801f281c051178946c5bc5e4c92bfa"
+        ],
+        "id": "id4108970366131236601",
+        "abstract": "This paper shows how to apply the recent liquidity risk model of \u00c7etin, Jarrow and Protter [3] to compute a simple and robust adjustment to standard risk measures (e.g. value-at-risk, coherent, or convex) for liquidity risk.",
+        "versions": [],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "F. Delbaen"
+        ],
+        "title": "Draft: Coherent Risk Measures",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/7b27edc1900df998fd76bcbe40e816907bb97d41"
+        ],
+        "id": "id-3817655123886146059",
+        "abstract": "Part of the course was devoted to an analysis of Value at Risk and its relation to quantiles. A detailed discussion of this can be found in two papers by Artzner, Delbaen, Eber and Heath, ADEH1 and ADEH2. It will not be repeated here. We will rather concentrate on the mathematics behind the concept of coherent risk measures. They were introduced in the two mentioned papers and the mathematical theory was further developped in Delbaen (1999), D2. Further use of coherent risk measures can be found in the papers (and their references) by Jaschke, Ja and JaK, Tasche, AT and F\u00f6llmer-Schied, FS. The reader should consult the cited web-sites to find several papers dealing with this subject. The paper by F\u00f6llmer and Schied introduces a generalisation of coherent risk measures.",
+        "versions": [],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Yoshida, Y."
+        ],
+        "title": "Coherent Risk Measures Derived from Utility Functions",
+        "publication_date": "2018-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-030-00202-2_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-030-00202-2_2",
+            "http://dx.doi.org/10.1007/978-3-030-00202-2_2"
+        ],
+        "id": "id-6995000685814711075",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "Lecture Notes in Computer Science",
+                "urls": [
+                    "https://doi.org/10.1007/978-3-030-00202-2_2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "None"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6a542171fe109271f7adbb9783ea2e91912834f2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "2018-10-15 00:00:00"
+            },
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Risk Measures Derived from Utility Functions",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2890252705",
+                    "https://doi.org/10.1007/978-3-030-00202-2_2"
+                ],
+                "doi": "10.1007/978-3-030-00202-2_2",
+                "publication_date": "2018-10-15 00:00:00"
+            }
+        ],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "A. Ahmadi-Javid"
+        ],
+        "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+        "publication_date": "2012-03-16 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Optimization Theory and Applications",
+        "volume": "155",
+        "doi": "10.1007/s10957-012-0014-9",
+        "urls": [
+            "https://www.semanticscholar.org/paper/328224a0d7a1a71b45bb4461d2cebaf748a3ce98"
+        ],
+        "id": "id-8652771974441888326",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://doi.org/10.1007/s10957-012-0014-9"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "None"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/09a992f9d432c3daaf406e160e5327729603a125"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2001626210",
+                    "https://doi.org/10.1007/s10957-012-0014-9"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Addendum to: Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10957-012-0014-9.pdf",
+                    "http://link.springer.com/article/10.1007/s10957-012-0014-9/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10957-012-0014-9",
+                    "http://dx.doi.org/10.1007/s10957-012-0014-9"
+                ],
+                "doi": "10.1007/s10957-012-0014-9",
+                "publication_date": "2012-03-16 00:00:00"
+            }
+        ],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Amir Ahmadi-Javid"
+        ],
+        "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+        "publication_date": "2012-12-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "155",
+        "doi": "10.1007/s10957-011-9968-2",
+        "urls": [
+            "https://openalex.org/W2031355801",
+            "https://doi.org/10.1007/s10957-011-9968-2"
+        ],
+        "id": "id-2290921633336467131",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2011,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1344fb268400254e2bf3ea65cacc1d666431f242"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "2011-12-17 00:00:00"
+            },
+            {
+                "year": 2011,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "",
+                "urls": [
+                    "http://link.springer.com/content/pdf/10.1007/s10957-011-9968-2.pdf",
+                    "http://link.springer.com/article/10.1007/s10957-011-9968-2/fulltext.html",
+                    "http://link.springer.com/content/pdf/10.1007/s10957-011-9968-2",
+                    "http://dx.doi.org/10.1007/s10957-011-9968-2"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "2011-12-17 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2c53a2c052a7bd18af191f2d1fa3b317efcd70d3"
+                ],
+                "doi": "10.1007/S10957-011-9968-2",
+                "publication_date": "2012-12-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Entropic Value-at-Risk: A New Coherent Risk Measure",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://doi.org/10.1007/s10957-011-9968-2"
+                ],
+                "doi": "10.1007/s10957-011-9968-2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Roccioletti, S."
+        ],
+        "title": "Risk Measures and their Properties",
+        "publication_date": "2015-12-05 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-658-11908-9_2",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-658-11908-9_2",
+            "http://dx.doi.org/10.1007/978-3-658-11908-9_2"
+        ],
+        "id": "id-2498425627693458255",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk Measures and their Properties",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0c07c243d7423a96d7545325989dc19630489993"
+                ],
+                "doi": "10.1007/978-3-658-11908-9_2",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "E. Lehrer"
+        ],
+        "title": "Coherent risk measures induced by partially specified probabilities",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/fa7dd0a24f6a292083a034cc73ae55f13efa57a1"
+        ],
+        "id": "id-6898120912426649118",
+        "abstract": "Partially specified probabilities induce coherent risk measures of a special kind. These measures are axiomatized using the four axioms that characterize coherent risk measures and an additional one, which requires that the risk measure be additive on the set of efficient portfolios. Journal of Economic Literature classification numbers: C61, C72, D81, D82, D83",
+        "versions": [],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Kostas Giannopoulos",
+            "Radu Tunaru"
+        ],
+        "title": "Coherent risk measures under filtered historical simulation",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.jbankfin.2004.08.009",
+        "urls": [
+            "https://web.archive.org/web/20170808234110/http://epge.fgv.br/we/MFEE/GerenciamentodeRisco/2011?action=AttachFile&do=get&target=Artigo48.pdf"
+        ],
+        "id": "id7613889394550600445",
+        "abstract": "Recent studies have strongly criticised conventional VaR models for not providing a coherent risk measure.",
+        "versions": [
+            {
+                "year": 2005,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent risk measures under filtered historical simulation",
+                "journal": "Journal of Banking and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f5c00fe24356dd797912499ab443c86b2223b55a"
+                ],
+                "doi": "10.1016/J.JBANKFIN.2004.08.009",
+                "publication_date": "2005-04-01 00:00:00"
+            },
+            {
+                "year": 2005,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent risk measures under filtered historical simulation",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:S0378426604001487?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:S0378426604001487?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/j.jbankfin.2004.08.009"
+                ],
+                "doi": "10.1016/j.jbankfin.2004.08.009",
+                "publication_date": "2005-01-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent risk measures under filtered historical simulation",
+                "journal": "Journal of Banking &amp; Finance",
+                "urls": [
+                    "https://doi.org/10.1016/j.jbankfin.2004.08.009"
+                ],
+                "doi": "10.1016/j.jbankfin.2004.08.009",
+                "publication_date": "None"
+            },
+            {
+                "year": 2005,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent risk measures under filtered historical simulation",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2121407008",
+                    "https://doi.org/10.1016/j.jbankfin.2004.08.009"
+                ],
+                "doi": "10.1016/j.jbankfin.2004.08.009",
+                "publication_date": "2005-04-01 00:00:00"
+            }
+        ],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Jun Cai",
+            "Haiyan Liu",
+            "Ruodu Wang"
+        ],
+        "title": "ASYMPTOTIC EQUIVALENCE OF RISK MEASURES UNDER DEPENDENCE UNCERTAINTY",
+        "publication_date": "2015-11-02 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Mathematical Finance",
+        "volume": "28",
+        "doi": "10.1111/mafi.12140",
+        "urls": [
+            "https://www.semanticscholar.org/paper/3e9eea46d1da68508584acc6175b28f3fd8ad51b"
+        ],
+        "id": "id8844642168494847003",
+        "abstract": "In this paper, we study the aggregate risk of inhomogeneous risks with dependence uncertainty, evaluated by a generic risk measure. We say that a pair of risk measures is asymptotically equivalent if the ratio of the worst\u2010case values of the two risk measures is almost one for the sum of a large number of risks with unknown dependence structure. The study of asymptotic equivalence is particularly important for a pair of a noncoherent risk measure and a coherent risk measure, as the worst\u2010case value of a noncoherent risk measure under dependence uncertainty is typically difficult to obtain. The main contribution of this paper is to establish general asymptotic equivalence results for the classes of distortion risk measures and convex risk measures under different mild conditions. The results implicitly suggest that it is only reasonable to implement a coherent risk measure for the aggregation of a large number of risks with uncertainty in the dependence structure, a relevant situation for risk management practice.",
+        "versions": [
+            {
+                "year": 2018,
+                "source": "SupportedSources.OPENALEX",
+                "title": "ASYMPTOTIC EQUIVALENCE OF RISK MEASURES UNDER DEPENDENCE UNCERTAINTY",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3122632845",
+                    "https://doi.org/10.1111/mafi.12140"
+                ],
+                "doi": "10.1111/mafi.12140",
+                "publication_date": "2018-01-01 00:00:00"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Patrick Cheridito",
+            "Freddy Delbaen",
+            "Michael Kupper"
+        ],
+        "title": "Coherent and convex risk measures for bounded cadlag processes",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://openalex.org/W2135189312"
+        ],
+        "id": "id-5259271019086919530",
+        "abstract": "",
+        "versions": [],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Philippe Artzner",
+            "Freddy Delbaen",
+            "Jean-Marc Eber",
+            "David Heath"
+        ],
+        "title": "Coherent Measures of Risk",
+        "publication_date": "1999-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Wiley",
+        "volume": "",
+        "doi": "10.1111/1467-9965.00068",
+        "urls": [
+            "https://web.archive.org/web/20170808073943/http://www.performance-metrics.eu/papers/bibliography/ArtznerDelbaenHeberHeath_1999_Preview.pdf"
+        ],
+        "id": "id4253801887805516477",
+        "abstract": "In this paper we study both market risks and nonmarket risks, without complete markets assumption, and discuss methods of measurement of these risks. We present and justify a set of four desirable properties for measures of risk, and call the measures satisfying these properties \"coherent.\" We examine the measures of risk provided and the related actions required by SPAN, by the SEC/NASD rules, and by quantile-based methods. We demonstrate the universality of scenario-based methods for providing coherent measures. We offer suggestions concerning the SEC method. We also suggest a method to repair the failure of subadditivity of quantile-based methods.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Coherent Measures of Risk",
+                "journal": "Mathematical Finance",
+                "urls": [
+                    "https://doi.org/10.1111/1467-9965.00068"
+                ],
+                "doi": "10.1111/1467-9965.00068",
+                "publication_date": "None"
+            },
+            {
+                "year": 1999,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1467-9965.00068",
+                    "http://onlinelibrary.wiley.com/wol1/doi/10.1111/1467-9965.00068/fullpdf",
+                    "http://dx.doi.org/10.1111/1467-9965.00068"
+                ],
+                "doi": "10.1111/1467-9965.00068",
+                "publication_date": "1999-01-01 00:00:00"
+            },
+            {
+                "year": 1999,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Coherent Measures of Risk",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2019291268",
+                    "https://doi.org/10.1111/1467-9965.00068"
+                ],
+                "doi": "10.1111/1467-9965.00068",
+                "publication_date": "1999-07-01 00:00:00"
+            },
+            {
+                "year": 1999,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Coherent Measures of Risk",
+                "journal": "Mathematical Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/adee4315eb8ef0fcf4e610c3d041ed8a8869a495"
+                ],
+                "doi": "10.1111/1467-9965.00068",
+                "publication_date": "1999-07-01 00:00:00"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Erio Castagnoli",
+            "Giacomo Cattelan",
+            "Fabio Maccheroni",
+            "Claudio Tebaldi",
+            "Ruodu Wang"
+        ],
+        "title": "Star-shaped Risk Measures",
+        "publication_date": "2022-04-29 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20220503164158/https://arxiv.org/pdf/2103.15790v3.pdf"
+        ],
+        "id": "id2764026742996513413",
+        "abstract": "In this paper monetary risk measures that are positively superhomogeneous, called star-shaped risk measures, are characterized and their properties studied. The measures in this class, which arise when the controversial subadditivity property of coherent risk measures is dispensed with and positive homogeneity is weakened, include all practically used risk measures, in particular, both convex risk measures and Value-at-Risk. From a financial viewpoint, our relaxation of convexity is necessary to quantify the capital requirements for risk exposure in the presence of liquidity risk, competitive delegation, or robust aggregation mechanisms. From a decision theoretical perspective, star-shaped risk measures emerge from variational preferences when risk mitigation strategies can be adopted by a rational decision maker.",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.ARXIV",
+                "title": "Star-shaped Risk Measures",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/2103.15790v3",
+                    "http://arxiv.org/abs/2103.15790v3",
+                    "http://arxiv.org/pdf/2103.15790v3"
+                ],
+                "doi": "",
+                "publication_date": "2021-03-29 17:33:10+00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Star-shaped Risk Measures",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3145526509",
+                    "https://doi.org/10.48550/arxiv.2103.15790",
+                    "http://arxiv.org/pdf/2103.15790"
+                ],
+                "doi": "10.48550/arxiv.2103.15790",
+                "publication_date": "2021-03-29 00:00:00"
+            },
+            {
+                "year": 2021,
+                "source": "SupportedSources.CORE",
+                "title": "Star-shaped Risk Measures",
+                "journal": "",
+                "urls": [
+                    "http://arxiv.org/abs/2103.15790"
+                ],
+                "doi": "10.1287/opre.2022.2303",
+                "publication_date": "2021-11-24 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Ho Hong Hai",
+            "Nguyen Thi Hoa"
+        ],
+        "title": "The theory and application of spectral risk measures in Vietnam",
+        "publication_date": "2017-10-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Journal of Economic Development - University of Economics Ho Chi Minh City",
+        "volume": "",
+        "doi": "10.24311/jed/2017.24.4.2",
+        "urls": [
+            "https://web.archive.org/web/20190430192829/http://jabes.ueh.edu.vn/Content/ArticleFiles/640bf602-7967-274a-a0fd-36c5f4052f50/JED_2017_159.pdf"
+        ],
+        "id": "id-3036407231861586580",
+        "abstract": "This paper aims to provide a new risk measure for portfolio management in Vietnam by incorporating investor's risk aversion into current risk measures such as value at risk (VaR) and expected shortfall (ES). This measure shares several desirable characteristics with the coherent risk measures, as illustrated in Artzner et al. (1997) . In Vietnam, our study makes the first attempt to utilize distortion theory, instead of utility theory, to facilitate the adoption of risk aversion level in the popular risk measures. We find that spectral risk measure is more flexible and effective to different groups of risk-adverse investors, compared to the more monotonic and conventional VaR and ES measures.",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.CROSSREF",
+                "title": "The theory and application of spectral risk measures in Vietnam",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.24311/jed/2017.24.4.2"
+                ],
+                "doi": "10.24311/jed/2017.24.4.2",
+                "publication_date": "2017-10-01 00:00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The theory and application of spectral risk measures in Vietnam",
+                "journal": "Journal of economic development",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c443f3dd016ce26ba32705909a33af93175d4375",
+                    "http://jabes.ueh.edu.vn/Content/ArticleFiles/640bf602-7967-274a-a0fd-36c5f4052f50/JED_2017_159.pdf"
+                ],
+                "doi": "10.24311/jed/2017.24.4.2",
+                "publication_date": "2017-10-01 00:00:00"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Hirbod Assa",
+            "Manuel Morales"
+        ],
+        "title": "Risk measures on the space of infinite sequences",
+        "publication_date": "2010-02-13 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1007/s11579-010-0023-0",
+        "urls": [
+            "https://web.archive.org/web/20170812035252/http://www.ifd.dauphine.fr/fileadmin/mediatheque/IFD/MAFE_new/Assa%20morales.pdf"
+        ],
+        "id": "id-5731892666391147196",
+        "abstract": "Axiomatically based risk measures have been the object of numerous studies and generalizations in recent years. In the literature we find two main schools: coherent risk measures (Artzner, Coherent Measures of Risk. Risk Management: Value at Risk and Beyond, 1998) and insurance risk measures (Wang, Insur Math Econ 21:173-183, 1997). In this note, we set to study yet another extension motivated by a third axiomatically based risk measure that has been recently introduced. In Heyde et al. (Working Paper, Columbia University, 2007), the concept of natural risk statistic is discussed as a data-based risk measure, i.e. as an axiomatic risk measure defined in the space R n . One drawback of these kind of risk measures is their dependence on the space dimension n. In order to circumvent this issue, we propose a way to define a family {\u03c1 n } n=1,2,... of natural risk statistics whose members are defined on R n and related in an appropriate way. This construction requires the generalization of natural risk statistics to the space of infinite sequences l \u221e .",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Risk measures on the space of infinite sequences",
+                "journal": "Mathematics and Financial Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b2f64892ec28bdc4f1c858fd10145c12286a668e"
+                ],
+                "doi": "10.1007/S11579-010-0023-0",
+                "publication_date": "2010-02-13 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Alejandro Balb",
+            "Silvia Mayoral"
+        ],
+        "title": "Coherent risk measures in a dynamic framework",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/ac6a6d2373f83d85aa3bc1aa16e27a60ab1d2bb3"
+        ],
+        "id": "id1807599019303743748",
+        "abstract": "The paper deals with the concept of coherent risk measure, in the sense of Artzner, Delbaen, Eber and Heath (1999), but assumes a dynamic setting in which risks (actuarial problems) or pay-os (nancial problems) reect their stochastic behavior. First, the denition of a dynamic coherent measure is introduced and some relations with its static version are given. Coherent measures are characterized by martingale-like representations, as well as by Choquet integrals of probability distortion operators. Using dieren t information updating rules (e.g. Bayes or DempsterShafer) we dene three distinct families of dynamic coherent measures. In particular, we extend Value at Risk (VaR) and Tail Conditional Expectation (TCE) to a dynamic setting.",
+        "versions": [],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Chen Yan-hong",
+            "Hu Yi-jun"
+        ],
+        "title": "VALUE-AT-RISK AND CONTINUOUS COHERENT RISK MEASURES ON L PSPACE",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f313e790e11990fb1c6a591659ee2c345a6007fe"
+        ],
+        "id": "id-782331416843779418",
+        "abstract": "In this paper, we study the relation between value-at-risk and continuous coherent risk measures on L-space. By using the separation theorem for convex sets and the truncated approximation method, we obtain that VaR can be represented by continuous coherent risk measures on L-space. Meanwhile, we get a new method to prove the representation result for the continuous coherent risk measures on L-space, which extend the results in [2] from L\u221e-space to L-space, and do some complements of that of Inoue [4], respectively.",
+        "versions": [],
+        "rank": 99
+    }
+]

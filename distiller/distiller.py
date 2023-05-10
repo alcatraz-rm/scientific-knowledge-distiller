@@ -1,7 +1,10 @@
 import os
+import pickle
+import re
 import string
 from typing import Iterable
 
+import nltk
 import numpy as np
 import torch
 from gensim.models import Doc2Vec
@@ -9,6 +12,23 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import AutoTokenizer, AutoModel
 
 from search_engine.databases.database_client import Document
+
+
+def preprocess_text(text, flg_stemm=False, flg_lemm=True, lst_stopwords=nltk.corpus.stopwords.words("english")):
+    text = re.sub(r'[^\w\s]', '', str(text).lower().strip())
+
+    lst_text = text.split()
+    if lst_stopwords is not None:
+        lst_text = [word for word in lst_text if word not in
+                    lst_stopwords]
+    if flg_stemm:
+        ps = nltk.stem.porter.PorterStemmer()
+        lst_text = [ps.stem(word) for word in lst_text]
+    if flg_lemm:
+        lem = nltk.stem.wordnet.WordNetLemmatizer()
+        lst_text = [lem.lemmatize(word) for word in lst_text]
+    text = " ".join(lst_text)
+    return text
 
 
 class Distiller:
@@ -22,6 +42,7 @@ class Distiller:
         os.chdir(initial_wd)
         self._path_to_doc2vec = os.path.join(
             self._root_path, 'distiller', 'models', 'dm_arxiv', 'dm_arxiv')
+        self._path_to_tfidf_vectorizer = os.path.join(self._root_path, 'distiller', 'models', 'vectorizer.pickle')
 
     def get_top_n_roberta(self, documents: Iterable[Document], query: str, n: int):
         documents = list(documents)
@@ -99,4 +120,14 @@ class Distiller:
         return [documents[hit['corpus_id']] for hit in search_hits]
 
     def get_top_n_tfidf(self, documents: Iterable[Document], query: str = '', n: int = 100):
-        pass
+        with open(self._path_to_tfidf_vectorizer, 'rb') as dump_file:
+            vectorizer = pickle.load(dump_file)
+
+        query_embedding = torch.Tensor(vectorizer.transform([preprocess_text(query)]).toarray())
+
+        corpus_embeddings = torch.Tensor(
+            vectorizer.transform([preprocess_text(f'{doc.title} {doc.abstract}') for doc in documents]).toarray())
+
+        search_hits = util.semantic_search(
+            query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
+        return [documents[hit['corpus_id']] for hit in search_hits]

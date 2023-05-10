@@ -21,5 +21,3 @@ for file in files:
             writer = csv.DictWriter(f, data_csv[0].keys())
             writer.writeheader()
             writer.writerows(data_csv)
-
-
