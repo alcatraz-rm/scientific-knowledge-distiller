@@ -1,5 +1,5 @@
 1 coherent risk measures
-2 fundamental theorem of asset pricing (FTAP) and its extensions
+2 fundamental theorem of asset pricing and its extensions
 3 rough volatility models
 4 zero knowledge proof in blockchain
 5 stochastic differential equations in finance
