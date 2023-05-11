@@ -108,6 +108,3 @@ total found: 14899
 100% (75 of 75) |############################################| Elapsed Time: 0:01:28 Time:  0:01:28
 2023-05-10 17:31:41,661 [MainThread] [INFO] Abstract was found for 1731 papers.
 2023-05-10 17:31:41,699 [MainThread] [INFO] total results after deduplication: 11265
-2023-05-10 17:31:41,699 [MainThread] [INFO] Load pretrained SentenceTransformer: all-roberta-large-v1
-2023-05-10 17:31:57,695 [MainThread] [INFO] Use pytorch device: cuda
-Batches: 100%|████████████████████████████████████████████████████| 705/705 [06:34<00:00,  1.79it/s]
