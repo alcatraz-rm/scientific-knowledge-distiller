@@ -1,0 +1,2757 @@
+[
+    {
+        "authors": [
+            "Keith Sharp"
+        ],
+        "title": "Stochastic differential equations in finance",
+        "publication_date": "1990-05-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "37",
+        "doi": "10.1016/0096-3003(90)90041-z",
+        "urls": [
+            "https://openalex.org/W2007434528",
+            "https://doi.org/10.1016/0096-3003(90)90041-z"
+        ],
+        "id": "id-996319696163701072",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1990,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic differential equations in finance",
+                "journal": "Applied Mathematics and Computation",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b9d83ab239e095de42c99270b17a330c085f0eb2"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-Z",
+                "publication_date": "1990-05-01 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Stochastic differential equations in finance",
+                "journal": "Applied Mathematics and Computation",
+                "urls": [
+                    "https://doi.org/10.1016/0096-3003(90)90041-z"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-z",
+                "publication_date": "None"
+            },
+            {
+                "year": 1990,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Stochastic differential equations in finance",
+                "journal": "",
+                "urls": [
+                    "https://api.elsevier.com/content/article/PII:009630039090041Z?httpAccept=text/xml",
+                    "https://api.elsevier.com/content/article/PII:009630039090041Z?httpAccept=text/plain",
+                    "http://dx.doi.org/10.1016/0096-3003(90)90041-z"
+                ],
+                "doi": "10.1016/0096-3003(90)90041-z",
+                "publication_date": "1990-01-01 00:00:00"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Willis, Geoff"
+        ],
+        "title": "Wealth, income, earnings and the statistical mechanics of flow systems",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6722931.pdf"
+        ],
+        "id": "id2666326294806242830",
+        "abstract": "This paper looks at empirical data from economics regarding wealth, earnings and income, alongside a flow model for an economy based on the general Lotka-Volterra models of Levy & Solomon. The data and modelling suggest that a simple economic system might provide a tractable model for giving an exact statistical mechanical solution for an 'out of equilibrium' flow model. This might also include an exact mathematical definition of a 'dissipative structure' derived from maximum entropy considerations. This paper is primarily a qualitative discussion of how such a mathematical proof might be achieved.wealth; earnings; income; entropy; lotka; volterra; dissipative",
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Fischer, Markus",
+            "Livieri, Giulia"
+        ],
+        "title": "Continuous time mean-variance portfolio optimization through the mean field approach",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1051/ps/2016001",
+        "urls": [
+            "https://core.ac.uk/download/53530719.pdf"
+        ],
+        "id": "id-5010844460785152304",
+        "abstract": "A simple mean-variance portfolio optimization problem in continuous time is solved using the mean field approach. In this approach, the original optimal control problem, which is time inconsistent, is viewed as the McKean\\u2013Vlasov limit of a family of controlled many-component weakly interacting systems. The prelimit problems are solved by dynamic programming, and the solution to the original problem is obtained by passage to the limit",
+        "versions": [],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Yao-Jia Zhang",
+            "Tao Chen",
+            "Nan-jing Huang",
+            "Xue-song Li"
+        ],
+        "title": "Stochastic differential variational inequalities with applications",
+        "publication_date": "2022-12-16 09:37:48+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2212.08366v1",
+            "http://arxiv.org/abs/2212.08366v1",
+            "http://arxiv.org/pdf/2212.08366v1"
+        ],
+        "id": "id-7527913677242971183",
+        "abstract": "In this paper, we introduce and study a stochastic differential variational\ninequality (SDVI) which consists of a stochastic differential equation and a\nstochastic variational inequality. We obtain the existence and uniqueness of\nthe solutions for SDVI by using the iteration method and Gronwall's inequality.\nMoreover, we show the convergence of Euler scheme for solving SDVI under some\nmild conditions. Finally, we apply the obtained results to solve the electrical\ncircuits with diodes and the collapse of the bridge problems in stochastic\nenvironment.",
+        "versions": [],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Zhen Wu"
+        ],
+        "title": "Fully coupled FBSDE with Brownian motion and Poisson process in stopping time duration",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Cambridge University Press (CUP)",
+        "volume": "",
+        "doi": "10.1017/s1446788700003281",
+        "urls": [
+            "https://web.archive.org/web/20180726160608/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7F8742BA7D87274548A5C463D7E7EF78/S1446788700003281a.pdf/div-class-title-fully-coupled-fbsde-with-brownian-motion-and-poisson-process-in-stopping-time-duration-div.pdf"
+        ],
+        "id": "id2545751237781764434",
+        "abstract": "We first give the existence and uniqueness result and a comparison theorem for backward stochastic differential equations with Brownian motion and Poisson process as the noise source in stopping time (unbounded) duration. Then we obtain the existence and uniqueness result for Mly coupled forwardbackward stochastic differential equation with Brownian motion and Poisson process in stopping time (unbounded) duration. We also proved a comparison theorem for this kind of equation. 2000 Mathematics subject classification: primary 60H10,60G40. So v < x, a.s. and M v _ > 0. In the first equation of (4.4), the noncontinuous part of M, is only produced by random measure N, from (H4.2), AM V >-M V ., M , = M , so M v = 0, when v < r. We can introduce (M M Af\" U\" V,), t e [v, r], which satisfies use, available at https://www.cambridge.org/core/terms. https://doi.",
+        "versions": [
+            {
+                "year": 2003,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Fully coupled FBSDE with Brownian motion and Poisson process in stopping time duration",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2141709744",
+                    "https://doi.org/10.1017/s1446788700003281",
+                    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7F8742BA7D87274548A5C463D7E7EF78/S1446788700003281a.pdf/div-class-title-fully-coupled-fbsde-with-brownian-motion-and-poisson-process-in-stopping-time-duration-div.pdf"
+                ],
+                "doi": "10.1017/s1446788700003281",
+                "publication_date": "2003-04-01 00:00:00"
+            }
+        ],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Kim, J."
+        ],
+        "title": "Measure valued solutions to the stochastic Euler equations in $$\\mathbb {R}^d$$ R d",
+        "publication_date": "2015-09-25 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s40072-015-0060-z",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s40072-015-0060-z.pdf",
+            "http://link.springer.com/article/10.1007/s40072-015-0060-z/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s40072-015-0060-z",
+            "http://dx.doi.org/10.1007/s40072-015-0060-z"
+        ],
+        "id": "id6053408247101590554",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Measure valued solutions to the stochastic Euler equations in $$\\mathbb {R}^d$$Rd",
+                "journal": "Stochastic Partial Differential Equations: Analysis and Computations",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f3b86deb077af4f69cc9ba57f670bcd46ecf2a7b"
+                ],
+                "doi": "10.1007/S40072-015-0060-Z",
+                "publication_date": "2015-09-25 00:00:00"
+            }
+        ],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Hult, Henrik",
+            "Samorodnitsky, Gennady"
+        ],
+        "title": "Tail probabilities for infinite series of regularly varying random  vectors",
+        "publication_date": "2008-10-31 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.3150/08-bej125",
+        "urls": [
+            "http://arxiv.org/abs/math/0702112"
+        ],
+        "id": "id-2631786638532969371",
+        "abstract": "A random vector $X$ with representation $X=\\sum_{j\\geq0}A_jZ_j$ is\nconsidered. Here, $(Z_j)$ is a sequence of independent and identically\ndistributed random vectors and $(A_j)$ is a sequence of random matrices,\n`predictable' with respect to the sequence $(Z_j)$. The distribution of $Z_1$\nis assumed to be multivariate regular varying. Moment conditions on the\nmatrices $(A_j)$ are determined under which the distribution of $X$ is\nregularly varying and, in fact, `inherits' its regular variation from that of\nthe $(Z_j)$'s. We compute the associated limiting measure. Examples include\nlinear processes, random coefficient linear processes such as stochastic\nrecurrence equations, random sums and stochastic integrals.Comment: Published in at http://dx.doi.org/10.3150/08-BEJ125 the Bernoulli\n  (http://isi.cbs.nl/bernoulli/) by the International Statistical\n  Institute/Bernoulli Society (http://isi.cbs.nl/BS/bshome.htm",
+        "versions": [],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Xi Geng",
+            "Sheng Wang"
+        ],
+        "title": "Non-degeneracy of Stochastic Line Integrals",
+        "publication_date": "2022-02-06 21:33:45+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2202.02858v1",
+            "http://arxiv.org/abs/2202.02858v1",
+            "http://arxiv.org/pdf/2202.02858v1"
+        ],
+        "id": "id-528237610088992163",
+        "abstract": "We derive quantitative criteria for the existence of density for stochastic\nline integrals and iterated line integrals along solutions of hypoelliptic\ndifferential equations driven by fractional Brownian motion. As an application,\nwe also study the signature uniqueness problem for these rough differential\nequations.",
+        "versions": [],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Yubin Lu",
+            "Yang Li",
+            "Jinqiao Duan"
+        ],
+        "title": "Extracting Stochastic Governing Laws by Nonlocal Kramers-Moyal Formulas",
+        "publication_date": "2021-08-28 04:56:51+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1098/rsta.2021.0195",
+        "urls": [
+            "http://arxiv.org/pdf/2108.12570v2",
+            "http://dx.doi.org/10.1098/rsta.2021.0195",
+            "http://arxiv.org/abs/2108.12570v2",
+            "http://arxiv.org/pdf/2108.12570v2"
+        ],
+        "id": "id1341922720550721911",
+        "abstract": "With the rapid development of computational techniques and scientific tools,\ngreat progress of data-driven analysis has been made to extract governing laws\nof dynamical systems from data. Despite the wide occurrences of non-Gaussian\nfluctuations, the effective data-driven methods to identify stochastic\ndifferential equations with non-Gaussian L\\'evy noise are relatively few so\nfar. In this work, we propose a data-driven approach to extract stochastic\ngoverning laws with both (Gaussian) Brownian motion and (non-Gaussian) L\\'evy\nmotion, from short bursts of simulation data. Specifically, we use the\nnormalizing flows technology to estimate the transition probability density\nfunction (solution of nonlocal Fokker-Planck equation) from data, and then\nsubstitute it into the recently proposed nonlocal Kramers-Moyal formulas to\napproximate L\\'evy jump measure, drift coefficient and diffusion coefficient.\nWe demonstrate that this approach can learn the stochastic differential\nequation with L\\'evy motion. We present examples with one- and two-dimensional,\ndecoupled and coupled systems to illustrate our method. This approach will\nbecome an effective tool for discovering stochastic governing laws and\nunderstanding complex dynamical behaviors.",
+        "versions": [],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Kristina Rognlien Dahl",
+            "Jasmina Djordevic"
+        ],
+        "title": "Stochastic optimal control of pre-exposure prophylaxis for HIV infection",
+        "publication_date": "2020-09-08 09:12:10+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2009.03594v1",
+            "http://arxiv.org/abs/2009.03594v1",
+            "http://arxiv.org/pdf/2009.03594v1"
+        ],
+        "id": "id-3073608042380795213",
+        "abstract": "In this paper, we study the stochastic optimal control problem for the PReP\nvaccine in the stochastic model for HIV/AIDS with PReP. By using the stochastic\nmaximum principle, we derive the stochastic optimal control of PReP for the\nunconstrained control problem, as well as for two different types of budget\nconstrains. We illustrate the results by a numerical example. We first study\nthe PReP stochastic differential equation dynamics with a constant,\ndeterministic PReP treatment rate. Then, we compare this to the stochastic\noptimal control in the unconstrained case.",
+        "versions": [],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "Mao, Wei",
+            "Mao, Xuerong"
+        ],
+        "title": "Approximate solutions of hybrid stochastic pantograph equations with Levy jumps",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "Abstract and Applied Analysis",
+        "volume": "",
+        "doi": "10.1155/2013/718627",
+        "urls": [
+            "https://core.ac.uk/download/19610026.pdf"
+        ],
+        "id": "id-686042642289555962",
+        "abstract": "We investigate a class of stochastic pantograph differential equations with Markovian switching and Levy jumps. We prove that the approximate solutions converge to the true solutions in \ud43f 2 sense as well as in probability under local Lipschitz condition and generalize the results obtained by Fan et al. (2007), Milo\u0161evi\u0107 and Jovanovi\u0107 (2011), and Marion et al. (2002) to cover a class of more general stochastic pantograph differential equations with jumps. Finally, an illustrative example is given to demonstrate our established theory",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.CORE",
+                "title": "Approximate solutions of hybrid stochastic pantograph equations with Levy jumps",
+                "journal": null,
+                "urls": [
+                    "https://core.ac.uk/download/19610026.pdf"
+                ],
+                "doi": "10.1155/2013/718627",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.CORE",
+                "title": "Approximate solutions of hybrid stochastic pantograph equations with Levy jumps",
+                "journal": null,
+                "urls": [
+                    "https://core.ac.uk/download/19610026.pdf"
+                ],
+                "doi": "10.1155/2013/718627",
+                "publication_date": "2013-01-01 00:00:00"
+            }
+        ],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Alan L. Lewis"
+        ],
+        "title": "Applications of Eigenfunction Expansions in Continuous\u2010Time Finance",
+        "publication_date": "1998-10-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Mathematical Finance",
+        "volume": "8",
+        "doi": "10.1111/1467-9965.00059",
+        "urls": [
+            "https://www.semanticscholar.org/paper/193b12ccc8dc1bff507374284a72f6a2a267d31a"
+        ],
+        "id": "id-2402035795570751449",
+        "abstract": "We provide exact solutions for two closely related valuation problems in continuous\u2010time finance. The first problem is to value generalized European\u2010style options on stocks that pay dividends at a constant dollar rate. The second problem is to find the yield curve associated with the economy of R. C. Merton's \u201cAn Asymptotic Theory of Growth Under Uncertainty.\u201d In Merton's economic growth model, the interest rate process has a volatility linear in the rate level and a linear/quadratic drift. Both problems are solved by an eigenfunction expansion technique. The main technical difficulty is handling the problem of payoff functions that are not square\u2010integrable with respect to the natural weight function of the models.",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Applications of Eigenfunction Expansions in Continuous-Time Finance",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1988323602",
+                    "https://doi.org/10.1111/1467-9965.00059"
+                ],
+                "doi": "10.1111/1467-9965.00059",
+                "publication_date": "1998-10-01 00:00:00"
+            }
+        ],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "Liangliang Zhang"
+        ],
+        "title": "A General Framework of Optimal Investment",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Scientific Research Publishing, Inc,",
+        "volume": "",
+        "doi": "10.4236/jmf.2019.93028",
+        "urls": [
+            "https://web.archive.org/web/20200210093140/https://www.scirp.org/pdf/JMF_2019082308074321.pdf"
+        ],
+        "id": "id-5025255050397445240",
+        "abstract": "In this paper, we propose a general framework of optimal investment and a collection of trading ideas, which combine probability and statistical theory with, potentially, machine learning techniques, e.g., machine learning regression, classification and reinforcement learning. The trading ideas are easy to implement and their validity is justified by full mathematical rigor. The framework is model-free and can, in principle, incorporate all categories of trading ideas into it. Simulation and backtesting studies show good performance of selected trading strategies under the proposed framework. Sharpe ratios are above 8.Journal of Mathematical Finance long run equilibrium levels, with short term adjustments or fluctuations, where trading opportunities appear. Work in this category includes [11], [12] and [13], among others. However, this investment method will suffer greatly if the spread between the two sets of chosen assets widens. Therefore, both classes of investment strategies incur losses with advert market movements. The root cause is that, information from the past might not be a good indicator of future market movements or at least it can only predict or explain a limited fraction of future",
+        "versions": [],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "I. D. Albu",
+            "M. Neamtu",
+            "D. Opris"
+        ],
+        "title": "Stochastic generalized fractional HP equations and applications",
+        "publication_date": "2009-08-30 15:48:57+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/0908.4401v1",
+            "http://arxiv.org/abs/0908.4401v1",
+            "http://arxiv.org/pdf/0908.4401v1"
+        ],
+        "id": "id-6476113499009191726",
+        "abstract": "In this paper we established the condition for a curve to satisfy stochastic\ngeneralized fractional HP (Hamilton-Pontryagin) equations. These equations are\ndescribed using Ito integral. We have also considered the case of stochastic\ngeneralized fractional Hamiltonian equations, for a hyperregular Lagrange\nfunction. From the stochastic generalized fractional Hamiltonian equations,\nLangevin generalized fractional equations were found and numerical simulations\nwere done.",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Stochastic generalized fractional HP equations and applications",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-0908.4401/0908.4401.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2009-08-30 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Hanxiao Wang"
+        ],
+        "title": "Extended Backward Stochastic Volterra Integral Equations, Quasilinear Parabolic Equations, and Feynman-Kac Formula",
+        "publication_date": "2019-08-20 05:22:59+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1908.07168v1",
+            "http://arxiv.org/abs/1908.07168v1",
+            "http://arxiv.org/pdf/1908.07168v1"
+        ],
+        "id": "id-699301467909509727",
+        "abstract": "In this paper, we establish the relationship between backward stochastic\nVolterra integral equations (BSVIEs, for short) and a kind of non-local\nquasilinear (and possibly degenerate) parabolic equations. We first introduce\nthe extended backward stochastic Volterra integral equations (EBSVIEs, for\nshort). Under some mild conditions, we establish the well-posedness of EBSVIEs\nand obtain some regularity results of the adapted solution to the EBSVIEs via\nMalliavin calculus. We show that a given function expressed in terms of the\nsolution to the EBSVIEs solves a certain system of non-local parabolic partial\ndifferential equations (PDEs, for short), which generalizes the famous\nnonlinear Feynman-Kac formula in Pardoux{Peng [21].",
+        "versions": [],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "Matthew Dobson",
+            "Jiayu Zhai",
+            "Yao Li"
+        ],
+        "title": "Using coupling methods to estimate sample quality for stochastic differential equations",
+        "publication_date": "2019-12-21 21:15:52+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1912.10339v1",
+            "http://arxiv.org/abs/1912.10339v1",
+            "http://arxiv.org/pdf/1912.10339v1"
+        ],
+        "id": "id-6391250947475968325",
+        "abstract": "A probabilistic approach for estimating sample qualities for stochastic\ndifferential equations is introduced in this paper. The aim is to provide a\nquantitative upper bound of the distance between the invariant probability\nmeasure of a stochastic differential equation and that of its numerical\napproximation. In order to extend estimates of finite time truncation error to\ninfinite time, it is crucial to know the rate of contraction of the transition\nkernel of the SDE. We find that suitable numerical coupling methods can\neffectively estimate such rate of contraction, which gives the distance between\ntwo invariant probability measures. Our algorithms are tested with several low\nand high dimensional numerical examples.",
+        "versions": [],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "A. Pelsser",
+            "Kossi Gnameho"
+        ],
+        "title": "A Monte Carlo method for backward stochastic differential equations with Hermite martingales",
+        "publication_date": "2019-03-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Monte Carlo Methods and Applications",
+        "volume": "25",
+        "doi": "10.1515/mcma-2019-2028",
+        "urls": [
+            "https://www.semanticscholar.org/paper/12596b3897cce1f38bb1213fac0a5094d306740a",
+            "https://cris.maastrichtuniversity.nl/files/132394160/Pelsser_2019_A_Monte_Carlo_method_for.pdf"
+        ],
+        "id": "id-2754696236881416646",
+        "abstract": "Abstract Backward stochastic differential equations (BSDEs) appear in many problems in stochastic optimal control theory, mathematical finance, insurance and economics. This work deals with the numerical approximation of the class of Markovian BSDEs where the terminal condition is a functional of a Brownian motion. Using Hermite martingales, we show that the problem of solving a BSDE is identical to solving a countable infinite-dimensional system of ordinary differential equations (ODEs). The family of ODEs belongs to the class of stiff ODEs, where the associated functional is one-sided Lipschitz. On this basis, we derive a numerical scheme and provide numerical applications.",
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A Monte Carlo method for backward stochastic differential equations with Hermite martingales",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2914135689",
+                    "https://doi.org/10.1515/mcma-2019-2028"
+                ],
+                "doi": "10.1515/mcma-2019-2028",
+                "publication_date": "2019-03-01 00:00:00"
+            }
+        ],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Zhongkai Guo"
+        ],
+        "title": "Invariant foliations for stochastic partial differential equations with dynamic boundary conditions",
+        "publication_date": "2013-11-19 11:41:00+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1311.4705v1",
+            "http://arxiv.org/abs/1311.4705v1",
+            "http://arxiv.org/pdf/1311.4705v1"
+        ],
+        "id": "id7873264938186712101",
+        "abstract": "Invariant foliations are complicated random sets useful for describing and\nunderstanding the qualitative behaviors of nonlinear dynamical systems. We will\nconsider invariant foliations for stochastic partial differential equation with\ndynamical boundary condition.",
+        "versions": [],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Ana Bela Cruzeiro",
+            "Andr\u00e9 de Oliveira Gomes"
+        ],
+        "title": "Forward Backward Stochastic Differential Equations - Asymptotics and a Large Deviations Principle",
+        "publication_date": "2013-02-26 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://archive.org/download/arxiv-1205.3220/1205.3220.pdf"
+        ],
+        "id": "id4789196916104820415",
+        "abstract": "We study the asymptotic behaviour of solutions of Forward Backward Stochastic Differential Equations in the coupled case, when the diffusion coefficient of the forward equation is multiplicatively perturbed by a small parameter that converges to zero. Furthermore, we establish a Large Deviation Principle for the laws of the corresponding processes.",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.ARXIV",
+                "title": "Forward Backward Stochastic Differential Equations - Asymptotics and a Large Deviations Principle",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1205.3220v5",
+                    "http://arxiv.org/abs/1205.3220v5",
+                    "http://arxiv.org/pdf/1205.3220v5"
+                ],
+                "doi": "",
+                "publication_date": "2012-05-14 23:27:24+00:00"
+            }
+        ],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Weierstrass-Institut f\u00fcr Angewandte Analysis und Stochastik (Berlin)"
+        ],
+        "title": "Annual Research Report 2019",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/481519472.pdf"
+        ],
+        "id": "id-4042857684729878760",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.CORE",
+                "title": "Annual Research Report 2019",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/389439742.pdf"
+                ],
+                "doi": null,
+                "publication_date": "2019-01-01 00:00:00"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "J.-C. Cort\u00e9s",
+            "J.-V. Romero",
+            "M.-D. Rosell\u00f3",
+            "C. Santamar\u00eda"
+        ],
+        "title": "Solving random diffusion models with nonlinear perturbations by the Wiener\u2013Hermite expansion method",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.camwa.2010.07.057",
+        "urls": [
+            "https://web.archive.org/web/20190311101912/https://core.ac.uk/download/pdf/81183574.pdf"
+        ],
+        "id": "id-522488089427535355",
+        "abstract": "This paper deals with the construction of approximate series solutions of random nonlinear diffusion equations where nonlinearity is considered by means of a frank small parameter and uncertainty is introduced through white noise in the forcing term. For the simpler but important case in which the diffusion coefficient is time independent, we provide a Gaussian approximation of the solution stochastic process by taking advantage of the Wiener-Hermite expansion together with the perturbation method. In addition, approximations of the main statistical functions associated with a solution, such as the mean and variance, are computed. Numerical values of these functions are compared with respect to those obtained by applying the Runge-Kutta second-order stochastic scheme as an illustrative example.",
+        "versions": [],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Magnus Perninge"
+        ],
+        "title": "A Note on Reflected BSDEs in Infinite Horizon with Stochastic Lipschitz Coefficients",
+        "publication_date": "2021-03-09 18:23:07+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2103.05603v1",
+            "http://arxiv.org/abs/2103.05603v1",
+            "http://arxiv.org/pdf/2103.05603v1"
+        ],
+        "id": "id8487993107495834259",
+        "abstract": "We consider an infinite horizon, obliquely reflected backward stochastic\ndifferential equation (RBSDE). The main contribution of the present work is\nthat we generalize previous results on infinite horizon reflected BSDEs to the\nsetting where the driver has a stochastic Lipschitz coefficient. As an\napplication we consider robust optimal stopping problems for functional\nstochastic differential equations (FSDEs) where the driver has linear growth.",
+        "versions": [],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Allan Drazen",
+            "Paul R. Masson"
+        ],
+        "title": "Credibility of Policies Versus Credibility of Policymakers",
+        "publication_date": "1993-09-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2307/2118420",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f822b95f865833df607d900c7fcca4e70f6c90df",
+            "https://www.elibrary.imf.org/downloadpdf/journals/001/1994/049/001.1994.issue-049-en.xml"
+        ],
+        "id": "id-209879305268398309",
+        "abstract": "Standard models of policy credibility. defined as the expectation that an announced policy will be carried out. emphasize the preferences of the policymaker (his \"type\") and the role of policies in signaling type. Whether a policy is carried out. however. should also reflect the state of the economy. so that even a \"tough\" policymaker may renege on an announced policy in adverse circumstances. We investigate this alternative notion of credibility, using an \"escape clause\" model of devaluation. in which a policymaker maintains a fixed parity in good times, but devalues if the unemployment rate gets too high. Our main conclusion is that if there is persistence in the process driving unemployment, following a tough policy in a given period may lower rather than raise the credibility of a no-devaluation pledge in subsequent periods. in contrast to the results in the earlier literature. We test this implication on EMS interest rates and find support for our hypothesis.",
+        "versions": [
+            {
+                "year": 1994,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Credibility of Policies Versus Credibility of Policymakers",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2137548414",
+                    "https://doi.org/10.2307/2118420",
+                    "https://www.elibrary.imf.org/downloadpdf/journals/001/1994/049/001.1994.issue-049-en.xml"
+                ],
+                "doi": "10.2307/2118420",
+                "publication_date": "1994-08-01 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "K. Giannopoulos"
+        ],
+        "title": "Estimating the time Varying Components of international stock markets' risk",
+        "publication_date": "1995-06-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "European Journal of Finance",
+        "volume": "1",
+        "doi": "10.1080/13518479500000013",
+        "urls": [
+            "https://www.semanticscholar.org/paper/27179cc99a8f50da4252ebb0c967b15f36687bca"
+        ],
+        "id": "id3535264771345285216",
+        "abstract": "In this study an alternative approach for assessing securities' risk is applied. Various authors have argued that security returns are not homoskedastic but exhibit variation over time. They have observed that large changes tend be followed by more large changes in either direction, and so volatility must be predictably high after large changes. This phenomenon of securities' volatility, referred to as clustering, has important implications for security pricing and risk management. Among the most popular techniques currently used to capture the clustering effect and to forecast future volatilityare those belonging to the family of Autoregressive Conditional Heteroskedastic (ARCH) models. The main aim of this paper is to investigate whether such volatility modelling can be used to capture the time variation not only in the total risk of a security return but also its systematic and unsystematic components. Using weekly local stock market data, the time varying beta with the World Index has been estimated via a bivariate GARCH-M model. The GARCH-M parameterization used here is a dynamic specification of the SIM. The hypothesis that this dynamic specification holds cannot be rejected for 11 out of 13 local portfolios. The results provide evidence that both the systematic and the non-systematic counterparts are also changing over time. However, in some markets those risk changes may take place with some delay. This suggests that some of the low correlation coefficients computed for certain stock market returns may not be due to differences in business cycles among those countries, but may be caused by the non-synchronous response to world market developments. This finding should have important implications in many investment decisions such as portfolio selection, market timing and risk hedging.",
+        "versions": [
+            {
+                "year": 1995,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Estimating the time Varying Components of international stock markets' risk",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1978002942",
+                    "https://doi.org/10.1080/13518479500000013"
+                ],
+                "doi": "10.1080/13518479500000013",
+                "publication_date": "1995-06-01 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [
+            "Li, Z.",
+            "Zeng, C.",
+            "Huang, J."
+        ],
+        "title": "Mean-square invariant manifolds for ill-posed stochastic evolution equations driven by nonlinear noise",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jde.2021.12.036",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0022039621008123?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0022039621008123?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jde.2021.12.036"
+        ],
+        "id": "id-1079014160685864257",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Mean-square invariant manifolds for ill-posed stochastic evolution equations driven by nonlinear noise",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2daf961caf81b5777c962d400a67723bf5d2afd9",
+                    "http://arxiv.org/pdf/2111.01043"
+                ],
+                "doi": "10.1016/j.jde.2021.12.036",
+                "publication_date": "2021-11-01 00:00:00"
+            }
+        ],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Juan Carlos Vizca\u00edno Mart\u00ednez",
+            "Esperanza Garc\u00eda-Gonzalo",
+            "Jos\u00e9 Antonio Mart\u00ednez \u00c1lvarez",
+            "Heidi Anderson Kuzma",
+            "C\u00e9sar Dom\u00ednguez P\u00e9rez"
+        ],
+        "title": "PSO: A powerful algorithm to solve geophysical inverse problems",
+        "publication_date": "2010-05-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "71",
+        "doi": "10.1016/j.jappgeo.2010.02.001",
+        "urls": [
+            "https://openalex.org/W1968644110",
+            "https://doi.org/10.1016/j.jappgeo.2010.02.001"
+        ],
+        "id": "id-5010779605042751454",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2010,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "PSO: A powerful algorithm to solve geophysical inverse problems: Application to a 1D-DC resistivity case",
+                "journal": "Journal of Applied Geophysics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/fa809100ccf54448b3009745af41c60355ef5135"
+                ],
+                "doi": "10.1016/J.JAPPGEO.2010.02.001",
+                "publication_date": "2010-05-01 00:00:00"
+            }
+        ],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "F. Longstaff",
+            "Eduardo S. Schwartz"
+        ],
+        "title": "Interest Rate Volatility and the Term Structure: A Two-Factor General Equilibrium Model",
+        "publication_date": "1992-09-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Finance",
+        "volume": "47",
+        "doi": "10.1111/J.1540-6261.1992.TB04657.X",
+        "urls": [
+            "https://www.semanticscholar.org/paper/abf22835a4ac08b63f52707acb4f83525c6eab5c"
+        ],
+        "id": "id-4274302283046535410",
+        "abstract": "The authors develop a two-factor general equilibrium model of the term structure. The factors are the short-term interest rate and the volatility of the short-term interest rate. The authors derive closed-form expressions for discount bonds and study the properties of the term structure implied by the model. The dependence of yields on volatility allows the model to capture many observed properties of the term structure. The authors also derive closed-form expressions for discount bond options. The authors use Hansen's generalized method of moments framework to test the cross-sectional restrictions imposed by the model. The tests support the two-factor model. Copyright 1992 by American Finance Association.",
+        "versions": [
+            {
+                "year": 1992,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Interest Rate Volatility and the Term Structure: A Two-Factor General Equilibrium Model",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2170131042",
+                    "https://doi.org/10.1111/j.1540-6261.1992.tb04657.x"
+                ],
+                "doi": "10.1111/j.1540-6261.1992.tb04657.x",
+                "publication_date": "1992-09-01 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Coppola, Mariarosaria",
+            "Lorenzo, Emilia Di",
+            "Sibillo, Marilena"
+        ],
+        "title": "Further Remarks on Risk Sources Measuring: The Case of a Life Annuity Portfolio",
+        "publication_date": "2002-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/127441416.pdf"
+        ],
+        "id": "id8355822245601443953",
+        "abstract": "The paper considers a model that allows the actuary to measure the riskiness connected to the randomness of projected mortality tables in evaluating a portfolio of life annuities, obtaining a measure to reflect the risk associated with the randomness of the projection. The coherence of the risk parameters with the specific nature of the considered risk sources is also discussed. Numerical examples illustrate the results, showing the importance of the risk components in terms of the number of policies and comparing measure tools obtained by means of two procedures",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.CORE",
+                "title": "Further Remarks on Risk Sources Measuring: The Case of a Life Annuity Portfolio",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/127441416.pdf"
+                ],
+                "doi": null,
+                "publication_date": "2002-01-01 00:00:00"
+            }
+        ],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Gabriel Lord",
+            "Simon J. A. Malham",
+            "Anke Wiese"
+        ],
+        "title": "Efficient Strong Integrators for Linear Stochastic Systems",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Society for Industrial & Applied Mathematics (SIAM)",
+        "volume": "",
+        "doi": "10.1137/060656486",
+        "urls": [
+            "https://web.archive.org/web/20170808211608/http://www.macs.hw.ac.uk/~simonm/nsdes.pdf"
+        ],
+        "id": "id5903227682712463687",
+        "abstract": "We present numerical schemes for the strong solution of linear stochastic differential equations driven by an arbitrary number of Wiener processes. These schemes are based on the Neumann (stochastic Taylor) and Magnus expansions. Firstly, we consider the case when the governing linear diffusion vector fields commute with each other, but not with the linear drift vector field. We prove that numerical methods based on the Magnus expansion are more accurate in the mean-square sense than corresponding stochastic Taylor integration schemes. Secondly, we derive the maximal rate of convergence for arbitrary multi-dimensional stochastic integrals approximated by their conditional expectations. Consequently, for general nonlinear stochastic differential equations with non-commuting vector fields, we deduce explicit formulae for the relation between error and computational costs for methods of arbitrary order. Thirdly, we consider the consequences in two numerical studies, one of which is an application arising in stochastic linear-quadratic optimal control.",
+        "versions": [
+            {
+                "year": 2007,
+                "source": "SupportedSources.ARXIV",
+                "title": "Efficient strong integrators for linear stochastic systems",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/0708.2850v1",
+                    "http://arxiv.org/abs/0708.2850v1",
+                    "http://arxiv.org/pdf/0708.2850v1"
+                ],
+                "doi": "",
+                "publication_date": "2007-08-21 14:26:22+00:00"
+            },
+            {
+                "year": 2007,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Efficient strong integrators for linear stochastic systems",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-0708.2850/0708.2850.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2007-08-21 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Janine Mukuddem-Petersen",
+            "Mark D. Petersen"
+        ],
+        "title": "Bank management via stochastic optimal control",
+        "publication_date": "2006-08-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "42",
+        "doi": "10.1016/j.automatica.2006.03.012",
+        "urls": [
+            "https://openalex.org/W2067091303",
+            "https://doi.org/10.1016/j.automatica.2006.03.012"
+        ],
+        "id": "id-7889003828021256592",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Bank management via stochastic optimal control",
+                "journal": "Autom.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/13a2c8e65779d8f81d27b4376d240530a25c710b"
+                ],
+                "doi": "10.1016/j.automatica.2006.03.012",
+                "publication_date": "2006-08-01 00:00:00"
+            }
+        ],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "De Angelis, Tiziano",
+            "Ekstr\u00f6m, Erik",
+            "Glover, Kristoffer"
+        ],
+        "title": "Dynkin games with incomplete and asymmetric information",
+        "publication_date": "2020-07-14 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/552453449.pdf"
+        ],
+        "id": "id-5829889313745850260",
+        "abstract": "We study the value and the optimal strategies for a two-player zero-sum\noptimal stopping game with incomplete and asymmetric information. In our\nBayesian set-up, the drift of the underlying diffusion process is unknown to\none player (incomplete information feature), but known to the other one\n(asymmetric information feature). We formulate the problem and reduce it to a\nfully Markovian setup where the uninformed player optimises over stopping times\nand the informed one uses randomised stopping times in order to hide their\ninformational advantage. Then we provide a general verification result which\nallows us to find the value of the game and players' optimal strategies by\nsolving suitable quasi-variational inequalities with some non-standard\nconstraints. Finally, we study an example with linear payoffs, in which an\nexplicit solution of the corresponding quasi-variational inequalities can be\nobtained.Comment: 31 pages, 5 figures, small changes in the terminology from game\n  theor",
+        "versions": [],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "J. Perell\u00f3",
+            "J. Masoliver",
+            "J. Bouchaud"
+        ],
+        "title": "Multiple time scales in volatility and leverage correlations: a stochastic volatility model",
+        "publication_date": "2004-03-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Applied Mathematical Finance",
+        "volume": "11",
+        "doi": "10.1080/1350486042000196155",
+        "urls": [
+            "https://www.semanticscholar.org/paper/ca94074dddc916e458f6b9072886ac0c58c051d7",
+            "http://arxiv.org/pdf/cond-mat/0302095"
+        ],
+        "id": "id-1925500461313360115",
+        "abstract": "Financial time series exhibit two different type of non\u2010linear correlations: (i) volatility autocorrelations that have a very long\u2010range memory, on the order of years, and (ii) asymmetric return\u2010volatility (or \u2018leverage\u2019) correlations that are much shorter ranged. Different stochastic volatility models have been proposed in the past to account for both these correlations. However, in these models, the decay of the correlations is exponential, with a single time scale for both the volatility and the leverage correlations, at variance with observations. This paper extends the linear Ornstein\u2013Uhlenbeck stochastic volatility model by assuming that the mean reverting level is itself random. It is found that the resulting three\u2010dimensional diffusion process can account for different correlation time scales. It is shown that the results are in good agreement with a century of the Dow Jones index daily returns (1900\u20132000), with the exception of crash days.",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Multiple time scales in volatility and leverage correlations: a stochastic volatility model",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W3121753698",
+                    "https://doi.org/10.1080/1350486042000196155",
+                    "http://arxiv.org/pdf/cond-mat/0302095"
+                ],
+                "doi": "10.1080/1350486042000196155",
+                "publication_date": "2004-03-01 00:00:00"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "Govindan, T."
+        ],
+        "title": "Applications to Stochastic Optimal Control",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-3-319-45684-3_6",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-3-319-45684-3_6",
+            "http://dx.doi.org/10.1007/978-3-319-45684-3_6"
+        ],
+        "id": "id5347932240829992869",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Applications to Stochastic Optimal Control",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/964ead23f37061bb257149b17a35e8f8688b9c58"
+                ],
+                "doi": "10.1007/978-3-319-45684-3_6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Alvarez",
+            "Arisawa",
+            "Arisawa",
+            "Barles",
+            "Bensaoud",
+            "Bertoin",
+            "Crandall",
+            "Cyril Imbert",
+            "Garroni",
+            "Guy Barles",
+            "Imbert",
+            "Ishii",
+            "Jakobsen",
+            "Jensen",
+            "Pham",
+            "Sayah",
+            "Silvestre",
+            "Soner",
+            "Woyczy\u0144ski",
+            "\u00d8ksendal"
+        ],
+        "title": "Second-Order Elliptic Integro-Differential Equations: Viscosity  Solutions' Theory Revisited",
+        "publication_date": "2008-05-15 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.anihpc.2007.02.007",
+        "urls": [
+            "https://core.ac.uk/download/54026663.pdf"
+        ],
+        "id": "id-239839471380575671",
+        "abstract": "The aim of this work is to revisit viscosity solutions' theory for\nsecond-order elliptic integro-differential equations and to provide a general\nframework which takes into account solutions with arbitrary growth at infinity.\nOur main contribution is a new Jensen-Ishii's Lemma for integro-differential\nequations, which is stated for solutions with no restriction on their growth at\ninfinity. The proof of this result, which is of course a key ingredient to\nprove comparison principles, relies on a new definition of viscosity solution\nfor integro-differential equation (equivalent to the two classical ones) which\ncombines the approach with test-functions and sub-superjets",
+        "versions": [],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "W. Zheng"
+        ],
+        "title": "Methods for Solving Fokker Planck",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f657053cdf5a2e6b0fc8340ac00286fb3c847322"
+        ],
+        "id": "id5052240770555695094",
+        "abstract": "Stochastic di\ufb00erential equations (SDE)s are powerful and have numerous applications. SDEs like Black Scholes dictate how to price options while SDEs like Fokker-Planck are used from \ufb01nance, to accelerator physics, to even neuroscience. In this project, we study Finite Di\ufb00erence Schemes to solve Fokker-Planck for (2+1) variables. We were able to implement and compare 5 stable \ufb01nite di\ufb00erence schemes, both explicit and implicit, in terms of convergence of error in time and space on a test problem of a dampened harmonic oscillator. We determined the best algorithm in terms of accuracy and convergence and suggest its use as well as attempt to understand why it performed so well.",
+        "versions": [],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "Nils Christian Framstad",
+            "Bernt \u00d8ksendal",
+            "Agn\u00e8s Sulem"
+        ],
+        "title": "Sufficient Stochastic Maximum Principle for the Optimal Control of Jump Diffusions and Applications to Finance",
+        "publication_date": "2004-04-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "121",
+        "doi": "10.1023/b:jota.0000026132.62934.96",
+        "urls": [
+            "https://openalex.org/W2056551289",
+            "https://doi.org/10.1023/b:jota.0000026132.62934.96",
+            "https://www.duo.uio.no/bitstream/10852/10699/1/pm22-01.pdf"
+        ],
+        "id": "id-1784966617861693032",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2004,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Sufficient Stochastic Maximum Principle for the Optimal Control of Jump Diffusions and Applications to Finance",
+                "journal": "Journal of Optimization Theory and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9cce72061e6172e0735861337bcc6532cba8d4ce",
+                    "https://www.duo.uio.no/bitstream/10852/10699/1/pm22-01.pdf"
+                ],
+                "doi": "10.1023/B:JOTA.0000026132.62934.96",
+                "publication_date": "2004-04-01 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Kazem Nouri",
+            "Hassan Ranjbar",
+            "Dumitru Baleanu",
+            "Leila Torkzadeh"
+        ],
+        "title": "Investigation on Ginzburg-Landau equation via a tested approach to benchmark stochastic Davis-Skodje system",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.aej.2021.04.040",
+        "urls": [
+            "https://web.archive.org/web/20210609055922/https://pdf.sciencedirectassets.com/270704/1-s2.0-S1110016821X00051/1-s2.0-S1110016821002829/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNTRP3gG3%2FzUORX4ccMqJmnziRigjMbPF70CsKCj5M1gIgJW63eFIen%2BqaGM2YLqvyOLuQU7nwuFD7KBwOD8u5PwoqgwQIhv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDLppA5XfmfIQxeCyXyrXA%2BpgKeJKagO2JBdy%2F7v96mSLz%2FalHbHkoGhOVExc4OFx0sO2z%2B7hR2gr0yPA8Z3DKfnnbxV3Jq2Z0bZT66AHq12uwuD7lUXIMnAk7wQPK9eBssmFp3E2qXEVCjBK7QCP4V5%2BFEEzQUWY%2BZOHB3KEmC%2F%2Fmo2bhG6sw%2B%2BOAyOqQ0MSX%2BkXgDFnPe7lNbwFSSRzWYt%2FZXr1IC6GyxTg7%2F%2FxNmEcqkK1sQAO5DgYoYYE9dKzNNQ2FM6Sy998jurjdofkX8oBiu%2B5c2WuGwhf%2B1ry5Kq8GkDU5FA3urPHZ1H79UwGDZBK64HI281qrubw%2FNVe%2F0nps1ork2QJpfeEpqnNwnso444bGl6IPZTegwqVrn%2BpcEKn5rO1aU0lkYthxqV8tDSU6j7ZNKo%2FEcOhP88iRkjFG71p%2Flb60RbXk3yrJ1atL5z1w%2BnSqeGzs%2Bzaib7CbLKv504My2EZ3PBfX5%2BDQhw8Ifj9xBpVgNwFjobSkX5FDem5WXUnPG4UsdYCYP4an%2BetC%2Bzds%2FOxWnQr%2BnUZVDcGYjI892HrjCIwg4b%2BVtYBBZ4J%2BrLo3njnyVc9QyEtncLYqXlgqc%2FrhJ1Nx%2BNKHd46sXlVywKraFMg0qhJ2ZhV7V9aFW%2BVaDCPioGGBjqlAf0JVsnK9wmbaVx3H%2Fem5HPd4RBFKDcCxeOfR4EIEesrsmJ3GCFuPFCypW%2BzIdn9iuSl6nxahU4y0%2Busxq9oKSGrYju7e6X%2F%2FUNH27BslNmTKbg5cFdOVcFAHqLBNQWwblX5JpD6ZY0yPe9v51SHSJeS6m7IRHILxhxLPGxFxD7jj5BAG425EkBb8TMOaHiWbErHR02FhDCZdCi31IzeNIK%2BsYtxGQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210609T055917Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSJTPO5WI%2F20210609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a8e76d2a802fa98292621c31ab00761b00e2af96555f05f68a0a6894a5935741&hash=c8b08a72f62e6e8b3721d8eda20216579cc1311ab1ba80bc6a261ab93f3ac0b1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1110016821002829&tid=spdf-951bcfb0-b5de-4a98-a9d3-3797371182b0&sid=0720de6373a23546795b49161ceb39f46312gxrqa&type=client"
+        ],
+        "id": "id5915081162126174358",
+        "abstract": "We propose new numerical methods with adding a modified ordinary differential equation solver to the Milstein methods for solution of stiff stochastic systems. We study a general form of stochastic differential equations so that the Ginzburg-Landau equation and the Davis-Skodje model can be considered as special states of them. The efficiency of the method is experimented, in terms of the convergence rate and accuracy of approximate solution, employing some numerical examples, including stochastic Ginzburg-Landau equation and a paradigm of chemical reaction systems. \u00d3 2021 THE AUTHORS. Published by Elsevier BV on behalf of Faculty of Engineering, Alexandria University. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/ licenses/by-nc-nd/4.0/).",
+        "versions": [],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "L. Gawarecki",
+            "V. Mandrekar",
+            "P. Richard"
+        ],
+        "title": "Existence of weak solutions for stochastic differential equations and martingale solutions for stochastic semilinear equations",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/rose.1999.7.3.215",
+        "urls": [
+            "https://www.semanticscholar.org/paper/3e7c62872e1e19b4ed82e8d1e07726ac64b7abdf"
+        ],
+        "id": "id3154374021890792652",
+        "abstract": "Several results concerning the existence and uniqueness of solutions of Ito SDE's in a real separable Hubert space have recently been reported. In this work we first obtain the existence and uniqueness of strong solutions to (not necessarily) Ito SDE's in a Hubert space under Lipschitz-type conditions on the coefficients. We assume usual continuity and linear growth conditions. For nonLipschitz coefficients an approximation technique of Gikhman and Skorokhod is then used to prove the existence of weak solutions taking values in a larger Hubert space H-\\. This result depends on an assumption that H can be compactly embedded in H-\\, such that the coefficients satisfy regularity conditions with respect to H-\\. This assumption is not a limitation to our method as it is necessary even in the deterministic case. Additionally, we prove the existence of martingale solutions to infinite dimensional semilinear SDE's. In both cases, coefficients F(\u00a3, \u00b7) and J9(\u00a3, \u00b7) may depend on the entire past of X \u00a3 C([0, T], H) and not on the value of x(t) alone.",
+        "versions": [
+            {
+                "year": 1999,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Existence of weak solutions for stochastic differential equations and martingale solutions for stochastic semilinear equations",
+                "journal": "",
+                "urls": [
+                    "https://www.degruyter.com/document/doi/10.1515/rose.1999.7.3.215/pdf",
+                    "http://dx.doi.org/10.1515/rose.1999.7.3.215"
+                ],
+                "doi": "10.1515/rose.1999.7.3.215",
+                "publication_date": "1999-01-01 00:00:00"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Rong Wei",
+            "Saisai Yang",
+            "Jianliang Zhai"
+        ],
+        "title": "Mckean-Vlasov stochastic differential equations with oblique reflection on non-smooth time dependent domains",
+        "publication_date": "2022-08-23 02:56:34+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2208.10702v1",
+            "http://arxiv.org/abs/2208.10702v1",
+            "http://arxiv.org/pdf/2208.10702v1"
+        ],
+        "id": "id-4347177765407495760",
+        "abstract": "In this paper, we consider a class of Mckean-Vlasov stochastic differential\nequation with oblique reflection over an non-smooth time dependent domain. We\nestablish the existence and uniqueness results of this class, address the\npropagation of chaos and prove a Fredlin-Wentzell type large deviations\nprinciple (LDP). One of the main difficulties is raised by the setting of\nnon-smooth time dependent domain. To prove the LDP, a sufficient condition for\nthe weak convergence method, which is suitable for Mckean-Vlasov stochastic\ndifferential equation, plays an important role.",
+        "versions": [],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "M. Brennan"
+        ],
+        "title": "The Pricing of Contingent Claims in Discrete Time Models",
+        "publication_date": "1979-03-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Finance",
+        "volume": "34",
+        "doi": "10.1111/J.1540-6261.1979.TB02070.X",
+        "urls": [
+            "https://www.semanticscholar.org/paper/8aae7b781e3f356111fa033c52705f54a9b0501c"
+        ],
+        "id": "id5752775064300204536",
+        "abstract": "return. A risk neutral valuation relationship depends only upon potentially observable parameters and it is extremely significant that such a relationship can be derived from only weak assumptions about investor preferences, for, as Merton [10] has observed: \"An exact formula for an asset price, based on observable variables only, is a rare finding in a general equilibrium model ...\".RNVRs have been derived from two quite different general classes of model: the first class places no restrictions on investor preferences beyond the assumption of non-satiety, but assumes that asset trading takes place continuously, while the second class of model places stronger restrictions on investor preferences but makes the more general assumption that asset trading takes place at discrete intervals.2 From the assumption of non-satiety alone, the only results which can be obtained are those which depend upon the absence of riskless arbitrage opportunities. In the case in which trading takes place continuously, both the underlying asset and the contingent claim are traded assets and at least one of them is infinitely divisible, and the price dynamics of the underlying asset can be de",
+        "versions": [
+            {
+                "year": 1979,
+                "source": "SupportedSources.OPENALEX",
+                "title": "The Pricing of Contingent Claims in Discrete Time Models",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2129605852",
+                    "https://doi.org/10.1111/j.1540-6261.1979.tb02070.x"
+                ],
+                "doi": "10.1111/j.1540-6261.1979.tb02070.x",
+                "publication_date": "1979-03-01 00:00:00"
+            }
+        ],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Humberto Verdejo",
+            "Almendra Awerkin",
+            "Eugenio Saavedra",
+            "Wolfgang Kliemann",
+            "Luis G. Vargas"
+        ],
+        "title": "Stochastic modeling to represent wind power generation and demand in electric power system based on real data",
+        "publication_date": "2016-07-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "173",
+        "doi": "10.1016/j.apenergy.2016.04.004",
+        "urls": [
+            "https://openalex.org/W2339768411",
+            "https://doi.org/10.1016/j.apenergy.2016.04.004"
+        ],
+        "id": "id-4133882757617510813",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic modeling to represent wind power generation and demand in electric power system based on real data",
+                "journal": "Applied Energy",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/98e06f253195538d8aa57b81051f53be10f1ad9e"
+                ],
+                "doi": "10.1016/J.APENERGY.2016.04.004",
+                "publication_date": "2016-07-01 00:00:00"
+            }
+        ],
+        "rank": 40
+    },
+    {
+        "authors": [],
+        "title": "6. Numerical Methods for SPDEs",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1137/1.9781611972016.ch6",
+        "urls": [
+            "http://epubs.siam.org/doi/pdf/10.1137/1.9781611972016.ch6",
+            "http://dx.doi.org/10.1137/1.9781611972016.ch6"
+        ],
+        "id": "id-6536895741239206822",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "6. Numerical Methods for SPDEs",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/da6766b8362e3685043deaeb6b54e5331911a089"
+                ],
+                "doi": "10.1137/1.9781611972016.CH6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 41
+    },
+    {
+        "authors": [
+            "Qian, Z.",
+            "Yao, Y."
+        ],
+        "title": "McKean\u2013Vlasov type stochastic differential equations arising from the random vortex method",
+        "publication_date": "2021-12-24 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s42985-021-00146-z",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/s42985-021-00146-z.pdf",
+            "https://link.springer.com/article/10.1007/s42985-021-00146-z/fulltext.html",
+            "https://link.springer.com/content/pdf/10.1007/s42985-021-00146-z.pdf",
+            "http://dx.doi.org/10.1007/s42985-021-00146-z"
+        ],
+        "id": "id7048569054129560212",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "McKean\u2013Vlasov type stochastic differential equations arising from the random vortex method",
+                "journal": "Partial Differential Equations and Applications",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1c6156f5048a70718ead225c7c54c4e92f26d4ae",
+                    "https://link.springer.com/content/pdf/10.1007/s42985-021-00146-z.pdf"
+                ],
+                "doi": "10.1007/s42985-021-00146-z",
+                "publication_date": "2021-04-11 00:00:00"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [],
+        "title": "5. Stochastic Partial Differential Equations",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1137/1.9781611972016.ch5",
+        "urls": [
+            "http://epubs.siam.org/doi/pdf/10.1137/1.9781611972016.ch5",
+            "http://dx.doi.org/10.1137/1.9781611972016.ch5"
+        ],
+        "id": "id-3408442312906342444",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "5. Stochastic Partial Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/6d16866647d1505d00ef0dfe790d8bb7b709de92"
+                ],
+                "doi": "10.1137/1.9781611972016.CH5",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "Heilmann, O.",
+            "Van Kampen, N."
+        ],
+        "title": "Stochastic nonlinear differential equations. I",
+        "publication_date": "1974-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0031-8914(74)90261-4",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0031891474902614?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0031891474902614?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0031-8914(74)90261-4"
+        ],
+        "id": "id-3419236852380876779",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1974,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic nonlinear differential equations. I",
+                "journal": "Physica D: Nonlinear Phenomena",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/dae43246d8d0a6ecc5d4282f8500f97ea400d45d",
+                    "https://dspace.library.uu.nl/bitstream/1874/18198/1/heilmann_74_Stochastic.pdf"
+                ],
+                "doi": "10.1016/0031-8914(74)90261-4",
+                "publication_date": "1974-10-15 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "G. Yin",
+            "C. Zhu"
+        ],
+        "title": "Hybrid switching diffusions: Continuity and differentiability",
+        "publication_date": "2011-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "IEEE",
+        "volume": "",
+        "doi": "10.1109/cdc.2011.6160488",
+        "urls": [
+            "https://web.archive.org/web/20170829231114/http://folk.ntnu.no/skoge/prost/proceedings/cdc-ecc-2011/data/papers/0571.pdf"
+        ],
+        "id": "id641797107555848658",
+        "abstract": "This work focuses on hybrid switching diffusion systems. After presenting the basic models, a difficult and fundamental problem, namely, well posedness is addressed. In particular, continuous and smooth dependence on initial data is treated. The main ideas are presented, whereas the verbatim proofs can be found in [35] .",
+        "versions": [],
+        "rank": 45
+    },
+    {
+        "authors": [
+            "S. N. Majumdar",
+            "H. Orland"
+        ],
+        "title": "Effective Langevin equations for constrained stochastic processes",
+        "publication_date": "2015-03-09 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Statistical Mechanics: Theory and Experiment",
+        "volume": "2015",
+        "doi": "10.1088/1742-5468/2015/06/P06039",
+        "urls": [
+            "https://www.semanticscholar.org/paper/9b33eba8c9d15461f4fd10ac53aa7d802630100e",
+            "http://arxiv.org/pdf/1503.02639"
+        ],
+        "id": "id2565198022313637930",
+        "abstract": "We propose a novel stochastic method to exactly generate Brownian paths conditioned to start at an initial point and end at a given final point during a fixed time tf. These paths are weighted with a probability given by the overdamped Langevin dynamics. We show how these paths can be exactly generated by a local stochastic differential equation. The method is illustrated on the generation of Brownian bridges, Brownian meanders, Brownian excursions and constrained Ornstein\u2013Uhlenbeck processes. In addition, we show how to solve this equation in the case of a general force acting on the particle. As an example, we show how to generate a constrained path joining the two minima of a double-well. Our method allows us to generate statistically independent paths and is computationally very efficient.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Effective Langevin equations for constrained stochastic processes",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W2963282395",
+                    "https://doi.org/10.1088/1742-5468/2015/06/p06039",
+                    "http://arxiv.org/pdf/1503.02639"
+                ],
+                "doi": "10.1088/1742-5468/2015/06/p06039",
+                "publication_date": "2015-06-30 00:00:00"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Boris Baeumer",
+            "Mark M. Meerschaert",
+            "Mark Naber"
+        ],
+        "title": "Stochastic models for relativistic diffusion",
+        "publication_date": "2010-07-22 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "American Physical Society (APS)",
+        "volume": "",
+        "doi": "10.1103/physreve.82.011132",
+        "urls": [
+            "https://web.archive.org/web/20100616191416/http://www.stt.msu.edu/%7Emcubed/Relativistic.pdf"
+        ],
+        "id": "id-8810862440340876327",
+        "abstract": "The diffusion equation is related to the Schr\u00f6dinger equation by analytic continuation. The formula E 2 = p 2 c 2 + m 2 c 4 leads to a relativistic Schr\u00f6dinger equation, and analytic continuation yields a relativistic diffusion equation that involves fractional calculus. This paper develops stochastic models for relativistic diffusion, and equivalent differential equations with no fractional derivatives. Connections to anomalous diffusion are also discussed, along with alternative models.",
+        "versions": [],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "T. Arimitsu"
+        ],
+        "title": "Quantum Stochastic Differential Equations in View of Non-Equlibrium Thermo Field Dynamics",
+        "publication_date": "2002-06-11 12:13:37+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1142/9789812704412_0002",
+        "urls": [
+            "http://arxiv.org/pdf/math-ph/0206015v1",
+            "http://dx.doi.org/10.1142/9789812704412_0002",
+            "http://arxiv.org/abs/math-ph/0206015v1",
+            "http://arxiv.org/pdf/math-ph/0206015v1"
+        ],
+        "id": "id8883942766485727401",
+        "abstract": "Most of the mathematical approaches for quantum Langevin equation are based\non the non-commutativity of the random force operators. Non-commutative random\nforce operators are introduced in order to guarantee that the equal-time\ncommutation relation for the stochastic annihilation and creation operators\npreserves in time. If it is true, it means that the origin of dissipation is of\nquantum mechanical. However, physically, it is hard to believe it. By making\nuse of the unified canonical operator formalism for the system of the quantum\nstochastic differential equations within Non-Equilibrium Thermo Field Dynamics,\nit is shown that it is not true in general.",
+        "versions": [],
+        "rank": 48
+    },
+    {
+        "authors": [],
+        "title": "Wiley Series in Probability and Statistics",
+        "publication_date": "2006-04-26 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "John Wiley & Sons, Inc.",
+        "volume": "",
+        "doi": "10.1002/0470037849.scard",
+        "urls": [
+            "https://web.archive.org/web/20220522053804/https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/0470037849.scard"
+        ],
+        "id": "id6410461683410608023",
+        "abstract": "The Wiley Series in Probability and Statistics is well established and authoritative. It covers many topics of current research interest in both pure and applied statistics and probability theory. Written by leading statisticians and institutions, the titles span both state-of-the-art developments in the field and classical methods. Reflecting the wide range of current research in statistics, the series encompasses applied, methodological and theoretical statistics, ranging from applications and new techniques made possible by advances in computerized practice to rigorous treatment of theoretical approaches. This series provides essential and invaluable reading for all statisticians, whether in academia, industry, government, or research. t ABRAHAM and LEDOLTER . Statistical Methods for Forecasting AGRESTI + Analysis of Ordinal Categorical Data AGRESTI . An Introduction to Categorical Data Analysis AGRESTI * Categorical Data Analysis, Second Edition ALTMAN, GILL, and McDONALD * Numerical Issues in Statistical Computing for the AMARATUNGA and CABRERA . Exploration and Analysis of DNA Microarray and ANDEL . Mathematics of Chance ANDERSON * An Introduction to Multivariate Statistical Analysis, Third Edition ANDERSON, AUQUIER, HAUCK, OAKES, VANDAELE, and WEISBERG * ANDERSON and LOYNES . The Teaching of Practical Statistics ARMITAGE and DAVID (editors) . Advances in Biometry ARNOLD, BALAKRISHNAN, and NAGARAJA . Records Social Scientist Protein Array Data * ANDERSON . The Statistical Analysis of Time Series Statistical Methods for Comparative Studies * ARTHANARI and DODGE -Mathematical Programming in Statistics * BAILEY . The Elements of Stochastic Processes with Applications to the Natural Sciences BALAKRISHNAN and KOUTRAS * Runs and Scans with Applications BALAKRISHNAN and NG * Precedence-Type Tests and Applications BARNETT . Comparative Statistical Inference, Third Edition BARNETT . Environmental Statistics BARNETT and LEWIS * Outliers in Statistical Data, Third Edition BARTOSZYNSKI and NIEWIADOMSKA-BUGAJ * Probability and Statistical Inference BASILEVSKY . Statistical Factor Analysis and Related Methods: Theory and BASU and RIGDON . Statistical Methods for the Reliability of Repairable Systems BATES and WATTS * Nonlinear Regression Analysis and Its Applications BECHHOFER, SANTNER, and GOLDSMAN . Design and Analysis of Experiments for Applications Statistical Selection, Screening, and Multiple Comparisons *Now available in a lower priced paperback edition in the Wiley Classics Library. ?Now available in a lower priced paperback edition in the Wiley-Interscience Paperback Series.",
+        "versions": [],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "El Hassan Lakhel"
+        ],
+        "title": "Controllability of fractional stochastic neutral functional differential equations driven by fractional Brownian motion with infinite delay",
+        "publication_date": "2016-04-14 09:01:56+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1604.04079v1",
+            "http://arxiv.org/abs/1604.04079v1",
+            "http://arxiv.org/pdf/1604.04079v1"
+        ],
+        "id": "id3663165845552695400",
+        "abstract": "In this paper we study the controllability of fractional neutral stochastic\nfunctional differential equations with infinite delay driven by fractional\nBrownian motion in a real separable Hilbert space.\n  The controllability results are obtained by using stochastic analysis and a\nfixed-point strategy. Finally, an illustrative example is provided to\ndemonstrate the effectiveness of the theoretical result.",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Controllability of fractional stochastic neutral functional differential equations driven by fractional Brownian motion with infinite delay",
+                "journal": "",
+                "urls": [
+                    "https://web.archive.org/web/20200901124206/https://arxiv.org/pdf/1604.04079v1.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2016-04-14 00:00:00"
+            }
+        ],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Yan Wang",
+            "Aimin Song",
+            "Cheng-De Zheng",
+            "Enmin Feng"
+        ],
+        "title": "Nonzero-Sum Stochastic Differential Game between Controller and Stopper for Jump Diffusions",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Hindawi Limited",
+        "volume": "",
+        "doi": "10.1155/2013/761306",
+        "urls": [
+            "https://web.archive.org/web/20200709082815/https://www.emis.de/journals/HOA/AAA/Volume2013/761306.pdf"
+        ],
+        "id": "id4227475126221255445",
+        "abstract": "We consider a nonzero-sum stochastic differential game which involves two players, a controller and a stopper. The controller chooses a control process, and the stopper selects the stopping rule which halts the game. This game is studied in a jump diffusions setting within Markov control limit. By a dynamic programming approach, we give a verification theorem in terms of variational inequality-Hamilton-Jacobi-Bellman (VIHJB) equations for the solutions of the game. Furthermore, we apply the verification theorem to characterize Nash equilibrium of the game in a specific example.",
+        "versions": [],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Madeleine C. Cartwright",
+            "Georg A. Gottwald"
+        ],
+        "title": "A collective coordinate framework to study the dynamics of travelling waves in stochastic partial differential equations",
+        "publication_date": "2018-06-19 12:51:53+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.physd.2019.03.004",
+        "urls": [
+            "http://arxiv.org/pdf/1806.07194v3",
+            "http://dx.doi.org/10.1016/j.physd.2019.03.004",
+            "http://arxiv.org/abs/1806.07194v3",
+            "http://arxiv.org/pdf/1806.07194v3"
+        ],
+        "id": "id-140303038405959444",
+        "abstract": "We propose a formal framework based on collective coordinates to reduce\ninfinite-dimensional stochastic partial differential equations (SPDEs) with\nsymmetry to a set of finite-dimensional stochastic differential equations which\ndescribe the shape of the solution and the dynamics along the symmetry group.\nWe study SPDEs arising in population dynamics with multiplicative noise and\nadditive symmetry breaking noise. The collective coordinate approach provides a\nremarkably good quantitative description of the shape of the travelling front\nas well as its diffusive behaviour, which would otherwise only be available\nthrough costly computational experiments. We corroborate our analytical results\nwith numerical simulations of the full SPDE.",
+        "versions": [],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Wang, F."
+        ],
+        "title": "Harnack Inequalities for Stochastic Partial Differential Equations",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-1-4614-7934-5",
+        "urls": [
+            "https://link.springer.com/content/pdf/10.1007/978-1-4614-7934-5.pdf",
+            "https://link.springer.com/content/pdf/10.1007/978-1-4614-7934-5",
+            "http://dx.doi.org/10.1007/978-1-4614-7934-5"
+        ],
+        "id": "id-974774940687308143",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Harnack Inequalities for Stochastic Partial Differential Equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/c7512c1f669fbc566ebc0c420aaa27f6590bd174"
+                ],
+                "doi": "10.1007/978-1-4614-7934-5",
+                "publication_date": "2013-08-09 00:00:00"
+            }
+        ],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Fodra, Pietro",
+            "Pham, Huy\u00ean"
+        ],
+        "title": "High frequency trading and asymptotics for small risk aversion in a  Markov renewal model",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "http://arxiv.org/abs/1310.1756"
+        ],
+        "id": "id8762636211240463689",
+        "abstract": "We study a an optimal high frequency trading problem within a market\nmicrostructure model designed to be a good compromise between accuracy and\ntractability. The stock price is driven by a Markov Renewal Process (MRP),\nwhile market orders arrive in the limit order book via a point process\ncorrelated with the stock price itself. In this framework, we can reproduce the\nadverse selection risk, appearing in two different forms: the usual one due to\nbig market orders impacting the stock price and penalizing the agent, and the\nweak one due to small market orders and reducing the probability of a\nprofitable execution. We solve the market making problem by stochastic control\ntechniques in this semi-Markov model. In the no risk-aversion case, we provide\nexplicit formula for the optimal controls and characterize the value function\nas a simple linear PDE. In the general case, we derive the optimal controls and\nthe value function in terms of the previous result, and illustrate how the risk\naversion influences the trader strategy and her expected gain. Finally, by\nusing a perturbation method, approximate optimal controls for small risk\naversions are explicitly computed in terms of two simple PDE's, reducing\ndrastically the computational cost and enlightening the financial\ninterpretation of the results.Comment: 30 pages, new asymptotic results, typos corrected, new\n  bibliographical reference",
+        "versions": [],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "V. Gontis",
+            "S. Havlin",
+            "A. Kononovicius",
+            "B. Podobnik",
+            "H.E. Stanley"
+        ],
+        "title": "Stochastic model of financial markets reproducing scaling and memory in volatility return intervals",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.physa.2016.06.143",
+        "urls": [
+            "https://web.archive.org/web/20180724041928/https://manuscript.elsevier.com/S0378437116304186/pdf/S0378437116304186.pdf"
+        ],
+        "id": "id-6492373557331685010",
+        "abstract": "We investigate the volatility return intervals in the NYSE and FOREX markets. We explain previous empirical findings using a model based on the interacting agent hypothesis instead of the widely-used efficient market hypothesis. We derive macroscopic equations based on the microscopic herding interactions of agents and find that they are able to reproduce various stylized facts of different markets and different assets with the same set of model parameters. We show that the power-law properties and the scaling of return intervals and other financial variables have a similar origin and could be a result of a general class of non-linear stochastic differential equations derived from a master equation of an agent system that is coupled by herding interactions. Specifically, we find that this approach enables us to recover the volatility return interval statistics as well as volatility probability and spectral densities for the NYSE and FOREX markets, for different assets, and for different time-scales. We find also that the historical S\\&P500 monthly series exhibits the same volatility return interval properties recovered by our proposed model. Our statistical results suggest that human herding is so strong that it persists even when other evolving fluctuations perturbate the financial system.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.ARXIV",
+                "title": "Stochastic model of financial markets reproducing scaling and memory in volatility return intervals",
+                "journal": "Physica A 462 (2016) 1091-1102",
+                "urls": [
+                    "http://arxiv.org/pdf/1507.05203v2",
+                    "http://dx.doi.org/10.1016/j.physa.2016.06.143",
+                    "http://arxiv.org/abs/1507.05203v2",
+                    "http://arxiv.org/pdf/1507.05203v2"
+                ],
+                "doi": "10.1016/j.physa.2016.06.143",
+                "publication_date": "2015-07-18 16:26:54+00:00"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "Bachouch, Achref",
+            "Matoussi, Anis"
+        ],
+        "title": "Zhang L2 -Regularity for the solutions of Forward Backward Doubly Stochastic Differential Equations under globally Lipschitz continuous assumptions",
+        "publication_date": "2017-06-27 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/84955776.pdf"
+        ],
+        "id": "id6834343458278980872",
+        "abstract": "We prove an L2-regularity result for the solutions of Forward Backward Doubly Stochastic Differentiel Equations (F-BDSDEs in short) under globally Lipschitz continuous assumptions on the coefficients. Therefore, we extend the well known regularity results established by Zhang (2004) for Forward Backward Stochastic Differential Equations (F-BSDEs in short) to the doubly stochastic framework. To this end, we prove (by Malliavin calculus) a representation result for the martingale component of the solution of the F-BDSDE under the assumption that the coefficients are continuous in time and continuously differentiable in space with bounded partial derivatives. As an (important) application of our L2-regularity result, we derive the rate of convergence in time for the (Euler time discretization based) numerical scheme for F-BDSDEs proposed by Bachouch et al.(2016) under only globally Lipschitz continuous assumptions",
+        "versions": [],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Kai Du"
+        ],
+        "title": "Solvability conditions for indefinite linear quadratic optimal stochastic control problems and associated stochastic Riccati equations",
+        "publication_date": "2014-02-06 20:49:36+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1402.1483v2",
+            "http://arxiv.org/abs/1402.1483v2",
+            "http://arxiv.org/pdf/1402.1483v2"
+        ],
+        "id": "id-3492174698140386811",
+        "abstract": "A linear quadratic optimal stochastic control problem with random\ncoefficients and indefinite state/control weight costs is usually linked to an\nindefinite stochastic Riccati equation (SRE) which is a matrix-valued quadratic\nbackward stochastic differential equation along with an algebraic constraint\ninvolving the unknown. Either the optimal control problem or the SRE is\nsolvable only if the given data satisfy a certain structure condition that has\nyet to be precisely defined. In this paper, by introducing a notion of\nsubsolution for the SRE, we derive several novel sufficient conditions for the\nexistence and uniqueness of the solution to the SRE and for the solvability of\nthe associated optimal stochastic control problem.",
+        "versions": [],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Alexandra Rodkina",
+            "Appleby",
+            "Dokuchaev",
+            "Fama",
+            "Hakansson",
+            "Nikolai Dokuchaev",
+            "Rodkina",
+            "Samuelson",
+            "Smith"
+        ],
+        "title": "On asymptotic optimality of Merton's myopic  portfolio strategies under time discretization",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1093/imamci/dnv020",
+        "urls": [
+            "https://core.ac.uk/download/195636067.pdf"
+        ],
+        "id": "id4487143715839621629",
+        "abstract": "This paper studies the properties of discrete-time stochastic optimal control problems associated with portfolio selection. We investigate if optimal continuous-time strategies can be used effectively for a discrete-time market after a straightforward discretization. We found that Merton's strategy approximates the performance of the optimal strategy in a discrete-time model with sufficiently small time steps",
+        "versions": [],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "Hofmanov\u00e1, M."
+        ],
+        "title": "Strong solutions of semilinear stochastic partial differential equations",
+        "publication_date": "2012-06-26 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s00030-012-0178-x",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s00030-012-0178-x.pdf",
+            "http://link.springer.com/article/10.1007/s00030-012-0178-x/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s00030-012-0178-x",
+            "http://dx.doi.org/10.1007/s00030-012-0178-x"
+        ],
+        "id": "id9043872063781367420",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Strong solutions of semilinear stochastic partial differential equations",
+                "journal": "Nonlinear Differential Equations and Applications NoDEA",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/16cb922a9e4cc67f8cea14351d64a21712674aec",
+                    "https://link.springer.com/content/pdf/10.1007%2Fs00030-012-0178-x.pdf"
+                ],
+                "doi": "10.1007/s00030-012-0178-x",
+                "publication_date": "2012-06-26 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Chuang Xu"
+        ],
+        "title": "Strong Allee Effect in A Stochastic Logistic Model with Mate Limitation and Stochastic Immigration",
+        "publication_date": "2016-05-19 19:17:57+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1605.06084v2",
+            "http://arxiv.org/abs/1605.06084v2",
+            "http://arxiv.org/pdf/1605.06084v2"
+        ],
+        "id": "id3310661244294163751",
+        "abstract": "We propose a stochastic logistic model with mate limitation and stochastic\nimmigration. Incorporating stochastic immigration into a continuous time Markov\nchain model, we derive and analyze the associated master equation. By a\nstandard result, there exists a unique globally stable positive stationary\ndistribution. We show that such stationary distribution admits a bimodal\nprofile which implies that a strong Allee effect exists in the stochastic\nmodel. Such strong Allee effect disappears and threshold phenomenon emerges as\nthe total population size goes to infinity. Stochasticity vanishes and the\nmodel becomes deterministic as the total population size goes to infinity. This\nimplies that there is only one possible fate (either to die out or survive) for\na species constrained to a specific community and whether population eventually\ngoes extinct or persists does not depend on initial population density but on a\ncritical inherent constant determined by birth, death and mate limitation. Such\na conclusion interprets differently from the classical ordinary differential\nequation model and thus a paradox on strong Allee effect occurs. Such paradox\nillustrates the diffusion theory's dilemma.",
+        "versions": [],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Anis Matoussi",
+            "Wissal Sabbagh",
+            "Tusheng Zhang"
+        ],
+        "title": "Large Deviation Principles of Obstacle Problems for Quasilinear Stochastic PDEs",
+        "publication_date": "2017-12-06 13:02:06+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1712.02169v1",
+            "http://arxiv.org/abs/1712.02169v1",
+            "http://arxiv.org/pdf/1712.02169v1"
+        ],
+        "id": "id395197184273760868",
+        "abstract": "In this paper, we present a sufficient condition for the large deviation\ncriteria of Budhiraja, Dupuis and Maroulas for functionals of Brownian motions.\nWe then establish a large deviation principle for obstacle problems of\nquasi-linear stochastic partial differential equations. It turns out that the\nbackward stochastic differential equations will play an important role.",
+        "versions": [],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "H\u00e9l\u00e8ne Frankowska",
+            "Haisen Zhang",
+            "Xu Zhang"
+        ],
+        "title": "First and second order necessary conditions for stochastic optimal controls",
+        "publication_date": "2016-03-28 00:47:46+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1603.08274v3",
+            "http://arxiv.org/abs/1603.08274v3",
+            "http://arxiv.org/pdf/1603.08274v3"
+        ],
+        "id": "id-8023951819285783558",
+        "abstract": "The main purpose of this paper is to establish the first and second order\nnecessary optimality conditions for stochastic optimal controls using the\nclassical variational analysis approach. The control system is governed by a\nstochastic differential equation, in which both drift and diffusion terms may\ncontain the control variable and the set of controls is allowed to be\nnonconvex. Only one adjoint equation is introduced to derive the first order\nnecessary condition; while only two adjoint equations are needed to state the\nsecond order necessary conditions for stochastic optimal controls.",
+        "versions": [],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Xiongfei Jian",
+            "Xun Li",
+            "Fahuai Yi"
+        ],
+        "title": "Optimal investment with stopping in finite horizon",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1186/1029-242x-2014-432",
+        "urls": [
+            "https://web.archive.org/web/20170812053848/https://journalofinequalitiesandapplications.springeropen.com/track/pdf/10.1186/1029-242X-2014-432?site=journalofinequalitiesandapplications.springeropen.com"
+        ],
+        "id": "id3337316177506891341",
+        "abstract": "In this paper, we investigate dynamic optimization problems featuring both stochastic control and optimal stopping in a finite time horizon. The paper aims to develop new methodologies, which are significantly different from those of mixed dynamic optimal control and stopping problems in the existing literature. We formulate our model to a free boundary problem of a fully nonlinear equation. Furthermore, by means of a dual transformation for the above problem, we convert the above problem to a new free boundary problem of a linear equation. Finally, we apply the theoretical results to some challenging, yet practically relevant and important, risk-sensitive problems in wealth management to obtain the properties of the optimal strategy and the right time to achieve a certain level over a finite time investment horizon. MSC: 35R35; 91B28; 93E20",
+        "versions": [],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "\u013dubom\u00edr Ba\u0148as",
+            "Christian Vieth"
+        ],
+        "title": "Robust a posteriori estimates for the stochastic Cahn-Hilliard equation",
+        "publication_date": "2022-01-21 11:02:35+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2201.08641v1",
+            "http://arxiv.org/abs/2201.08641v1",
+            "http://arxiv.org/pdf/2201.08641v1"
+        ],
+        "id": "id8971772614264185500",
+        "abstract": "We derive a posteriori error estimates for a fully discrete finite element\napproximation of the stochastic Cahn-Hilliard equation. The a posteriori bound\nis obtained by a splitting of the equation into a linear stochastic partial\ndifferential equation (SPDE) and a nonlinear random partial differential\nequation (RPDE). The resulting estimate is robust with respect to the\ninterfacial width parameter and is computable since it involves the discrete\nprincipal eigenvalue of a linearized (stochastic) Cahn-Hilliard operator.\nFurthermore, the estimate is robust with respect to topological changes as well\nas the intensity of the stochastic noise. We provide numerical simulations to\ndemonstrate the practicability of the proposed adaptive algorithm.",
+        "versions": [],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Liang, Gechun",
+            "Yang, Zhou"
+        ],
+        "title": "Analysis of the optimal exercise boundary of American put option with  delivery lags",
+        "publication_date": "2018-05-08 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jmaa.2020.124916",
+        "urls": [
+            "http://arxiv.org/abs/1805.02909"
+        ],
+        "id": "id-44551801618754810",
+        "abstract": "We show that an American put option with delivery lags can be decomposed as a\nEuropean put option and another American-style derivative. The latter is an\noption for which the investor receives the Greek Theta of the corresponding\nEuropean option as the running payoff, and decides an optimal stopping time to\nterminate the contract. Based on the this decomposition, we further show that\nthe associated optimal exercise boundary exists, and is a strictly increasing\nand smooth curve. We also analyze its asymptotic behavior for both large\nmaturity and small time lag using the free-boundary method.Comment: 28 pages, 5 figure",
+        "versions": [],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Liu, K."
+        ],
+        "title": "A note on regularity property of stochastic convolutions for a class of functional differential equations",
+        "publication_date": "2022-05-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1080/07362994.2022.2068580",
+        "urls": [
+            "https://www.tandfonline.com/doi/pdf/10.1080/07362994.2022.2068580",
+            "http://dx.doi.org/10.1080/07362994.2022.2068580"
+        ],
+        "id": "id-2853282694768342672",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A note on regularity property of stochastic convolutions for a class of functional differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/968273835d6ebd3853902e6bae327a5488eeefae"
+                ],
+                "doi": "10.1080/07362994.2022.2068580",
+                "publication_date": "2022-05-01 00:00:00"
+            }
+        ],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Pina, Gon\u00e7alo"
+        ],
+        "title": "The recent growth of international reserves in developing economies: A monetary perspective",
+        "publication_date": "2015-09-03 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.jimonfin.2015.08.009",
+        "urls": [
+            "https://core.ac.uk/download/127619944.pdf"
+        ],
+        "id": "id-7106666217437733574",
+        "abstract": "The massive accumulation of international reserves in developing economies is a puzzling recent development in the world economy. This paper studies reserve accumulation as the outcome of a simple model in which the central bank smooths inflation. I explore the view that central banks accumulate reserves to face large fiscal shocks that need monetary financing. Central bank revenues are obtained through inflation, but inflation is distortionary. As a result, the central bank optimally accumulates international reserves in order to spread the costs associated with inflation over time. A simple numerical exercise for an average developing economy using data between 1970 and 2009 yields fast growth of international reserves",
+        "versions": [],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Ahmad Golbabai",
+            "Davood Ahmadian",
+            "Mariyan Milev"
+        ],
+        "title": "Radial basis functions with application to finance: American put option under jump diffusion",
+        "publication_date": "2012-02-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "55",
+        "doi": "10.1016/j.mcm.2011.10.014",
+        "urls": [
+            "https://openalex.org/W2088394426",
+            "https://doi.org/10.1016/j.mcm.2011.10.014",
+            "https://doi.org/10.1016/j.mcm.2011.10.014"
+        ],
+        "id": "id155254200071881755",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Radial basis functions with application to finance: American put option under jump diffusion",
+                "journal": "Math. Comput. Model.",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/74cefc7478f52ac6a67690d6def702569e264924"
+                ],
+                "doi": "10.1016/j.mcm.2011.10.014",
+                "publication_date": "2012-02-01 00:00:00"
+            }
+        ],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "C. Rajivganthi",
+            "P. Muthukumar",
+            "B. Ganesh Priya"
+        ],
+        "title": "Successive approximation and optimal controls on fractional neutral stochastic differential equations with Poisson jumps",
+        "publication_date": "2016-07-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Optimal Control Applications and Methods",
+        "volume": "37",
+        "doi": "10.1002/oca.2184",
+        "urls": [
+            "https://www.semanticscholar.org/paper/2818ebb465672b4ab81918efa447cda12c0931d2"
+        ],
+        "id": "id7906183339030286248",
+        "abstract": "The objective of this paper is to investigate the existence of mild solutions and optimal controls for a class of fractional neutral stochastic differential equations with Poisson jumps in Hilbert spaces. First, we establish a new set of sufficient conditions for the existence of mild solutions of the aforementioned fractional systems by using the successive approximation approach. The results are formulated and proved by using the fractional calculus, solution operator, and stochastic analysis techniques. The existence of optimal control pairs of system governed by fractional neutral stochastic differential equations with Poisson jumps is also presented. An example is given to illustrate the theory. Copyright \u00a9 2015 John Wiley & Sons, Ltd.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Successive approximation and optimal controls on fractional neutral stochastic differential equations with Poisson jumps",
+                "journal": "",
+                "urls": [
+                    "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Foca.2184",
+                    "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Foca.2184",
+                    "http://onlinelibrary.wiley.com/wol1/doi/10.1002/oca.2184/fullpdf",
+                    "http://dx.doi.org/10.1002/oca.2184"
+                ],
+                "doi": "10.1002/oca.2184",
+                "publication_date": "2015-07-06 00:00:00"
+            }
+        ],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "AN Kolmogorov",
+            "AN Shiryaev",
+            "C Stricker",
+            "D Lepingle",
+            "DM Salopek",
+            "G Shafer",
+            "K Takeuchi",
+            "LCG Rogers",
+            "M Bruneau",
+            "R Norvai\u0161a",
+            "R Norvai\u0161a",
+            "RM Dudley",
+            "SJ Taylor",
+            "SK Leung-Yan-Cheong",
+            "T Cover",
+            "TJ Lyons",
+            "V Vovk",
+            "Vladimir Vovk"
+        ],
+        "title": "Rough paths in idealized financial markets",
+        "publication_date": "2016-08-16 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1007/s10986-011-9125-5",
+        "urls": [
+            "http://arxiv.org/abs/1005.0279"
+        ],
+        "id": "id2596391063896013347",
+        "abstract": "This paper considers possible price paths of a financial security in an\nidealized market. Its main result is that the variation index of typical price\npaths is at most 2, in this sense, typical price paths are not rougher than\ntypical paths of Brownian motion. We do not make any stochastic assumptions and\nonly assume that the price path is positive and right-continuous. The\nqualification \"typical\" means that there is a trading strategy (constructed\nexplicitly in the proof) that risks only one monetary unit but brings infinite\ncapital when the variation index of the realized price path exceeds 2. The\npaper also reviews some known results for continuous price paths and lists\nseveral open problems.Comment: 21 pages, this version adds (in Appendix C) a reference to new\n  results in the foundations of game-theoretic probability based on Hardin and\n  Taylor's work on hat puzzle",
+        "versions": [],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Guy Jumarie"
+        ],
+        "title": "Generalized Fokker-Planck equation for a class of stochastic dynamical systems driven by additive Gaussian and Poissonian fractional white noises of order \u03b1",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Walter de Gruyter GmbH",
+        "volume": "",
+        "doi": "10.2478/s11534-008-0090-5",
+        "urls": [
+            "https://web.archive.org/web/20200304235123/https://www.degruyter.com/downloadpdf/j/phys.2008.6.issue-3/s11534-008-0090-5/s11534-008-0090-5.pdf"
+        ],
+        "id": "id6102454343886995442",
+        "abstract": "AbstractIn a first stage, the paper deals with the derivation and the solution of the equation of the probability density function of a stochastic system driven simultaneously by a fractional Gaussian white noise and a fractional Poissonian white noise both of the same order. The key is the Taylor's series of fractional order f(x + h) = E \u03b1(h\u03b1Dx \u03b1)f(x) where E \u03b1() denotes the Mittag-Leffler function, and D x \u03b1 is the so-called modified Riemann-Liouville fractional derivative which removes the effects of the non-zero initial value of the function under consideration. The corresponding fractional linear partial differential equation is solved by using a suitable extension of the Lagrange's technique involving an auxiliary set of fractional differential equations. As an example, one considers a half-oscillator of fractional order driven by a fractional Poissonian noise.",
+        "versions": [],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Diego Zabaljauregui"
+        ],
+        "title": "Optimal Market Making Under Partial Information and Numerical Methods for Impulse Control Games with Applications",
+        "publication_date": "2019-06-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f3ee5b6b705b08186a9b0e9ec0430e6ccca67312"
+        ],
+        "id": "id-9206710692611803378",
+        "abstract": "The topics treated in this thesis are inherently two-fold. The first part considers the problem of a market maker who wants to optimally set bid/ask quotes over a finite time horizon, to maximize her expected utility. The intensities of the orders she receives depend not only on the spreads she quotes, but also on unobservable factors modelled by a hidden Markov chain. This stochastic control problem under partial information is solved by means of stochastic filtering, control and piecewise-deterministic Markov processes theory. The value function is characterized as the unique continuous viscosity solution of its dynamic programming equation. Afterwards, the analogous full information problem is solved and results are compared numerically through a concrete example. The optimal full information spreads are shown to be biased when the exact market regime is unknown, as the market maker needs to adjust for additional regime uncertainty in terms of P&L sensitivity and observable order ow volatility. \n \nThe second part deals with numerically solving nonzero-sum stochastic differential games with impulse controls. These offer a realistic and far-reaching modelling framework for applications within finance, energy markets and other areas, but the diffculty in solving such problems has hindered their proliferation. Semi-analytical approaches make strong assumptions pertaining very particular cases. To the author's best knowledge, there are no numerical methods available in the literature. A policy-iteration-type solver is proposed to solve an underlying system of quasi-variational inequalities, and it is validated numerically with reassuring results. In particular, it is observed that the algorithm does not enjoy global convergence and a heuristic methodology is proposed to construct initial guesses. \n \nEventually, the focus is put on games with a symmetric structure and a substantially improved version of the former algorithm is put forward. A rigorous convergence analysis is undertaken with natural assumptions on the players strategies, which admit graph-theoretic interpretations in the context of weakly chained diagonally dominant matrices. A provably convergent single-player impulse control solver, often outperforming classical policy iteration, is also provided. The main algorithm is used to compute with high precision equilibrium payoffs and Nash equilibria of otherwise too challenging problems, and even some for which results go beyond the scope of all the currently available theory.",
+        "versions": [],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Kunita, H."
+        ],
+        "title": "Canonical Stochastic Differential Equations based on L\u00e9vy Processes and Their Supports",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/0-387-22655-9_12",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/0-387-22655-9_12.pdf",
+            "http://dx.doi.org/10.1007/0-387-22655-9_12"
+        ],
+        "id": "id-4056935128619809863",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Canonical Stochastic Differential Equations based on L\u00e9vy Processes and Their Supports",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/98dc638833cb32628cfb15f78f6bfa1c42bdad15"
+                ],
+                "doi": "10.1007/0-387-22655-9_12",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "C. Becker",
+            "R. Gielerak",
+            "P. \u0141ugiewicz"
+        ],
+        "title": "Covariant SPDEs and Quantum Field Structures",
+        "publication_date": "1996-07-04 12:27:39+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/funct-an/9607001v1",
+            "http://arxiv.org/abs/funct-an/9607001v1",
+            "http://arxiv.org/pdf/funct-an/9607001v1"
+        ],
+        "id": "id4150123170074651015",
+        "abstract": "Covariant stochastic partial differential equations are studied in any\ndimension. A special class of such equations is selected and it is proven that\nthe solutions can be analytically continued to Minkowski space-time yielding\ntempered Wightman distributions which are covariant, obey the locality axiom\nand a weak form of the spectral axiom. Key words: stochastic partial\ndifferential equations, white noise, covariant Markov generalized random\nfields, Euclidean QFT, Schwinger functions, Wightman distributions",
+        "versions": [],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Kai Yao"
+        ],
+        "title": "Uncertain Differential Equation with Jumps",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Berlin Heidelberg",
+        "volume": "",
+        "doi": "10.1007/978-3-662-52729-0_8",
+        "urls": [
+            "https://web.archive.org/web/20170809151854/http://orsc.edu.cn/online/111206.pdf"
+        ],
+        "id": "id3405630935371053369",
+        "abstract": "Uncertain differential equation is a type of differential equation driven by a canonical Liu process. Traditional uncertain differential equation can only deal with a continuous dynamic uncertain system. To model the sharp drifts embedded in an uncertain dynamic system, this paper proposes a type of uncertain differential equation driven by a canonical Liu process and an uncertain renewal process, which is called an uncertain differential equation with jumps. A sufficient condition for the proposed equation having a unique solution is first given, then a concept of stability for the proposed equation is provided in the sense of uncertain measure, and its sufficient condition is also derived.",
+        "versions": [],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "B.F. Nteumagne",
+            "R.J. Moitsheki"
+        ],
+        "title": "Optimal Systems and Group Invariant Solutions for a Model Arising in Financial Mathematics",
+        "publication_date": "2009-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Vilnius Gediminas Technical University",
+        "volume": "",
+        "doi": "10.3846/1392-6292.2009.14.495-502",
+        "urls": [
+            "https://web.archive.org/web/20200212215842/https://journals.vgtu.lt/index.php/MMA/article/download/6572/5694"
+        ],
+        "id": "id4898186399864815525",
+        "abstract": "We consider a bond-pricing model described in terms of partial differential equations (PDEs). Classical Lie point symmetry analysis of the considered PDEs resulted in a number of point symmetries being admitted. The one-dimensional optimal system of subalgebras is constructed. Following the symmetry reductions, we determine the group-invariant solutions.",
+        "versions": [],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "J. Ortega",
+            "R. Pullirsch",
+            "J. Teichmann",
+            "J. Wergieluk"
+        ],
+        "title": "A new approach for scenario generation in risk management",
+        "publication_date": "2009-04-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "arXiv: Risk Management",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/5292461656cd9c3eb35d5628f6e640e8ec32dd07"
+        ],
+        "id": "id-3081425343072949792",
+        "abstract": "We provide a new dynamic approach to scenario generation for the purposes of risk management in the banking industry. We connect ideas from conventional techniques -- like historical and Monte Carlo simulation -- and we come up with a hybrid method that shares the advantages of standard procedures but eliminates several of their drawbacks. Instead of considering the static problem of constructing one or ten day ahead distributions for vectors of risk factors, we embed the problem into a dynamic framework, where any time horizon can be consistently simulated. Additionally, we use standard models from mathematical finance for each risk factor, whence bridging the worlds of trading and risk management. Our approach is based on stochastic differential equations (SDEs), like the HJM-equation or the Black-Scholes equation, governing the time evolution of risk factors, on an empirical calibration method to the market for the chosen SDEs, and on an Euler scheme (or high-order schemes) for the numerical evaluation of the respective SDEs. The empirical calibration procedure presented in this paper can be seen as the SDE-counterpart of the so called Filtered Historical Simulation method; the behavior of volatility stems in our case out of the assumptions on the underlying SDEs. Furthermore, we are able to easily incorporate \"middle-size\" and \"large-size\" events within our framework always making a precise distinction between the information obtained from the market and the one coming from the necessary a-priori intuition of the risk manager. Results of one concrete implementation are provided.",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "A new approach for scenario generation in Risk management",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-0904.0624/0904.0624.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2009-08-19 00:00:00"
+            },
+            {
+                "year": 2009,
+                "source": "SupportedSources.OPENALEX",
+                "title": "A new approach for scenario generation in risk management",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1817189927"
+                ],
+                "doi": null,
+                "publication_date": "2009-04-03 00:00:00"
+            },
+            {
+                "year": 2009,
+                "source": "SupportedSources.ARXIV",
+                "title": "A new approach for scenario generation in Risk management",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/0904.0624v2",
+                    "http://arxiv.org/abs/0904.0624v2",
+                    "http://arxiv.org/pdf/0904.0624v2"
+                ],
+                "doi": "",
+                "publication_date": "2009-04-03 17:22:04+00:00"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "Vladimir Andri\u0107",
+            "Sanja Nenadovi\u0107"
+        ],
+        "title": "Laplace, Hansen-Sargent and Beveridge-Nelson a note towards unified business application",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Centre for Evaluation in Education and Science (CEON/CEES)",
+        "volume": "",
+        "doi": "10.5937/sjm16-30877",
+        "urls": [
+            "https://web.archive.org/web/20210618050557/https://scindeks-clanci.ceon.rs/data/pdf/1452-4864/2021/1452-48642101039A.pdf"
+        ],
+        "id": "id-4000340726304398826",
+        "abstract": "The paper derives the equivalence condition between the Beveridge-Nelson decomposition and the Hansen-Sargent prediction formula in continuous time using Laplace transforms. The results presented show how the Hansen-Sargent prediction formula is relevant not just for present value discounting but also for the trend-cycle decomposition of cash flow streams in corporate finance.",
+        "versions": [],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "yaacov Kopeliovich"
+        ],
+        "title": "Optimal control problems for stochastic processes with absorbing regime",
+        "publication_date": "2023-05-02 15:13:55+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Journal of Stochastic Analysis vol.4 2023",
+        "volume": "",
+        "doi": "10.31390/josa.4.1.06",
+        "urls": [
+            "http://arxiv.org/pdf/2305.01490v1",
+            "http://dx.doi.org/10.31390/josa.4.1.06",
+            "http://arxiv.org/abs/2305.01490v1",
+            "http://arxiv.org/pdf/2305.01490v1"
+        ],
+        "id": "id4843649526262967656",
+        "abstract": "In this paper we formulate and solve an optimal problem for Stochastic\nprocess with a regime absorbing state. The solution for this problem is\nobtained through a system of partial differential equations. The method is\napplied to obtain an explicit solution for the Merton portfolio problem when an\nasset has a default probability in case of a log utility.",
+        "versions": [],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Berglund, N.",
+            "Gentz, B."
+        ],
+        "title": "Geometric singular perturbation theory for stochastic differential equations",
+        "publication_date": "2003-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/s0022-0396(03)00020-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0022039603000202?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0022039603000202?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0022-0396(03)00020-2"
+        ],
+        "id": "id8416857136602348626",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Geometric singular perturbation theory for stochastic differential equations",
+                "journal": "Journal of Differential Equations",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/3d4f07812bc223bca4610d2dbb30968500d7094b",
+                    "http://arxiv.org/pdf/math/0204008"
+                ],
+                "doi": "10.1016/S0022-0396(03)00020-2",
+                "publication_date": "2002-03-30 00:00:00"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Martina Hofmanova"
+        ],
+        "title": "Strong solutions to semilinear SPDEs",
+        "publication_date": "2012-02-09 16:09:01+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1202.2029v1",
+            "http://arxiv.org/abs/1202.2029v1",
+            "http://arxiv.org/pdf/1202.2029v1"
+        ],
+        "id": "id-7208663682798926866",
+        "abstract": "We study the Cauchy problem for a semilinear stochastic partial differential\nequation driven by a finite-dimensional Wiener process. In particular, under\nthe hypothesis that all the coefficients are sufficiently smooth and have\nbounded derivatives, we consider the equation in the context of power scale\ngenerated by a strongly elliptic differential operator. Application of\nsemigroup arguments then yields the existence of a continuous strong solution.",
+        "versions": [],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Ki Wai Chau",
+            "Cornelis W. Oosterlee"
+        ],
+        "title": "On the wavelets-based SWIFT method for backward stochastic differential equations",
+        "publication_date": "2016-11-09 19:30:17+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1093/imanum/drx022",
+        "urls": [
+            "http://arxiv.org/pdf/1611.06098v1",
+            "http://dx.doi.org/10.1093/imanum/drx022",
+            "http://arxiv.org/abs/1611.06098v1",
+            "http://arxiv.org/pdf/1611.06098v1"
+        ],
+        "id": "id-7483795314325064922",
+        "abstract": "We propose a numerical algorithm for backward stochastic differential\nequations based on time discretization and trigonometric wavelets. This method\ncombines the effectiveness of Fourier-based methods and the simplicity of a\nwavelet-based formula, resulting in an algorithm that is both accurate and easy\nto implement. Furthermore, we mitigate the problem of errors near the\ncomputation boundaries by means of an antireflective boundary technique, giving\nan improved approximation. We test our algorithm with different numerical\nexperiments.",
+        "versions": [],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Cui, J.",
+            "Liu, S.",
+            "Zhou, H."
+        ],
+        "title": "What is a stochastic Hamiltonian process on finite graph? An optimal transport answer",
+        "publication_date": "2021-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jde.2021.10.009",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0022039621006203?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0022039621006203?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jde.2021.10.009"
+        ],
+        "id": "id7188470068073442148",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "What is a stochastic Hamiltonian process on finite graph? An optimal transport answer",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0e1e3053905ce47f86d47ac5e715c3818ab46828",
+                    "http://arxiv.org/pdf/2101.08420"
+                ],
+                "doi": "10.1016/j.jde.2021.10.009",
+                "publication_date": "2021-01-21 00:00:00"
+            }
+        ],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "Kossi Gnameho and Mitja Stadje and Antoon Pelsser"
+        ],
+        "title": "A Regress-Later Algorithm for Backward Stochastic Differential Equations",
+        "publication_date": "2017-06-24 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20191018091717/https://arxiv.org/pdf/1706.07986v1.pdf"
+        ],
+        "id": "id-4263834221680801538",
+        "abstract": "This work deals with the numerical approximation of backward stochastic differential equations (BSDEs). We propose a new algorithm which is based on the regression-later approach and the least squares Monte Carlo method. We give some conditions under which our numerical algorithm convergences and solve two practical experiments to illustrate its performance.",
+        "versions": [],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "Matkowsky, B."
+        ],
+        "title": "Singular Perturbations, Stochastic Differential Equations, and Applications",
+        "publication_date": "1980-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/b978-0-12-493260-9.50009-6",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:B9780124932609500096?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:B9780124932609500096?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/b978-0-12-493260-9.50009-6"
+        ],
+        "id": "id-2703590030849327305",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Singular perturbations, stochastic differential equations and applications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/20c7acb9908b85cb9aa19ca1b8eb8b29b53838c0"
+                ],
+                "doi": "10.1016/B978-0-12-493260-9.50009-6",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Donald Cameron Hall"
+        ],
+        "title": "Schedule (preliminary Version)",
+        "publication_date": "None",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://www.semanticscholar.org/paper/b414a765873088b9e33e99be436b7b87d0cb674c"
+        ],
+        "id": "id8301192444584009960",
+        "abstract": "(in alphabetic order by talks surname) Speaker: Claudio Albanese (Imperial College London ) Title: Unifying Volatility Models Abstract: This presentation reviews analytical methodsfor building analytically tractable option pricing models that combine state-dependent volatility, stochastic volatility and jumps.Spectral analysismethods are used to add jumps and stochastic volatility to hypergeometric Brownian motions.A Poisson approximation scheme for jump processesis used it to construct numerical discretizations for the corresponding partial integro-differential equations. Transition probabilities are computed analytically as expansions in orthogonal polynomials to ensure that results dont depend on the size of time steps and to maintain local no-arbitrage conditions. Finally, stochastic volatility can be accounted for by means of a new class of affine lattice models. Wereview applications to equity options, interest rate derivative models with stochastic volatility, credit derivative models and convertible bonds. Collaborators: Oliver Chen, Alexey Kuznetzov, Stephan Lawi. Speaker: Dirk Becherer (Imperial College London) Title: On general futures prices in supermartingale term structure models Abstract: Futures are among the practically most important and liquidly traded instruments. There is a vast literature on them with many articles, and also excellent treatment in textbooks on mathematical finance by Bj\u00f6rk, Duffie, and Hunt & Kennedy, among others. Nevertheless, the literature about theoretical models on futures appears technically rather less developed and mathematically elaborated than other areas of mathematical finance, like equities, credit risk, or interest rate theory. This talk is concerned with general futures prices in framework of semimartingale pricing kernel models with positive interest, i.e. supermartingale pricing models. We show how recent results on supermartingale term structure models in connection with stochastic backward integration allow for a general and unifying view on discretely and continuously resettled contingent claims, and also reveal the natural martingale structure behind the appropriate numeraires for obtaining the futures price process. The analysis does not need to assume a Brownian filtration or continuous martingales. And for key results, one does not need to assume the existence of a classical savings account either. Speaker: Antje Berndt (Cornell University) Title: Measuring default risk premia from default swap rates and EDFs Abstract: This paper estimates recent default risk premia for U.S. corporate debt, based on a close relationship between default probabilities, as estimated by the Moody\u2019s KMV EDF measure, and market default swap (CDS) rates. The default-swap data, obtained by CIBC from a large number of dealers and bank counterparties, allow us to establish a strong link between actual and risk-neutral default probabilities for",
+        "versions": [],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Kumah, F."
+        ],
+        "title": "Unanticipated money and the demand for foreign assets : a rational expectations approach",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6259115.pdf"
+        ],
+        "id": "id-1965720344552976551",
+        "abstract": "This paper is an attempt at empirically investigating one of the building blocks of the foreign exchange market - the demand for foreign financial assets - under two alternative monetary policy rules (the fixed rate of growth of money rule and the feedback monetary policy rule) using time series data for Germany over the period 1974:1 - 1992:4. The approach adopted here offers us the opportunity of investigating the impact of monetary policy shocks on the demand for foreign assets. It turns out that the data-set picks the feedback monetary policy rule as characterising the data generation process better. Based on this feedback policy rule roughly 23% of monetary policy shocks have permanent effects (and the remaining percentage of these shocks exhibit transitory effects) on the demand for foreign assets. Our empirical results indicate, among others, that unanticipated monetary policy shocks and increases in the interest rate differential drive German investors abroad whereas domestic interest rate increases and currency depreciations demonstrate the \"safe-haven\" effect (that is to say domestic investors prefer having their investments in assets denominated in Deutsche Marks).",
+        "versions": [],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Xinwei Feng"
+        ],
+        "title": "Generalized mean-field backward stochastic differential equations and related partial differential equations",
+        "publication_date": "2020-01-23 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Applicable Analysis",
+        "volume": "100",
+        "doi": "10.1080/00036811.2020.1716970",
+        "urls": [
+            "https://www.semanticscholar.org/paper/62336701a8f112b07586f62dd2cda12124d83f8a"
+        ],
+        "id": "id-6168015908794388536",
+        "abstract": "In this paper, we derive the existence and uniqueness of the solution for a new class of mean-field backward stochastic differential equations, which involves the integral with respect to a continuous increasing process. In addition, we study the generalized mean-field backward stochastic differential equations in a Markovian framework, that is, it is associated with a reflected McKean-Vlasov stochastic differential equation. This allows us to give a probabilistic formula for viscosity solution of a nonlocal partial differential equation with a nonlinear Neumann boundary condition.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Generalized mean-field backward stochastic differential equations and related partial differential equations",
+                "journal": "",
+                "urls": [
+                    "https://www.tandfonline.com/doi/pdf/10.1080/00036811.2020.1716970",
+                    "http://dx.doi.org/10.1080/00036811.2020.1716970"
+                ],
+                "doi": "10.1080/00036811.2020.1716970",
+                "publication_date": "2020-01-23 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "P. Kloeden",
+            "A. Neuenkirch"
+        ],
+        "title": "CONVERGENCE OF NUMERICAL METHODS FOR STOCHASTIC DIFFERENTIAL EQUATIONS IN MATHEMATICAL FINANCE",
+        "publication_date": "2012-04-30 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "arXiv: Numerical Analysis",
+        "volume": "",
+        "doi": "10.1142/9789814436434_0002",
+        "urls": [
+            "https://www.semanticscholar.org/paper/878f060b20796e3f27e412e34b30d2f8a642d490",
+            "http://arxiv.org/pdf/1204.6620.pdf"
+        ],
+        "id": "id2580274704111851969",
+        "abstract": "Many stochastic differential equations that occur in financial modelling do not satisfy the standard assumptions made in convergence proofs of numerical schemes that are given in textbooks, i.e., their coefficients and the corresponding derivatives appearing in the proofs are not uniformly bounded and hence, in particular, not globally Lipschitz. Specific examples are the Heston and Cox-Ingersoll-Ross models with square root coefficients and the Ait-Sahalia model with rational coefficient f unctions. Simple examples show that, for example, the Euler-Maruyama scheme may not converge either in the strong or weak sense when the standard assumptions do not hold. Nevertheless, new convergence results have been obtained recently for many such models in financial mathematics. These are reviewed here. Although weak convergence is of traditional importance in financial mathematics with its emphasis on expectations of functionals of the solutions, strong convergence plays a crucial role in Multi Level Monte Carlo methods, so it and also pathwise convergence will be considered along with methods which preserve the positivity of the solutions.",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.ARXIV",
+                "title": "Convergence of numerical methods for stochastic differential equations in mathematical finance",
+                "journal": "In: Recent Developments in Computational Finance: Foundations,\n  Algorithms and Applications, T. Gerstner and P.E. Kloeden (eds),\n  Interdisciplinary Mathematical Sciences Series, Vol. 14, World Scientific\n  Publishing, Singapur, 2013; pp. 49-80",
+                "urls": [
+                    "http://arxiv.org/pdf/1204.6620v1",
+                    "http://arxiv.org/abs/1204.6620v1",
+                    "http://arxiv.org/pdf/1204.6620v1"
+                ],
+                "doi": "",
+                "publication_date": "2012-04-30 13:08:01+00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Convergence of numerical methods for stochastic differential equations in mathematical finance",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1142/9789814436434_0002"
+                ],
+                "doi": "10.1142/9789814436434_0002",
+                "publication_date": "2012-12-05 00:00:00"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Convergence of numerical methods for stochastic differential equations in mathematical finance",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-1204.6620/1204.6620.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2012-04-30 00:00:00"
+            },
+            {
+                "year": 0,
+                "source": "SupportedSources.UNPAYWALL",
+                "title": "Convergence of numerical methods for stochastic differential equations in mathematical finance",
+                "journal": "Interdisciplinary Mathematical Sciences",
+                "urls": [
+                    "https://doi.org/10.1142/9789814436434_0002"
+                ],
+                "doi": "10.1142/9789814436434_0002",
+                "publication_date": "None"
+            },
+            {
+                "year": 2012,
+                "source": "SupportedSources.OPENALEX",
+                "title": "Convergence of numerical methods for stochastic differential equations in mathematical finance",
+                "journal": "",
+                "urls": [
+                    "https://openalex.org/W1566416747",
+                    "https://doi.org/10.1142/9789814436434_0002",
+                    "http://arxiv.org/pdf/1204.6620.pdf"
+                ],
+                "doi": "10.1142/9789814436434_0002",
+                "publication_date": "2012-12-05 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Roel Beetsma",
+            "A.L. Bovenberg"
+        ],
+        "title": "Monetary union without fiscal coordination may discipline policymakers",
+        "publication_date": "1998-08-01 00:00:00",
+        "source": "SupportedSources.OPENALEX",
+        "journal": "",
+        "volume": "45",
+        "doi": "10.1016/s0022-1996(98)00031-2",
+        "urls": [
+            "https://openalex.org/W2160018594",
+            "https://doi.org/10.1016/s0022-1996(98)00031-2",
+            "https://cris.maastrichtuniversity.nl/ws/files/874147/guid-9b25542d-86e8-4261-89f7-092bf79282a9-ASSET1.0.pdf"
+        ],
+        "id": "id-1097891930736597802",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Monetary union without fiscal coordination may discipline policymakers",
+                "journal": "Journal of International Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/64da2faa2883b57fa922893aacfc2cfa8c694dbd",
+                    "https://cris.maastrichtuniversity.nl/ws/files/874147/guid-9b25542d-86e8-4261-89f7-092bf79282a9-ASSET1.0.pdf"
+                ],
+                "doi": "10.1016/S0022-1996(98)00031-2",
+                "publication_date": "1998-08-01 00:00:00"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Antonis Papapantoleon",
+            "David Skovmand"
+        ],
+        "title": "Picard approximation of stochastic differential equations and application to LIBOR models",
+        "publication_date": "2010-07-20 08:31:46+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1007.3362v2",
+            "http://arxiv.org/abs/1007.3362v2",
+            "http://arxiv.org/pdf/1007.3362v2"
+        ],
+        "id": "id-7794240604257042831",
+        "abstract": "The aim of this work is to provide fast and accurate approximation schemes\nfor the Monte Carlo pricing of derivatives in LIBOR market models. Standard\nmethods can be applied to solve the stochastic differential equations of the\nsuccessive LIBOR rates but the methods are generally slow. Our contribution is\ntwofold. Firstly, we propose an alternative approximation scheme based on\nPicard iterations. This approach is similar in accuracy to the Euler\ndiscretization, but with the feature that each rate is evolved independently of\nthe other rates in the term structure. This enables simultaneous calculation of\nderivative prices of different maturities using parallel computing. Secondly,\nthe product terms occurring in the drift of a LIBOR market model driven by a\njump process grow exponentially as a function of the number of rates, quickly\nrendering the model intractable. We reduce this growth from exponential to\nquadratic using truncated expansions of the product terms. We include numerical\nillustrations of the accuracy and speed of our method pricing caplets,\nswaptions and forward rate agreements.",
+        "versions": [],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Niraj Kumar",
+            "Evan Philip",
+            "Vincent E. Elfving"
+        ],
+        "title": "Integral Transforms in a Physics-Informed (Quantum) Neural Network setting: Applications Use-Cases",
+        "publication_date": "2022-06-28 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20220709035350/https://arxiv.org/pdf/2206.14184v1.pdf"
+        ],
+        "id": "id3181642272288894362",
+        "abstract": "In many computational problems in engineering and science, function or model differentiation is essential, but also integration is needed. An important class of computational problems include so-called integro-differential equations which include both integrals and derivatives of a function. In another example, stochastic differential equations can be written in terms of a partial differential equation of a probability density function of the stochastic variable. To learn characteristics of the stochastic variable based on the density function, specific integral transforms, namely moments, of the density function need to be calculated. Recently, the machine learning paradigm of Physics-Informed Neural Networks emerged with increasing popularity as a method to solve differential equations by leveraging automatic differentiation. In this work, we propose to augment the paradigm of Physics-Informed Neural Networks with automatic integration in order to compute complex integral transforms on trained solutions, and to solve integro-differential equations where integrals are computed on-the-fly during training. Furthermore, we showcase the techniques in various application settings, numerically simulating quantum computer-based neural networks as well as classical neural networks.",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.ARXIV",
+                "title": "Integral Transforms in a Physics-Informed (Quantum) Neural Network setting: Applications & Use-Cases",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/2206.14184v1",
+                    "http://arxiv.org/abs/2206.14184v1",
+                    "http://arxiv.org/pdf/2206.14184v1"
+                ],
+                "doi": "",
+                "publication_date": "2022-06-28 17:51:32+00:00"
+            }
+        ],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Enchev, O."
+        ],
+        "title": "Stochastic calculus with anticipation and shift transformations of wiener's measure",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/bfb0007320",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/BFb0007320.pdf",
+            "http://dx.doi.org/10.1007/bfb0007320"
+        ],
+        "id": "id1908821801602823522",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Stochastic calculus with anticipation and shift transformations of wiener's measure",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/1f9e13b044655a86cc874e08b3aadd90bcbcce11"
+                ],
+                "doi": "10.1007/BFB0007320",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Li, Y.",
+            "Gu, A.",
+            "Li, J."
+        ],
+        "title": "Existence and continuity of bi-spatial random attractors and application to stochastic semilinear Laplacian equations",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/j.jde.2014.09.021",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:S0022039614003842?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0022039614003842?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/j.jde.2014.09.021"
+        ],
+        "id": "id-3434032166863571768",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Existence and continuity of bi-spatial random attractors and application to stochastic semilinear Laplacian equations",
+                "journal": "Journal of Differential Equations",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e10c8da54f3128c4b88030ebbbf0b71bff5bb492"
+                ],
+                "doi": "10.1016/J.JDE.2014.09.021",
+                "publication_date": "2015-01-15 00:00:00"
+            }
+        ],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Cheng, B",
+            "Nikitopoulos, CS",
+            "Schl\u00f6gl, E"
+        ],
+        "title": "Pricing of long-dated commodity derivatives: Do stochastic interest rates matter?",
+        "publication_date": "2018-10-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "Journal of Banking & Finance",
+        "volume": "",
+        "doi": "10.1016/j.jbankfin.2017.05.012",
+        "urls": [
+            "https://opus.lib.uts.edu.au/bitstream/10453/115328/4/JBF_SICommod.pdf"
+        ],
+        "id": "id1272190475036275158",
+        "abstract": "\u00a9 2017 Elsevier B.V. Does modelling stochastic interest rates, beyond stochastic volatility, improve pricing performance on long-dated commodity derivatives? To answer this question, we consider futures price models for commodity derivatives that allow for stochastic volatility and stochastic interest rates and a correlation structure between the underlying variables. We examine the empirical pricing performance of these models on pricing long-dated crude oil derivatives. Estimating the model parameters from historical crude oil futures prices and option prices, we find that stochastic interest rate models improve pricing performance on long-dated crude oil derivatives, when the interest rate volatility is relatively high. Furthermore, increasing the model dimensionality does not tend to improve the pricing performance on long-dated crude oil option prices, but it matters for long-dated futures prices. We also find empirical evidence for a negative correlation between crude oil futures prices and interest rates that contributes to improving fit to long-dated crude oil option prices",
+        "versions": [],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Changho Kim",
+            "Eok Kyun Lee",
+            "Peter H\u00e4nggi",
+            "Peter Talkner"
+        ],
+        "title": "Numerical method for solving stochastic differential equations with Poissonian white shot noise",
+        "publication_date": "2007-07-13 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "American Physical Society (APS)",
+        "volume": "",
+        "doi": "10.1103/physreve.76.011109",
+        "urls": [
+            "https://web.archive.org/web/20170808131606/http://www.physik.uni-augsburg.de/theo1/Talkner/Papers/Kim_PRE_2007.pdf"
+        ],
+        "id": "id-352957277076784586",
+        "abstract": "We propose a numerical integration scheme to solve stochastic differential equations driven by Poissonian white shot noise. Our formula, which is based on an integral equation, which is equivalent to the stochastic differential equation, utilizes a discrete time approximation with fixed integration time step. We show that our integration formula approaches the Euler formula if the Poissonian noise approaches the Gaussian white noise. The accuracy and efficiency of the proposed algorithm are examined by studying the dynamics of an overdamped particle driven by Poissonian white shot noise in a spatially periodic potential. We find that the accuracy of the proposed algorithm only weakly depends on the parameters characterizing the Poissonian white shot noise; this holds true even if the limit of Gaussian white noise is approached.",
+        "versions": [],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Afshin Babaei",
+            "Hossein Jafari",
+            "S. Banihashemi"
+        ],
+        "title": "A Collocation Approach for Solving Time-Fractional Stochastic Heat Equation Driven by an Additive Noise",
+        "publication_date": "2020-06-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "MDPI AG",
+        "volume": "",
+        "doi": "10.3390/sym12060904",
+        "urls": [
+            "https://web.archive.org/web/20201103125627/https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00904/article_deploy/symmetry-12-00904-v3.pdf"
+        ],
+        "id": "id-3968895117444120900",
+        "abstract": "A spectral collocation approach is constructed to solve a class of time-fractional stochastic heat equations (TFSHEs) driven by Brownian motion. Stochastic differential equations with additive noise have an important role in explaining some symmetry phenomena such as symmetry breaking in molecular vibrations. Finding the exact solution of such equations is difficult in many cases. Thus, a collocation method based on sixth-kind Chebyshev polynomials (SKCPs) is introduced to assess their numerical solutions. This collocation approach reduces the considered problem to a system of linear algebraic equations. The convergence and error analysis of the suggested scheme are investigated. In the end, numerical results and the order of convergence are evaluated for some numerical test problems to illustrate the efficiency and robustness of the presented method.",
+        "versions": [],
+        "rank": 97
+    },
+    {
+        "authors": [],
+        "title": "Probabilistic interpretation for systems of quasilinear parabolic partial differential equations",
+        "publication_date": "1991-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1080/17442509108833727",
+        "urls": [
+            "https://www.tandfonline.com/doi/pdf/10.1080/17442509108833727",
+            "http://dx.doi.org/10.1080/17442509108833727"
+        ],
+        "id": "id-2093804483746373731",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Probabilistic interpretation for systems of quasilinear parabolic partial differential equations",
+                "journal": "Stochastics and Stochastics Reports",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cf9195f7c9923ca52426a47cb0f38e00de74382c"
+                ],
+                "doi": "10.1080/17442509108833727",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Oleg Butkovsky",
+            "Khoa L\u00ea",
+            "Leonid Mytnik"
+        ],
+        "title": "Stochastic equations with singular drift driven by fractional Brownian motion",
+        "publication_date": "2023-02-23 11:37:21+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2302.11937v1",
+            "http://arxiv.org/abs/2302.11937v1",
+            "http://arxiv.org/pdf/2302.11937v1"
+        ],
+        "id": "id-4123991779455773046",
+        "abstract": "We consider stochastic differential equation $$ d X_t=b(X_t) dt +d W_t^H, $$\nwhere the drift $b$ is either a measure or an integrable function, and $W^H$ is\na $d$-dimensional fractional Brownian motion with Hurst parameter $H\\in(0,1)$,\n$d\\in\\mathbb{N}$. For the case where $b\\in L_p(\\mathbb{R}^d)$, $p\\in[1,\\infty]$\nwe show weak existence of solutions to this equation under the condition $$\n\\frac{d}p<\\frac1H-1, $$ which is an extension of the Krylov-R\\\"ockner condition\n(2005) to the fractional case. We construct a counter-example showing\noptimality of this condition. If $b$ is a Radon measure, particularly the delta\nmeasure, we prove weak existence of solutions to this equation under the\noptimal condition $H<\\frac1{d+1}$. We also show strong well-posedness of\nsolutions to this equation under certain conditions. To establish these\nresults, we utilize the stochastic sewing technique and develop a new version\nof the stochastic sewing lemma.",
+        "versions": [],
+        "rank": 99
+    }
+]

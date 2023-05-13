@@ -1,0 +1,2858 @@
+[
+    {
+        "authors": [
+            "Lichters, R.",
+            "Stamm, R.",
+            "Gallagher, D."
+        ],
+        "title": "Cross-Asset Scenario Generation",
+        "publication_date": "2015-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1057/9781137494849_16",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1057/9781137494849_16",
+            "http://dx.doi.org/10.1057/9781137494849_16"
+        ],
+        "id": "id1208684258630479526",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Cross-Asset Scenario Generation",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/efd5ab7fcbee1cd274970209b2030b0f9befc78b"
+                ],
+                "doi": "10.1057/9781137494849_16",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 0
+    },
+    {
+        "authors": [
+            "Feng-Wen An"
+        ],
+        "title": "On the \u00e9tale fundamental groups of arithmetic schemes, revised",
+        "publication_date": "2009-10-26 12:19:36+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/0910.4646v4",
+            "http://arxiv.org/abs/0910.4646v4",
+            "http://arxiv.org/pdf/0910.4646v4"
+        ],
+        "id": "id7346723354442673246",
+        "abstract": "In this paper we will give a computation of the \\'{e}tale fundamental group\nof an integral arithmetic scheme. For such a scheme, we will prove that the\n\\'{e}tale fundamental group is naturally isomorphic to the Galois group of the\nmaximal formally unramified extension over the function field. It consists of\nthe main theorem of the paper. Here, formally unramified will be proved to be\narithmetically unramified which is defined in an evident manner and coincides\nwith that in algebraic number theory. Hence, formally unramified has an\narithmetic sense. At the same time, such a computation coincides with the known\nresult for a normal noetherian scheme.",
+        "versions": [],
+        "rank": 1
+    },
+    {
+        "authors": [
+            "Anna Ananova",
+            "Rama Cont",
+            "Renyuan Xu"
+        ],
+        "title": "Excursion Risk",
+        "publication_date": "2020-11-05 14:45:58+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2011.02870v1",
+            "http://arxiv.org/abs/2011.02870v1",
+            "http://arxiv.org/pdf/2011.02870v1"
+        ],
+        "id": "id-1766289770524721714",
+        "abstract": "The risk and return profiles of a broad class of dynamic trading strategies,\nincluding pairs trading and other statistical arbitrage strategies, may be\ncharacterized in terms of excursions of the market price of a portfolio away\nfrom a reference level. We propose a mathematical framework for the risk\nanalysis of such strategies, based on a description in terms of price\nexcursions, first in a pathwise setting, without probabilistic assumptions,\nthen in a Markovian setting.\n  We introduce the notion of delta-excursion, defined as a path which deviates\nby delta from a reference level before returning to this level. We show that\nevery continuous path has a unique decomposition into delta-excursions, which\nis useful for the scenario analysis of dynamic trading strategies, leading to\nsimple expressions for the number of trades, realized profit, maximum loss and\ndrawdown. As delta is decreased to zero, properties of this decomposition\nrelate to the local time of the path.\n  When the underlying asset follows a Markov process, we combine these results\nwith Ito's excursion theory to obtain a tractable decomposition of the process\nas a concatenation of independent delta-excursions, whose distribution is\ndescribed in terms of Ito's excursion measure. We provide analytical results\nfor linear diffusions and give new examples of stochastic processes for\nflexible and tractable modeling of excursions. Finally, we describe a\nnon-parametric scenario simulation method for generating paths whose excursion\nproperties match those observed in empirical data.",
+        "versions": [],
+        "rank": 2
+    },
+    {
+        "authors": [
+            "Sebastian Perez-Salazar",
+            "Mohit Singh",
+            "Alejandro Toriello"
+        ],
+        "title": "The IID Prophet Inequality with Limited Flexibility",
+        "publication_date": "2022-10-11 17:26:18+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2210.05634v2",
+            "http://arxiv.org/abs/2210.05634v2",
+            "http://arxiv.org/pdf/2210.05634v2"
+        ],
+        "id": "id2270658946162747023",
+        "abstract": "In online sales, sellers usually offer each potential buyer a posted price in\na take-it-or-leave fashion. Buyers can sometimes see posted prices faced by\nother buyers, and changing the price frequently could be considered unfair. The\nliterature on posted price mechanisms and prophet inequality problems has\nstudied the two extremes of pricing policies, the fixed price policy and fully\ndynamic pricing. The former is suboptimal in revenue but is perceived as fairer\nthan the latter. This work examines the middle situation, where there are at\nmost $k$ distinct prices over the selling horizon. Using the framework of\nprophet inequalities with independent and identically distributed random\nvariables, we propose a new prophet inequality for strategies that use at most\n$k$ thresholds. We present asymptotic results in $k$ and results for small\nvalues of $k$. For $k=2$ prices, we show an improvement of at least $11\\%$ over\nthe best fixed-price solution. Moreover, $k=5$ prices suffice to guarantee\nalmost $99\\%$ of the approximation factor obtained by a fully dynamic policy\nthat uses an arbitrary number of prices. From a technical standpoint, we use an\ninfinite-dimensional linear program in our analysis; this formulation could be\nof independent interest to other online selection problems.",
+        "versions": [],
+        "rank": 3
+    },
+    {
+        "authors": [
+            "Jinlu Li"
+        ],
+        "title": "Infinitely Split Nash Equilibrium Problems in Repeated Games",
+        "publication_date": "2017-12-21 17:17:41+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1712.08509v1",
+            "http://arxiv.org/abs/1712.08509v1",
+            "http://arxiv.org/pdf/1712.08509v1"
+        ],
+        "id": "id8404606611989882995",
+        "abstract": "In this paper, we introduce the concept of infinitely split Nash equilibrium\nin repeated games in which the profile sets are chain-complete posets. Then by\nusing a fixed point theorem on posets in [8], we prove an existence theorem. As\nan application, we study the repeated extended Bertrant duopoly model of price\ncompetition.",
+        "versions": [],
+        "rank": 4
+    },
+    {
+        "authors": [
+            "Tom Fischer"
+        ],
+        "title": "A primer on reflexivity and price dynamics under systemic risk",
+        "publication_date": "2013-01-27 23:28:56+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1301.6415v1",
+            "http://arxiv.org/abs/1301.6415v1",
+            "http://arxiv.org/pdf/1301.6415v1"
+        ],
+        "id": "id-4229779269343369582",
+        "abstract": "A simple quantitative example of a reflexive feedback process and the\nresulting price dynamics after an exogenous price shock to a financial network\nis presented. Furthermore, an outline of a theory that connects financial\nreflexivity, which stems from cross-ownership and delayed or incomplete\ninformation, and no-arbitrage pricing theory under systemic risk is provided.",
+        "versions": [],
+        "rank": 5
+    },
+    {
+        "authors": [
+            "Casabona, P.",
+            "Vora, A."
+        ],
+        "title": "The Bias of Conventional Risk Premiums in Empirical Tests of the Capital Asset Pricing Model",
+        "publication_date": "1982-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2307/3665029",
+        "urls": [
+            "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F3665029",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.2307/3665029/fullpdf",
+            "http://dx.doi.org/10.2307/3665029"
+        ],
+        "id": "id3444952772034427301",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1982,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "The Bias of Conventional Risk Premiums in Empirical Tests of the Capital Asset Pricing Model",
+                "journal": "Financial Management",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/bb37075a8f3808f8680aff04b834f4548ad16802"
+                ],
+                "doi": "10.2307/3665029",
+                "publication_date": "1982-01-22 00:00:00"
+            }
+        ],
+        "rank": 6
+    },
+    {
+        "authors": [
+            "Jan Kuklinski",
+            "Kevin Tyloo"
+        ],
+        "title": "Semi-analytic path integral solution of SABR and Heston equations: pricing Vanilla and Asian options",
+        "publication_date": "2016-05-01 20:50:32+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1605.00307v1",
+            "http://arxiv.org/abs/1605.00307v1",
+            "http://arxiv.org/pdf/1605.00307v1"
+        ],
+        "id": "id5881885910820311324",
+        "abstract": "We discuss a semi-analytical method for solving SABR-type equations based on\npath integrals. In this approach, one set of variables is integrated\nanalytically while the second set is integrated numerically via Monte-Carlo.\nThis method, known in the literature as Conditional Monte-Carlo, leads to\ncompact expressions functional on three correlated stochastic variables. The\nmethodology is practical and efficient when solving Vanilla pricing in the\nSABR, Heston and Bates models with time depending parameters. Further, it can\nalso be practically applied to pricing Asian options in the $\\beta=0$ SABR\nmodel and to other $\\beta=0$ type models.",
+        "versions": [],
+        "rank": 7
+    },
+    {
+        "authors": [
+            "Fabrizio Lillo"
+        ],
+        "title": "Limit order placement as an utility maximization problem and the origin of power law distribution of limit order prices",
+        "publication_date": "2006-12-01 14:11:34+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1140/epjb/e2007-00067-9",
+        "urls": [
+            "http://arxiv.org/pdf/physics/0612016v1",
+            "http://dx.doi.org/10.1140/epjb/e2007-00067-9",
+            "http://arxiv.org/abs/physics/0612016v1",
+            "http://arxiv.org/pdf/physics/0612016v1"
+        ],
+        "id": "id1687559633798328140",
+        "abstract": "I consider the problem of the optimal limit order price of a financial asset\nin the framework of the maximization of the utility function of the investor.\nThe analytical solution of the problem gives insight on the origin of the\nrecently empirically observed power law distribution of limit order prices. In\nthe framework of the model, the most likely proximate cause of this power law\nis a power law heterogeneity of traders' investment time horizons .",
+        "versions": [],
+        "rank": 8
+    },
+    {
+        "authors": [
+            "Djordjevic, M."
+        ],
+        "title": "Consumption-based macroeconomic models of asset pricing theory",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2298/eka1611007d",
+        "urls": [
+            "http://dx.doi.org/10.2298/eka1611007d"
+        ],
+        "id": "id-4983262056219942146",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Consumption-based macroeconomic models of asset pricing theory",
+                "journal": "Ekonomski Anali",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/26b85366859c39dd1b0284656c9c6c812e71f81e"
+                ],
+                "doi": "10.2298/eka1611007d",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 9
+    },
+    {
+        "authors": [
+            "D Schmeidler",
+            "F Maccheroni",
+            "I Gilboa",
+            "J Dow",
+            "L Epstein",
+            "L Wasserman",
+            "M Marinacci",
+            "P J Huber",
+            "P Wakker",
+            "P Walley",
+            "R Feynman",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "S G Peng",
+            "Z J Chen",
+            "Z J Chen",
+            "ZengJing Chen"
+        ],
+        "title": "Strong laws of large numbers for sub-linear expectations",
+        "publication_date": "2017-04-27 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1007/s11425-015-5095-0",
+        "urls": [
+            "http://arxiv.org/abs/1006.0749"
+        ],
+        "id": "id-402075638789356763",
+        "abstract": "We investigate three kinds of strong laws of large numbers for capacities\nwith a new notion of independently and identically distributed (IID) random\nvariables for sub-linear expectations initiated by Peng. It turns out that\nthese theorems are natural and fairly neat extensions of the classical\nKolmogorov's strong law of large numbers to the case where probability measures\nare no longer additive. An important feature of these strong laws of large\nnumbers is to provide a frequentist perspective on capacities.Comment: 10 page",
+        "versions": [],
+        "rank": 10
+    },
+    {
+        "authors": [
+            "Christopher Lazda"
+        ],
+        "title": "Fundamental groups and good reduction criteria for curves over positive characteristic local fields",
+        "publication_date": "2016-04-20 16:29:12+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1604.06024v2",
+            "http://arxiv.org/abs/1604.06024v2",
+            "http://arxiv.org/pdf/1604.06024v2"
+        ],
+        "id": "id-3905343671086761569",
+        "abstract": "In this article I define and study the overconvergent rigid fundamental group\nof a variety over an equicharacteristic local field. This is a non-abelian\n$(\\varphi,\\nabla)$-module over the bounded Robba ring $\\mathcal{E}_K^\\dagger$,\nwhose underlying unipotent group (after base changing to the Amice ring\n$\\mathcal{E}_K$) is exactly the classical rigid fundamental group. I then use\nthis to prove an equicharacteristic, $p$-adic analogue of Oda's theorem that a\nsemistable curve over a $p$-adic field has good reduction iff the Galois action\non its $\\ell$-adic unipotent fundamental group is unramified.",
+        "versions": [],
+        "rank": 11
+    },
+    {
+        "authors": [
+            "Francis X. Diebold",
+            "Heiko Ebens",
+            "Tim Bollerslev",
+            "Torben G. Andersen"
+        ],
+        "title": "The Distribution of Stock Return Volatility",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6649915.pdf"
+        ],
+        "id": "id3226772604952627363",
+        "abstract": "We exploit direct model-free measures of daily equity return volatility and correlation obtained from high-frequency intraday transaction prices on individual stocks in the Dow Jones Industrial Average over a five-year period to confirm, solidify and extend existing characterizations of stock return volatility and correlation We find that the unconditional distributions of the variances and covariances for all thirty stocks are leptokurtic and highly skewed to the right, while the logarithmic standard deviations and correlations all appear approximately Gaussian. Moreover, the distributions returns scaled by the realized standard deviations are also Gaussian. Furthermore, the realized logarithmic standard deviations and correlations all show strong dependence and appear to be well described by long-memory processes, consistent with our documentation of remarkably precise scaling laws under temporal aggregation. Our results also show that positive returns have less impact on future variances and correlations than negative returns of the same absolute magnitude, although the economic importance of this asymmetry is minor. Finally, there is strong evidence that equity volatilities and correlations move together, thus diminishing the benefits to diversification when the market is most volatile. By explicitly incorporating each of these stylized facts, our findings set the stage for improved high-dimensional volatility modeling and out-of-sample forecasting, which in turn hold promise for the development of better decision making in practical situations of risk management, portfolio allocation, and asset pricing.",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.CORE",
+                "title": "The Distribution of Stock Return Volatility",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/pdf/6819891.pdf"
+                ],
+                "doi": null,
+                "publication_date": "None"
+            }
+        ],
+        "rank": 12
+    },
+    {
+        "authors": [
+            "V. Pot\u00ec"
+        ],
+        "title": "A Minimum Discrepancy Formulation of Stochastic Dominance Analysis and Implications for Asset Pricing",
+        "publication_date": "2014-09-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/SSRN.2498781",
+        "urls": [
+            "https://www.semanticscholar.org/paper/2cee25b8792328eb19bc27f2fc9f2653b5cf2824"
+        ],
+        "id": "id2415624862515320544",
+        "abstract": "In this paper, we offer a MD (Minimum Discrepancy) reformulation of the estimation and inference problem that arises in SD analysis, delivering a method that retains the desirable properties of optimal GMM while offering better higher order ones and, most importantly, without requiring the estimation of the weighting matrix, which is typically unstable and, especially when the cross-section of test-asset payoffs is large compared to the sample period length, subject to substantial sampling error. Moreover, when testing for stochastic dominance/efficiency of a given evaluated portfolio, our method makes it straightforward to impose a no short sales restriction on the admissible allocations to the test assets. While important in practice in certain circumstance, this is instead very hard, if not impossible, in a traditional GMM setting. In an empirical application using 51 years of data on portfolios formed sorting stocks on size and size and book-to-market, we find that, under decreasing absolute risk aversion (DARA) as well as more restrictive parametric specifications of the utility function, the market portfolio is stochastically dominated by the size and book to market portfolios while it compares favorably to the size portfolios.",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.CROSSREF",
+                "title": "A Minimum Discrepancy Formulation of Stochastic Dominance Analysis and Implications for Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.2498781"
+                ],
+                "doi": "10.2139/ssrn.2498781",
+                "publication_date": "2014-01-01 00:00:00"
+            }
+        ],
+        "rank": 13
+    },
+    {
+        "authors": [
+            "Pierre-Olivier Weill"
+        ],
+        "title": "Liquidity premia in dynamic bargaining markets",
+        "publication_date": "2008-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.jet.2007.08.004",
+        "urls": [
+            "https://web.archive.org/web/20030816001055/http://www.stanford.edu:80/~poweill/liqp12.pdf"
+        ],
+        "id": "id1670241312587989741",
+        "abstract": "This paper develops a search-theoretic model of the cross-sectional distribution of asset returns, abstracting from risk premia and focusing exclusively on liquidity. I derive a float-adjusted return model (FARM), explaining the pricing of liquidity with a simple linear formula: In equilibrium, the liquidity spread of an asset is proportional to the inverse of its free float, the portion of its market capitalization available for sale. This suggests that the free float is an appropriate measure of liquidity, consistent with the linear specifications commonly estimated in the empirical literature. The qualitative predictions of the model corroborate much of the empirical evidence.",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Liquidity Premia in Dynamic Bargaining Markets",
+                "journal": "Elsevier BV",
+                "urls": [
+                    "https://web.archive.org/web/20030816001055/http://www.stanford.edu:80/~poweill/liqp12.pdf"
+                ],
+                "doi": "10.2139/ssrn.669863",
+                "publication_date": "2002-01-01 00:00:00"
+            },
+            {
+                "year": 2005,
+                "source": "SupportedSources.CORE",
+                "title": "Liquidity Premia in Dynamic Bargaining Markets",
+                "journal": "",
+                "urls": [
+                    "https://core.ac.uk/download/43021899.pdf"
+                ],
+                "doi": null,
+                "publication_date": "2005-05-03 00:00:00"
+            }
+        ],
+        "rank": 14
+    },
+    {
+        "authors": [
+            "Hoi Ying Wong",
+            "Mei Choi Chiu"
+        ],
+        "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+        "publication_date": "2013-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Hindawi Limited",
+        "volume": "",
+        "doi": "10.1155/2013/682524",
+        "urls": [
+            "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+        ],
+        "id": "id711930457753953511",
+        "abstract": "Turbo warrants are liquidly traded financial derivative securities in over-the-counter and exchange markets in Asia and Europe. The structure of turbo warrants is similar to barrier options, but a lookback rebate will be paid if the barrier is crossed by the underlying asset price. Therefore, the turbo warrant price satisfies a partial differential equation (PDE) with a boundary condition that depends on another boundary-value problem (BVP) of PDE. Due to the highly complicated structure of turbo warrants, their valuation presents a challenging problem in the field of financial mathematics. This paper applies the homotopy analysis method to construct an analytic pricing formula for turbo warrants under stochastic volatility in a PDE framework.",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Homotopy Analysis Method for Boundary-Value Problem of Turbo Warrant Pricing under Stochastic Volatility",
+                "journal": "Hindawi Limited",
+                "urls": [
+                    "https://web.archive.org/web/20170823004656/http://downloads.hindawi.com/journals/aaa/2013/682524.pdf"
+                ],
+                "doi": "10.1155/2013/682524",
+                "publication_date": "2013-01-01 00:00:00"
+            }
+        ],
+        "rank": 15
+    },
+    {
+        "authors": [
+            "Andres Carvajal",
+            "Alvaro Jose Riascos"
+        ],
+        "title": "Identification of Individual Demands from Market Data under Uncertainty",
+        "publication_date": "2008-01-11 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Walter de Gruyter GmbH",
+        "volume": "",
+        "doi": "10.2202/1935-1704.1420",
+        "urls": [
+            "https://web.archive.org/web/20170923012736/http://wrap.warwick.ac.uk/31/1/WRAP_Carvajal_im_bepress.pdf"
+        ],
+        "id": "id3400138496831106846",
+        "abstract": "We show that, even under incomplete markets, the equilibrium manifold identifies individual demands everywhere in their domains. Under partial observation of the manifold, we determine maximal subsets of the domains on which identification holds. For this, we assume conditions of smoothness, interiority and regularity. It is crucial that there be date-zero consumption. As a by-product, we develop some duality theory under incomplete markets.",
+        "versions": [],
+        "rank": 16
+    },
+    {
+        "authors": [
+            "Alex Augusto Timm Rathke"
+        ],
+        "title": "Transfer pricing manipulation, tax penalty cost and the impact of foreign profit taxation",
+        "publication_date": "2015-08-16 18:11:55+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1508.03853v1",
+            "http://arxiv.org/abs/1508.03853v1",
+            "http://arxiv.org/pdf/1508.03853v1"
+        ],
+        "id": "id4454368080149494796",
+        "abstract": "This paper analizes the optimal level of transfer pricing manipulation when\nthe expected tax penalty is a function of the tax enforcement and the market\nprice parameter. The arm's length principle implies the existence of a range of\nacceptable prices shaped by market, and firms can manipulate transfer prices\nmore freely if market price range is wide, or if its delimitations are\ndifficult to determine. Home taxation of foreign profits can reduce income\nshifting incentive, depending on the portion of repatriation for tax purposes.\nWe find that the limited tax credit rule tends to be a less efficient measure,\nnonetheless it is the most widely adopted rule by countries, so to spark the\nperspective of more powerful approaches for taxation of foreign profits.",
+        "versions": [],
+        "rank": 17
+    },
+    {
+        "authors": [
+            "Piotr Frackiewicz"
+        ],
+        "title": "Quantum information approach to normal representation of extensive games",
+        "publication_date": "2011-07-16 18:42:17+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1107.3245v2",
+            "http://arxiv.org/abs/1107.3245v2",
+            "http://arxiv.org/pdf/1107.3245v2"
+        ],
+        "id": "id-5241413527384323466",
+        "abstract": "We modify the concept of quantum strategic game to make it useful for\nextensive form games. We prove that our modification allows to consider the\nnormal representation of any finite extensive game using the fundamental\nconcepts of quantum information. The Selten's Horse game and the general form\nof two-stage extensive game with perfect information are studied to illustrate\na potential application of our idea. In both examples we use\nEisert-Wilkens-Lewenstein approach as well as Marinatto-Weber approach to\nquantization of games.",
+        "versions": [],
+        "rank": 18
+    },
+    {
+        "authors": [
+            "Seunghyun Lee",
+            "Hyungbin Park"
+        ],
+        "title": "Conditions for bubbles to arise under heterogeneous beliefs",
+        "publication_date": "2021-10-19 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "https://web.archive.org/web/20211024104027/https://arxiv.org/pdf/2012.13753v2.pdf"
+        ],
+        "id": "id-4933142148412990383",
+        "abstract": "This paper studies the equilibrium price of a continuous time asset traded in a market with heterogeneous investors. We consider a positive mean reverting asset and two groups of investors who have different beliefs on the speed of mean reversion and the mean level. We provide an equivalent condition for bubbles to exist and show that price bubbles may not form even though there are heterogeneous beliefs. This condition is directly related to the drift term of the asset. In addition, we characterize the minimal equilibrium price as a unique C^2 solution of a differential equation and express it using confluent hypergeometric functions.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.ARXIV",
+                "title": "Conditions for bubbles to arise under heterogeneous beliefs",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/2012.13753v2",
+                    "http://arxiv.org/abs/2012.13753v2",
+                    "http://arxiv.org/pdf/2012.13753v2"
+                ],
+                "doi": "",
+                "publication_date": "2020-12-26 14:55:14+00:00"
+            }
+        ],
+        "rank": 19
+    },
+    {
+        "authors": [
+            "N. Huth",
+            "F. Abergel"
+        ],
+        "title": "The times change: multivariate subordination. Empirical facts",
+        "publication_date": "2012-01-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Quantitative Finance",
+        "volume": "12",
+        "doi": "10.1080/14697688.2010.481635",
+        "urls": [
+            "https://www.semanticscholar.org/paper/395f412578d931d1c3a0989ebe8b936dba68e0c0",
+            "https://hal.archives-ouvertes.fr/hal-00620841/file/14697688.2010.pdf"
+        ],
+        "id": "id-8388332041685381327",
+        "abstract": "The management of correlation risk is of the utmost importance in several areas of investment banking: multi-asset derivatives pricing and hedging, optimal asset allocation, risk management, statistical arbitrage and many others.\u00a7 However, the modeling of correlation as a time-dependent quantity\u2014as opposed to that of the volatility, say\u2014is still in its infancy. In this article, we present a mechanism for the presence of a stochastic covariance matrix in financial markets, and provide an explanation for the returns' heavy tailed joint distribution. This mechanism relies on sampling returns according to an appropriate event time. Using CAC 40 high-frequency data, we compare the predictions of our model with real-world statistics and find very good agreement. \u00a7Even single asset derivatives desks are sensitive to shifts in correlation if, for instance, they are focused on a specific sectorial or geographic exposure.",
+        "versions": [
+            {
+                "year": 2012,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "The times change: multivariate subordination. Empirical facts",
+                "journal": "Informa UK Limited",
+                "urls": [
+                    "https://web.archive.org/web/20130625214215/http://hal-ecp.archives-ouvertes.fr/docs/00/62/08/41/PDF/14697688.2010.pdf"
+                ],
+                "doi": "10.1080/14697688.2010.481635",
+                "publication_date": "2012-01-01 00:00:00"
+            }
+        ],
+        "rank": 20
+    },
+    {
+        "authors": [
+            "Jeroen C. Rozendaal",
+            "Yannick Malevergne",
+            "Didier Sornette"
+        ],
+        "title": "Macroeconomic Dynamics of Assets, Leverage and Trust",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "World Scientific Pub Co Pte Lt",
+        "volume": "",
+        "doi": "10.1142/s0218127416501339",
+        "urls": [
+            "https://web.archive.org/web/20200918213530/https://arxiv.org/pdf/1512.03618v1.pdf"
+        ],
+        "id": "id5414763678779255595",
+        "abstract": "A macroeconomic model based on the economic variables (i) assets, (ii) leverage (defined as debt over asset) and (iii) trust (defined as the maximum sustainable leverage) is proposed to investigate the role of credit in the dynamics of economic growth, and how credit may be associated with both economic performance and confidence. Our first notable finding is the mechanism of reward/penalty associated with patience, as quantified by the return on assets. In regular economies where the EBITA/Assets ratio is larger than the cost of debt, starting with a trust higher than leverage results in the highest long-term return on assets (which can be seen as a proxy for economic growth). Our second main finding concerns a recommendation for the reaction of a central bank to an external shock that affects negatively the economic growth. We find that late policy intervention in the model economy results in the highest long-term return on assets and largest asset value. But this comes at the cost of suffering longer from the crisis until the intervention occurs. The phenomenon can be ascribed to the fact that postponing intervention allows trust to increase first, and it is most effective to intervene when trust is high. These results derive from two fundamental assumptions underlying our model: (a) trust tends to increase when it is above leverage; (b) economic agents learn optimally to adjust debt for a given level of trust and amount of assets. Using a Markov Switching Model for the EBITA/Assets ratio, we have successfully calibrated our model to the empirical data of the return on equity of the EURO STOXX 50 for the time period 2000-2013. We find that dynamics of leverage and trust can be highly non-monotonous with curved trajectories, as a result of the nonlinear coupling between the variables.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.ARXIV",
+                "title": "Macroeconomic Dynamics of Assets, Leverage and Trust",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1512.03618v1",
+                    "http://dx.doi.org/10.1142/S0218127416501339",
+                    "http://arxiv.org/abs/1512.03618v1",
+                    "http://arxiv.org/pdf/1512.03618v1"
+                ],
+                "doi": "10.1142/S0218127416501339",
+                "publication_date": "2015-12-11 12:19:50+00:00"
+            }
+        ],
+        "rank": 21
+    },
+    {
+        "authors": [
+            "Jo\u00e3o F. Gomes",
+            "L. Schmid"
+        ],
+        "title": "Equilibrium Asset Pricing with Leverage and Default",
+        "publication_date": "2019-08-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.2777819",
+        "urls": [
+            "https://www.semanticscholar.org/paper/bdd3520ea3d78b79dedf88ef03144b3dc8ab2b11",
+            "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1422&context=fnce_papers"
+        ],
+        "id": "id6516772825970085900",
+        "abstract": "We develop a general equilibrium model linking the pricing of stocks and corporate bonds to endogenous movements in corporate leverage and aggregate volatility. Our equilibrium model with heterogeneous firms making optimal investment and financing decisions under uncertainty connects fluctuations in quantities and asset prices to movements in the cross-sectional distribution of firms. Countercyclical leverage drives predictable variation in risk premia, and debt-financed growth option exercise generates a high value premium. Endogenous default drives countercyclical credit spreads that are propagated into the real economy through their effects on investment. Endogenous leverage comes with higher and countercyclical aggregate volatility, producing large and skewed business cycles, with sharper, more pronounced, recessions. \u2217We are grateful to comments from Andy Abel, Hui Chen, Urban Jermann, Aubhik Kahn, Dmitry Livdan, Monika Piazzesi (editor) Neng Wang, three anonymous referees and participants at seminars in Calgary, CarnegieMellon, Duke, Wharton, NY Fed, Richmond Fed, ECB, UBC, UCLA, and Imperial College, as well as the following conferences: AFA, SED, Minnesota Macro Week, NBER Capital Markets, NYU Five Star, Rimini Macro-Finance, UCSB-LAEF, Venice C.R.E.D.I.T, and ESSFM Gerzensee. All errors remain our own. \u2020The Wharton School, University of Pennsylvania. Email: gomesj@wharton.upenn.edu \u2021The Fuqua School of Business, Duke University. Email: lukas.schmid@duke.edu",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Equilibrium Asset Pricing with Leverage and Default",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.2777819"
+                ],
+                "doi": "10.2139/ssrn.2777819",
+                "publication_date": "2016-01-01 00:00:00"
+            }
+        ],
+        "rank": 22
+    },
+    {
+        "authors": [
+            "Jacod, J.",
+            "Shiryaev, A."
+        ],
+        "title": "Local martingales and the fundamental asset pricing theorems in the discrete-time case",
+        "publication_date": "1998-05-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s007800050040",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s007800050040.pdf",
+            "http://link.springer.com/article/10.1007/s007800050040/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s007800050040",
+            "http://dx.doi.org/10.1007/s007800050040"
+        ],
+        "id": "id7837366103802657944",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1998,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Local martingales and the fundamental asset pricing theorems in the discrete-time case",
+                "journal": "Finance and Stochastics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/543707d1343f21783577e401266e14cfb420a829"
+                ],
+                "doi": "10.1007/s007800050040",
+                "publication_date": "1998-07-16 00:00:00"
+            }
+        ],
+        "rank": 23
+    },
+    {
+        "authors": [],
+        "title": "Joint optimal ordering and weather hedging contract decisions: a newsvendor model.",
+        "publication_date": "2005-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/48533391.pdf"
+        ],
+        "id": "id-6631155158036243444",
+        "abstract": "Yeung Yun Sing Samson.Thesis (M.Phil.)--Chinese University of Hong Kong, 2005.Includes bibliographical references (leaves 64-67).Abstracts in English and Chinese.Chapter 1 --- Introduction ---  p.1Chapter 2 --- Background ---  p.5Chapter 2.1 --- Applicability of Weather Derivative in Hong Kong: The Recre- ation Industry ---  p.7Chapter 2.2 --- Types of Weather Risk ---  p.9Chapter 3 --- Literature Review ---  p.12Chapter 4 --- Basic Model ---  p.17Chapter 4.1 --- Notations ---  p.18Chapter 4.2 --- Assumptions ---  p.21Chapter 4.3 --- The Profit Model ---  p.22Chapter 5 --- Fundamental Analysis ---  p.25Chapter 5.1 --- Sales Profit Analysis ---  p.25Chapter 5.2 --- Option Analysis ---  p.27Chapter 5.3 --- Profit Function Reformulation ---  p.30Chapter 6 --- Objectivel: Lexicographic Optimization ---  p.35Chapter 6.1 --- Equivalence between Lexicographic Optimization and Expected Utility Maximization ---  p.38Chapter 6.2 --- Minimizing the Conditional Profit Variance given Q* ---  p.39Chapter 6.3 --- Numerical Examples ---  p.42Chapter 6.3.1 --- Convexity of conditional profit variance ---  p.42Chapter 6.3.2 --- Correlation between Q* & N* ---  p.47Chapter 7 --- Objective2: Mean-Variance Optimization ---  p.52Chapter 7.1 --- Numerical Examples ---  p.59Chapter 8 --- Conclusion and Future Work ---  p.61Bibliography ---  p.64Chapter A --- Weather Option Pricing ---  p.68Chapter B --- Infeasibility of Perfect Hedge ---  p.7",
+        "versions": [],
+        "rank": 24
+    },
+    {
+        "authors": [
+            "Matthew Ferranti"
+        ],
+        "title": "Estimating the Currency Composition of Foreign Exchange Reserves",
+        "publication_date": "2022-06-28 04:34:00+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2206.13751v4",
+            "http://arxiv.org/abs/2206.13751v4",
+            "http://arxiv.org/pdf/2206.13751v4"
+        ],
+        "id": "id-2348376029171081471",
+        "abstract": "Central banks manage about \\$12 trillion in foreign exchange reserves,\ninfluencing global exchange rates and asset prices. However, some of the\nlargest holders of reserves report minimal information about their currency\ncomposition, hindering empirical analysis. I describe a Hidden Markov Model to\nestimate the composition of a central bank's reserves by relating the\nfluctuation in the portfolio's valuation to the exchange rates of major reserve\ncurrencies. I apply the model to China and Singapore, two countries that\ncollectively hold about \\$3.4 trillion in reserves and conceal their\ncomposition. I find that both China's reserve composition likely resembles the\nglobal average, while Singapore probably holds fewer US dollars.",
+        "versions": [],
+        "rank": 25
+    },
+    {
+        "authors": [
+            "Cengiz Toraman",
+            "Meryem Gul"
+        ],
+        "title": "Capital Asset Pricing Model: An Application in Borsa Istanbul",
+        "publication_date": "2016-12-27 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "The International Journal of Academic Research in Business and Social Sciences",
+        "volume": "6",
+        "doi": "10.6007/IJARBSS/V6-I12/2519",
+        "urls": [
+            "https://www.semanticscholar.org/paper/f0db60ba3834df3d21f9e3fc2343eab7055132e9"
+        ],
+        "id": "id1594013889093466306",
+        "abstract": "In this study, the betas and the return ratios of 8 banks operating in Borsa Istanbul between 31.12.2004-31.12.2015 are calculated. Moreover, based on the 2008 crisis, it was tested whether there is a relationship between beta values of the banks before the 2008 crisis and after the 2008 crisis. Research results showed significant differences between the beta and the averages of all banks before and after September 15, 2008.",
+        "versions": [
+            {
+                "year": 2016,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Capital Asset Pricing Model: An Application in Borsa Istanbul",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.6007/ijarbss/v6-i12/2519"
+                ],
+                "doi": "10.6007/ijarbss/v6-i12/2519",
+                "publication_date": "2016-12-27 00:00:00"
+            }
+        ],
+        "rank": 26
+    },
+    {
+        "authors": [
+            "Alessandro Micheli",
+            "Eyal Neuman"
+        ],
+        "title": "Fast and Slow Optimal Trading with Exogenous Information",
+        "publication_date": "2022-10-04 20:51:11+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2210.01901v2",
+            "http://arxiv.org/abs/2210.01901v2",
+            "http://arxiv.org/pdf/2210.01901v2"
+        ],
+        "id": "id-754104456327671864",
+        "abstract": "We consider a stochastic game between a slow institutional investor and a\nhigh-frequency trader who are trading a risky asset and their aggregated\norder-flow impacts the asset price. We model this system by means of two\ncoupled stochastic control problems, in which the high-frequency trader\nexploits the available information on a price predicting signal more\nfrequently, but is also subject to periodic \"end of day\" inventory constraints.\nWe first derive the optimal strategy of the high-frequency trader given any\nadmissible strategy of the institutional investor. Then, we solve the problem\nof the institutional investor given the optimal signal-adaptive strategy of the\nhigh-frequency trader, in terms of the resolvent of a Fredholm integral\nequation, thus establishing the unique multi-period Stackelberg equilibrium of\nthe game. Our results provide an explicit solution to the game, which shows\nthat the high-frequency trader can adopt either predatory or cooperative\nstrategies in each period, depending on the tradeoff between the order-flow and\nthe trading signal. We also show that the institutional investor's strategy is\nconsiderably more profitable when the order-flow of the high-frequency trader\nis taken into account in her trading strategy.",
+        "versions": [],
+        "rank": 27
+    },
+    {
+        "authors": [
+            "Yuming Li"
+        ],
+        "title": "INTERTEMPORAL ASSET PRICING WITHOUT CONSUMPTION DATA: EMPIRICAL TESTS",
+        "publication_date": "1997-03-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Journal of Financial Research",
+        "volume": "20",
+        "doi": "10.1111/J.1475-6803.1997.TB00236.X",
+        "urls": [
+            "https://www.semanticscholar.org/paper/044535d3db9e1cab69513795de3e8702a82e4370",
+            "http://deepblue.lib.umich.edu/bitstream/2027.42/108338/1/jfir00236.pdf"
+        ],
+        "id": "id-5084060781082184050",
+        "abstract": "In this paper I conduct tests of an intertemporal asset pricing model using variables that forecast stock returns as the risk factors. I document that the forecasting variables are priced so that expected excess returns are related to their conditional covariances with the forecasting variables. The variability in the covariance risk fails to explain the cross-sectional and time series variation in expected stock returns. Evidence rejects restrictions on the prices of covariance risk imposed by the model with constant volatilities. I also find that an extended model that allows time-varying conditional volatilities is misspecified.",
+        "versions": [
+            {
+                "year": 1997,
+                "source": "SupportedSources.CROSSREF",
+                "title": "INTERTEMPORAL ASSET PRICING WITHOUT CONSUMPTION DATA: EMPIRICAL TESTS",
+                "journal": "",
+                "urls": [
+                    "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1475-6803.1997.tb00236.x",
+                    "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1475-6803.1997.tb00236.x/fullpdf",
+                    "http://dx.doi.org/10.1111/j.1475-6803.1997.tb00236.x"
+                ],
+                "doi": "10.1111/j.1475-6803.1997.tb00236.x",
+                "publication_date": "1997-01-01 00:00:00"
+            }
+        ],
+        "rank": 28
+    },
+    {
+        "authors": [
+            "Raihan Tanvir",
+            "Md Tanvir Rouf Shawon",
+            "Md. Golam Rabiul Alam"
+        ],
+        "title": "DSE Stock Price Prediction using Hidden Markov Model",
+        "publication_date": "2023-01-26 13:28:34+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2302.08911v1",
+            "http://arxiv.org/abs/2302.08911v1",
+            "http://arxiv.org/pdf/2302.08911v1"
+        ],
+        "id": "id-8752363604850584403",
+        "abstract": "Stock market forecasting is a classic problem that has been thoroughly\ninvestigated using machine learning and artificial neural network based tools\nand techniques. Interesting aspects of this problem include its time reliance\nas well as its volatility and other complex relationships. To combine them,\nhidden markov models (HMMs) have been utilized to anticipate the price of\nstocks. We demonstrated the Maximum A Posteriori (MAP) HMM method for\npredicting stock prices for the next day based on previous data. An HMM is\ntrained by analyzing the fractional change in the stock price as well as the\nintraday high and low values. It is then utilized to produce a MAP estimate\nacross all possible stock prices for the next day. The approach demonstrated in\nour work is quite generalized and can be used to predict the stock price for\nany company, given that the HMM is trained on the dataset of that company's\nstocks dataset. We evaluated the accuracy of our models using some extensively\nused accuracy metrics for regression problems and came up with a satisfactory\noutcome.",
+        "versions": [],
+        "rank": 29
+    },
+    {
+        "authors": [
+            "Guilherme Tavares da Silva",
+            "Ricardo Miranda Martins"
+        ],
+        "title": "Dynamics and Stability of Non-Smooth Dynamical Systems with Two Switches",
+        "publication_date": "2020-09-18 17:56:20+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2009.08971v2",
+            "http://arxiv.org/abs/2009.08971v2",
+            "http://arxiv.org/pdf/2009.08971v2"
+        ],
+        "id": "id315971201371193714",
+        "abstract": "One of the most common hypotheses on the theory of non-smooth dynamical\nsystems is a regular surface as switching manifold, at which case there is at\nleast well-defined and established Filippov dynamics. However, systems with\nsingular switching manifolds still lack such well-established dynamics,\nalthough present in many relevant models of phenomena where multiple switches\nor multiple abrupt changes occur. At this work, we leverage a methodology that,\nthrough blow-ups and singular perturbation, allows the extension of Filippov\ndynamics to the singular case. Specifically, tridimensional systems whose\nswitching manifold consists of an algebraic manifold with transversal\nself-intersection are considered. This configuration, known as double\ndiscontinuity, represents systems with two switches and whose singular part\nconsists of a straight line, where ordinary Filippov dynamics is not directly\napplicable. For the general, non-linear case, beyond defining the so-called\nfundamental dynamics over the singular part, general theorems on its\nqualitative behavior are provided. For the affine case, however, theorems fully\ndescribing the fundamental dynamics are obtained. Finally, this fine-grained\ncontrol over the dynamics is leveraged to derive Peixoto like theorems\ncharacterizing semi-local structural stability.",
+        "versions": [],
+        "rank": 30
+    },
+    {
+        "authors": [
+            "Brown, S."
+        ],
+        "title": "Intertemporal Equilibrium Models, Portfolio Theory and the Capital Asset Pricing Model",
+        "publication_date": "2010-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/978-0-387-77117-5_18",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/978-0-387-77117-5_18",
+            "http://dx.doi.org/10.1007/978-0-387-77117-5_18"
+        ],
+        "id": "id-3532447515010352296",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Intertemporal Equilibrium Models, Portfolio Theory and the Capital Asset Pricing Model",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f230f21546d22c3fd26167c65b030f966e16920f"
+                ],
+                "doi": "10.1007/978-0-387-77117-5_18",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 31
+    },
+    {
+        "authors": [
+            "Vittorio Bil\u00f2"
+        ],
+        "title": "On the Robustness of the Approximate Price of Anarchy in Generalized Congestion Games",
+        "publication_date": "2014-12-02 10:30:27+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1412.0845v1",
+            "http://arxiv.org/abs/1412.0845v1",
+            "http://arxiv.org/pdf/1412.0845v1"
+        ],
+        "id": "id-1664279460513250949",
+        "abstract": "One of the main results shown through Roughgarden's notions of smooth games\nand robust price of anarchy is that, for any sum-bounded utilitarian social\nfunction, the worst-case price of anarchy of coarse correlated equilibria\ncoincides with that of pure Nash equilibria in the class of weighted congestion\ngames with non-negative and non-decreasing latency functions and that such a\nvalue can always be derived through the, so called, smoothness argument. We\nsignificantly extend this result by proving that, for a variety of (even\nnon-sum-bounded) utilitarian and egalitarian social functions and for a broad\ngeneralization of the class of weighted congestion games with non-negative (and\npossibly decreasing) latency functions, the worst-case price of anarchy of\n$\\epsilon$-approximate coarse correlated equilibria still coincides with that\nof $\\epsilon$-approximate pure Nash equilibria, for any $\\epsilon\\geq 0$. As a\nbyproduct of our proof, it also follows that such a value can always be\ndetermined by making use of the primal-dual method we introduced in a previous\nwork. It is important to note that our scenario of investigation is beyond the\nscope of application of the robust price of anarchy (for as it is currently\ndefined), so that our result seems unlikely to be alternatively proved via the\nsmoothness framework.",
+        "versions": [],
+        "rank": 32
+    },
+    {
+        "authors": [
+            "Maas, Alexander"
+        ],
+        "title": "THE INADEQUACIES OF COST-BENEFIT ANALYSIS AS A TOOL FOR DECISION-MAKING: TO BREACH OR NOT TO BREACH",
+        "publication_date": "2022-12-10 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/552146369.pdf"
+        ],
+        "id": "id3409253102574161513",
+        "abstract": null,
+        "versions": [],
+        "rank": 33
+    },
+    {
+        "authors": [
+            "Morin, R."
+        ],
+        "title": "INTERTEMPORAL ASSET PRICING THEORY: AN EMPIRICAL TEST",
+        "publication_date": "1981-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1111/j.1540-6288.1981.tb01700.x",
+        "urls": [
+            "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6288.1981.tb01700.x",
+            "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1540-6288.1981.tb01700.x/fullpdf",
+            "http://dx.doi.org/10.1111/j.1540-6288.1981.tb01700.x"
+        ],
+        "id": "id4552397609590180851",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1981,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "INTERTEMPORAL ASSET PRICING THEORY: AN EMPIRICAL TEST",
+                "journal": "The Financial Review",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/0c15ab5fda0433a9f62df65872bd57ca2e828bd5"
+                ],
+                "doi": "10.1111/J.1540-6288.1981.TB01700.X",
+                "publication_date": "1981-04-01 00:00:00"
+            }
+        ],
+        "rank": 34
+    },
+    {
+        "authors": [
+            "S. Bloom"
+        ],
+        "title": "Extensions of G\u00f6del's completeness theorem and the L\u00f6wenheim-Skolem theorem",
+        "publication_date": "1973-07-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "Notre Dame J. Formal Log.",
+        "volume": "14",
+        "doi": "10.1305/ndjfl/1093891010",
+        "urls": [
+            "https://www.semanticscholar.org/paper/df2a6f0c045206ae881b37d67a19ad02d7a312bc"
+        ],
+        "id": "id1160279248647861474",
+        "abstract": "This note has a modest purpose: to present in the language of consequence operations some arguments, found in the theory of universal models, which extend the famous theorems of the title. This formulation provides further, but natural, motivations for the study of universal models besides the usual one, given for example in [3], chapter 10. Let \u00a3 be (the set of formulas of) a countable first-order language. A theory is a set of sentences of \u00abC. Each theory T defines a consequence operation C\u03c4.",
+        "versions": [
+            {
+                "year": 1973,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Extensions of G\u00f6del's completeness theorem and the L\u00f6wenheim-Skolem theorem.",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.1305/ndjfl/1093891010"
+                ],
+                "doi": "10.1305/ndjfl/1093891010",
+                "publication_date": "1973-07-01 00:00:00"
+            }
+        ],
+        "rank": 35
+    },
+    {
+        "authors": [
+            "Hezhi Luo",
+            "Yuanyuan Chen",
+            "Xianye Zhang",
+            "Duan Li",
+            "Huixian Wu"
+        ],
+        "title": "Effective Algorithms for Optimal Portfolio Deleveraging Problem with Cross Impact",
+        "publication_date": "2020-12-14 09:40:32+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2012.07368v2",
+            "http://arxiv.org/abs/2012.07368v2",
+            "http://arxiv.org/pdf/2012.07368v2"
+        ],
+        "id": "id6782884366496508924",
+        "abstract": "We investigate the optimal portfolio deleveraging (OPD) problem with\npermanent and temporary price impacts, where the objective is to maximize\nequity while meeting a prescribed debt/equity requirement. We take the real\nsituation with cross impact among different assets into consideration. The\nresulting problem is, however, a non-convex quadratic program with a quadratic\nconstraint and a box constraint, which is known to be NP-hard. In this paper,\nwe first develop a successive convex optimization (SCO) approach for solving\nthe OPD problem and show that the SCO algorithm converges to a KKT point of its\ntransformed problem. Second, we propose an effective global algorithm for the\nOPD problem, which integrates the SCO method, simple convex relaxation and a\nbranch-and-bound framework, to identify a global optimal solution to the OPD\nproblem within a pre-specified $\\epsilon$-tolerance. We establish the global\nconvergence of our algorithm and estimate its complexity. We also conduct\nnumerical experiments to demonstrate the effectiveness of our proposed\nalgorithms with both the real data and the randomly generated medium- and\nlarge-scale OPD problem instances.",
+        "versions": [],
+        "rank": 36
+    },
+    {
+        "authors": [
+            "Auer, B."
+        ],
+        "title": "Are standard asset pricing factors long-range dependent?",
+        "publication_date": "2017-02-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s12197-017-9385-y",
+        "urls": [
+            "http://link.springer.com/article/10.1007/s12197-017-9385-y/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s12197-017-9385-y.pdf",
+            "http://link.springer.com/content/pdf/10.1007/s12197-017-9385-y.pdf",
+            "http://dx.doi.org/10.1007/s12197-017-9385-y"
+        ],
+        "id": "id2347127582512226915",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Are standard asset pricing factors long-range dependent?",
+                "journal": "Journal of Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/77689205ae99d17d17f01636d36c0fb510af3d2a"
+                ],
+                "doi": "10.1007/s12197-017-9385-y",
+                "publication_date": "2017-02-01 00:00:00"
+            }
+        ],
+        "rank": 37
+    },
+    {
+        "authors": [
+            "Youssef El-Khatib",
+            "Abdulnasser Hatemi-J"
+        ],
+        "title": "On option pricing in illiquid markets with jumps",
+        "publication_date": "2013-04-17 04:58:06+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1304.4690v1",
+            "http://arxiv.org/abs/1304.4690v1",
+            "http://arxiv.org/pdf/1304.4690v1"
+        ],
+        "id": "id-3800974119413155346",
+        "abstract": "One of the shortcomings of the Black and Scholes model on option pricing is\nthe assumption that trading of the underlying asset does not affect the price\nof that asset. This assumption can be fulfilled only in perfectly liquid\nmarkets. Since most markets are illquid, this assumption might be too\nrestrictive. Thus, taking into account the price impact in option pricing is an\nimportant issue. This issue has been dealt with, to some extent, for illiquid\nmarkets by assuming a continuous process, mainly based on the Brownian motion.\nHowever, the recent financial crisis and its effects on the global stock\nmarkets have propagated the urgent need for more realistic models where the\nstochastic process describing the price trajectories involves random jumps.\nNonetheless, works related to markets with jumps are scant compared to the\ncontinuous ones. In addition, these previous studies do not deal with illiquid\nmarkets. The contribution of this paper is to tackle the pricing problem for\noptions in illiquid markets with jumps as well as the hedging strategy within\nthis context, which is the first of its kind to the best knowledge.",
+        "versions": [],
+        "rank": 38
+    },
+    {
+        "authors": [
+            "Roberto Cominetti",
+            "Marco Scarsini",
+            "Marc Schr\u00f6der",
+            "Nicol\u00e1s Stier-Moses"
+        ],
+        "title": "Price of Anarchy in Bernoulli Congestion Games with Affine Costs",
+        "publication_date": "2019-03-08 07:17:01+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Proceedings of the 2019 ACM Conference on Economics and\n  Computation (EC'19), 579-580 (2019)",
+        "volume": "",
+        "doi": "10.1145/3328526.3329579",
+        "urls": [
+            "http://arxiv.org/pdf/1903.03309v5",
+            "http://dx.doi.org/10.1145/3328526.3329579",
+            "http://arxiv.org/abs/1903.03309v5",
+            "http://arxiv.org/pdf/1903.03309v5"
+        ],
+        "id": "id8631005668195126671",
+        "abstract": "We consider an atomic congestion game in which each player participates in\nthe game with an exogenous and known probability $p_{i}\\in[0,1]$, independently\nof everybody else, or stays out and incurs no cost. We first prove that the\nresulting game is potential. Then, we compute the parameterized price of\nanarchy to characterize the impact of demand uncertainty on the efficiency of\nselfish behavior. It turns out that the price of anarchy as a function of the\nmaximum participation probability $p=\\max_{i} p_{i}$ is a nondecreasing\nfunction. The worst case is attained when players have the same participation\nprobabilities $p_{i}=p$. For the case of affine costs, we provide an analytic\nexpression for the parameterized price of anarchy as a function of $p$. This\nfunction is continuous on $(0,1]$, is equal to $4/3$ for $0<p\\leq 1/4$, and\nincreases towards $5/2$ when $p\\to 1$. Our work can be interpreted as providing\na continuous transition between the price of anarchy of nonatomic and atomic\ngames, which are the extremes of the price of anarchy function we characterize.\nWe show that these bounds are tight and are attained on routing games -- as\nopposed to general congestion games -- with purely linear costs (i.e., with no\nconstant terms).",
+        "versions": [],
+        "rank": 39
+    },
+    {
+        "authors": [
+            "Georgy P. Karev"
+        ],
+        "title": "Inhomogeneous maps and mathematical theory of selection",
+        "publication_date": "2007-01-31 18:52:52+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/q-bio/0701054v1",
+            "http://arxiv.org/abs/q-bio/0701054v1",
+            "http://arxiv.org/pdf/q-bio/0701054v1"
+        ],
+        "id": "id-415671635803969426",
+        "abstract": "In this paper we develop a theory of general selection systems with discrete\ntime and explore the evolution of selection systems, in particular,\ninhomogeneous populations. We show that the knowledge of the initial\ndistribution of the selection system allows us to determine explicitly the\nsystem distribution at the entire time interval. All statistical\ncharacteristics of interest, such as mean values of the fitness or any trait\ncan be predicted effectively for indefinite time and these predictions\ndramatically depend on the initial distribution. The Fisher Fundamental theorem\nof natural selection (FTNS) and more general the Price equations are the famous\nresults of the mathematical selection theory. We show that the problem of\ndynamic insufficiency for the Price equations and for the FTNS can be resolved\nwithin the framework of selection systems. Effective formulas for solutions of\nthe Price equations and for the FTNS are derived. Applications of the developed\ntheory to some other problems of mathematical biology (dynamics of\ninhomogeneous logistic and Ricker model, selection in rotifer populations) are\nalso given. Complex behavior of the total population size, the mean fitness (in\ncontrast to the plain FTNS) and other traits is possible for inhomogeneous\npopulations with density-dependent fitness. The temporary dynamics of these\nquantities can be investigated with the help of suggested methods.",
+        "versions": [],
+        "rank": 40
+    },
+    {
+        "authors": [
+            "Benjamin Jourdain",
+            "Mohamed Sbai"
+        ],
+        "title": "High order discretization schemes for stochastic volatility models",
+        "publication_date": "2009-08-13 16:15:34+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/0908.1926v3",
+            "http://arxiv.org/abs/0908.1926v3",
+            "http://arxiv.org/pdf/0908.1926v3"
+        ],
+        "id": "id9107220469620762257",
+        "abstract": "In usual stochastic volatility models, the process driving the volatility of\nthe asset price evolves according to an autonomous one-dimensional stochastic\ndifferential equation. We assume that the coefficients of this equation are\nsmooth. Using It\\^o's formula, we get rid, in the asset price dynamics, of the\nstochastic integral with respect to the Brownian motion driving this SDE.\nTaking advantage of this structure, we propose - a scheme, based on the\nMilstein discretization of this SDE, with order one of weak trajectorial\nconvergence for the asset price, - a scheme, based on the Ninomiya-Victoir\ndiscretization of this SDE, with order two of weak convergence for the asset\nprice. We also propose a specific scheme with improved convergence properties\nwhen the volatility of the asset price is driven by an Orstein-Uhlenbeck\nprocess. We confirm the theoretical rates of convergence by numerical\nexperiments and show that our schemes are well adapted to the multilevel Monte\nCarlo method introduced by Giles [2008a, 2008b].",
+        "versions": [],
+        "rank": 41
+    },
+    {
+        "authors": [],
+        "title": "Chapter 2 The Weierstrass Preparation Theorem and its Applications",
+        "publication_date": "1983-01-31 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1515/9783110838350.63",
+        "urls": [
+            "http://www.degruyter.com/view/books/9783110838350/9783110838350.63/9783110838350.63.xml",
+            "https://www.degruyter.com/document/doi/10.1515/9783110838350.63/pdf",
+            "http://dx.doi.org/10.1515/9783110838350.63"
+        ],
+        "id": "id7316221598823894929",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1983,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Chapter 2 The Weierstrass Preparation Theorem and its Applications",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/5d0c9604454d2db0390421b6e8b83d443072e6ca"
+                ],
+                "doi": "10.1515/9783110838350.63",
+                "publication_date": "1983-01-31 00:00:00"
+            }
+        ],
+        "rank": 42
+    },
+    {
+        "authors": [
+            "Tega Anighoro"
+        ],
+        "title": "Value relevance of the components of oil and gas reserve quantity change disclosures of upstream oil and gas companies in the london stock exchange",
+        "publication_date": "2020-05-06 16:05:24+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2005.14659v1",
+            "http://arxiv.org/abs/2005.14659v1",
+            "http://arxiv.org/pdf/2005.14659v1"
+        ],
+        "id": "id-4372418915647276031",
+        "abstract": "The high level of risk and uncertainty in harnessing oil and gas reserves\nposes an accounting dilemma in the reporting of reserves quantity information;\ninformation which is critical and relied on by investors for decision making.\nDifferent studies have indicated that reserves disclosure information is\nfundamental to understanding the value of the firm. This study attempts to\ncontribute to the growing value relevance literature on reserves disclosures by\nexamining the value relevance of the components of oil and gas reserve quantity\nchange disclosures of upstream oil and gas companies in the London Stock\nExchange. Particularly, it investigates the relationship between average\nhistorical share returns and changes in reserves from explorations,\nacquisitions, production, revisions and sale. It also examines the value\nrelevance of the quality of these disclosures. Using archival data from LSE,\ndatabases and annual reports, and applying a multifactor framework, the\nempirical results suggested that changes in reserves as well as the components\nof these changes where associated with share returns though insignificantly due\nto the significant impact of oil price and longitudinal effect posed by\napplying the measurement approach with utilizes historical returns. However,\nthe quality of reserves disclosures has a positively significant relationship\nwith share returns. The volatility and decline in oil price is also reflected\nin both low average share returns at -0.4% and low average growth in reserves\nat 8.94% for the last 8 years in the sector.",
+        "versions": [],
+        "rank": 43
+    },
+    {
+        "authors": [
+            "R. Manuelli",
+            "J. Peck"
+        ],
+        "title": "Exchange Rate Volatility in an Equilibrium Asset Pricing Model",
+        "publication_date": "1990-08-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "International Economic Review",
+        "volume": "31",
+        "doi": "10.2307/2527161",
+        "urls": [
+            "https://www.semanticscholar.org/paper/a1338bfa2688289633a0054615aa37c26c194ced"
+        ],
+        "id": "id-1080694222240008537",
+        "abstract": "This paper analyzes a stochastic model of exchange rate determination with unrestricted access to capital and currency markets. It is shown that the only restriction imposed by the model on the equilibrium exchange rate is that it satisfy a martingale property. This implies that, for a given real equilibrium allocation (which is optimal), the model can display varying amounts of exchange rate volatility, and that volatility is unrelated to the welfare properties of the equilibrium allocation. Whether or not volatility is \"excessive\" therefore depends on which equilibrium is chosen as the basis for comparison. Copyright 1990 by Economics Department of the University of Pennsylvania and the Osaka University Institute of Social and Economic Research Association.",
+        "versions": [
+            {
+                "year": 1990,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Exchange Rate Volatility in an Equilibrium Asset Pricing Model",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2307/2527161"
+                ],
+                "doi": "10.2307/2527161",
+                "publication_date": "1990-01-01 00:00:00"
+            }
+        ],
+        "rank": 44
+    },
+    {
+        "authors": [
+            "A. Yeh"
+        ],
+        "title": "Dynamic Conditional Factor Premiums and Asset Pricing Anomalies",
+        "publication_date": "2016-06-16 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.2564549",
+        "urls": [
+            "https://www.semanticscholar.org/paper/242cef19ea785dcfe1772b4f648d30507e5ddd7a"
+        ],
+        "id": "id4294350944140236742",
+        "abstract": "I apply a simple and intuitive econometric method to extract dynamic risk premia from the Fama-French (2015) multifactor asset pricing model. With all of the Fama-French (2015) state variables, this analysis is the first exploration of whether the pervasive asset pricing anomalies persist after the econometrician accounts for the time variation in multifactor risk premia. The ubiquitous anomalies of size, value, momentum, investment, profitability, short-term return reversal, and long-term return reversal, disappear after the econometrician takes into account the dynamic nature of multifactor risk premia. The prior linear empirical asset pricing models arise as special cases of this dynamic multifactor model. The main contribution of the current paper relates to the design of a workhorse model in the asset pricing literature. The previous linear empirical asset pricing models can be viewed as special cases of this more general dynamic multifactor model. This dynamic multifactor model carries important implications for equity cost estimation, corporate event assessment, financial risk management, and mutual fund performance evaluation. My dynamic analysis of multifactor risk premia from the Fama-French (2015) five-factor model proposes raising the hurdle for the conventional asset pricing tests. This recommendation serves as the time-series equivalent to the cross-sectional thesis of Harvey, Liu, and Zhu (2015).",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Dynamic Risk Premia and Asset Pricing Puzzles",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.2564549"
+                ],
+                "doi": "10.2139/ssrn.2564549",
+                "publication_date": "2015-01-01 00:00:00"
+            }
+        ],
+        "rank": 45
+    },
+    {
+        "authors": [],
+        "title": "Curvature tensor-components",
+        "publication_date": "2009-06-30 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1090/amsip/045/11",
+        "urls": [
+            "http://dx.doi.org/10.1090/amsip/045/11"
+        ],
+        "id": "id-6506999094666727217",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2009,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Curvature tensor-components",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/9306ef16e6c0666f376ebcf1e75cfc121423efdb"
+                ],
+                "doi": "10.1090/AMSIP/045/11",
+                "publication_date": "2009-06-30 00:00:00"
+            }
+        ],
+        "rank": 46
+    },
+    {
+        "authors": [
+            "Andrew Allman",
+            "Qi Zhang"
+        ],
+        "title": "Branch-and-Price for a Class of Nonconvex Mixed-Integer Nonlinear Programs",
+        "publication_date": "2020-01-06 22:12:28+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2001.01794v1",
+            "http://arxiv.org/abs/2001.01794v1",
+            "http://arxiv.org/pdf/2001.01794v1"
+        ],
+        "id": "id-7475831440322899165",
+        "abstract": "This work attempts to combine the strengths of two major technologies that\nhave matured over the last three decades: global mixed-integer nonlinear\noptimization and branch-and-price. We consider a class of generally nonconvex\nmixed-integer nonlinear programs (MINLPs) with linear complicating constraints\nand integer linking variables. If the complicating constraints are removed, the\nproblem becomes easy to solve, e.g. due to decomposable structure. Integrality\nof the linking variables allows us to apply a discretization approach to derive\na Dantzig-Wolfe reformulation and solve the problem to global optimality using\nbranch-and-price. It is a remarkably simple idea; but to our surprise, it has\nbarely found any application in the literature. In this work, we show that many\nrelevant problems directly fall or can be reformulated into this class of\nMINLPs. We present the branch-and-price algorithm and demonstrate its\neffectiveness (and sometimes ineffectiveness) in an extensive computational\nstudy considering multiple large-scale problems of practical relevance, showing\nthat, in many cases, orders-of-magnitude reductions in solution time can be\nachieved.",
+        "versions": [],
+        "rank": 47
+    },
+    {
+        "authors": [
+            "Gunnhildur H. Steinbakk",
+            "Alex Lenkoski",
+            "Ragnar Bang Huseby",
+            "Anders L\u00f8land",
+            "Tor Arne \u00d8ig\u00e5rd"
+        ],
+        "title": "Using published bid/ask curves to error dress spot electricity price forecasts",
+        "publication_date": "2018-12-06 10:09:35+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1812.02433v1",
+            "http://arxiv.org/abs/1812.02433v1",
+            "http://arxiv.org/pdf/1812.02433v1"
+        ],
+        "id": "id4717882213473955605",
+        "abstract": "Accurate forecasts of electricity spot prices are essential to the daily\noperational and planning decisions made by power producers and distributors.\nTypically, point forecasts of these quantities suffice, particularly in the\nNord Pool market where the large quantity of hydro power leads to price\nstability. However, when situations become irregular, deviations on the price\nscale can often be extreme and difficult to pinpoint precisely, which is a\nresult of the highly varying marginal costs of generating facilities at the\nedges of the load curve. In these situations it is useful to supplant a point\nforecast of price with a distributional forecast, in particular one whose tails\nare adaptive to the current production regime. This work outlines a methodology\nfor leveraging published bid/ask information from the Nord Pool market to\nconstruct such adaptive predictive distributions. Our methodology is a\nnon-standard application of the concept of error-dressing, which couples a\nfeature driven error distribution in volume space with a non-linear\ntransformation via the published bid/ask curves to obtain highly non-symmetric,\nadaptive price distributions. Using data from the Nord Pool market, we show\nthat our method outperforms more standard forms of distributional modeling. We\nfurther show how such distributions can be used to render `warning systems'\nthat issue reliable probabilities of prices exceeding various important\nthresholds.",
+        "versions": [],
+        "rank": 48
+    },
+    {
+        "authors": [
+            "Cole Hugelmeyer"
+        ],
+        "title": "A Representation Theorem for Knots and a Generalization of the Fundamental Theorem of Finite Type Invariants",
+        "publication_date": "2018-06-28 21:28:12+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1806.11201v1",
+            "http://arxiv.org/abs/1806.11201v1",
+            "http://arxiv.org/pdf/1806.11201v1"
+        ],
+        "id": "id3800404989959225591",
+        "abstract": "We provide a way to produce knots in $S^3$ from signed chord diagrams, and\nprove that every knot can be produced in this way. Using these diagrams, we\ngeneralize the fundamental theorem of finite type invariants. We also provide\nmoves for the diagrams so that any two diagrams for the same knot are connected\nby a sequence of moves.",
+        "versions": [],
+        "rank": 49
+    },
+    {
+        "authors": [
+            "Patrick H. O'Callaghan"
+        ],
+        "title": "Minimal conditions for parametric continuity of a utility representation",
+        "publication_date": "2015-05-12 01:23:33+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Journal of Mathematical Economics Volume 72, October 2017, Pages\n  88-94",
+        "volume": "",
+        "doi": "10.1016/j.jmateco.2017.07.004",
+        "urls": [
+            "http://arxiv.org/pdf/1505.02847v2",
+            "http://dx.doi.org/10.1016/j.jmateco.2017.07.004",
+            "http://arxiv.org/abs/1505.02847v2",
+            "http://arxiv.org/pdf/1505.02847v2"
+        ],
+        "id": "id-5537221915014810667",
+        "abstract": "Dependence on the parameter is continuous when perturbations of the parameter\npreserves strict preference for one alternative over another. We characterise\nthis property via a utility function over alternatives that depends\ncontinuously on the parameter. The class of parameter spaces where such a\nrepresentation is guaranteed to exist is also identified. When the parameter is\nthe type or belief of a player, these results have implications for Bayesian\nand psychological games. When alternatives are discrete, the representation is\njointly continuous and an extension of Berge's theorem of the maximum yields a\ncontinuous value function. We apply this result to generalise a standard\nconsumer choice problem where parameters are price-wealth vectors. When the\nparameter space is lexicographically ordered, a novel application to\nreference-dependent preferences is possible.",
+        "versions": [],
+        "rank": 50
+    },
+    {
+        "authors": [
+            "Carlo Brugna",
+            "Giuseppe Toscani"
+        ],
+        "title": "Kinetic models for goods exchange in a multi-agent market",
+        "publication_date": "2017-09-01 06:39:32+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.physa.2018.02.070",
+        "urls": [
+            "http://arxiv.org/pdf/1709.09495v1",
+            "http://dx.doi.org/10.1016/j.physa.2018.02.070",
+            "http://arxiv.org/abs/1709.09495v1",
+            "http://arxiv.org/pdf/1709.09495v1"
+        ],
+        "id": "id7329515863198933091",
+        "abstract": "We introduce a system of kinetic equations describing an exchange market\nconsisting of two populations of agents (dealers and speculators) expressing\nthe same preferences for two goods, but applying different strategies in their\nexchanges. We describe the trading of the goods by means of some fundamental\nrules in price theory, in particular by using Cobb-Douglas utility functions\nfor the exchange. The strategy of the speculators is to recover maximal utility\nfrom the trade by suitably acting on the percentage of goods which are\nexchanged. This microscopic description leads to a system of linear\nBoltzmann-type equations for the probability distributions of the goods on the\ntwo populations, in which the post-interaction variables depend from the\npre-interaction ones in terms of the mean quantities of the goods present in\nthe market. In this case, it is shown analytically that the strategy of the\nspeculators can drive the price of the two goods towards a zone in which there\nis a marked utility for their group. Also, the general system of nonlinear\nkinetic equations of Boltzmann type for the probability distributions of the\ngoods on the two populations is described in details. Numerical experiments\nthen show how the policy of speculators can modify the final price of goods in\nthis nonlinear setting.",
+        "versions": [],
+        "rank": 51
+    },
+    {
+        "authors": [
+            "Leland Bybee",
+            "B. Kelly",
+            "Yi-Kai Su"
+        ],
+        "title": "Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text",
+        "publication_date": "2021-07-28 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.3895277",
+        "urls": [
+            "https://www.semanticscholar.org/paper/349e0e3934bb7754f8ff10d8589880d78f9ab0d4"
+        ],
+        "id": "id-6154011543171146788",
+        "abstract": "We seek fundamental risks from news text. Conceptually, news is closely related to the idea of systematic risk, in particular the \"state variables\" in the ICAPM. News captures investors' concerns about future investment opportunities, and hence drives the current pricing kernel. This paper demonstrates a way to extract a parsimonious set of risk factors and eventually a univariate pricing kernel from news text. The state variables are reduced and selected from the variations in attention allocated to different news narratives. As a result, the risk factors attain clear text-based interpretability as well as top-of-the-line asset pricing performance. The empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso).",
+        "versions": [
+            {
+                "year": 2021,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.3895277"
+                ],
+                "doi": "10.2139/ssrn.3895277",
+                "publication_date": "2021-01-01 00:00:00"
+            }
+        ],
+        "rank": 52
+    },
+    {
+        "authors": [
+            "Moshe A. Milevsky",
+            "Thomas S. Salisbury",
+            "Alexander Chigodaev"
+        ],
+        "title": "The implied longevity curve: How long does the market think you are going to live?",
+        "publication_date": "2018-11-25 02:43:48+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "J. Investment Consulting 17 (2016), 11-21",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1811.09932v1",
+            "http://arxiv.org/abs/1811.09932v1",
+            "http://arxiv.org/pdf/1811.09932v1"
+        ],
+        "id": "id-820670924961447968",
+        "abstract": "We use life annuity prices to extract information about human longevity using\na framework that links the term structure of mortality and interest rates. We\ninvert the model and perform nonlinear least squares to obtain implied\nlongevity forecasts. Methodologically, we assume a Cox-Ingersoll-Ross (CIR)\nmodel for the underlying yield curve, and for mortality, a Gompertz-Makeham\n(GM) law that varies with the year of annuity purchase. Our main result is that\nover the last decade markets implied an improvement in longevity of of 6-7\nweeks per year for males and 1-3 weeks for females. In the year 2004 market\nprices implied a $40.1\\%$ probability of survival to the age 90 for a 75-year\nold male ($51.2\\%$ for a female) annuitant. By the year 2013 the implied\nsurvival probability had increased to $46.1\\%$ (and $53.1\\%$). The\ncorresponding implied life expectancy has increased (at the age of 75) from\n13.09 years for males (15.08 years for females) to 14.28 years (and 15.61\nyears.) Although these values are implied directly from markets, they are\nconsistent with demographic projections. Similar to implied volatility in\noption pricing, we believe that our implied survival probabilities (ISP) and\nimplied life expectancy (ILE) are relevant for the financial management of\nassets post-retirement and very important for the optimal timing and allocation\nto annuities; procrastinators are swimming against an uncertain but rather\nstrong longevity trend.",
+        "versions": [],
+        "rank": 53
+    },
+    {
+        "authors": [
+            "Dirk Becherer",
+            "Klebert Kentia"
+        ],
+        "title": "Good Deal Hedging and Valuation Under Combined Uncertainty About Drift and Volatility",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.2139/ssrn.2951742",
+        "urls": [
+            "https://web.archive.org/web/20180722023155/https://probability-risk.springeropen.com/track/pdf/10.1186/s41546-017-0024-5"
+        ],
+        "id": "id-1526250053438709381",
+        "abstract": "which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. Abstract We study robust notions of good-deal hedging and valuation under combined uncertainty about the drifts and volatilities of asset prices. Good-deal bounds are determined by a subset of risk-neutral pricing measures such that not only opportunities for arbitrage are excluded but also deals that are too good, by restricting instantaneous Sharpe ratios. A non-dominated multiple priors approach to model uncertainty (ambiguity) leads to worst-case good-deal bounds. Corresponding hedging strategies arise as minimizers of a suitable coherent risk measure. Good-deal bounds and hedges for measurable claims are characterized by solutions to secondorder backward stochastic differential equations whose generators are non-convex in the volatility. These hedging strategies are robust with respect to uncertainty in the sense that their tracking errors satisfy a supermartingale property under all a-priori valuation measures, uniformly over all priors. Keywords Combined drift and volatility uncertainty \u00b7 Good-deal bounds \u00b7 Robust hedging \u00b7 Hedging to acceptability \u00b7 Second-order BSDE \u00b7 Stochastic control Mathematics Subject Classification (2000) 60G44 \u00b7 60H30 \u00b7 91G10 \u00b7 93E20 \u00b7 91B06 \u00b7 91B30",
+        "versions": [
+            {
+                "year": 2017,
+                "source": "SupportedSources.ARXIV",
+                "title": "Good Deal Hedging and Valuation under Combined Uncertainty about Drift and Volatility",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1704.02505v1",
+                    "http://arxiv.org/abs/1704.02505v1",
+                    "http://arxiv.org/pdf/1704.02505v1"
+                ],
+                "doi": "",
+                "publication_date": "2017-04-08 15:00:30+00:00"
+            },
+            {
+                "year": 2017,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Good deal hedging and valuation under combined uncertainty about drift and volatility",
+                "journal": "Springer Nature",
+                "urls": [
+                    "https://web.archive.org/web/20180722023155/https://probability-risk.springeropen.com/track/pdf/10.1186/s41546-017-0024-5"
+                ],
+                "doi": "10.1186/s41546-017-0024-5",
+                "publication_date": "2017-01-01 00:00:00"
+            }
+        ],
+        "rank": 54
+    },
+    {
+        "authors": [
+            "Chen, Y.",
+            "Fowler, S."
+        ],
+        "title": "Hybrid Perturbation-Projection Method for Solving DSGE Asset Pricing Models",
+        "publication_date": "2015-10-16 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10614-015-9529-0",
+        "urls": [
+            "http://link.springer.com/content/pdf/10.1007/s10614-015-9529-0.pdf",
+            "http://link.springer.com/article/10.1007/s10614-015-9529-0/fulltext.html",
+            "http://link.springer.com/content/pdf/10.1007/s10614-015-9529-0.pdf",
+            "http://link.springer.com/content/pdf/10.1007/s10614-015-9529-0",
+            "http://dx.doi.org/10.1007/s10614-015-9529-0"
+        ],
+        "id": "id-3401458834087622384",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Hybrid Perturbation-Projection Method for Solving DSGE Asset Pricing Models",
+                "journal": "Computational Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/f207a76acd3cfffaede20b915d3c92568eeaaf10"
+                ],
+                "doi": "10.1007/s10614-015-9529-0",
+                "publication_date": "2015-10-16 00:00:00"
+            }
+        ],
+        "rank": 55
+    },
+    {
+        "authors": [
+            "L. Ponta",
+            "A. Carbone"
+        ],
+        "title": "Quantifying horizon dependence of asset prices: a cluster entropy approach",
+        "publication_date": "2019-08-01 08:12:19+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1908.00257v2",
+            "http://arxiv.org/abs/1908.00257v2",
+            "http://arxiv.org/pdf/1908.00257v2"
+        ],
+        "id": "id-3504957789413889240",
+        "abstract": "Market dynamic is quantified in terms of the entropy $S(\\tau,n)$ of the\nclusters formed by the intersections between the series of the prices $p_t$ and\nthe moving average $\\widetilde{p}_{t,n}$. The entropy $S(\\tau,n)$ is defined\naccording to Shannon as $\\sum P(\\tau,n)\\log P(\\tau,n),$ with $P(\\tau,n)$ the\nprobability for the cluster to occur with duration $\\tau$. \\par The\ninvestigation is performed on high-frequency data of the Nasdaq Composite, Dow\nJones Industrial Avg and Standard \\& Poor 500 indexes downloaded from the\nBloomberg terminal. The cluster entropy $S(\\tau,n)$ is analysed in raw and\nsampled data over a broad range of temporal horizons $M$ varying from one to\ntwelve months over the year 2018. The cluster entropy $S(\\tau,n)$ is integrated\nover the cluster duration $\\tau$ to yield the Market Dynamic Index $I(M,n)$, a\nsynthetic figure of price dynamics. A systematic dependence of the cluster\nentropy $S(\\tau,n)$ and the Market Dynamic Index $I(M,n)$ on the temporal\nhorizon $M$ is evidenced. \\par Finally, the Market Horizon Dependence}, defined\nas $H(M,n)=I(M,n)-I(1,n)$, is compared with the horizon dependence of the\npricing kernel with different representative agents obtained via a\nKullback-Leibler entropy approach. The Market Horizon Dependence $H(M,n)$ of\nthe three assets is compared against the values obtained by implementing the\ncluster entropy $S(\\tau,n)$ approach on artificially generated series\n(Fractional Brownian Motion).",
+        "versions": [],
+        "rank": 56
+    },
+    {
+        "authors": [
+            "Paolo Guasoni",
+            "Mikl\u00f3s R\u00e1sonyi"
+        ],
+        "title": "Hedging, arbitrage and optimality with superlinear frictions",
+        "publication_date": "2015-06-19 07:42:13+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Annals of Applied Probability 2015, Vol. 25, No. 4, 2066-2095",
+        "volume": "",
+        "doi": "10.1214/14-AAP1043",
+        "urls": [
+            "http://arxiv.org/pdf/1506.05895v1",
+            "http://dx.doi.org/10.1214/14-AAP1043",
+            "http://arxiv.org/abs/1506.05895v1",
+            "http://arxiv.org/pdf/1506.05895v1"
+        ],
+        "id": "id884620297804913292",
+        "abstract": "In a continuous-time model with multiple assets described by c\\`{a}dl\\`{a}g\nprocesses, this paper characterizes superhedging prices, absence of arbitrage,\nand utility maximizing strategies, under general frictions that make execution\nprices arbitrarily unfavorable for high trading intensity. Such frictions\ninduce a duality between feasible trading strategies and shadow execution\nprices with a martingale measure. Utility maximizing strategies exist even if\narbitrage is present, because it is not scalable at will.",
+        "versions": [
+            {
+                "year": 2015,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Hedging, arbitrage and optimality with superlinear frictions",
+                "journal": "Institute of Mathematical Statistics",
+                "urls": [
+                    "https://web.archive.org/web/20170922045755/http://real.mtak.hu/30235/1/ebenezer1308_sub_u.pdf"
+                ],
+                "doi": "10.1214/14-aap1043",
+                "publication_date": "2015-01-01 00:00:00"
+            },
+            {
+                "year": 2015,
+                "source": "SupportedSources.CORE",
+                "title": "Hedging, arbitrage and optimality with superlinear frictions",
+                "journal": null,
+                "urls": [
+                    "https://core.ac.uk/download/42940149.pdf"
+                ],
+                "doi": "10.1214/14-aap1043",
+                "publication_date": "2015-01-01 00:00:00"
+            }
+        ],
+        "rank": 57
+    },
+    {
+        "authors": [
+            "Dranev, Y.",
+            "Chupin, D."
+        ],
+        "title": "COLOG Asset Pricing",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4198227",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4198227"
+        ],
+        "id": "id976950044259332316",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "COLOG Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/a7fc08c7de8817a1524d0989ef8e1a380af5c9c4"
+                ],
+                "doi": "10.2139/ssrn.4198227",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 58
+    },
+    {
+        "authors": [
+            "M. Brennan",
+            "Ashley Wang",
+            "Yihong Xia"
+        ],
+        "title": "Estimation and Test of a Simple Model of Intertemporal Capital Asset Pricing",
+        "publication_date": "2002-09-12 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.334760",
+        "urls": [
+            "https://www.semanticscholar.org/paper/d9e936b1b1cd99cb62df9bb11ce7ca6ecd263814",
+            "https://escholarship.org/content/qt20r0j5t8/qt20r0j5t8.pdf?t=krn8c4"
+        ],
+        "id": "id2416499469112332018",
+        "abstract": "A simple valuation model with time-varying investment opportunities is developed and estimated. The model assumes that the investment opportunity set is completely described by the real interest rate and the maximum Sharpe ratio, which follow correlated Ornstein-Uhlenbeck processes. The model parameters and time series of the state variables are estimated using U.S. Treasury bond yields and expected inflation from January 1952 to December 2000, and as predicted, the estimated maximum Sharpe ratio is related to the equity premium. In cross-sectional asset-pricing tests, both state variables have significant risk premia, which is consistent with Merton's ICAPM. Copyright 2004 by The American Finance Association.",
+        "versions": [
+            {
+                "year": 2002,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Estimation and Test of a Simple Model of Intertemporal Capital Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.334760"
+                ],
+                "doi": "10.2139/ssrn.334760",
+                "publication_date": "2002-01-01 00:00:00"
+            }
+        ],
+        "rank": 59
+    },
+    {
+        "authors": [
+            "Grzegorz Grodzki",
+            "Henryk Piech"
+        ],
+        "title": "Strategic analysis of implementation assets and threats",
+        "publication_date": "2018-05-15 22:22:13+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1805.06052v1",
+            "http://arxiv.org/abs/1805.06052v1",
+            "http://arxiv.org/pdf/1805.06052v1"
+        ],
+        "id": "id7895599289016497931",
+        "abstract": "The aim of the strategic analysis is to (simply) carry out the game between\nthe implementing body and possible links to the existing market situation. We\nare therefore playing a strategic game between us and the outside world. This\nsituation is most often associated with existing and potential threats, such as\ncompetition, fashion trends, cost situation, marketing effectiveness, market\ndemand, etc. However, this does not exhaust all aspects resulting from the\nsituation, as conditions conducive to the implementation may also be taken into\naccount, such as the possibility of cooperation, favourable location, new forms\nof reaching the recipient, new legal solutions, etc. Generally speaking, we can\ndivide the set of conditions into assets and threats. Playing a strategic game\nleads not only to the estimation of the game's value but also points to the\nequilibrium points (saddle points) and to the conditions of market\nstabilization. We therefore have two players (one zero-sum two-player game\ndepending on the assumptions made); one side is our assets and the other side\nis external threats. The strategies of both players will be a combination of\nimplementation, market and marketing parameters. This will be described as an\nexample in the introduction (chapter 1). The next chapters (2 and 3) are\nproposals for estimating the effects of strategy selection, i.e. creating\npayoffs for players. The final stage will be playing the game, the analysis of\nits results (chapters 3) and the summary (chapter 4).",
+        "versions": [],
+        "rank": 60
+    },
+    {
+        "authors": [
+            "Jiwen Huang",
+            "R. Xing",
+            "Qing Li"
+        ],
+        "title": "Asset pricing via deep graph learning to incorporate heterogeneous predictors",
+        "publication_date": "2022-07-13 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "International Journal of Intelligent Systems",
+        "volume": "37",
+        "doi": "10.1002/int.22950",
+        "urls": [
+            "https://www.semanticscholar.org/paper/bcfd9281143145fa603fee600533f1a6a4f2f69b"
+        ],
+        "id": "id2662402967743674679",
+        "abstract": "Tradition financial studies on asset pricing focused on the economic indicators and media information of a stock. Recent financial studies found that the momentum spillovers of relevant firms are salient as well for measuring asset risk. However, previous studies on asset pricing via machine learning only relied on partial of these market information types. In this study, a deep learning framework is proposed to combine these three market information types with different data structures, that is, numerical economic indicators represented as scalars, media represented as textual vectors, and the influences of related firms captured by graphs. More importantly, the unique data characteristics brought by such data fusion are well addressed in the proposed learning framework. Specifically, a matrix\u2010based module is first proposed to fuse numerical economic data and textual media, which specifically considers the interactions of the fused features. Such fused information, along with the firm relevance represented in graphs, is further integrated by a novel self\u2010adaptive graph neural network that can address the dynamic merging of multilinked listed firms. Experiments performed on real market data demonstrate the effectiveness of the proposed approach over state\u2010of\u2010the\u2010art algorithms, including eLSTM, RGCN, and TGC.",
+        "versions": [
+            {
+                "year": 2022,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Asset pricing via deep graph learning to incorporate heterogeneous predictors",
+                "journal": "",
+                "urls": [
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22950",
+                    "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/int.22950",
+                    "https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22950",
+                    "http://dx.doi.org/10.1002/int.22950"
+                ],
+                "doi": "10.1002/int.22950",
+                "publication_date": "2022-07-13 00:00:00"
+            }
+        ],
+        "rank": 61
+    },
+    {
+        "authors": [
+            "Christian Bayer",
+            "Chiheb Ben Hammouda",
+            "Antonis Papapantoleon",
+            "Michael Samet",
+            "Ra\u00fal Tempone"
+        ],
+        "title": "Optimal Damping with Hierarchical Adaptive Quadrature for Efficient Fourier Pricing of Multi-Asset Options in L\u00e9vy Models",
+        "publication_date": "2022-03-15 18:48:49+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2203.08196v2",
+            "http://arxiv.org/abs/2203.08196v2",
+            "http://arxiv.org/pdf/2203.08196v2"
+        ],
+        "id": "id3533786100650649736",
+        "abstract": "Efficient pricing of multi-asset options is a challenging problem in\nquantitative finance. When the Fourier transform of the density function is\navailable, Fourier-based pricing methods become very competitive compared to\nalternative techniques because the integrand in the frequency space has often\nhigher regularity than in the physical space. However, when designing a\nnumerical quadrature method for most of these Fourier pricing approaches, two\nkey aspects affecting the numerical complexity should be carefully considered:\n(i) the choice of the damping parameters that ensure integrability and control\nthe regularity class of the integrand and (ii) the effective treatment of the\nhigh dimensionality of the integration problem. To address these challenges,\nbased on the extension of the one-dimensional Fourier valuation formula to the\nmultivariate case, we propose an efficient numerical method for pricing\nEuropean multi-asset options based on two complementary ideas. First, we smooth\nthe Fourier integrand via an optimized choice of damping parameters based on a\nproposed heuristic optimization rule. Second, we use the adaptive sparse grid\nquadrature based on sparsification and dimension-adaptivity techniques to\naccelerate the convergence of the numerical quadrature in high dimensions.\nThrough an extensive numerical study on the basket and rainbow options under\nthe multivariate geometric Brownian motion and some multivariate L\\'evy models,\nwe demonstrate the advantages of adaptivity and our damping parameter rule on\nthe numerical complexity of the quadrature methods. Moreover, we reveal that\nour approach achieves substantial computational gains compared to the Monte\nCarlo method for different dimensions and parameter constellations.",
+        "versions": [],
+        "rank": 62
+    },
+    {
+        "authors": [
+            "Patrice Derrington"
+        ],
+        "title": "Property and Thomas Piketty: Casting the Lens of Thomas Piketty's Capital in the Twenty-first Century on Inequality in the Urban Built Environment",
+        "publication_date": "2018-03-20 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Journal of Contemporary Urban Affairs (JCUA)",
+        "volume": "",
+        "doi": "10.25034/ijcua.2018.4674",
+        "urls": [
+            "https://web.archive.org/web/20190429001621/http://ijcua.com/index.php/ijcua/article/download/49/48/"
+        ],
+        "id": "id-4354928787950807363",
+        "abstract": "Currently, there exists a disturbing urban problem exemplified by the excessive luxury apartments and glamorous office towers being built in cities around the world in the face of the increasing unaffordability of housing and low-cost work, trade or craft space. Seeking to address this complex problem, this paper proposes a theoretical framework that uniquely addresses both the capitalist economic structure that drives the development process and the Marxist-based urban theory by which the socio-economic outcomes are currently evaluated. This framework takes as its meta-theory, the approach of Thomas Piketty in his recent treatise, \"Capital in the Twenty-First Century\", since he deftly employs the Marxist dialectic of labor/capital while investigating the persistent inequality in the history of capitalism by interrogating that system itself. This bifurcated framework of economic analysis affords a new format for examining real estate returns, how they are represented in the market place, who benefits from them, and how resultant inequalities might be avoided in urban development.",
+        "versions": [],
+        "rank": 63
+    },
+    {
+        "authors": [
+            "Zhao, H."
+        ],
+        "title": "Two essays on asset pricing and options market",
+        "publication_date": "None",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.5353/th_b4150839",
+        "urls": [
+            "http://dx.doi.org/10.5353/th_b4150839"
+        ],
+        "id": "id5249073185210846215",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Two essays on asset pricing and options market",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/afc4bdf2970b5a7368e407c2211d6f1d95f04147"
+                ],
+                "doi": "10.5353/TH_B4150839",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 64
+    },
+    {
+        "authors": [
+            "Teemu Pennanen"
+        ],
+        "title": "Introduction to convex optimization in financial markets",
+        "publication_date": "2012-06-23 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1007/s10107-012-0573-4",
+        "urls": [
+            "https://web.archive.org/web/20170830055146/https://nms.kcl.ac.uk/teemu.pennanen/cof.pdf"
+        ],
+        "id": "id-734285115371594998",
+        "abstract": "Convexity arises quite naturally in financial risk management. In risk preferences concerning random cash-flows, convexity corresponds to the fundamental diversification principle. Convexity is a basic property also of budget constraints both in classical linear models as well as in more realistic models with transaction costs and constraints. Moreover, modern securities markets are based on trading protocols that result in convex trading costs. The first part of this paper gives an introduction to certain basic concepts and principles of financial risk management in simple optimization terms. The second part reviews some convex optimization techniques used in mathematical and numerical analysis of financial optimization problems.",
+        "versions": [],
+        "rank": 65
+    },
+    {
+        "authors": [
+            "Rheinl\u00e4nder, Thorsten",
+            "Schmutz, Michael"
+        ],
+        "title": "Self-dual continuous processes",
+        "publication_date": "2012-01-31 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.spa.2013.01.008",
+        "urls": [
+            "https://core.ac.uk/download/33068920.pdf"
+        ],
+        "id": "id-2862851424944766645",
+        "abstract": "The important application of semi-static hedging in financial markets\nnaturally leads to the notion of quasi self-dual processes which is, for\ncontinuous semimartingales, related to symmetry properties of both their\nordinary as well as their stochastic logarithms. We provide a structure result\nfor continuous quasi self-dual processes. Moreover, we give a characterisation\nof continuous Ocone martingales via a strong version of self-duality",
+        "versions": [],
+        "rank": 66
+    },
+    {
+        "authors": [
+            "Dumas, B.",
+            "Luciano, E."
+        ],
+        "title": "From volatility smiles to the volatility of volatility",
+        "publication_date": "2019-01-01 00:00:00",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1007/s10203-019-00263-w",
+        "urls": [
+            "https://core.ac.uk/download/302361304.pdf"
+        ],
+        "id": "id-7931925893576422407",
+        "abstract": null,
+        "versions": [
+            {
+                "year": 2019,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "From volatility smiles to the volatility of volatility",
+                "journal": "Decisions in Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/cbdd14942357dc20cfd6e1d97e42149e498b8323",
+                    "https://iris.unito.it/bitstream/2318/1728915/1/after_ref_DEF_volatility_BD_LE_BD.pdf"
+                ],
+                "doi": "10.1007/s10203-019-00263-w",
+                "publication_date": "2019-08-21 00:00:00"
+            }
+        ],
+        "rank": 67
+    },
+    {
+        "authors": [
+            "Florian Bauer",
+            "Daniela Kraus",
+            "Oliver Roth",
+            "Elias Wegert"
+        ],
+        "title": "Beurling's free boundary value problem in conformal geometry",
+        "publication_date": "2009-06-17 10:45:56+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/0906.3139v2",
+            "http://arxiv.org/abs/0906.3139v2",
+            "http://arxiv.org/pdf/0906.3139v2"
+        ],
+        "id": "id8065456376173476159",
+        "abstract": "The subject of this paper is Beurling's celebrated extension of the Riemann\nmapping theorem \\cite{Beu53}. Our point of departure is the observation that\nthe only known proof of the Beurling-Riemann mapping theorem contains a number\nof gaps which seem inherent in Beurling's geometric and approximative approach.\nWe provide a complete proof of the Beurling-Riemann mapping theorem by\ncombining Beurling's geometric method with a number of new analytic tools,\nnotably $H^p$-space techniques and methods from the theory of\nRiemann-Hilbert-Poincar\\'e problems. One additional advantage of this approach\nis that it leads to an extension of the Beurling-Riemann mapping theorem for\nanalytic maps with prescribed branching. Moreover, it allows a complete\ndescription of the boundary regularity of solutions in the (generalized)\nBeurling-Riemann mapping theorem extending earlier results that have been\nobtained by PDE techniques. We finally consider the question of uniqueness in\nthe extended Beurling-Riemann mapping theorem.",
+        "versions": [],
+        "rank": 68
+    },
+    {
+        "authors": [
+            "Max Biggs",
+            "Wei Sun",
+            "Markus Ettl"
+        ],
+        "title": "Model Distillation for Revenue Optimization: Interpretable Personalized Pricing",
+        "publication_date": "2020-07-03 18:33:23+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2007.01903v2",
+            "http://arxiv.org/abs/2007.01903v2",
+            "http://arxiv.org/pdf/2007.01903v2"
+        ],
+        "id": "id-4811465238766767308",
+        "abstract": "Data-driven pricing strategies are becoming increasingly common, where\ncustomers are offered a personalized price based on features that are\npredictive of their valuation of a product. It is desirable for this pricing\npolicy to be simple and interpretable, so it can be verified, checked for\nfairness, and easily implemented. However, efforts to incorporate machine\nlearning into a pricing framework often lead to complex pricing policies which\nare not interpretable, resulting in slow adoption in practice. We present a\ncustomized, prescriptive tree-based algorithm that distills knowledge from a\ncomplex black-box machine learning algorithm, segments customers with similar\nvaluations and prescribes prices in such a way that maximizes revenue while\nmaintaining interpretability. We quantify the regret of a resulting policy and\ndemonstrate its efficacy in applications with both synthetic and real-world\ndatasets.",
+        "versions": [],
+        "rank": 69
+    },
+    {
+        "authors": [
+            "Natasha Kang",
+            "Vadim Marmer"
+        ],
+        "title": "Modeling Long Cycles",
+        "publication_date": "2020-10-26 20:09:36+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2010.13877v3",
+            "http://arxiv.org/abs/2010.13877v3",
+            "http://arxiv.org/pdf/2010.13877v3"
+        ],
+        "id": "id5273010752611946334",
+        "abstract": "Recurrent boom-and-bust cycles are a salient feature of economic and\nfinancial history. Cycles found in the data are stochastic, often highly\npersistent, and span substantial fractions of the sample size. We refer to such\ncycles as \"long\". In this paper, we develop a novel approach to modeling\ncyclical behavior specifically designed to capture long cycles. We show that\nexisting inferential procedures may produce misleading results in the presence\nof long cycles, and propose a new econometric procedure for the inference on\nthe cycle length. Our procedure is asymptotically valid regardless of the cycle\nlength. We apply our methodology to a set of macroeconomic and financial\nvariables for the U.S. We find evidence of long stochastic cycles in the\nstandard business cycle variables, as well as in credit and house prices.\nHowever, we rule out the presence of stochastic cycles in asset market data.\nMoreover, according to our result, financial cycles as characterized by credit\nand house prices tend to be twice as long as business cycles.",
+        "versions": [],
+        "rank": 70
+    },
+    {
+        "authors": [
+            "Min-Hsiu Hsieh",
+            "Mark M. Wilde"
+        ],
+        "title": "Trading classical communication, quantum communication, and entanglement in quantum Shannon theory",
+        "publication_date": "2009-01-20 12:09:41+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "IEEE Transactions on Information Theory, vol. 56, no. 9, pp.\n  4705-4730, September 2010",
+        "volume": "",
+        "doi": "10.1109/TIT.2010.2054532",
+        "urls": [
+            "http://arxiv.org/pdf/0901.3038v3",
+            "http://dx.doi.org/10.1109/TIT.2010.2054532",
+            "http://arxiv.org/abs/0901.3038v3",
+            "http://arxiv.org/pdf/0901.3038v3"
+        ],
+        "id": "id-4177166188536888035",
+        "abstract": "We give trade-offs between classical communication, quantum communication,\nand entanglement for processing information in the Shannon-theoretic setting.\nWe first prove a unit-resource capacity theorem that applies to the scenario\nwhere only the above three noiseless resources are available for consumption or\ngeneration. The optimal strategy mixes the three fundamental protocols of\nteleportation, super-dense coding, and entanglement distribution. We then\nprovide an achievable rate region and a matching multi-letter converse for the\ndirect static capacity theorem. This theorem applies to the scenario where a\nlarge number of copies of a noisy bipartite state are available (in addition to\nconsumption or generation of the above three noiseless resources). Our coding\nstrategy involves a protocol that we name the classically-assisted state\nredistribution protocol and the three fundamental protocols. We finally provide\nan achievable rate region and a matching mutli-letter converse for the direct\ndynamic capacity theorem. This theorem applies to the scenario where a large\nnumber of uses of a noisy quantum channel are available in addition to the\nconsumption or generation of the three noiseless resources. Our coding strategy\ncombines the classically-enhanced father protocol with the three fundamental\nunit protocols.",
+        "versions": [],
+        "rank": 71
+    },
+    {
+        "authors": [
+            "Tim A. Kroencke"
+        ],
+        "title": "On Robust Inference for Consumption-based Asset Pricing",
+        "publication_date": "2021-10-20 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.3562169",
+        "urls": [
+            "https://www.semanticscholar.org/paper/c4441398b5bb23c9c31aa0e266ac71213332b1dc"
+        ],
+        "id": "id-3041700355568147495",
+        "abstract": "Kleibergen and Zhan (Robust Inference for Consumption-based Asset Pricing, Journal of Finance, 2020) propose a new approach to test consumption-based asset pricing models that is robust to the useless factor problem, i.e. concluding that a factor is priced when the factor is actually uncorrelated with the test assets. They find that recently proposed factors do not pass their test, which they attribute to a lack of factor correlation with the test assets. This conclusion is odd, as the factor correlation is significant and economically large, often 0.40 and above. Instead, I show that their testing approach lacks power in small samples. I propose simple remedies that help to achieve robust consumption-based asset pricing that comes with power.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "On Robust Inference for Consumption-based Asset Pricing",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.3562169"
+                ],
+                "doi": "10.2139/ssrn.3562169",
+                "publication_date": "2020-01-01 00:00:00"
+            }
+        ],
+        "rank": 72
+    },
+    {
+        "authors": [
+            "Yunpeng Li",
+            "Costas Courcoubetis",
+            "Lingjie Duan",
+            "Richard Weber"
+        ],
+        "title": "Optimal pricing for peer-to-peer sharing with network externalities",
+        "publication_date": "2018-05-24 11:45:57+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1805.09616v3",
+            "http://arxiv.org/abs/1805.09616v3",
+            "http://arxiv.org/pdf/1805.09616v3"
+        ],
+        "id": "id8765610479590496930",
+        "abstract": "In this paper, we analyse how a peer-to-peer sharing platform should price\nits service (when imagined as an excludable public good) to maximize profit,\nwhen each user's participation adds value to the platform service by creating a\npositive externality to other participants. To characterize network\nexternalities as a function of the number of participants, we consider\ndifferent bounded and unbounded user utility models. The bounded utility model\nfits many infrastructure sharing applications with bounded network value, in\nwhich complete coverage has a finite user valuation (e.g., WiFi or hotspot).\nThe unbounded utility model fits the large scale data sharing and explosion in\nsocial media, where it is expected that the network value follows Metcalfe's or\nZipf's law. For both models, we analyze the optimal pricing schemes to select\nheterogeneous users in the platform under complete and incomplete information\nof users' service valuations. We propose the concept of price of information\n(PoI) to characterize the profit loss due to lack of information, and present\nprovable PoI bounds for different utility models. We show that the PoI=2 for\nthe bounded utility model, meaning that just half of profit is lost, whereas\nthe PoI>=2 for the unbounded utility model and increases as for a less concave\nutility function. We also show that the complicated differentiated pricing\nscheme which is optimal under incomplete user information, can be replaced by a\nsingle uniform price scheme that is asymptotic optimal. Finally, we extend our\npricing schemes to a two-sided market by including a new group of `pure'\nservice users contributing no externalities, and show that the platform may\ncharge zero price to the original group of users in order to attract the pure\nuser group.",
+        "versions": [],
+        "rank": 73
+    },
+    {
+        "authors": [
+            "Carlo Marinelli",
+            "Stefano d'Addona"
+        ],
+        "title": "Non-parametric estimates of option prices via Hermite basis functions",
+        "publication_date": "2022-09-20 11:57:46+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2209.09656v1",
+            "http://arxiv.org/abs/2209.09656v1",
+            "http://arxiv.org/pdf/2209.09656v1"
+        ],
+        "id": "id-3199655668759128200",
+        "abstract": "We consider approximate pricing formulas for European options based on\napproximating the logarithmic return's distribution of the underlying by a\nlinear combination of rescaled Hermite polynomials. The resulting models, that\ncan be seen as perturbations of the classical Black-Scholes one, are\nnon-pararametric in the sense that the distribution of logarithmic returns at\nfixed times to maturity is only assumed to have a square-integrable density. We\nextensively investigate the empirical performance, defined in terms of\nout-of-sample relative pricing error, of this class of approximating models,\ndepending on their order (that is, roughly speaking, the degree of the\npolynomial expansion) as well as on several ways to calibrate them to observed\ndata. Empirical results suggest that such approximate pricing formulas, when\ncompared with simple non-parametric estimates based on interpolation and\nextrapolation on the implied volatility curve, perform reasonably well only for\noptions with strike price not too far apart from the strike prices of the\nobserved sample.",
+        "versions": [],
+        "rank": 74
+    },
+    {
+        "authors": [
+            "Herakles Polemarchakis",
+            "Xinxi Song"
+        ],
+        "title": "The Identification of Attitudes towards Ambiguity and Risk from Asset Demand",
+        "publication_date": "2017-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.2139/ssrn.2954664",
+        "urls": [
+            "https://web.archive.org/web/20180720060052/http://wrap.warwick.ac.uk/87968/1/WRAP-identification-attitudes-towards-ambiguity-Polemarchakis-2017.pdf"
+        ],
+        "id": "id-4483327228430082828",
+        "abstract": "Individuals behave differently when they know the objective probability of events and when they do not. The smooth ambiguity model accommodates both ambiguity (uncertainty) and risk. For an incomplete, competitive asset market, we develop a revealed preference test for asset demand to be consistent with the maximization of smooth ambiguity preferences; and we show that ambiguity preferences constructed from finite observations converge to underlying ambiguity preferences as observations become dense. Subsequently, we give sufficient conditions for the asset demand generated by smooth ambiguity preferences to identify the ambiguity and risk indices as well as the ambiguity probability measure. We do not require ambiguity beliefs to be observable: in a generalized specification, they may not even be defined. An ambiguity free asset plays an important role for identification.",
+        "versions": [],
+        "rank": 75
+    },
+    {
+        "authors": [
+            "Felipe Tobar"
+        ],
+        "title": "Band-Limited Gaussian Processes: The Sinc Kernel",
+        "publication_date": "2019-09-16 15:31:58+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1909.07279v1",
+            "http://arxiv.org/abs/1909.07279v1",
+            "http://arxiv.org/pdf/1909.07279v1"
+        ],
+        "id": "id-7680154913899325475",
+        "abstract": "We propose a novel class of Gaussian processes (GPs) whose spectra have\ncompact support, meaning that their sample trajectories are almost-surely band\nlimited. As a complement to the growing literature on spectral design of\ncovariance kernels, the core of our proposal is to model power spectral\ndensities through a rectangular function, which results in a kernel based on\nthe sinc function with straightforward extensions to non-centred (around zero\nfrequency) and frequency-varying cases. In addition to its use in regression,\nthe relationship between the sinc kernel and the classic theory is illuminated,\nin particular, the Shannon-Nyquist theorem is interpreted as posterior\nreconstruction under the proposed kernel. Additionally, we show that the sinc\nkernel is instrumental in two fundamental signal processing applications:\nfirst, in stereo amplitude modulation, where the non-centred sinc kernel arises\nnaturally. Second, for band-pass filtering, where the proposed kernel allows\nfor a Bayesian treatment that is robust to observation noise and missing data.\nThe developed theory is complemented with illustrative graphic examples and\nvalidated experimentally using real-world data.",
+        "versions": [],
+        "rank": 76
+    },
+    {
+        "authors": [
+            "Nielsen, M."
+        ],
+        "title": "Asset pricing with complexity",
+        "publication_date": "2022-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.4063721",
+        "urls": [
+            "http://dx.doi.org/10.2139/ssrn.4063721"
+        ],
+        "id": "id3589157712326811903",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 0,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Asset pricing with complexity",
+                "journal": "",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/e7a962f9a80cec481554d18ec71f94add15f91d5"
+                ],
+                "doi": "10.2139/ssrn.4063721",
+                "publication_date": "None"
+            }
+        ],
+        "rank": 77
+    },
+    {
+        "authors": [
+            "Vinci Chow"
+        ],
+        "title": "Predicting Auction Price of Vehicle License Plate with Deep Recurrent Neural Network",
+        "publication_date": "2017-01-30 17:14:25+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1016/j.eswa.2019.113008",
+        "urls": [
+            "http://arxiv.org/pdf/1701.08711v5",
+            "http://dx.doi.org/10.1016/j.eswa.2019.113008",
+            "http://arxiv.org/abs/1701.08711v5",
+            "http://arxiv.org/pdf/1701.08711v5"
+        ],
+        "id": "id-1426695639862493910",
+        "abstract": "In Chinese societies, superstition is of paramount importance, and vehicle\nlicense plates with desirable numbers can fetch very high prices in auctions.\nUnlike other valuable items, license plates are not allocated an estimated\nprice before auction. I propose that the task of predicting plate prices can be\nviewed as a natural language processing (NLP) task, as the value depends on the\nmeaning of each individual character on the plate and its semantics. I\nconstruct a deep recurrent neural network (RNN) to predict the prices of\nvehicle license plates in Hong Kong, based on the characters on a plate. I\ndemonstrate the importance of having a deep network and of retraining.\nEvaluated on 13 years of historical auction prices, the deep RNN's predictions\ncan explain over 80 percent of price variations, outperforming previous models\nby a significant margin. I also demonstrate how the model can be extended to\nbecome a search engine for plates and to provide estimates of the expected\nprice distribution.",
+        "versions": [],
+        "rank": 78
+    },
+    {
+        "authors": [
+            "J\u00f8rgen Vitting Andersen",
+            "Philippe de Peretti"
+        ],
+        "title": "Heuristics in experiments with infinitely large strategy spaces",
+        "publication_date": "2020-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.jbusres.2019.12.034",
+        "urls": [
+            "https://web.archive.org/web/20200507011455/https://arxiv.org/ftp/arxiv/papers/2005/2005.02337.pdf"
+        ],
+        "id": "id6523102695237794830",
+        "abstract": "We introduce a new methodology that enables detection of the onset of convergence towards Nash equilibria in simple repeated games with infinitely large strategy spaces, thereby revealing the heuristics used in decision-making. The method works by constraining on a special finite subset of strategies, called decoupled strategies. We show how the technique can be applied to understand price formation in financial market experiments by introducing a predictive measure \u0394D: the different between positive decoupled strategies (recommending to buy) and negative decoupled strategies (recommending to sell). Using \u0394D we illustrate how the method can predict (at certain special times) participants' actions with a high success rate in a series of experiments",
+        "versions": [],
+        "rank": 79
+    },
+    {
+        "authors": [
+            "Vladimir Vovk"
+        ],
+        "title": "Continuous-time trading and emergence of volatility",
+        "publication_date": "2007-12-10 14:07:32+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Electronic Communications in Probability 13, 319 - 324 (2008)",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/0712.1483v2",
+            "http://arxiv.org/abs/0712.1483v2",
+            "http://arxiv.org/pdf/0712.1483v2"
+        ],
+        "id": "id7186056929429768248",
+        "abstract": "This note continues investigation of randomness-type properties emerging in\nidealized financial markets with continuous price processes. It is shown,\nwithout making any probabilistic assumptions, that the strong variation\nexponent of non-constant price processes has to be 2, as in the case of\ncontinuous martingales.",
+        "versions": [],
+        "rank": 80
+    },
+    {
+        "authors": [
+            "Taisei Kaizoji"
+        ],
+        "title": "Power laws and market crashes",
+        "publication_date": "2006-03-17 06:34:56+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Progress of Theoretical Physics Supplement 162 (2006) 165-172",
+        "volume": "",
+        "doi": "10.1143/PTPS.162.165",
+        "urls": [
+            "http://arxiv.org/pdf/physics/0603138v1",
+            "http://dx.doi.org/10.1143/PTPS.162.165",
+            "http://arxiv.org/abs/physics/0603138v1",
+            "http://arxiv.org/pdf/physics/0603138v1"
+        ],
+        "id": "id-7256705776347808420",
+        "abstract": "In this paper, we quantitatively investigate the statistical properties of a\nstatistical ensemble of stock prices. We selected 1200 stocks traded on the\nTokyo Stock Exchange, and formed a statistical ensemble of daily stock prices\nfor each trading day in the 3-year period from January 4, 1999 to December 28,\n2001, corresponding to the period of the forming of the internet bubble in\nJapn, and its bursting in the Japanese stock market. We found that the tail of\nthe complementary cumulative distribution function of the ensemble of stock\nprices in the high value of the price is well described by a power-law\ndistribution, $ P(S>x) \\sim x^{-\\alpha} $, with an exponent that moves in the\nrange of $ 1.09 < \\alpha < 1.27 $. Furthermore, we found that as the power-law\nexponents $ \\alpha $ approached unity, the bubbles collapsed. This suggests\nthat Zipf's law for stock prices is a sign that bubbles are going to burst.\n  PACS: 89.65.Gh",
+        "versions": [],
+        "rank": 81
+    },
+    {
+        "authors": [
+            "Victor Olkhov"
+        ],
+        "title": "Why Economic Theories and Policies Fail? Unnoticed Variables and Overlooked Economics",
+        "publication_date": "2022-08-14 09:43:22+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/2208.07839v1",
+            "http://arxiv.org/abs/2208.07839v1",
+            "http://arxiv.org/pdf/2208.07839v1"
+        ],
+        "id": "id-1764411065553909241",
+        "abstract": "Accuracy of economic theories and efficiency of economic policy strictly\ndepend on the choice of the economic variables and processes mostly liable for\ndescription of economic reality. That states the general problem of assessment\nof any possible economic variables and processes chargeable for economic\nevolution. We show that economic variables and processes described by current\neconomic theories constitute only a negligible fraction of factors responsible\nfor economic dynamics. We consider numerous unnoted economic variables and\noverlooked economic processes those determine the states and predictions of the\nreal economics. We regard collective economic variables, collective\ntransactions and expectations, mean risks of economic variables and\ntransactions, collective velocities and flows of economic variables,\ntransactions and expectations as overlooked factors of economic evolution. We\nintroduce market-based probability of the asset price and consider unnoticed\ninfluence of market stochasticity on randomness of macroeconomic variables. We\nintroduce economic domain composed by continuous numeric risk grades and\noutline that the bounds of the economic domain result in unnoticed inherent\ncyclical motion of collective variables, transactions and expectations those\nare responsible for observed business cycles. Our treatment of unnoticed and\noverlooked factors of theoretical economics and policy decisions preserves a\nwide field of studies for many decades for academic researchers, economic\nauthorities and high-level politicians.",
+        "versions": [],
+        "rank": 82
+    },
+    {
+        "authors": [
+            "Stephen G. Low"
+        ],
+        "title": "Maximal quantum mechanical symmetry: Projective representations of the inhomogenous symplectic group",
+        "publication_date": "2012-07-29 17:37:14+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "J. Math. Phys. 55, 022105 (2014)",
+        "volume": "",
+        "doi": "10.1063/1.4863896",
+        "urls": [
+            "http://arxiv.org/pdf/1207.6787v2",
+            "http://dx.doi.org/10.1063/1.4863896",
+            "http://arxiv.org/abs/1207.6787v2",
+            "http://arxiv.org/pdf/1207.6787v2"
+        ],
+        "id": "id4735438107107250191",
+        "abstract": "A symmetry in quantum mechanics is described by the projective\nrepresentations of a Lie symmetry group that transforms between physical\nquantum states such that the square of the modulus of the states is invariant.\nThe Heisenberg commutation relations, that are fundamental to quantum\nmechanics, must be valid in all of these physical states. This paper shows that\nthe maximal quantum symmetry group, whose projective representations preserve\nthe Heisenberg commutation relations in this manner, is the inhomogeneous\nsymplectic group. The projective representations are equivalent to the unitary\nrepresentations of the central extension of the inhomogeneous symplectic group.\nThis centrally extended group is the semidirect product of the cover of the\nsymplectic group and the Weyl-Heisenberg group. Its unitary irreducible\nrepresentations are computed explicitly using the Mackey representation\ntheorems for semidirect product groups.",
+        "versions": [],
+        "rank": 83
+    },
+    {
+        "authors": [
+            "A. A. Pinto",
+            "M. Ferreira",
+            "B. F. Finkenst\u00e4dt",
+            "B. Oliveira",
+            "A. N. Yannacopoulos"
+        ],
+        "title": "On the convergence to Walrasian prices in random matching Edgeworthian economies",
+        "publication_date": "2011-05-22 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Springer Nature",
+        "volume": "",
+        "doi": "10.1007/s10100-011-0208-5",
+        "urls": [
+            "https://web.archive.org/web/20190220140948/http://pdfs.semanticscholar.org/24a6/e68457d3dd550a14445179cf681203bfb452.pdf"
+        ],
+        "id": "id3335217459705041529",
+        "abstract": "We show that for a specific class of random matching Edgeworthian economies, the expectation of the limiting equilibrium price coincides with the equilibrium price of the related Walrasian economies. This result extends to the study of economies in the presence of uncertainty within the multi-period Arrow-Debreu model, allowing to understand the dynamics of how beliefs survive and propagate through the market.",
+        "versions": [],
+        "rank": 84
+    },
+    {
+        "authors": [
+            "Matthias Rupprecht",
+            "Angelo Ranaldo",
+            "Jan Wrampelmeyer"
+        ],
+        "title": "Fragility of Money Markets",
+        "publication_date": "2016-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.2139/ssrn.2713711",
+        "urls": [
+            "https://web.archive.org/web/20170921211531/https://www.alexandria.unisg.ch/246613/1/16_01_Ranaldo%20et%20al_Fragility%20of%20Money%20Markets_incl_Internet%20Appendix.pdf"
+        ],
+        "id": "id-1344109056708678116",
+        "abstract": "We provide the first comprehensive theoretical model for money markets encompassing unsecured and secured funding, asset markets, and central bank policy. In our model, leveraged banks invest in assets and raise short-term funds by borrowing in the unsecured and secured money markets. We derive how funding liquidity across money markets is related, explain how a shock to asset values can lead to mutually reinforcing liquidity spirals in both money markets, and show how borrowers' flight-to-safety and risk-seeking behavior impacts their liability structure. We derive the socially optimal leverage ratio and funding structure, and show which combination of conventional and unconventional monetary policies and regulatory measures can reduce money market fragility.",
+        "versions": [],
+        "rank": 85
+    },
+    {
+        "authors": [
+            "Yingxiang Yang",
+            "Leonard T. Park",
+            "Narayan B. Mandayam",
+            "Ivan Seskar",
+            "Arnold Glass",
+            "Neha Sinha"
+        ],
+        "title": "Prospect Pricing in Cognitive Radio Networks",
+        "publication_date": "2015-10-03 06:30:56+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1109/TCCN.2015.2488636",
+        "urls": [
+            "http://arxiv.org/pdf/1510.00781v1",
+            "http://dx.doi.org/10.1109/TCCN.2015.2488636",
+            "http://arxiv.org/abs/1510.00781v1",
+            "http://arxiv.org/pdf/1510.00781v1"
+        ],
+        "id": "id-2862766348445206183",
+        "abstract": "Advances in cognitive radio networks have primarily focused on the design of\nspectrally agile radios and novel spectrum sharing techniques that are founded\non Expected Utility Theory (EUT). In this paper, we consider the development of\nnovel spectrum sharing algorithms in such networks taking into account human\npsychological behavior of the end-users, which often deviates from EUT.\nSpecifically, we consider the impact of end-user decision making on pricing and\nmanagement of radio resources in a cognitive radio enabled network when there\nis uncertainty in the Quality of Service (QoS) guarantees offered by the\nService Provider (SP). Using Prospect Theory (a Nobel-Prize-winning behavioral\neconomic theory that captures human decision making and its deviation from\nEUT), we design data pricing and channel allocation algorithms for use in\ncognitive radio networks by formulating a game theoretic analysis of the\ninterplay between the price offerings, bandwidth allocation by the SP and the\nservice choices made by end-users. We show that, when the end-users\nunder-weight the service guarantee, they tend to reject the offer which results\nin under-utilization of radio resources and revenue loss. We propose prospect\npricing, a pricing mechanism that can make the system robust to decision making\nand improve radio resource management. We present analytical results as well as\npreliminary human subject studies with video QoS.",
+        "versions": [],
+        "rank": 86
+    },
+    {
+        "authors": [
+            "Przemys\u0142aw Rola"
+        ],
+        "title": "Arbitrage in markets with bid-ask spreads",
+        "publication_date": "2014-07-12 11:07:13+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/1407.3372v1",
+            "http://arxiv.org/abs/1407.3372v1",
+            "http://arxiv.org/pdf/1407.3372v1"
+        ],
+        "id": "id-3662027203165563422",
+        "abstract": "In this paper a finite discrete time market with an arbitrary state space and\nbid-ask spreads is considered. The notion of an equivalent bid-ask martingale\nmeasure (EBAMM) is introduced and the fundamental theorem of asset pricing is\nproved using (EBAMM) as an equivalent condition for no-arbitrage. The\nCox-Ross-Rubinstein model with bid-ask spreads is presented as an application\nof our results.",
+        "versions": [],
+        "rank": 87
+    },
+    {
+        "authors": [
+            "Chengbo Xie"
+        ],
+        "title": "Asset Pricing Implications of Volatility Term Structure Risk",
+        "publication_date": "2014-11-01 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.2517868",
+        "urls": [
+            "https://www.semanticscholar.org/paper/ec7eb1021d9add3b464d575ce0ccf0a363bb21fd"
+        ],
+        "id": "id-5286129544128630193",
+        "abstract": "I find that stocks with high sensitivities to changes in the VIX slope exhibit high returns on average. The price of VIX slope risk is approximately 2.5% annually, statistically significant and cannot be explained by other common factors, such as the market excess return, size, book-to-market, momentum, liquidity, market volatility, and the variance risk premium. I provide a theoretical model that supports my empirical results. The model extends current rare disaster models to include disasters of different lengths. My model implies that a downward sloping VIX term structure anticipates a potential long disaster and vice versa.",
+        "versions": [
+            {
+                "year": 2014,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Asset Pricing Implications of Volatility Term Structure Risk",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.2517868"
+                ],
+                "doi": "10.2139/ssrn.2517868",
+                "publication_date": "2014-01-01 00:00:00"
+            }
+        ],
+        "rank": 88
+    },
+    {
+        "authors": [
+            "Carl Chiarella",
+            "Xue-Zhong He",
+            "Cars Hommes"
+        ],
+        "title": "A dynamic analysis of moving average rules",
+        "publication_date": "2006-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.jedc.2005.08.014",
+        "urls": [
+            "https://web.archive.org/web/20170813062252/https://opus.lib.uts.edu.au/bitstream/10453/5107/1/2006004113.pdf"
+        ],
+        "id": "id6375929488082509483",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2006,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Dynamical Analysis of Moving Average Rules",
+                "journal": "Computing in Economics and Finance",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/b6851f6adb865669b7fd052e0e431a97bebd8657",
+                    "https://opus.lib.uts.edu.au/bitstream/10453/5107/1/2006004113.pdf"
+                ],
+                "doi": "10.1016/J.JEDC.2005.08.014",
+                "publication_date": "2006-09-01 00:00:00"
+            }
+        ],
+        "rank": 89
+    },
+    {
+        "authors": [
+            "Alessandro, CITANNA",
+            "Archishman, CHAKRABORTY"
+        ],
+        "title": "Moral Hazard, Aggregate Risk and Nominal Linear Financial Contracts",
+        "publication_date": "None",
+        "source": "SupportedSources.CORE",
+        "journal": "",
+        "volume": "",
+        "doi": null,
+        "urls": [
+            "https://core.ac.uk/download/pdf/6277012.pdf"
+        ],
+        "id": "id2664774848206164447",
+        "abstract": "We study competitive equilibria with moral hazard in economies with aggregate risk and where trading occurs with an incomplete set of financial assets. The main conclusion of the paper is that, contrary to the individual risk economies, moral hazard is compatible with trading in competitive linear financial contracts, and gives rise to no manipulation problem. We establish existence of nonmanipulable equilibria provided that there are no relative price effects (e.g., a one-commoditiy economy), and that financial markets display nonlinearly homogeneous payoffs (e.g., nominal), and are sufficiently incomplete. Finally, we justify the linear contract as the optimal pricing schedule in a specific trading game with an auctioneer.moral hazard; linear contracts",
+        "versions": [],
+        "rank": 90
+    },
+    {
+        "authors": [
+            "Andr\u00e9s D. Fundia",
+            "Francisco Venegas-Mart\u00ednez"
+        ],
+        "title": "PROBABILISTIC GREEKS",
+        "publication_date": "2004-09-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Instituto Mexicano de Ejecutivos de Finanzas, A.C. (IMEF)",
+        "volume": "",
+        "doi": "10.21919/remef.v3i3.171",
+        "urls": [
+            "https://web.archive.org/web/20190429084857/http://www.remef.org.mx/index.php/primera/article/download/171/233"
+        ],
+        "id": "id-7715961810663562204",
+        "abstract": "In the Black-Scholes-Merton option pricing formulas the coefficients that multiply the ma.in variables ( the price of the underlying and the strike price) are equal to sorne \"Greeks\" (partial derivatives of the price with respect to the m ain variables). In this paper we prove that this property is not only true for a log-normal distribution, but it is also satisfied by any distribution that comply with sorne natural conditions and by sorne exotic options. These identities are derived from a new integral representation of the Greeks. This representation a llows to d erive Greeks in an easy a nd systematic way simplifying the long computa tion of partial derivatives traditionally involved in obtaining them. When computing Greeks, these results can be applied to simplify the derivation of closed form expressions, to speed up numerical methods , and to obtain better accuracy.",
+        "versions": [],
+        "rank": 91
+    },
+    {
+        "authors": [
+            "Vladislav Kargin"
+        ],
+        "title": "Lattice Option Pricing By Multidimensional Interpolation",
+        "publication_date": "2002-12-18 15:42:39+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Mathematical Finance, 2005, 15, 635-647",
+        "volume": "",
+        "doi": "",
+        "urls": [
+            "http://arxiv.org/pdf/math/0212251v2",
+            "http://arxiv.org/abs/math/0212251v2",
+            "http://arxiv.org/pdf/math/0212251v2"
+        ],
+        "id": "id2034270150258853507",
+        "abstract": "This note proposes a method for pricing high-dimensional American options\nbased on modern methods of multidimensional interpolation. The method allows\nusing sparse grids and thus mitigates the curse of dimensionality. A framework\nof the pricing algorithm and the corresponding interpolation methods are\ndiscussed, and a theorem is demonstrated that suggests that the pricing method\nis less vulnerable to the curse of dimensionality. The method is illustrated by\nan application to rainbow options and compared to Least Squares Monte Carlo and\nother benchmarks.",
+        "versions": [],
+        "rank": 92
+    },
+    {
+        "authors": [
+            "Jonathan A. Hillman"
+        ],
+        "title": "$PD_4$-complexes and 2-dimensional duality groups",
+        "publication_date": "2013-03-21 23:53:07+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.1007/978-3-030-62497-2_3",
+        "urls": [
+            "http://arxiv.org/pdf/1303.5486v8",
+            "http://dx.doi.org/10.1007/978-3-030-62497-2_3",
+            "http://arxiv.org/abs/1303.5486v8",
+            "http://arxiv.org/pdf/1303.5486v8"
+        ],
+        "id": "id-846698487061404966",
+        "abstract": "This paper is a synthesis and extension of three earlier papers on\n$PD_4$-complexes $X$ with fundamental group $\\pi$ such that $c.d.\\pi=2$ and\n$\\pi$ has one end. Our goal is to show that the homotopy types of such\ncomplexes are determined by $\\pi$, the Stiefel-Whitney classes and the\nequivariant intersection pairing on $\\pi_2(X)$. We achieve this under further\nconditions on $\\pi$.",
+        "versions": [],
+        "rank": 93
+    },
+    {
+        "authors": [
+            "Naoya Yamaguchi"
+        ],
+        "title": "An extension and a generalization of Dedekind's theorem",
+        "publication_date": "2016-01-13 08:40:20+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": null,
+        "volume": "",
+        "doi": "10.22108/IJGT.2017.21238",
+        "urls": [
+            "http://arxiv.org/pdf/1601.03170v2",
+            "http://dx.doi.org/10.22108/IJGT.2017.21238",
+            "http://arxiv.org/abs/1601.03170v2",
+            "http://arxiv.org/pdf/1601.03170v2"
+        ],
+        "id": "id7446074304173409702",
+        "abstract": "For any given finite abelian group, we give factorizations of the group\ndeterminant in the group algebra of any subgroup. The factorizations are an\nextension of Dedekind's theorem. The extension leads to a generalization of\nDedekind's theorem and a simple expression for inverse elements in the group\nalgebra.",
+        "versions": [],
+        "rank": 94
+    },
+    {
+        "authors": [
+            "Schachermayer, W."
+        ],
+        "title": "A Hilbert space proof of the fundamental theorem of asset pricing in finite discrete time",
+        "publication_date": "1992-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.1016/0167-6687(92)90013-2",
+        "urls": [
+            "https://api.elsevier.com/content/article/PII:0167668792900132?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:0167668792900132?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/0167-6687(92)90013-2"
+        ],
+        "id": "id7501011320316790080",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 1992,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "A Hilbert space proof of the fundamental theorem of asset pricing in finite discrete time",
+                "journal": "Insurance Mathematics & Economics",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/2dfd5fb555d364ddb5d9127ba4927e1e5d8397a5",
+                    "http://www.mat.univie.ac.at/~schachermayer/pubs/preprnts/prpr0066.pdf"
+                ],
+                "doi": "10.1016/0167-6687(92)90013-2",
+                "publication_date": "1992-12-01 00:00:00"
+            }
+        ],
+        "rank": 95
+    },
+    {
+        "authors": [
+            "Vu, J."
+        ],
+        "title": "Portfolio Selection and Asset Pricing Models",
+        "publication_date": "2000-01-01 00:00:00",
+        "source": "SupportedSources.CROSSREF",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2469/dig.v30.n4.774",
+        "urls": [
+            "http://dx.doi.org/10.2469/dig.v30.n4.774"
+        ],
+        "id": "id-1131588568357688393",
+        "abstract": "",
+        "versions": [
+            {
+                "year": 2000,
+                "source": "SupportedSources.SEMANTIC_SCHOLAR",
+                "title": "Portfolio Selection and Asset Pricing Models",
+                "journal": "Cfa Digest",
+                "urls": [
+                    "https://www.semanticscholar.org/paper/23a839efd24bde8faf07373354afeefc4fa34473"
+                ],
+                "doi": "10.2469/DIG.V30.N4.774",
+                "publication_date": "2000-11-01 00:00:00"
+            }
+        ],
+        "rank": 96
+    },
+    {
+        "authors": [
+            "Bruno Bouchard",
+            "Emmanuel Lepinette",
+            "Erik Taflin"
+        ],
+        "title": "Robust no-free lunch with vanishing risk, a continuum of assets and proportional transaction costs",
+        "publication_date": "2014-01-01 00:00:00",
+        "source": "SupportedSources.INTERNET_ARCHIVE",
+        "journal": "Elsevier BV",
+        "volume": "",
+        "doi": "10.1016/j.spa.2014.04.012",
+        "urls": [
+            "https://web.archive.org/web/20170925151319/https://hal.archives-ouvertes.fr/hal-00783977/document"
+        ],
+        "id": "id-8140055714784370636",
+        "abstract": "We propose a continuous time model for financial markets with proportional transactions costs and a continuum of risky assets. This is motivated by bond markets in which the continuum of assets corresponds to the continuum of possible maturities. Our framework is well adapted to the study of no-arbitrage properties and related hedging problems. In particular, we extend the Fundamental Theorem of Asset Pricing of Guasoni, R\u00e1sonyi and L\u00e9pinette (2012) which concentrates on the one dimensional case. Namely, we prove that the Robust No Free Lunch with Vanishing Risk assumption is equivalent to the existence of a Strictly Consistent Price System. Interestingly, the presence of transaction costs allows a natural definition of trading strategies and avoids all the technical and un-natural restrictions due to stochastic integration that appear in bond models without friction. We restrict to the case where exchange rates are continuous in time and leave the general c\u00e0dl\u00e0g case for further studies.",
+        "versions": [
+            {
+                "year": 2013,
+                "source": "SupportedSources.ARXIV",
+                "title": "Robust no-free lunch with vanishing risk, a continuum of assets and proportional transaction costs",
+                "journal": null,
+                "urls": [
+                    "http://arxiv.org/pdf/1302.0361v1",
+                    "http://arxiv.org/abs/1302.0361v1",
+                    "http://arxiv.org/pdf/1302.0361v1"
+                ],
+                "doi": "",
+                "publication_date": "2013-02-02 10:48:29+00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.CORE",
+                "title": "Robust no-free lunch with vanishing risk, a continuum of assets and  proportional transaction costs",
+                "journal": "",
+                "urls": [
+                    "http://arxiv.org/abs/1302.0361"
+                ],
+                "doi": "10.1016/j.spa.2014.04.012",
+                "publication_date": "2013-02-02 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Robust No-Free Lunch with Vanishing Risk, a Continuum of Assets and Proportional Transaction Costs",
+                "journal": "Elsevier BV",
+                "urls": [
+                    "https://web.archive.org/web/20170925151319/https://hal.archives-ouvertes.fr/hal-00783977/document"
+                ],
+                "doi": "10.2139/ssrn.2240994",
+                "publication_date": "2013-01-01 00:00:00"
+            },
+            {
+                "year": 2013,
+                "source": "SupportedSources.INTERNET_ARCHIVE",
+                "title": "Robust no-free lunch with vanishing risk, a continuum of assets and proportional transaction costs",
+                "journal": "",
+                "urls": [
+                    "https://archive.org/download/arxiv-1302.0361/1302.0361.pdf"
+                ],
+                "doi": "",
+                "publication_date": "2013-02-02 00:00:00"
+            }
+        ],
+        "rank": 97
+    },
+    {
+        "authors": [
+            "Chung-Han Hsieh"
+        ],
+        "title": "On Asymptotic Log-Optimal Buy-and-Hold Strategy",
+        "publication_date": "2021-03-08 17:01:40+00:00",
+        "source": "SupportedSources.ARXIV",
+        "journal": "Automatica, vol. 151, pp. 110901:1-110901:11, 2023",
+        "volume": "",
+        "doi": "10.1016/j.automatica.2023.110901",
+        "urls": [
+            "http://arxiv.org/pdf/2103.04898v1",
+            "http://dx.doi.org/10.1016/j.automatica.2023.110901",
+            "http://arxiv.org/abs/2103.04898v1",
+            "http://arxiv.org/pdf/2103.04898v1"
+        ],
+        "id": "id-1764385404580020945",
+        "abstract": "In this paper, we consider a frequency-based portfolio optimization problem\nwith $m \\geq 2$ assets when the expected logarithmic growth (ELG) rate of\nwealth is used as the performance metric. With the aid of the notion called\ndominant asset, it is known that the optimal ELG level is achieved by investing\nall available funds on that asset. However, such an \"all-in\" strategy is\narguably too risky to implement in practice. Motivated by this issue, we study\nthe case where the portfolio weights are chosen in a rather ad-hoc manner and a\nbuy-and-hold strategy is subsequently used. Then we show that, if the\nunderlying portfolio contains a dominant asset, buy and hold on that specific\nasset is asymptotically log-optimal with a sublinear rate of convergence. This\nresult also extends to the scenario where a trader either does not have a\nprobabilistic model for the returns or does not trust a model obtained from\nhistorical data. To be more specific, we show that if a market contains a\ndominant asset, buy and hold a market portfolio involving nonzero weights for\neach asset is asymptotically log-optimal. Additionally, this paper also\nincludes a conjecture regarding the property called high-frequency maximality.\nThat is, in the absence of transaction costs, high-frequency rebalancing is\nunbeatable in the ELG sense. Support for the conjecture, involving a lemma for\na weak version of the conjecture, is provided. This conjecture, if true,\nenables us to improve the log-optimality result obtained previously. Finally, a\nresult that indicates a way regarding an issue about when should one to\nrebalance their portfolio if needed, is also provided. Examples, some involving\nsimulations with historical data, are also provided along the way to illustrate\nthe~theory.",
+        "versions": [],
+        "rank": 98
+    },
+    {
+        "authors": [
+            "Gaosheng Ju",
+            "Qi Li"
+        ],
+        "title": "Asset Pricing Based on S-Shaped Consumption Utility",
+        "publication_date": "2020-12-03 00:00:00",
+        "source": "SupportedSources.SEMANTIC_SCHOLAR",
+        "journal": "",
+        "volume": "",
+        "doi": "10.2139/ssrn.3741867",
+        "urls": [
+            "https://www.semanticscholar.org/paper/fbe3115a576d486d553ea6e85a856752992ad05e"
+        ],
+        "id": "id-1770704075667733942",
+        "abstract": "This paper shows that consumption-based asset pricing puzzles arise from using globally concave-shaped consumption utility. We empirically find that asset returns correlate negatively with many individuals' low-quantile consumption growth. This finding challenges most mainstream models and supports an asset pricing model based on an S-shaped consumption utility. This new model explains both the low covariance between consumption growth and stock returns and a high equity premium. Moreover, this model shows that applying globally concave-shaped consumption utility mistakenly leads to a positive correlation between risky returns and stochastic discount factors of many individuals, a root for many pricing puzzles.",
+        "versions": [
+            {
+                "year": 2020,
+                "source": "SupportedSources.CROSSREF",
+                "title": "Asset Pricing Based on Micro Consumption",
+                "journal": "",
+                "urls": [
+                    "http://dx.doi.org/10.2139/ssrn.3741867"
+                ],
+                "doi": "10.2139/ssrn.3741867",
+                "publication_date": "2020-01-01 00:00:00"
+            }
+        ],
+        "rank": 99
+    }
+]
