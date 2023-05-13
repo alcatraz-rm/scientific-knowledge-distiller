@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-p = '6'
+p = '.'
 print(os.listdir(p))
 files = os.listdir(p)
 for file in files:
