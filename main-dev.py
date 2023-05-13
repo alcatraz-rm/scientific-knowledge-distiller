@@ -61,5 +61,5 @@ with open(f'{filename}-roberta.json', 'w', encoding='utf-8') as file:
 
 # pprint(top)
 
-with open(f'{filename}-tfidf.json', 'w', encoding='utf-8') as file:
-    json.dump(top, file, indent=4)
+# with open(f'{filename}-tfidf.json', 'w', encoding='utf-8') as file:
+#     json.dump(top, file, indent=4)
