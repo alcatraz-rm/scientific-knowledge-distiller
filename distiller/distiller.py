@@ -113,9 +113,6 @@ class Distiller:
         d2v_model = Doc2Vec.load(self._path_to_doc2vec)
         documents = list(documents)
         query_embedding = torch.Tensor(d2v_model.infer_vector(query.lower().split()))
-        corpus_embeddings = torch.Tensor(np.array([d2v_model.infer_vector(
-            f'{paper.title} {paper.abstract}'.translate(str.maketrans('', '', string.punctuation)).lower().split()) for
-            paper in documents]))
         corpus_embeddings = []
         batch_size = 1024
         i = 0
