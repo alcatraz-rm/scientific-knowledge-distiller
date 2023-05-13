@@ -130,6 +130,8 @@ class Distiller:
             i += 1
             bar.update(i)
 
+        corpus_embeddings = torch.Tensor(np.array(corpus_embeddings))
+
         search_hits = util.semantic_search(
             query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
         return [documents[hit['corpus_id']] for hit in search_hits]
