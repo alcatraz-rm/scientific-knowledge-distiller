@@ -114,9 +114,9 @@ class Distiller:
         documents = list(documents)
         query_embedding = torch.Tensor(d2v_model.infer_vector(query.lower().split()))
         corpus_embeddings = []
-        batch_size = 1024
+        batches_number = 100
+        batch_size = len(documents) // batches_number + 1
         i = 0
-        batches_number = len(documents) // batch_size
         bar = progressbar.ProgressBar(max_value=batches_number)
 
         while i * batch_size <= len(documents):
@@ -126,6 +126,8 @@ class Distiller:
                 paper in documents[i * batch_size:(i + 1) * batch_size]]
             i += 1
             bar.update(i)
+
+        bar.finish()
 
         corpus_embeddings = torch.Tensor(np.array(corpus_embeddings))
 
