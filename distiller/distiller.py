@@ -6,6 +6,7 @@ from typing import Iterable
 
 import nltk
 import numpy as np
+import progressbar
 import torch
 from gensim.models import Doc2Vec
 from sentence_transformers import SentenceTransformer, util
@@ -110,10 +111,24 @@ class Distiller:
 
     def get_top_n_doc2vec(self, documents: Iterable[Document], query: str = '', n: int = 100):
         d2v_model = Doc2Vec.load(self._path_to_doc2vec)
+        documents = list(documents)
         query_embedding = torch.Tensor(d2v_model.infer_vector(query.lower().split()))
         corpus_embeddings = torch.Tensor(np.array([d2v_model.infer_vector(
             f'{paper.title} {paper.abstract}'.translate(str.maketrans('', '', string.punctuation)).lower().split()) for
             paper in documents]))
+        corpus_embeddings = []
+        batch_size = 1024
+        i = 0
+        batches_number = len(documents) // batch_size
+        bar = progressbar.ProgressBar(max_value=batches_number)
+
+        while i * batch_size <= len(documents):
+            corpus_embeddings += [d2v_model.infer_vector(
+                f'{paper.title} {paper.abstract}'.translate(str.maketrans('', '', string.punctuation)).lower().split())
+                for
+                paper in documents[i * batch_size:(i + 1) * batch_size]]
+            i += 1
+            bar.update(i)
 
         search_hits = util.semantic_search(
             query_embedding, corpus_embeddings, top_k=n, query_chunk_size=150)[0]
